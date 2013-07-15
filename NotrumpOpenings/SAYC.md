@@ -1,8 +1,3 @@
-# General Approach 
-Standard American with 5 Card Majors
-
-Strong forcing opening: 2&clubs;
-# Notrump Opening Bids 
 Notrump openings show a balanced hand. It is permissible to have a 5 card major suit provided the hand is otherwise suitable for notrump.
 
     2&clubs; = Stayman; if followed by:
