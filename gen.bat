@@ -14,5 +14,5 @@ echo ### Other Responses >> system.md
 cat NotrumpOpenings\1NT\Other\SAYC.md >> system.md
 echo ### Interference >> system.md
 cat NotrumpOpenings\1NT\Interference\SAYC.md >> system.md
-echo ## 2NT 20-21 and 3NT 25-27 >> system.md
+echo ## 2NT and 3NT >> system.md
 cat NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
