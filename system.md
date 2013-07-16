@@ -35,6 +35,7 @@ with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3♣, 3♦, 3♥ = natural and game forcing.
    * 3NT = asking for a choice between 3NT and 4♠.
    * 4♠ = placing the contract, with a six-card or longer suit.
+
 ### Other Responses 
 A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
 club bust, or responder may rebid 3♦ with a diamond bust. Example:
@@ -66,14 +67,15 @@ meaning as if there were no intervention. A bid says, “I’m bidding voluntari
 I have a real fit with you.”
 
 1NT — (Pass) — 2♦ — (Double) — 2♥ = Real fit for hearts — pass with only two hearts
-## 2NT 20-21 and 3NT 25-27 
+## 2NT and 3NT
 Stayman and Jacoby transfers for the majors are used.
 
-2NT
+### 2NT 20-21
    * 3♣ = Stayman.
    * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
    * 4♣ = Gerber (ace asking).
    * 4NT = Invites a slam in notrump.
-3NT 
+
+### 3NT 25-27
    * 4♣ = Stayman.
    * 4♦, 4♥ = Jacoby transfers to hearts and spades, respectively
