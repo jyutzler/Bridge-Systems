@@ -1,5 +1,7 @@
 If an opponent doubles, all conventional responses are “on.” For example:
+
 1NT — (Double) — 2♣ = Stayman
+
 1NT — (Double) — 2♦ = transfer to hearts
 
 If an opponent bids over your 1NT opener, conventional responses like Stayman
