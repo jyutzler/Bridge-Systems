@@ -16,3 +16,12 @@ echo ### Interference >> system.md
 cat NotrumpOpenings\1NT\Interference\SAYC.md >> system.md
 echo ## 2NT 20-21 and 3NT 25-27 >> system.md
 cat NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
+echo # Major Openings >> system.md
+cat MajorOpenings\SAYC.md >> system.md
+echo ## Responses >> system.md
+cat MajorOpenings\Basic\SAYC.md >> system.md
+cat MajorOpenings\Conventional\Jacoby.md >> system.md
+echo ## Rebids by Opener >> system.md
+cat MajorOpenings\Rebids\SAYC.md >> system.md
+echo ## Subsequent Bidding by Responder >> system.md
+cat MajorOpenings\Subsequent\SAYC.md >> system.md

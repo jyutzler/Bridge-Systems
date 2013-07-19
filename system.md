@@ -76,4 +76,121 @@ Stayman and Jacoby transfers for the majors are used.
    * 4NT = Invites a slam in notrump.
 3NT 
    * 4♣ = Stayman.
-   * 4♦, 4♥ = Jacoby transfers to hearts and spades, respectively
+   * 4♦, 4♥ = Jacoby transfers to hearts and spades, respectively# Major Openings 
+Normally open five-card majors in all seats.
+
+Open the higher of long suits of equal length: 5�5 or 6�6.
+
+## Responses 
+### Basic Responses Over 1♥
+   * 1♠ = at least four spades, 6 or more points. Tends to deny a heart fit.
+   * 1NT = 6–10 points, denies four spades or three hearts. NOT forcing.
+   * 2♣, 2♦ = 11 points or more, promises at least four of the suit.
+   * 2♥ = three-card or longer heart support; 6–10 dummy points.
+   * 2♠, 3♣, 3♦ = strong jump shifts. Invites a slam.
+   * 3♥ = limit raise (10–12 dummy points with three or more hearts).
+   * 3NT = 15–17 HCP, balanced hand with two-card support for partner.
+   * 4♥ = usually five+ hearts, a singleton or void, and fewer than 10 HCP.
+
+### Basic Responses Over 1♠
+Same as above except:
+   * 2♥ = 11 points or more, promises at least five of the suit.
+### Jacoby 2NT
+Over a 1♥ or 1♠ opening
+   * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
+opener to show a short suit to help responder evaluate slam prospects.
+If opener has no short suit, he shows his hand strength;
+      * 3♣, 3♦, 3♠ = singleton or void in that suit. Other bids deny a short suit.
+      * 4♥ = minimum hand.
+      * 3NT = medium hand (15–17).
+      * 3♥ = maximum hand (18+)
+## Rebids by Opener 
+Opener’s rebids are natural and standard.
+### Rebids with a minimum hand (13–16 points)
+   * Rebidding notrump at the lowest available level;
+   * Raising responder’s suit at the lowest level (may have good three-card support);
+   * Rebidding a new suit at the one level or rebidding a new suit at the two level that
+is lower ranking than the opening suit (not reversing);
+   * Rebidding opener’s suit at the lowest level.
+
+### Rebids with a medium hand (17–18 points)
+   * Jump raise or jump rebid of opener’s suit;
+   * Reverse in a new suit, i.e., bid a new suit at the two level which is higher ranking
+than the opening suit;
+   * Non-reverse bid in a new suit (this has the wide range of 13–18 points)
+
+### With a maximum hand (19–21 or 22 points) opener must make a very strong rebid:
+   * Jump in notrump;
+   * Double jump raise of responder’s suit or double jump rebid of opener’s suit;
+   * Jump shift in a new suit.
+
+Responder follows up by attempting to sign off in game, bidding 4NT
+Blackwood, or cuebidding if still interested in trying to cooperate with opener
+in making the slam decision.
+
+## Subsequent Bidding by Responder 
+If responder has bid a suit at the one level, he next determines whether he wishes
+to sign off in a partscore, invite game, sign off in game, or force to game and get
+more information about opener’s hand.
+
+
+Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
+
+1♥ — 1♠
+
+2♣ — Pass, 2♥, 2♠ = 6–10 points, sign-off in partscore.
+
+Bids available for inviting game: 2NT, 3 of a previously bid suit:
+
+1♥ — 1♠
+
+2♦ — 2NT, 3♦, 3♥, 3♠ = 11–12 points, inviting game.
+
+After opener rebids in a suit, a new suit by responder is forcing. If the new suit is the
+fourth suit, the bid may be artificial/conventional.
+
+1♥ — 1♠
+
+2♣ — 2♦ = one-round force, could be conventional.
+
+However, after a 1NT rebid by opener, bids of a new suit at the next higher level are
+non-forcing.
+
+1♥ — 1♠
+
+1NT — 2♣, 2♦ = non-forcing. Responder must jump shift to 3♣ or 3♦ to force game.
+Second-round forcing bids following a 1NT rebid by opener: a reverse or jump shift
+into a new suit is a game force.
+
+1♣ — 1♥
+
+1NT — 2♠ or 3♦ = game force.
+
+Bids available for signing off in game.
+
+3NT, 4♥, 4♠, 5♣, 5♦.
+
+If responder initially bids a new suit at the two level, the same rules apply EXCEPT
+that a subsequent jump raise of opener’s first suit to the THREE LEVEL is game
+forcing — responder should make a limit raise directly over the opening with 10–12
+points and at least three-card support:
+
+1♠ — 2♣
+
+2♥ — 2NT, 3♣, 3♥ = Invitation to game (11–12 points).
+
+— 2♠ = preference, not forcing. Responder has 11–12 points and a
+ doubleton spade.
+
+ — 3♦ = game force, could be conventional.
+
+ — 3♠ = game force.5
+
+NOTE: Responder promises to bid again if he responded with a new suit at the two
+level unless opener’s rebid is at the game level.
+
+1♠ — 2♣
+
+2♦ = forcing one round. Responder can limit his hand by bidding 2♠, 2NT, 3♣,
+or 3♦ at this point. He should not pass, since opener could have 18
+points (just short of a jump shift rebid).
