@@ -83,8 +83,7 @@ Stayman and Jacoby transfers for the majors are used.
 # Major Openings 
 Normally open five-card majors in all seats.
 
-Open the higher of long suits of equal length: 5�5 or 6�6.
-
+Open the higher of long suits of equal length: 5–5 or 6–6
 ## Responses 
 ### Basic Responses Over 1♥
    * 1♠ = at least four spades, 6 or more points. Tends to deny a heart fit.
@@ -198,3 +197,127 @@ level unless opener’s rebid is at the game level.
 2♦ = forcing one round. Responder can limit his hand by bidding 2♠, 2NT, 3♣,
 or 3♦ at this point. He should not pass, since opener could have 18
 points (just short of a jump shift rebid).
+
+# Minor Openings 
+﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
+where a three-card minor suit must be opened. The exception is a hand with 4–4–
+3–2 shape: four spades, four hearts, three diamonds, and two clubs, which should
+be opened 1♦.
+
+Responses and later bidding generally follow the ideas set down in the previous
+section. Bidding at the one level is up-the-line in principle. Responder needs more
+trumps to raise (four to raise 1♦; five to raise 1♣, though one fewer trump will do
+in a pinch in a competitive sequence). 
+
+Responses of 2NT and 3NT are standard:
+
+1♣ — 2NT = 13–15, game forcing
+   * 3NT = 16–17
+
+There is no forcing minor-suit raise.
+
+# Strong 2♣ 
+﻿A 2♣ opening shows at least 22+ points, or the playing equivalent. 
+
+Responses:
+
+2♣ — 2♦= conventional, could be “waiting” with a good hand not suited to a
+positive response.
+
+   * 2♥, 2♠, 3♣, 3♦= natural and game forcing. At least a five-card suit and
+8 points.
+
+   * 2NT = a balanced 8 HCP.
+
+If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
+responses are used as over a 2NT opening:
+
+2♣ — 2♦
+
+2NT — 3♣ = Stayman.
+
+   * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
+   * 4♣ = Gerber.
+   * 4NT = inviting a slam in notrump.
+
+If opener rebids a suit over a 2♦ response, the bidding is forcing to 3 of opener’s
+major or 4 of opener’s minor.
+
+2♣ — 2♦
+
+2♥ — 2♠
+
+3♥ = not forcing.
+
+# Weak Two Bids of 2♦, 2♥, or 2♠ 
+A weak two-bid shows a six-card suit of reasonable quality and 5–11 HCP. On rare
+occasions it may be a very good five-card suit. It is possible to open a weak two with
+a poor seven-card suit (not good enough to open with at the three level). 
+
+Responses:
+
+A 2NT response is forcing, showing game interest. (This applies also if the
+opponents intervene with a double or a bid.) Opener rebids his suit with a
+minimum weak two (5–8 points). With a maximum hand opener bids another
+suit to show a “feature” (ace or king in that suit); lacking a feature, he raises to
+3NT and lets responder place the contract.
+
+Any raise of opener’s suit is to play and could be preemptive. 
+
+A 3NT response is also to play.
+
+“RONF” on the card means “Raise Only Non-Force.” A new-suit response is forcing
+one round and shows at least a five-card suit. Opener should raise a major suit
+response with a three-card fit, or perhaps with a doubleton honor.
+
+With no fit for responder’s suit, opener rebids:
+   * With a minimum weak two-bid (5–8 points), rebid the suit at the lowest level.
+   * With a maximum weak two-bid, name a new suit or bid notrump.
+   
+# Slam Bidding 
+## Blackwood
+Blackwood 4NT is used to ask for aces. Responses show the number of aces by
+steps. 5NT is then used to ask for kings; 5NT guarantees the partnership holds all
+four aces.
+
+4NT Ace Asking
+   * 5♣ = 0 or 4 aces
+   * 5♦ = 1 ace
+   * 5♥ = 2 aces
+   * 5♠ = 3 aces
+
+5NT King Asking
+   * 6♣ — 0 or 4 kings
+   * 6♦ — 1 king
+   * 6♥ — 2 kings
+   * 6♠ — 3 kings
+## Gerber
+4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
+1NT OR 2NT. Responses show the number of aces, by steps, just as over a Blackwood
+4NT. 5♣ is used to ask for kings.
+
+Ace Asking
+1NT — 4♣
+   * 4♦ = 0 aces
+   * 4♥ = 1 ace
+   * 4♠ = 2 aces
+   * 4NT = 3 aces
+
+   If the player using Gerber makes any bid other than 5♣, that is to play
+(including 4NT).
+
+King Asking
+1NT — 4♣ — any — 5♣ 
+   * 5♦ = 0 or 4 kings
+   * 5♥ = 1 king
+   * 5♠ = 2 kings
+   * 5NT = 3 kings
+## Grand Slam Force
+A jump to 5NT (and some 5NT bids when the auction is at the five level) is “Grand
+Slam Force,” asking partner to bid a grand slam with two of the three top trump
+honors:
+
+5NT
+   * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
+   * 7 of the trump suit = two of the three top trump honors.
+   

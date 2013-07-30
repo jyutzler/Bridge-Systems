@@ -63,3 +63,4 @@ level unless opener’s rebid is at the game level.
 2♦ = forcing one round. Responder can limit his hand by bidding 2♠, 2NT, 3♣,
 or 3♦ at this point. He should not pass, since opener could have 18
 points (just short of a jump shift rebid).
+

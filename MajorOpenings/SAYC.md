@@ -1,4 +1,3 @@
 Normally open five-card majors in all seats.
 
-Open the higher of long suits of equal length: 5–5 or 6–6.
-
+Open the higher of long suits of equal length: 5â€“5 or 6â€“6

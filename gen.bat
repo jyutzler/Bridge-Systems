@@ -23,3 +23,14 @@ echo ## Rebids by Opener >> system.md
 cat MajorOpenings\Rebids\SAYC.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md
 cat MajorOpenings\Subsequent\SAYC.md >> system.md
+echo # Minor Openings >> system.md
+cat MinorOpenings\SAYC.md >> system.md
+echo # Strong 2♣ >> system.md
+cat StrongOpenings\2Club\SAYC.md >> system.md
+echo # Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
+cat WeakTwos\SAYC.md >> system.md
+echo # Slam Bidding >> system.md
+cat Slam\blackwood.md >> system.md
+cat Slam\gerber.md >> system.md
+cat Slam\grandslamforce.md >> system.md
+
