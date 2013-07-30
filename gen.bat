@@ -1,5 +1,7 @@
 @echo off
-echo # General Approach > system.md
+del system.md
+cp seed.md system.md
+echo # General Approach >> system.md
 cat GeneralApproach\SAYC.md >> system.md
 echo # Notrump Opening Bids >> system.md
 cat NotrumpOpenings\SAYC.md >> system.md
