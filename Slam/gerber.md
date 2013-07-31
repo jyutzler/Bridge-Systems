@@ -21,3 +21,4 @@ King Asking:
    * 5♥ = 1 king
    * 5♠ = 2 kings
    * 5NT = 3 kings
+

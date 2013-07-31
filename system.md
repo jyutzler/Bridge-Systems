@@ -315,6 +315,7 @@ King Asking:
    * 5♥ = 1 king
    * 5♠ = 2 kings
    * 5NT = 3 kings
+
 ## Grand Slam Force
 A jump to 5NT (and some 5NT bids when the auction is at the five level) is “Grand
 Slam Force,” asking partner to bid a grand slam with two of the three top trump
@@ -386,3 +387,76 @@ opening game bids (4♥ or higher).
 
 A below-game jump response to a takeout double is invitational. 
 To force, responder cuebids opener’s suit.
+# Competitive Bidding 
+There is almost an endless variety of possible sequences, so it pays to have simple
+guidelines to prevent bidding misunderstandings.
+
+Bids mean the same things they meant without the intervening bid. Still, it is
+sometimes necessary to pick a bid that would normally have been a second choice
+without the overcall:
+
+1♦ — (Pass) — 1♠ — (2♣)
+
+2♠ with ♠J43 ♥A875 ♦AQJ4 ♣J3 (rebid 1NT if RHO has passed)
+
+Cuebidding right-hand opponent’s suit shows values for game without clear
+direction for the moment. This is often used to show a game-forcing raise:
+1♠ — (2♣) — 3♣ = game force; usually a raise.
+
+## With Conventions
+Unless otherwise noted elsewhere, any bid or double by an opponent cancels a
+convention intended for non-competitive sequences.
+
+### Examples
+   * 1♥ — 2♠ — 2NT = natural (12–14 HCP).
+   * 2♣ — Double — 2♦ = natural and positive.
+
+## Against Conventions
+If the opponents use a convention (such as Michaels or the unusual notrump), you
+can double to show at least 10 points, or you can cuebid one of their shown suits
+to force to game.
+1♠ — (2♠) 
+   * 3♥ = game force.
+   * Double = at least 10 points, probably balanced.
+## Negative Doubles
+The negative double is used through 2♠ promising four cards (at least) in an unbid
+major. Bidding a major at the two level or higher shows 11 or more points and a
+five-card or longer suit.
+
+1♣ — (1♦) — Double = 4–4 or better in the majors.
+
+1♦ — (1♥) — Double = exactly four spades (1♠ promises at least five).
+
+1♦— (1♠) — Double = four hearts and 6+ points or five hearts and 5–10 points.
+## Vs. Takeout Doubles
+If RHO makes a takeout double:
+
+1♦ — (Double)
+   * 1♥, 1♠ = forcing, point count not limited.
+   * 2♣ = non-forcing (6–10 points, usually a six-card suit).
+   * 2NT = limit raise (at least 10 points) — or better.
+   * Redouble = 10 points or more, but it is better to make a more
+descriptive bid of 1♥, 1♠, or 2NT with the appropriate hand.
+   * 3♦ = preemptive, good trump support but fewer than 10 points.
+
+A responder’s jump shift after a double is to play:
+1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
+preemptive three-bid.
+## Redoubles
+A redouble can have one of three meanings:
+
+To play if 
+   * your side is at the four level or higher:
+      * 4♠ — (Double) — Redouble = Penalty
+   * the opponents double a conventional bid:
+      * 1NT — (Pass) — 2♦ — (Double) — Redouble = Penalty, good diamond suit;
+
+A good hand if 
+   * their double is for takeout:
+      * 1♠ — (Double) — Redouble = 10+ points;
+
+SOS, requesting a different suit
+   * if your side is doubled for penalty in a trump suit
+at the three level or lower:
+      * 1♦ — (Pass) — Pass — (Double) — Pass — (Pass) — Redouble = SOS, responder can support at least two of the
+unbid suits.
