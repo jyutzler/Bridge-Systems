@@ -6,4 +6,3 @@ honors:
 5NT
    * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
    * 7 of the trump suit = two of the three top trump honors.
-   

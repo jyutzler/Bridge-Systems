@@ -10,7 +10,8 @@ in a pinch in a competitive sequence).
 
 Responses of 2NT and 3NT are standard:
 
-1♣ — 2NT = 13–15, game forcing
+1♣
+   * 2NT = 13–15, game forcing
    * 3NT = 16–17
 
 There is no forcing minor-suit raise.

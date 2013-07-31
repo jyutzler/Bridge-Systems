@@ -33,4 +33,11 @@ echo # Slam Bidding >> system.md
 cat Slam\blackwood.md >> system.md
 cat Slam\gerber.md >> system.md
 cat Slam\grandslamforce.md >> system.md
+echo # Defensive Bidding >> system.md
+cat Defensive\Overcall\SAYC.md >> system.md
+cat Defensive\NTOvercall\SAYC.md >> system.md
+cat Defensive\UnusualNT\SAYC.md >> system.md
+cat Defensive\Michaels\SAYC.md >> system.md
+cat Defensive\Doubles\SAYC.md >> system.md
+
 

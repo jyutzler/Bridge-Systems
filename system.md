@@ -211,7 +211,8 @@ in a pinch in a competitive sequence).
 
 Responses of 2NT and 3NT are standard:
 
-1♣ — 2NT = 13–15, game forcing
+1♣
+   * 2NT = 13–15, game forcing
    * 3NT = 16–17
 
 There is no forcing minor-suit raise.
@@ -221,12 +222,11 @@ There is no forcing minor-suit raise.
 
 Responses:
 
-2♣ — 2♦= conventional, could be “waiting” with a good hand not suited to a
+2♣ 
+   * 2♦= conventional, could be “waiting” with a good hand not suited to a
 positive response.
-
    * 2♥, 2♠, 3♣, 3♦= natural and game forcing. At least a five-card suit and
 8 points.
-
    * 2NT = a balanced 8 HCP.
 
 If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
@@ -234,8 +234,8 @@ responses are used as over a 2NT opening:
 
 2♣ — 2♦
 
-2NT — 3♣ = Stayman.
-
+2NT 
+   * 3♣ = Stayman.
    * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
    * 4♣ = Gerber.
    * 4NT = inviting a slam in notrump.
@@ -280,33 +280,36 @@ Blackwood 4NT is used to ask for aces. Responses show the number of aces by
 steps. 5NT is then used to ask for kings; 5NT guarantees the partnership holds all
 four aces.
 
-4NT Ace Asking
+4NT Ace Asking:
    * 5♣ = 0 or 4 aces
    * 5♦ = 1 ace
    * 5♥ = 2 aces
    * 5♠ = 3 aces
 
-5NT King Asking
+5NT King Asking:
    * 6♣ — 0 or 4 kings
    * 6♦ — 1 king
    * 6♥ — 2 kings
    * 6♠ — 3 kings
+
 ## Gerber
 4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
 1NT OR 2NT. Responses show the number of aces, by steps, just as over a Blackwood
 4NT. 5♣ is used to ask for kings.
 
-Ace Asking
+Ace Asking:
+
 1NT — 4♣
    * 4♦ = 0 aces
    * 4♥ = 1 ace
    * 4♠ = 2 aces
    * 4NT = 3 aces
 
-   If the player using Gerber makes any bid other than 5♣, that is to play
+If the player using Gerber makes any bid other than 5♣, that is to play
 (including 4NT).
 
-King Asking
+King Asking:
+
 1NT — 4♣ — any — 5♣ 
    * 5♦ = 0 or 4 kings
    * 5♥ = 1 king
@@ -320,4 +323,66 @@ honors:
 5NT
    * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
    * 7 of the trump suit = two of the three top trump honors.
-   
+# Defensive Bidding 
+## Overcalls
+Overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
+A reopening bid means much the same as a direct seat bid, 
+though it can be lighter at the minimum end.
+Versus an opening preempt, an overcall in a suit is natural.
+
+The only forcing response is a cuebid of opener’s suit, asking the overcaller about
+the quality of his overcall:
+
+(1♦) — 1♠ — (Pass) — 2♦
+   * (Pass) — 2♠ = minimum overcall.
+   * (Pass) — other = extra strength (11 or 12 points minimum).
+
+Jump overcalls are preemptive, showing the same value as an opening bid at the
+same level:
+
+(1♦)
+   * 2♠ = a hand that would open a weak two-bid in spades.
+   * 3♣ = a hand that would open 3♣.
+
+A cuebid overcall when the opponents have bid two suits is natural in either suit.
+
+## NT Overcalls
+### Direct
+A 1NT overcall shows 15–18 points and a balanced hand (preferably a stopper in
+opener’s suit). No conventional responses are used to the 1NT overcall except 2♣,
+which is Stayman.
+
+To show a stronger hand, double then bid 1NT to show 19-21 points.
+
+### Reopening
+A reopening 1NT after an opponent has opened shows 10–14 points. 
+This is a wide range, but there will not usually be a game on for you.
+
+To show a stronger hand, double then bid 1NT to show 15-18 points 
+or jump to 2NT to show 19-21.
+
+### Vs. Preempts
+Versus an opening preempt, an overcall in notrump is natural.
+## Unusual 2NT
+A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits.
+## Michaels Cuebid
+A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
+showing a 5–5 two-suiter (or more distributional). If the opening is in a minor suit,
+the cuebid shows the majors; if the opening is in a major, the cuebid shows the
+other major and an unspecified minor.
+
+(1♦) — 2♦ = at least 5–5 in the majors, 8 points or more.
+
+(1♠) — 2♠ = at least 5–5 in hearts and a minor; 10 points or more.7
+
+Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
+
+(1♥) — 2♥ — (Pass) — 2NT (asks for the minor).
+   * 3♣ = club suit.
+   * 3♦ = diamond suit.
+## Doubles
+A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
+opening game bids (4♥ or higher). 
+
+A below-game jump response to a takeout double is invitational. 
+To force, responder cuebids opener’s suit.
