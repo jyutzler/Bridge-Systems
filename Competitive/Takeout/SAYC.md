@@ -10,5 +10,6 @@ descriptive bid of 1♥, 1♠, or 2NT with the appropriate hand.
    * 3♦ = preemptive, good trump support but fewer than 10 points.
 
 A responder’s jump shift after a double is to play:
+
 1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
 preemptive three-bid.

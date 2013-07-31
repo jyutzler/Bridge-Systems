@@ -6,10 +6,11 @@ other major and an unspecified minor.
 
 (1♦) — 2♦ = at least 5–5 in the majors, 8 points or more.
 
-(1♠) — 2♠ = at least 5–5 in hearts and a minor; 10 points or more.7
+(1♠) — 2♠ = at least 5–5 in hearts and a minor; 10 points or more.
 
 Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
 
 (1♥) — 2♥ — (Pass) — 2NT (asks for the minor).
    * 3♣ = club suit.
    * 3♦ = diamond suit.
+

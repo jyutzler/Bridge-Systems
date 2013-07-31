@@ -2,7 +2,7 @@
 # General Approach 
 Standard American with 5 Card Majors
 
-Strong forcing opening: 2&clubs;
+Strong forcing opening: 2♣;
 # Notrump Opening Bids 
 Notrump openings show a balanced hand. It is permissible to have a five-card major suit provided the hand is otherwise suitable for notrump.
 ## 1NT 15-17 
@@ -14,7 +14,12 @@ Notrump openings show a balanced hand. It is permissible to have a five-card maj
 ### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit.
 
-Opener rebids 2♥ with 4–4 in the majors. If responder rebids three of either minor,
+Opener rebids:
+   * 2♦ with no four-card major 
+   * 2♥ with four or five hearts and less than five spades
+   * 2♠ with four spades or five spades and four hearts
+
+   If responder rebids three of either minor,
 he shows slam interest and at least a five-card suit.
 ### Jacoby Transfer
 The Jacoby transfer that shows a five-card suit is used for the majors: 2♦ is a
@@ -375,13 +380,14 @@ other major and an unspecified minor.
 
 (1♦) — 2♦ = at least 5–5 in the majors, 8 points or more.
 
-(1♠) — 2♠ = at least 5–5 in hearts and a minor; 10 points or more.7
+(1♠) — 2♠ = at least 5–5 in hearts and a minor; 10 points or more.
 
 Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
 
 (1♥) — 2♥ — (Pass) — 2NT (asks for the minor).
    * 3♣ = club suit.
    * 3♦ = diamond suit.
+
 ## Doubles
 A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
 opening game bids (4♥ or higher). 
@@ -402,6 +408,7 @@ without the overcall:
 
 Cuebidding right-hand opponent’s suit shows values for game without clear
 direction for the moment. This is often used to show a game-forcing raise:
+
 1♠ — (2♣) — 3♣ = game force; usually a raise.
 
 ## With Conventions
@@ -412,6 +419,7 @@ convention intended for non-competitive sequences.
    * 1♥ — 2♠ — 2NT = natural (12–14 HCP).
    * 2♣ — Double — 2♦ = natural and positive.
 
+   
 ## Against Conventions
 If the opponents use a convention (such as Michaels or the unusual notrump), you
 can double to show at least 10 points, or you can cuebid one of their shown suits
@@ -442,6 +450,7 @@ descriptive bid of 1♥, 1♠, or 2NT with the appropriate hand.
    * 3♦ = preemptive, good trump support but fewer than 10 points.
 
 A responder’s jump shift after a double is to play:
+
 1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
 preemptive three-bid.
 ## Redoubles
@@ -462,6 +471,7 @@ SOS, requesting a different suit if:
 at the three level or lower:
       * 1♦ — (Pass) — Pass — (Double) — Pass — (Pass) — Redouble = SOS, responder can support at least two of the
 unbid suits.
+
 # Defensive Leads and Signals 
 The following are specified:
 

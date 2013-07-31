@@ -16,3 +16,4 @@ SOS, requesting a different suit if:
 at the three level or lower:
       * 1♦ — (Pass) — Pass — (Double) — Pass — (Pass) — Redouble = SOS, responder can support at least two of the
 unbid suits.
+
