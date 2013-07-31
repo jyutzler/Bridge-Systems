@@ -44,5 +44,7 @@ cat Competitive\SAYC.md >> system.md
 cat Competitive\Negative\SAYC.md >> system.md
 cat Competitive\Takeout\SAYC.md >> system.md
 cat Competitive\Redouble\SAYC.md >> system.md
+echo # Defensive Leads and Signals >> system.md
+cat Carding\SAYC.md >> system.md
 
 

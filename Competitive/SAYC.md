@@ -28,3 +28,4 @@ to force to game.
 1♠ — (2♠) 
    * 3♥ = game force.
    * Double = at least 10 points, probably balanced.
+

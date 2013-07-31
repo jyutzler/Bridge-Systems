@@ -324,6 +324,7 @@ honors:
 5NT
    * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
    * 7 of the trump suit = two of the three top trump honors.
+
 # Defensive Bidding 
 ## Overcalls
 Overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
@@ -418,6 +419,7 @@ to force to game.
 1♠ — (2♠) 
    * 3♥ = game force.
    * Double = at least 10 points, probably balanced.
+
 ## Negative Doubles
 The negative double is used through 2♠ promising four cards (at least) in an unbid
 major. Bidding a major at the two level or higher shows 11 or more points and a
@@ -445,18 +447,35 @@ preemptive three-bid.
 ## Redoubles
 A redouble can have one of three meanings:
 
-To play if 
+To play if: 
    * your side is at the four level or higher:
       * 4♠ — (Double) — Redouble = Penalty
    * the opponents double a conventional bid:
       * 1NT — (Pass) — 2♦ — (Double) — Redouble = Penalty, good diamond suit;
 
-A good hand if 
+A good hand if: 
    * their double is for takeout:
       * 1♠ — (Double) — Redouble = 10+ points;
 
-SOS, requesting a different suit
-   * if your side is doubled for penalty in a trump suit
+SOS, requesting a different suit if:
+   * your side is doubled for penalty in a trump suit
 at the three level or lower:
       * 1♦ — (Pass) — Pass — (Double) — Pass — (Pass) — Redouble = SOS, responder can support at least two of the
 unbid suits.
+# Defensive Leads and Signals 
+The following are specified:
+
+Defensive signals when following suit or discarding are “high encourages, low
+discourages.” Leads are top of touching honors (with choices from A–K–x and
+interior sequences).
+
+Pairs must choose from the following options.
+
+Where no card is pre-marked in bold Italics, pairs must mark their leads.
+   * Which card is led from A–K–x.
+   * Which card is led from x–x–x, x–x–x–x, or x–x–x–x–x.
+   * Whether 4th best, or 3rd & 5th best leads are used.
+   * Whether 3rd best is led from K–J–10–x, K–10–9–x, or Q–10–9–x (and from
+A–J–10–x, or A–10–9–x vs. notrump). Must be indicated by circling the card
+led.
+   * Whether or not frequent count signals are given.
