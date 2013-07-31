@@ -12,9 +12,7 @@ positive response.
 If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
 responses are used as over a 2NT opening:
 
-2♣ — 2♦
-
-2NT 
+2♣ — 2♦ — 2NT 
    * 3♣ = Stayman.
    * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
    * 4♣ = Gerber.

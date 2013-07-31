@@ -9,3 +9,4 @@ Stayman and Jacoby transfers for the majors are used.
 ### 3NT 25-27
    * 4♣ = Stayman.
    * 4♦, 4♥ = Jacoby transfers to hearts and spades, respectively
+

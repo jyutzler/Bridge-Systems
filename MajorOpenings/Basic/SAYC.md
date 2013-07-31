@@ -11,3 +11,4 @@
 ### Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
+

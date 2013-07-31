@@ -6,5 +6,6 @@ Opener rebids:
    * 2♥ with four or five hearts and less than five spades
    * 2♠ with four spades or five spades and four hearts
 
-   If responder rebids three of either minor,
+
+If responder rebids three of either minor,
 he shows slam interest and at least a five-card suit.

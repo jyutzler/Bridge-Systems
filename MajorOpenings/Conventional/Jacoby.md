@@ -7,3 +7,4 @@ If opener has no short suit, he shows his hand strength;
       * 4♥ = minimum hand.
       * 3NT = medium hand (15–17).
       * 3♥ = maximum hand (18+)
+

@@ -19,7 +19,8 @@ Opener rebids:
    * 2♥ with four or five hearts and less than five spades
    * 2♠ with four spades or five spades and four hearts
 
-   If responder rebids three of either minor,
+
+If responder rebids three of either minor,
 he shows slam interest and at least a five-card suit.
 ### Jacoby Transfer
 The Jacoby transfer that shows a five-card suit is used for the majors: 2♦ is a
@@ -85,6 +86,7 @@ Stayman and Jacoby transfers for the majors are used.
 ### 3NT 25-27
    * 4♣ = Stayman.
    * 4♦, 4♥ = Jacoby transfers to hearts and spades, respectively
+
 # Major Openings 
 Normally open five-card majors in all seats.
 
@@ -103,6 +105,7 @@ Open the higher of long suits of equal length: 5–5 or 6–6
 ### Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
+
 ### Jacoby 2NT
 Over a 1♥ or 1♠ opening
    * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
@@ -112,6 +115,7 @@ If opener has no short suit, he shows his hand strength;
       * 4♥ = minimum hand.
       * 3NT = medium hand (15–17).
       * 3♥ = maximum hand (18+)
+
 ## Rebids by Opener 
 Opener’s rebids are natural and standard.
 ### Rebids with a minimum hand (13–16 points)
@@ -237,9 +241,7 @@ positive response.
 If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
 responses are used as over a 2NT opening:
 
-2♣ — 2♦
-
-2NT 
+2♣ — 2♦ — 2NT 
    * 3♣ = Stayman.
    * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
    * 4♣ = Gerber.
