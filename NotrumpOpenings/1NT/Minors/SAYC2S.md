@@ -5,3 +5,4 @@ club bust, or responder may rebid 3♦ with a diamond bust. Example:
 1NT — 2♠ — 3♣ 
    * Pass = club bust
    * 3♦ = diamond bust (notrump opener passes).
+
