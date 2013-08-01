@@ -20,3 +20,4 @@ with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3♣, 3♦, 3♥ = natural and game forcing.
    * 3NT = asking for a choice between 3NT and 4♠.
    * 4♠ = placing the contract, with a six-card or longer suit.
+
