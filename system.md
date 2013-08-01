@@ -44,6 +44,7 @@ with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3♣, 3♦, 3♥ = natural and game forcing.
    * 3NT = asking for a choice between 3NT and 4♠.
    * 4♠ = placing the contract, with a six-card or longer suit.
+
 ### 2 Spades
 A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
 club bust, or responder may rebid 3♦ with a diamond bust. Example:
@@ -51,6 +52,7 @@ club bust, or responder may rebid 3♦ with a diamond bust. Example:
 1NT — 2♠ — 3♣ 
    * Pass = club bust
    * 3♦ = diamond bust (notrump opener passes).
+
 ### Other Responses
    * 3♣, 3♦ = a six-card or longer suit and invitational to 3NT.
    * 3♥, 3♠ = at least a six-card suit and slam interest (otherwise,
