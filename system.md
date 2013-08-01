@@ -396,6 +396,9 @@ opening game bids (4♥ or higher).
 
 A below-game jump response to a takeout double is invitational. 
 To force, responder cuebids opener’s suit.
+# Preemptive Bids
+Opening suit bids at the three level and higher are preemptive, usually showing 7 cards at the 3-level and 8 cards at the 4-level. They are sound, roughly in accordance with the rule of 500 - you expect to take seven tricks vulnerable, six tricks non-vulnerable out of your own hand.
+
 # Competitive Bidding 
 There is almost an endless variety of possible sequences, so it pays to have simple
 guidelines to prevent bidding misunderstandings.

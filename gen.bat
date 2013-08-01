@@ -39,6 +39,7 @@ cat Defensive\NTOvercall\SAYC.md >> system.md
 cat Defensive\UnusualNT\SAYC.md >> system.md
 cat Defensive\Michaels\SAYC.md >> system.md
 cat Defensive\Doubles\SAYC.md >> system.md
+cat Preemptive\sound.md >> system.md
 echo # Competitive Bidding >> system.md
 cat Competitive\SAYC.md >> system.md
 cat Competitive\Negative\SAYC.md >> system.md
