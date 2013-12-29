@@ -414,10 +414,15 @@ without the overcall:
 2♠ with ♠J43 ♥A875 ♦AQJ4 ♣J3 (rebid 1NT if RHO has passed)
 
 ## Cue Bids
-Cuebidding right-hand opponent’s suit shows values for game without clear
-direction for the moment. This is often used to show a game-forcing raise:
+Cuebidding right-hand opponent’s suit shows a limit raise or better:
 
-1♠ — (2♣) — 3♣ = game force; usually a raise.
+1♠ — (2♣) — 3♣ = limit raise or better.
+
+Note: If playing inverted minors ON in competition, then that treatment supercedes this one.
+
+When using this treatment, a jump raise is weak / competitive.
+
+1♠ - (2♣) - 3♠ = weak, 4+ card support
 
 ## With Conventions
 Unless otherwise noted elsewhere, any bid or double by an opponent cancels a

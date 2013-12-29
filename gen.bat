@@ -42,7 +42,7 @@ type Defensive\Doubles\SAYC.md >> system.md
 type Preemptive\sound.md >> system.md
 echo # Competitive Bidding >> system.md
 type Competitive\SAYC.md >> system.md
-type Competitive\CueBid\SAYC.md >> system.md
+type Competitive\CueBid\LimitRaise.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\SAYC.md >> system.md
 type Competitive\Negative\SAYC.md >> system.md
