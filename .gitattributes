@@ -20,6 +20,3 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-
-gen.bat merge=keepMine
-system.md merge=keepMine
