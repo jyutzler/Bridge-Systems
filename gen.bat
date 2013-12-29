@@ -32,7 +32,6 @@ type WeakTwos\SAYC.md >> system.md
 echo # Slam Bidding >> system.md
 type Slam\blackwood.md >> system.md
 type Slam\gerber.md >> system.md
-type Slam\grandslamforce.md >> system.md
 echo # Defensive Bidding >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
 type Defensive\NTOvercall\SAYC.md >> system.md

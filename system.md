@@ -326,15 +326,6 @@ King Asking:
    * 5♠ = 2 kings
    * 5NT = 3 kings
 
-## Grand Slam Force
-A jump to 5NT (and some 5NT bids when the auction is at the five level) is “Grand
-Slam Force,” asking partner to bid a grand slam with two of the three top trump
-honors:
-
-5NT
-   * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
-   * 7 of the trump suit = two of the three top trump honors.
-
 # Defensive Bidding 
 ## Overcalls
 Overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
