@@ -18,7 +18,7 @@ echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ## Responses >> system.md
 type MajorOpenings\Basic\SAYC.md >> system.md
-type MajorOpenings\Conventional\Jacoby.md >> system.md
+type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\SAYC.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md

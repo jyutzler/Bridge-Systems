@@ -108,15 +108,14 @@ Open the higher of long suits of equal length: 5–5 or 6–6
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
 
-### Jacoby 2NT
-Over a 1♥ or 1♠ opening
-   * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
-opener to show a short suit to help responder evaluate slam prospects.
-If opener has no short suit, he shows his hand strength;
-      * 3♣, 3♦, 3♠ = singleton or void in that suit. Other bids deny a short suit.
-      * 4♥ = minimum hand.
-      * 3NT = medium hand (15–17).
-      * 3♥ = maximum hand (18+)
+### Two Way Reverse Drury
+In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). To prevent the contract from getting too high, responder may bid the following: 
+   * 2 of a minor shows a limit raise
+      * 2♣ = 3 card support
+      * 2♦ = 4+ card support
+   * Opener clarifies strength with the rebid   
+      * Rebidding the suit at the 2 level shows a light opener
+      * any other bid shows a full opener
 
 ## Rebids by Opener 
 Opener’s rebids are natural and standard.
