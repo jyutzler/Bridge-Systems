@@ -99,9 +99,10 @@ Open the higher of long suits of equal length: 5–5 or 6–6
    * 1NT = 6–10 points, denies four spades or three hearts. NOT forcing.
    * 2♣, 2♦ = 11 points or more, promises at least four of the suit.
    * 2♥ = three-card or longer heart support; 6–10 dummy points.
+   * 2NT = 10-12 HCP, balanced hand with two-card support for partner.
    * 2♠, 3♣, 3♦ = strong jump shifts. Invites a slam.
    * 3♥ = limit raise (10–12 dummy points with three or more hearts).
-   * 3NT = 15–17 HCP, balanced hand with two-card support for partner.
+   * 3NT = 13-15 HCP, balanced hand with two-card support for partner.
    * 4♥ = usually five+ hearts, a singleton or void, and fewer than 10 HCP.
 
 ### Basic Responses Over 1♠
@@ -219,11 +220,12 @@ section. Bidding at the one level is up-the-line in principle. Responder needs m
 trumps to raise (four to raise 1♦; five to raise 1♣, though one fewer trump will do
 in a pinch in a competitive sequence). 
 
-Responses of 2NT and 3NT are standard:
+NT responses are as follows:
 
 1♣
-   * 2NT = 13–15, game forcing
-   * 3NT = 16–17
+   * 1NT = 7-10, usually sign-off
+   * 2NT = 11-12, invitational
+   * 3NT = 13–15, game forcing
 
 There is no forcing minor-suit raise.
 

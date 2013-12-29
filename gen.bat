@@ -17,14 +17,14 @@ type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
 echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ## Responses >> system.md
-type MajorOpenings\Basic\SAYC.md >> system.md
+type MajorOpenings\Basic\inv2NT.md >> system.md
 type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\SAYC.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md
 type MajorOpenings\Subsequent\SAYC.md >> system.md
 echo # Minor Openings >> system.md
-type MinorOpenings\SAYC.md >> system.md
+type MinorOpenings\inv2NT.md >> system.md
 echo # Strong 2♣ >> system.md
 type StrongOpenings\2Club\SAYC.md >> system.md
 echo # Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
