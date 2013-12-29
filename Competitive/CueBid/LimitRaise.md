@@ -12,4 +12,3 @@ When using this treatment, a jump raise is weak / competitive.
 Note: if you pass a suit bid and bid it later, it is natural, not a cue bid:
    * (1♦) - p - (1♥) - p - (1♠) - 2♦ = natural, 6+  
 
-   
