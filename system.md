@@ -122,7 +122,7 @@ If opener has no short suit, he shows his hand strength;
 Opener’s rebids are natural and standard.
 ### Rebids with a minimum hand (13–16 points)
    * Rebidding notrump at the lowest available level;
-   * Raising responder’s suit at the lowest level (may have good three-card support);
+   * Raising responder’s suit at the lowest level (usually four cards, though good three-card support is acceptable if notrump is not);
    * Rebidding a new suit at the one level or rebidding a new suit at the two level that
 is lower ranking than the opening suit (not reversing);
    * Rebidding opener’s suit at the lowest level.
@@ -325,15 +325,6 @@ King Asking:
    * 5♠ = 2 kings
    * 5NT = 3 kings
 
-## Grand Slam Force
-A jump to 5NT (and some 5NT bids when the auction is at the five level) is “Grand
-Slam Force,” asking partner to bid a grand slam with two of the three top trump
-honors:
-
-5NT
-   * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
-   * 7 of the trump suit = two of the three top trump honors.
-
 # Defensive Bidding 
 ## Overcalls
 Overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
@@ -374,24 +365,6 @@ or jump to 2NT to show 19-21.
 
 ### Vs. Preempts
 Versus an opening preempt, an overcall in notrump is natural.
-## Unusual 2NT
-A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits.
-## Michaels Cuebid
-A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
-showing a 5–5 two-suiter (or more distributional). If the opening is in a minor suit,
-the cuebid shows the majors; if the opening is in a major, the cuebid shows the
-other major and an unspecified minor.
-
-(1♦) — 2♦ = at least 5–5 in the majors, 8 points or more.
-
-(1♠) — 2♠ = at least 5–5 in hearts and a minor; 10 points or more.
-
-Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
-
-(1♥) — 2♥ — (Pass) — 2NT (asks for the minor).
-   * 3♣ = club suit.
-   * 3♦ = diamond suit.
-
 ## Doubles
 A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
 opening game bids (4♥ or higher). 
