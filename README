@@ -1,6 +1,6 @@
-This project is designed to describe bridge systems in a Markdown file called "system.md".
-Each system is documented in its own branch. For example, the SAYC branch describes
-Standard American Yellow Card (SAYC).
+This branch contains a Markdown file "system.md" that describes a bridge system, 
+in this case Standard American Yellow Card (SAYC) as described at 
+http://www.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf.
 
 Rules for making changes:
    * No work is to be done in the Master branch directly. 
