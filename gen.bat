@@ -17,7 +17,7 @@ type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
 echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ## Responses >> system.md
-type MajorOpenings\Basic\SAYC.md >> system.md
+type MajorOpenings\Basic\rp.md >> system.md
 type MajorOpenings\Conventional\Jacoby.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\RP.md >> system.md
