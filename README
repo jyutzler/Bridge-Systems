@@ -1,17 +1,4 @@
 This branch contains a Markdown file "system.md" that describes the bridge system 
-used by Jeff Yutzler and Noah Coberly.
-
-Rules for making changes:
-   * No work is to be done in the Master branch directly. 
-   * Make a branch (e.g., *my-md-updates*) to modify existing treatments or add new ones
-      * Branch off of Master
-      * Add or modify .md files
-      * Issue a pull request if desired
-      * Pull requests **must not** modify `README`, `gen.bat`, or `system.md`. 
-   * Make a branch to describe your own system (e.g., *my-system*).
-      * Branch off of an existing system that closely resembles your system so that your `gen.bat` is mostly complete.
-      * Modify `gen.bat` by cherry-picking modules in existing .md files
-      * Generate `system.md` by executing `gen.bat` in the Windows PowerShell. Do not edit it directly.
-      * Merge changes from *my-md-updates* as needed. 
-      * Periodically pull from Master to pick up improvements from others.
-
+used by Jeff Yutzler and Noah Coberly. 
+It is based on SAYC with a couple of simplifications.
+It is suitable for beginning club players.
