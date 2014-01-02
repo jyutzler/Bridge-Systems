@@ -1,4 +1,8 @@
 ﻿
+This branch contains a Markdown file "system.md" that describes the bridge system 
+used by Jeff Yutzler and Noah Coberly. 
+It is based on SAYC with a couple of simplifications.
+It is suitable for beginning club players.
 # General Approach 
 Standard American with 5 Card Majors
 
@@ -99,24 +103,15 @@ Open the higher of long suits of equal length: 5–5 or 6–6
    * 1NT = 6–10 points, denies four spades or three hearts. NOT forcing.
    * 2♣, 2♦ = 11 points or more, promises at least four of the suit or heart support.
    * 2♥ = three-card or longer heart support; 6–10 dummy points.
+   * 2NT = 13-16 HCP, balanced hand with two-card support for partner.
    * 2♠, 3♣, 3♦ = strong jump shifts. Invites a slam.
    * 3♥ = limit raise (10–12 dummy points with four or more hearts).
-   * 3NT = 15–17 HCP, balanced hand with two-card support for partner.
+   * 3NT = 17–18 HCP, balanced hand with two-card support for partner.
    * 4♥ = usually five+ hearts, a singleton or void, and fewer than 10 HCP.
 
 ### Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
-
-### Jacoby 2NT
-Over a 1♥ or 1♠ opening
-   * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
-opener to show a short suit to help responder evaluate slam prospects.
-If opener has no short suit, he shows his hand strength;
-      * 3♣, 3♦, 3♠ = singleton or void in that suit. Other bids deny a short suit.
-      * 4♥ = minimum hand.
-      * 3NT = medium hand (15–17).
-      * 3♥ = maximum hand (18+)
 
 ## Rebids by Opener 
 Opener’s rebids are natural and standard.
