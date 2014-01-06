@@ -12,10 +12,11 @@ Strong forcing opening: 2♣;
 Notrump openings show a balanced hand. It is permissible to have a five-card major suit provided the hand is otherwise suitable for notrump.
 ## 1NT 15-17 
 ### Basic Responses
-2NT = Invitational 8-9
-
-3NT = sign-off
-
+   * 2NT = Invitational 8-9
+   * 3♥, 3♦ = Weak sign-off. Opener must pass unless game is likely opposite nothing more than Qxxxxx.
+   * 3NT = sign-off
+   * 4♣ = Gerber, asking for aces. (See Slam Bidding)
+   * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
 ### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit.
 
@@ -59,21 +60,17 @@ transfer to hearts, 4♥ is a transfer to spades. Opener must accept the transfe
    * Pass = content to play 4♠.
    * 4NT = Blackwood.
 
-### 2 Spades
-A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
-club bust, or responder may rebid 3♦ with a diamond bust. Example:
+### Minor Suit Stayman
+A 2♠ response shows at least an invitational hand with strength in both minors.
 
-1NT — 2♠ — 3♣ 
-   * Pass = club bust
-   * 3♦ = diamond bust (notrump opener passes).
+1NT — 2♠
+   * 2NT = weak hand, usually stoppers in both majors
+   * 3♣, ♦ = weak hand, good support 
+   * 3♥, ♠ = strong hand, stopper, could have a good minor (only forcing response)
+   * 3NT = strong hand, stoppers in both majors
+   * 4♣, ♦ = strong hand, good support
 
-### Other Responses
-   * 3♣, 3♦ = a six-card or longer suit and invitational to 3NT.
-   * 3♥, 3♠ = at least a six-card suit and slam interest (otherwise,
-responder uses a transfer bid).
-   * 4♣ = Gerber, asking for aces. (See Slam Bidding)
-   * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
-
+From there, responder should have enough information to proceed using methods described elsewhere.
 ### Over Interference
 If an opponent doubles, all conventional responses are “on.” For example:
 

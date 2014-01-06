@@ -7,11 +7,10 @@ type GeneralApproach\SAYC.md >> system.md
 echo # Notrump Opening Bids >> system.md
 type NotrumpOpenings\SAYC.md >> system.md
 echo ## 1NT 15-17 >> system.md
-type NotrumpOpenings\1NT\Basic\SAYC.md >> system.md
+type NotrumpOpenings\1NT\Basic\weak3.md >> system.md
 type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
-type NotrumpOpenings\1NT\Minors\SAYC2S.md >> system.md
-type NotrumpOpenings\1NT\Other\SAYC.md >> system.md
+type NotrumpOpenings\1NT\Minors\MSS.md >> system.md
 type NotrumpOpenings\1NT\Interference\Jacoby+Texas.md >> system.md
 echo ## 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
