@@ -1,6 +1,7 @@
 @echo off
 del system.md
 copy seed.md system.md > nul
+echo README >> system.md
 echo # General Approach >> system.md
 type GeneralApproach\SAYC.md >> system.md
 echo # Notrump Opening Bids >> system.md
