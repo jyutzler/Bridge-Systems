@@ -17,6 +17,7 @@ Notrump openings show a balanced hand. It is permissible to have a five-card maj
    * 3NT = sign-off
    * 4♣ = Gerber, asking for aces. (See Slam Bidding)
    * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
+
 ### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit.
 
