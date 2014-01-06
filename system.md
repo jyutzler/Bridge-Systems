@@ -1,5 +1,8 @@
 ﻿
-README 
+This branch contains a Markdown file "system.md" that describes a bridge system, 
+in this case Standard American Yellow Card (SAYC) as described at 
+http://www.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf.
+
 # General Approach 
 Standard American with 5 Card Majors
 
