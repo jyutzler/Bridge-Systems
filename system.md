@@ -1,4 +1,9 @@
 ﻿
+This branch contains a Markdown file "system.md" that describes the bridge system
+used by Jeff Yutzler and Donna Hickling. 
+It is based on SAYC with a few additions.
+It is suitable for intermediate club players.
+
 # General Approach 
 Standard American with 5 Card Majors
 
@@ -142,73 +147,6 @@ Responder follows up by attempting to sign off in game, bidding 4NT
 Blackwood, or cuebidding if still interested in trying to cooperate with opener
 in making the slam decision.
 
-## Subsequent Bidding by Responder 
-If responder has bid a suit at the one level, he next determines whether he wishes
-to sign off in a partscore, invite game, sign off in game, or force to game and get
-more information about opener’s hand.
-
-
-Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
-
-1♥ — 1♠
-
-2♣ — Pass, 2♥, 2♠ = 6–10 points, sign-off in partscore.
-
-Bids available for inviting game: 2NT, 3 of a previously bid suit:
-
-1♥ — 1♠
-
-2♦ — 2NT, 3♦, 3♥, 3♠ = 11–12 points, inviting game.
-
-After opener rebids in a suit, a new suit by responder is forcing. If the new suit is the
-fourth suit, the bid may be artificial/conventional.
-
-1♥ — 1♠
-
-2♣ — 2♦ = one-round force, could be conventional.
-
-However, after a 1NT rebid by opener, bids of a new suit at the next higher level are
-non-forcing.
-
-1♥ — 1♠
-
-1NT — 2♣, 2♦ = non-forcing. Responder must jump shift to 3♣ or 3♦ to force game.
-Second-round forcing bids following a 1NT rebid by opener: a reverse or jump shift
-into a new suit is a game force.
-
-1♣ — 1♥
-
-1NT — 2♠ or 3♦ = game force.
-
-Bids available for signing off in game.
-
-3NT, 4♥, 4♠, 5♣, 5♦.
-
-If responder initially bids a new suit at the two level, the same rules apply EXCEPT
-that a subsequent jump raise of opener’s first suit to the THREE LEVEL is game
-forcing — responder should make a limit raise directly over the opening with 10–12
-points and at least three-card support:
-
-1♠ — 2♣
-
-2♥ — 2NT, 3♣, 3♥ = Invitation to game (11–12 points).
-
-— 2♠ = preference, not forcing. Responder has 11–12 points and a
- doubleton spade.
-
- — 3♦ = game force, could be conventional.
-
- — 3♠ = game force.5
-
-NOTE: Responder promises to bid again if he responded with a new suit at the two
-level unless opener’s rebid is at the game level.
-
-1♠ — 2♣
-
-2♦ = forcing one round. Responder can limit his hand by bidding 2♠, 2NT, 3♣,
-or 3♦ at this point. He should not pass, since opener could have 18
-points (just short of a jump shift rebid).
-
 # Minor Openings 
 ﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
 where a three-card minor suit must be opened. The exception is a hand with 4–4–
@@ -228,6 +166,66 @@ NT responses are as follows:
    * 3NT = 13–15, game forcing
 
 There is no forcing minor-suit raise.
+
+## Subsequent Bidding by Responder 
+If responder has bid a suit at the one level, he next determines whether he wishes
+to sign off in a partscore, invite game, sign off in game, or force to game and get
+more information about opener’s hand.
+
+### Sign-off
+Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
+
+1♥ — 1♠
+
+2♣
+   * Pass
+   * 2♥ = 2-3 hearts, likely misfit
+   * 2♠ = 6+ spades
+
+This also applies to minor suit openings with one additional treatment.
+
+1♣ — 1♠
+
+1NT
+   * Pass, 2♣
+   * 2♠ = 6+ spades
+   * 2♥ = sign-off - opener must pass or correct (5-5 or 5-4 distribution)
+   
+### Inviting Game
+Bids available for inviting game: 2NT, 3 of opener's suit:
+
+1♥ — 1♠
+
+2♦ — 2NT, 3♦, 3♥ = 11–12 points, inviting game.
+
+In addition, a new minor suit at the responder's second bid or later is forcing for one round and thus
+is invitational at the 2-level and game forcing at the 3-level.
+
+1♥ — 1♠
+
+1NT (or 2♣) — 2♦ (forcing)
+
+In this case, opener is encouraged to show secondary support for responder's suit. 
+When more than one minor is available, it tends to show a stopper for NT.
+
+### Forcing to Game
+All second round jumps (except for opener's suit as mentioned above) 
+and new suits above two of the first bid suit are forcing to 3NT or higher: 
+
+1♥ — 1♠
+
+1NT or 2m
+
+   * 3♥ = game forcing (5-5 or 5-4 distribution)
+   * 3♠ = game forcing (6+ cards)
+
+Opener can sign off in game or make a slam try. 
+4NT is Blackwood (see topic) only if suit agreement has been established. 
+Otherwise it is quantitative, asking responder to proceed with a maximum. 
+Suit bids usually show controls.
+
+### Signing off at Game
+Any bid of game is a sign-off, though partner can proceed with a maximum (see Slam Bidding).
 
 # Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points, or the playing equivalent. 

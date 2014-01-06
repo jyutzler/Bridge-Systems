@@ -1,6 +1,7 @@
 @echo off
 del system.md
 copy seed.md system.md > nul
+type README >> system.md
 echo # General Approach >> system.md
 type GeneralApproach\SAYC.md >> system.md
 echo # Notrump Opening Bids >> system.md
@@ -21,10 +22,10 @@ type MajorOpenings\Basic\inv2NT.md >> system.md
 type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\SAYC.md >> system.md
-echo ## Subsequent Bidding by Responder >> system.md
-type MajorOpenings\Subsequent\SAYC.md >> system.md
 echo # Minor Openings >> system.md
 type MinorOpenings\inv2NT.md >> system.md
+echo ## Subsequent Bidding by Responder >> system.md
+type SubsequentSuitBidding\NMF+FSF-INV.md >> system.md
 echo # Strong 2♣ >> system.md
 type StrongOpenings\2Club\SAYC.md >> system.md
 echo # Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
