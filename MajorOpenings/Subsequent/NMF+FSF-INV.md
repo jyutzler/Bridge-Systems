@@ -1,32 +1,52 @@
-## Invitational New Minor Forcing and Fourth Suit Forcing
-A new minor suit at the responder's second bid or later shows invitational or better values 
-and is forcing for one round.
-This also applies to minor suit openings.
+If responder has bid a suit at the one level, he next determines whether he wishes
+to sign off in a partscore, invite game, sign off in game, or force to game and get
+more information about opener’s hand.
 
-1♥ - 1♠
+### Sign-off
+Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
 
-1NT (or 2♣) - 2♦ (forcing)
+1♥ — 1♠
+
+2♣
+   * Pass
+   * 2♥ = 2-3 hearts, likely misfit
+   * 2♠ = 6+ spades
+
+This also applies to minor suit openings with one additional treatment.
+
+1♣ — 1♠
+
+1NT
+   * Pass, 2♣
+   * 2♠ = 6+ spades
+   * 2♥ = sign-off - opener must pass or correct (5-5 or 5-4 distribution)
+   
+### Inviting Game
+Bids available for inviting game: 2NT, 3 of opener's suit:
+
+1♥ — 1♠
+
+2♦ — 2NT, 3♦, 3♥ = 11–12 points, inviting game.
+
+In addition, a new minor suit at the responder's second bid or later is forcing for one round and thus
+is invitational at the 2-level and game forcing at the 3-level.
+
+1♥ — 1♠
+
+1NT (or 2♣) — 2♦ (forcing)
 
 In this case, opener is encouraged to show secondary support for responder's suit. 
 When more than one minor is available, it tends to show a stopper for NT.
 
-### Second Round Jumps
-When treating New Minor Forcing and Fourth Suit Forcing as invitational, 
-all second round jumps are forcing to game: 
+### Forcing to Game
+All second round jumps (except for opener's suit as mentioned above) 
+and new suits at the 3-level are forcing to 3NT or higher: 
 
-1♥ - 1♠
+1♥ — 1♠
 
-1NT
+1NT or 2m
 
-   * 3♥ = game forcing (5-5 or 5-4)
-   * 3♠ = game forcing (6+)
-   
-Compare to:
+   * 3♥ = game forcing (5-5 or 5-4 distribution)
+   * 3♠ = game forcing (6+ cards)
 
-1♣ - 1♠
-
-1NT
-
-   * 2♦ = invitational (5 spades, could have 4 hearts)
-   * 2♥ = signoff (5-5 or 5-4)
 
