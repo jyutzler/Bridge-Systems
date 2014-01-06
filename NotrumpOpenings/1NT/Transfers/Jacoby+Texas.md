@@ -30,4 +30,3 @@ transfer to hearts, 4♥ is a transfer to spades. Opener must accept the transfe
    * Pass = content to play 4♠.
    * 4NT = Blackwood.
 
-The Texas transfer is on through 3♣. In other words it must be a jump.
