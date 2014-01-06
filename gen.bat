@@ -9,7 +9,7 @@ type NotrumpOpenings\SAYC.md >> system.md
 echo ## 1NT 15-17 >> system.md
 type NotrumpOpenings\1NT\Basic\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
-type NotrumpOpenings\1NT\Transfers\Jacoby.md >> system.md
+type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\Minors\SAYC2S.md >> system.md
 type NotrumpOpenings\1NT\Other\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Interference\SAYC.md >> system.md
@@ -18,12 +18,12 @@ type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
 echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ## Responses >> system.md
-type MajorOpenings\Basic\inv2NT.md >> system.md
-type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
+type MajorOpenings\Basic\forcing2NT.md >> system.md
+REM type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\SAYC.md >> system.md
 echo # Minor Openings >> system.md
-type MinorOpenings\inv2NT.md >> system.md
+type MinorOpenings\SAYC.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md
 type SubsequentSuitBidding\NMF+FSF-INV.md >> system.md
 echo # Strong 2♣ >> system.md

@@ -1,8 +1,8 @@
 ﻿
 This branch contains a Markdown file "system.md" that describes the bridge system
-used by Jeff Yutzler and Donna Hickling. 
+used by Jeff Yutzler and Norman Kittrell. 
 It is based on SAYC with a few additions.
-It is suitable for intermediate club players.
+It is suitable for advancing club players.
 
 # General Approach 
 Standard American with 5 Card Majors
@@ -48,7 +48,18 @@ with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3♠ = invitational with a six-card suit. Opener may pass with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3♣, 3♦, 3♥ = natural and game forcing.
    * 3NT = asking for a choice between 3NT and 4♠.
-   * 4♠ = placing the contract, with a six-card or longer suit.
+   * 4♠ = invitational to 6♠ with a six-card or longer suit.
+   * 4NT = quantitative invitation to 6♠ or 6NT with a five-card suit.
+
+### Texas Transfer
+The Texas transfer that shows a six-card suit is used for the majors: 4♦ is a
+transfer to hearts, 4♥ is a transfer to spades. Opener must accept the transfer.
+
+1NT — 4♥ — 4♠
+   * Pass = content to play 4♠.
+   * 4NT = Blackwood.
+
+The Texas transfer is on through 3♣. In other words it must be a jump.
 
 ### 2 Spades
 A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
@@ -104,24 +115,15 @@ Open the higher of long suits of equal length: 5–5 or 6–6
    * 1NT = 6–10 points, denies four spades or three hearts. NOT forcing.
    * 2♣, 2♦ = 11 points or more, promises at least four of the suit or heart support.
    * 2♥ = three-card or longer heart support; 6–10 dummy points.
-   * 2NT = 10-12 HCP, balanced hand with two-card support for partner.
+   * 2NT = 13-16 HCP, balanced hand with two-card support for partner.
    * 2♠, 3♣, 3♦ = strong jump shifts. Invites a slam.
    * 3♥ = limit raise (10–12 dummy points with four or more hearts).
-   * 3NT = 13-15 HCP, balanced hand with two-card support for partner.
+   * 3NT = 17–18 HCP, balanced hand with two-card support for partner.
    * 4♥ = usually five+ hearts, a singleton or void, and fewer than 10 HCP.
 
 ### Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
-
-### Two Way Reverse Drury
-In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). To prevent the contract from getting too high, responder may bid the following: 
-   * 2 of a minor shows a limit raise
-      * 2♣ = 3 card support
-      * 2♦ = 4+ card support
-   * Opener clarifies strength with the rebid   
-      * Rebidding the suit at the 2 level shows a light opener
-      * any other bid shows a full opener
 
 ## Rebids by Opener 
 Opener’s rebids are natural and standard.
@@ -158,12 +160,11 @@ section. Bidding at the one level is up-the-line in principle. Responder needs m
 trumps to raise (four to raise 1♦; five to raise 1♣, though one fewer trump will do
 in a pinch in a competitive sequence). 
 
-NT responses are as follows:
+Responses of 2NT and 3NT are standard:
 
 1♣
-   * 1NT = 7-10, usually sign-off
-   * 2NT = 11-12, invitational
-   * 3NT = 13–15, game forcing
+   * 2NT = 13–15, game forcing
+   * 3NT = 16–17
 
 There is no forcing minor-suit raise.
 
@@ -365,7 +366,13 @@ or jump to 2NT to show 19-21.
 ### Vs. Preempts
 Versus an opening preempt, an overcall in notrump is natural.
 ## Unusual 2NT
-A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits.
+A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
+When vulnerable it shows at least opening strength
+but when nonvulnerable it can be fairly light.
+
+(1♦) - 2NT = hearts and clubs
+
+Note: Unusual 2NT is off in the reopening seat (see above).
 ## Michaels Cuebid
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). If the opening is in a minor suit,
