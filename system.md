@@ -142,6 +142,25 @@ Responder follows up by attempting to sign off in game, bidding 4NT
 Blackwood, or cuebidding if still interested in trying to cooperate with opener
 in making the slam decision.
 
+# Minor Openings 
+﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
+where a three-card minor suit must be opened. The exception is a hand with 4–4–
+3–2 shape: four spades, four hearts, three diamonds, and two clubs, which should
+be opened 1♦.
+
+Responses and later bidding generally follow the ideas set down in the previous
+section. Bidding at the one level is up-the-line in principle. Responder needs more
+trumps to raise (four to raise 1♦; five to raise 1♣, though one fewer trump will do
+in a pinch in a competitive sequence). 
+
+Responses of 2NT and 3NT are standard:
+
+1♣
+   * 2NT = 13–15, game forcing
+   * 3NT = 16–17
+
+There is no forcing minor-suit raise.
+
 ## Subsequent Bidding by Responder 
 If responder has bid a suit at the one level, he next determines whether he wishes
 to sign off in a partscore, invite game, sign off in game, or force to game and get
@@ -208,25 +227,6 @@ level unless opener’s rebid is at the game level.
 2♦ = forcing one round. Responder can limit his hand by bidding 2♠, 2NT, 3♣,
 or 3♦ at this point. He should not pass, since opener could have 18
 points (just short of a jump shift rebid).
-
-# Minor Openings 
-﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
-where a three-card minor suit must be opened. The exception is a hand with 4–4–
-3–2 shape: four spades, four hearts, three diamonds, and two clubs, which should
-be opened 1♦.
-
-Responses and later bidding generally follow the ideas set down in the previous
-section. Bidding at the one level is up-the-line in principle. Responder needs more
-trumps to raise (four to raise 1♦; five to raise 1♣, though one fewer trump will do
-in a pinch in a competitive sequence). 
-
-Responses of 2NT and 3NT are standard:
-
-1♣
-   * 2NT = 13–15, game forcing
-   * 3NT = 16–17
-
-There is no forcing minor-suit raise.
 
 # Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points, or the playing equivalent. 
