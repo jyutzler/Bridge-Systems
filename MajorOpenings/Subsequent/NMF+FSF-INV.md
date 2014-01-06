@@ -40,7 +40,7 @@ When more than one minor is available, it tends to show a stopper for NT.
 
 ### Forcing to Game
 All second round jumps (except for opener's suit as mentioned above) 
-and new suits at the 3-level are forcing to 3NT or higher: 
+and new suits above two of the first bid suit are forcing to 3NT or higher: 
 
 1♥ — 1♠
 
@@ -49,4 +49,11 @@ and new suits at the 3-level are forcing to 3NT or higher:
    * 3♥ = game forcing (5-5 or 5-4 distribution)
    * 3♠ = game forcing (6+ cards)
 
+Opener can sign off in game or make a slam try. 
+4NT is Blackwood (see topic) only if suit agreement has been established. 
+Otherwise it is quantitative, asking responder to proceed with a maximum. 
+Suit bids usually show controls.
+
+### Signing off at Game
+Any bid of game is a sign-off, though partner can proceed with a maximum (see Slam Bidding).
 
