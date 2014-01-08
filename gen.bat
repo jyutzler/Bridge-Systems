@@ -18,6 +18,7 @@ echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ## Responses >> system.md
 type MajorOpenings\Basic\forcing2NT.md >> system.md
+type MajorOpenings\Conventional\Splinter-RP.md >> system.md
 REM type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\SAYC.md >> system.md
@@ -48,4 +49,4 @@ type Competitive\Negative\SAYC.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo # Defensive Leads and Signals >> system.md
-type Carding\SAYC.md >> system.md
+type Carding\OddEven-Jeff-Norman.md >> system.md

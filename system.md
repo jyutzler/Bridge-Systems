@@ -124,6 +124,31 @@ Open the higher of long suits of equal length: 5–5 or 6–6
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
 
+### Splinter Raises
+Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
+4+ card support, and shortness in the suit bid (either a singleton or void).
+Opener can explore slam by bidding controls or attempt to sign off by bidding game.
+For example:
+
+1♠ — 4♣ = game forcing, club shortness
+   * 4♦, 4♥ = slam interest, first round control (usually ace)
+   * 4♠ = signoff
+
+Responder shows a void by rebidding the splinter suit:
+
+1♠ — 4♣ 
+
+4♥ — 5♣ = void
+
+Opener can also splinter with a good hand and 4-card support:
+
+1♣ — 1♠
+   * 4♦, 4♥ = game forcing, shortness
+
+In competition, splinters are off except for jumps in the opponent's suit.
+
+Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
+
 ## Rebids by Opener 
 Opener’s rebids are natural and standard.
 ### Rebids with a minimum hand (13–16 points)
@@ -484,19 +509,15 @@ at the three level or lower:
 unbid suits.
 
 # Defensive Leads and Signals 
-The following are specified:
+Signals are:
+   1 Attitude
+   1 Count
+   1 Suit preference
 
-Defensive signals when following suit or discarding are “high encourages, low
-discourages.” Leads are top of touching honors (with choices from A–K–x and
-interior sequences).
+Discards are Odd/Even. Odd encourages, even discourages.
 
-Pairs must choose from the following options.
-
-Where no card is pre-marked in bold Italics, pairs must mark their leads.
-   * Which card is led from A–K–x.
-   * Which card is led from x–x–x, x–x–x–x, or x–x–x–x–x.
-   * Whether 4th best, or 3rd & 5th best leads are used.
-   * Whether 3rd best is led from K–J–10–x, K–10–9–x, or Q–10–9–x (and from
-A–J–10–x, or A–10–9–x vs. notrump). Must be indicated by circling the card
-led.
-   * Whether or not frequent count signals are given.
+Leads are: 
+   * top of touching honors and interior sequences.
+   * A from A–K–x
+   * 4th best from x-x-x-x or x-x-x-x-x. 
+   * Top from x–x–x.
