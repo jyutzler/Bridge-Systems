@@ -510,9 +510,9 @@ unbid suits.
 
 # Defensive Leads and Signals 
 Signals are:
-   1 Attitude
-   1 Count
-   1 Suit preference
+   1. Attitude
+   1. Count
+   1. Suit preference
 
 Discards are Odd/Even. Odd encourages, even discourages.
 
