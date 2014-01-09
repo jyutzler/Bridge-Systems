@@ -19,14 +19,14 @@ echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ## Responses >> system.md
 type MajorOpenings\Basic\forcing2NT.md >> system.md
-echo ## Rebids by Opener >> system.md
-type MajorOpenings\Rebids\RP.md >> system.md
 echo # Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
+echo ## Rebids by Opener >> system.md
+type MajorOpenings\Rebids\RP.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md
 type SubsequentSuitBidding\NMF+FSF-INV.md >> system.md
 echo # Strong 2♣ >> system.md
-type StrongOpenings\2Club\SAYC.md >> system.md
+type StrongOpenings\2Club\CheaperMinor.md >> system.md
 echo # Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
 type WeakTwos\SAYC.md >> system.md
 echo # Slam Bidding >> system.md
@@ -43,7 +43,7 @@ type Competitive\CueBid\SAYC.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\SAYC.md >> system.md
 type Competitive\Negative\SAYC.md >> system.md
-type Competitive\Takeout\SAYC.md >> system.md
+type Competitive\Takeout\simple.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo # Defensive Leads and Signals >> system.md
 type Carding\SAYC.md >> system.md

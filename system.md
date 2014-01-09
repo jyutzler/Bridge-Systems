@@ -404,20 +404,25 @@ five-card or longer suit.
 
 1♦— (1♠) — Double = four hearts and 6+ points or five hearts and 5–10 points.
 ## Vs. Takeout Doubles
-If RHO makes a takeout double:
+If RHO makes a takeout double, bid as naturally as possible.
 
 1♦ — (Double)
    * 1♥, 1♠ = forcing, point count not limited.
+   * 1NT = non-forcing, 6-9 points, no four-card major or four-card support
    * 2♣ = non-forcing (6–10 points, usually a six-card suit).
-   * 2NT = limit raise (at least 10 points) — or better.
-   * Redouble = 10 points or more, but it is better to make a more
-descriptive bid of 1♥, 1♠, or 2NT with the appropriate hand.
+   * Redouble = 10 points or more, could have good support.
+   * 2♦ = weak, four-card trump support but fewer than 10 points.
    * 3♦ = preemptive, good trump support but fewer than 10 points.
 
-A responder’s jump shift after a double is to play:
+1♥ — (Double)
+   * 1♠ = forcing, point count not limited.
+   * 1NT = non-forcing, 6-9 points
+   * 2♣, 2♦ = non-forcing (6–10 points, usually a six-card suit).
+   * Redouble = 10 points or more, could have three-card support.
+   * 2♥ = weak, trump support but fewer than 10 points.
+   * 3♥ = limit raise
+   * 4♥ = natural, could be preemptive
 
-1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
-preemptive three-bid.
 ## Redoubles
 A redouble can have one of three meanings:
 
