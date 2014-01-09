@@ -185,8 +185,9 @@ in making the slam decision.
 
 # Minor Openings 
 ﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
-where a three-card minor suit must be opened. The exception is a hand with 4–4–
-3–2 shape: four spades, four hearts, three diamonds, and two clubs, which should
+where a three-card minor suit must be opened. 
+The exception is a hand with 4–4–3–2 shape: 
+four spades, four hearts, three diamonds, and two clubs, which should
 be opened 1♦. 
 However, it is acceptable to open 1♣ when 4-4 in the minors especially with a 
 balanced hand (opener expects to bid NT next).
@@ -288,24 +289,22 @@ positive response.
 8 points.
    * 2NT = a balanced 8 HCP.
 
-If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
-responses are used as over a 2NT opening:
+After a 2♦ response, opener bids a suit naturally:
+   * 2♥, 2♠, 3♣, 3♦ = natural, forcing
+   * 2NT = 22-24 points (see responses for 2NT opening above)
+   * 3NT = 28+ points (see responses for 3NT opening above)
 
-2♣ — 2♦ — 2NT 
-   * 3♣ = Stayman.
-   * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
-   * 4♣ = Gerber.
-   * 4NT = inviting a slam in notrump.
-
-If opener rebids a suit over a 2♦ response, the bidding is forcing to 3 of opener’s
-major or 4 of opener’s minor.
+In response to a suit rebid, responder indicates strength.
 
 2♣ — 2♦
 
-2♥ — 2♠
-
-3♥ = not forcing.
-
+2♥ 
+   * 2♠, 3♦ = natural, game force
+   * 3♣ = artificial, very weak (0-4, not an ace)
+   * 3NT = no support, 5-7 points
+   * 3♥ = positive, slam invitational
+   * 4♥ = sign-off
+   
 # Weak Two Bids of 2♦, 2♥, or 2♠ 
 A weak two-bid generally shows a six-card suit of reasonable quality and 5–11 HCP. 
 A good five-card suit is possible, especially when non-vulnerable.
@@ -336,10 +335,10 @@ four aces.
    * 5♠ = 3 aces
 
 5NT King Asking:
-   * 6♣ — 0 or 4 kings
-   * 6♦ — 1 king
-   * 6♥ — 2 kings
-   * 6♠ — 3 kings
+   * 6♣ = 0 or 4 kings
+   * 6♦ = 1 king
+   * 6♥ = 2 kings
+   * 6♠ = 3 kings
 
 ## Gerber
 4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
@@ -541,7 +540,7 @@ Signals are:
    1. Count
    1. Suit preference
 
-Discards are Odd/Even. Odd encourages, even discourages.
+First discard is Odd/Even. Odd encourages, even discourages.
 
 Leads are: 
    * top of touching honors and interior sequences.

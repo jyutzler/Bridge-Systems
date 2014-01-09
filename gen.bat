@@ -28,7 +28,7 @@ type MinorOpenings\InvertedInComp.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md
 type SubsequentSuitBidding\NMF+FSF-INV.md >> system.md
 echo # Strong 2♣ >> system.md
-type StrongOpenings\2Club\SAYC.md >> system.md
+type StrongOpenings\2Club\CheaperMinor.md >> system.md
 echo # Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
 type WeakTwos\NSNF.md >> system.md
 echo # Slam Bidding >> system.md
