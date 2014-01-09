@@ -10,8 +10,8 @@ four aces.
    * 5♠ = 3 aces
 
 5NT King Asking:
-   * 6♣ — 0 or 4 kings
-   * 6♦ — 1 king
-   * 6♥ — 2 kings
-   * 6♠ — 3 kings
+   * 6♣ = 0 or 4 kings
+   * 6♦ = 1 king
+   * 6♥ = 2 kings
+   * 6♠ = 3 kings
 
