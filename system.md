@@ -92,12 +92,13 @@ I have a real fit with you.”
 The Texas transfer is on through 3♣. In other words it must be a jump.
 
 ## 2NT and 3NT 
-Stayman and Jacoby transfers for the majors are used.
+Stayman and Jacoby/Texas transfers for the majors are used.
 
 ### 2NT 20-21
    * 3♣ = Stayman.
    * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
    * 4♣ = Gerber (ace asking).
+   * 4♦, 4♥ = Texas transfers to hearts and spades, respectively.
    * 4NT = Invites a slam in notrump.
 
 ### 3NT 25-27
@@ -112,17 +113,26 @@ Open the higher of long suits of equal length: 5–5 or 6–6
 ### Basic Responses Over 1♥
    * 1♠ = at least four spades, 6 or more points. Tends to deny a heart fit.
    * 1NT = 6–10 points, denies four spades or three hearts. NOT forcing.
-   * 2♣, 2♦ = 11 points or more, promises at least four of the suit or heart support.
+   * 2♣, 2♦ = 11 points or more, promises at least four of the suit.
    * 2♥ = three-card or longer heart support; 6–10 dummy points.
-   * 2NT = 13-16 HCP, balanced hand with two-card support for partner.
    * 2♠, 3♣, 3♦ = strong jump shifts. Invites a slam.
-   * 3♥ = limit raise (10–12 dummy points with four or more hearts).
-   * 3NT = 17–18 HCP, balanced hand with two-card support for partner.
+   * 3♥ = limit raise (10–12 dummy points with three or more hearts).
+   * 3NT = 15–17 HCP, balanced hand with two-card support for partner.
    * 4♥ = usually five+ hearts, a singleton or void, and fewer than 10 HCP.
 
 ### Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
+
+### Jacoby 2NT
+Over a 1♥ or 1♠ opening
+   * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
+opener to show a short suit to help responder evaluate slam prospects.
+If opener has no short suit, he shows his hand strength;
+      * 3♣, 3♦, 3♠ = singleton or void in that suit. Other bids deny a short suit.
+      * 4♥ = minimum hand.
+      * 3NT = medium hand (15–17).
+      * 3♥ = maximum hand (18+)
 
 ### Splinter Raises
 Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
@@ -283,30 +293,22 @@ major or 4 of opener’s minor.
 3♥ = not forcing.
 
 # Weak Two Bids of 2♦, 2♥, or 2♠ 
-A weak two-bid shows a six-card suit of reasonable quality and 5–11 HCP. On rare
-occasions it may be a very good five-card suit. It is possible to open a weak two with
-a poor seven-card suit (not good enough to open with at the three level). 
+A weak two-bid generally shows a six-card suit of reasonable quality and 5–11 HCP. 
+A good five-card suit is possible, especially when non-vulnerable.
+A poor seven-card suit is also possible when it is not good enough to open with at the three level. 
 
 Responses:
+   * 2NT: forcing, showing game interest. (This applies also if the
+opponents intervene with a double or a bid.) 
+   * Raise: to play, could be preemptive.
+   * 3NT: to play.
+   * New suit: non-forcing (alertable), showing a better preempt.
 
-A 2NT response is forcing, showing game interest. (This applies also if the
-opponents intervene with a double or a bid.) Opener rebids his suit with a
-minimum weak two (5–8 points). With a maximum hand opener bids another
-suit to show a “feature” (ace or king in that suit); lacking a feature, he raises to
-3NT and lets responder place the contract.
+After a 2NT response,
+   * Rebid original suit: weaker and/or longer suit
+   * New suit: “feature” (ace or king in that suit)
+   * 3NT: AKJ or better, no feature
 
-Any raise of opener’s suit is to play and could be preemptive. 
-
-A 3NT response is also to play.
-
-“RONF” on the card means “Raise Only Non-Force.” A new-suit response is forcing
-one round and shows at least a five-card suit. Opener should raise a major suit
-response with a three-card fit, or perhaps with a doubleton honor.
-
-With no fit for responder’s suit, opener rebids:
-   * With a minimum weak two-bid (5–8 points), rebid the suit at the lowest level.
-   * With a maximum weak two-bid, name a new suit or bid notrump.
-   
 # Slam Bidding 
 ## Blackwood
 Blackwood 4NT is used to ask for aces. Responses show the number of aces by
@@ -420,8 +422,19 @@ opening game bids (4♥ or higher).
 A below-game jump response to a takeout double is invitational. 
 To force, responder cuebids opener’s suit.
 # Preemptive Bids
-Opening suit bids at the three level and higher are preemptive, usually showing 7 cards at the 3-level and 8 cards at the 4-level. They are sound, roughly in accordance with the rule of 500 - you expect to take seven tricks vulnerable, six tricks non-vulnerable out of your own hand.
+Opening suit bids at the three level and higher are preemptive and based on playing tricks
+(the number of tricks you expect to take if your long suit is trumps).
+Overbid based on the rule of 2-3-4:
+   * vulnerable vs. nonvulnerable: overbid by 2 tricks
+   * equal vulnerability: overbid by 3 tricks
+   * nonvulnerable vs. vulnerable: overbid by 4 tricks
 
+Preempts are generally not made in first or second position with:
+   * more than one outside trick
+   * a four-card major Q-x-x-x or better
+   * a void in a minor
+
+Responses in new suits or NT are natural and forcing if below game.
 # Competitive Bidding 
 There is almost an endless variety of possible sequences, so it pays to have simple
 guidelines to prevent bidding misunderstandings.
