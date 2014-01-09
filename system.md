@@ -139,8 +139,9 @@ in making the slam decision.
 
 # Minor Openings 
 ﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
-where a three-card minor suit must be opened. The exception is a hand with 4–4–
-3–2 shape: four spades, four hearts, three diamonds, and two clubs, which should
+where a three-card minor suit must be opened. 
+The exception is a hand with 4–4–3–2 shape: 
+four spades, four hearts, three diamonds, and two clubs, which should
 be opened 1♦.
 
 Responses and later bidding generally follow the ideas set down in the previous
@@ -229,13 +230,7 @@ positive response.
    * 2NT = a balanced 8 HCP.
 
 If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
-responses are used as over a 2NT opening:
-
-2♣ — 2♦ — 2NT 
-   * 3♣ = Stayman.
-   * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
-   * 4♣ = Gerber.
-   * 4NT = inviting a slam in notrump.
+responses are used as over a 2NT opening (see above).
 
 If opener rebids a suit over a 2♦ response, the bidding is forcing to 3 of opener’s
 major or 4 of opener’s minor.
@@ -284,10 +279,10 @@ four aces.
    * 5♠ = 3 aces
 
 5NT King Asking:
-   * 6♣ — 0 or 4 kings
-   * 6♦ — 1 king
-   * 6♥ — 2 kings
-   * 6♠ — 3 kings
+   * 6♣ = 0 or 4 kings
+   * 6♦ = 1 king
+   * 6♥ = 2 kings
+   * 6♠ = 3 kings
 
 ## Gerber
 4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
