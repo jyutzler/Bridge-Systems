@@ -44,9 +44,10 @@ type Preemptive\2-3-4.md >> system.md
 echo # Competitive Bidding >> system.md
 type Competitive\SAYC.md >> system.md
 type Competitive\CueBid\LimitRaise.md >> system.md
+type Competitive\JumpShift\WJS.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\SAYC.md >> system.md
-type Competitive\Negative\SAYC.md >> system.md
+type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo # Defensive Leads and Signals >> system.md
