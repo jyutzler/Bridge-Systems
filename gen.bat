@@ -24,7 +24,7 @@ REM type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\SAYC.md >> system.md
 echo # Minor Openings >> system.md
-type MinorOpenings\SAYC.md >> system.md
+type MinorOpenings\InvertedInComp.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md
 type SubsequentSuitBidding\NMF+FSF-INV.md >> system.md
 echo # Strong 2♣ >> system.md
