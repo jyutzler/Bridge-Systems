@@ -474,6 +474,12 @@ When using this treatment, a jump raise is weak / competitive.
 Note: if you pass a suit bid and bid it later, it is natural, not a cue bid:
    * (1♦) - p - (1♥) - p - (1♠) - 2♦ = natural, 6+  
 
+## Weak Jump Shifts
+In a competitive sequence, jump shifts are weak, showing a similar hand to a preempt.
+To make a strong jump shift in competition:
+   * Double/Redouble and bid a new suit
+   * Cue bid opponent's suit and raise
+
 ## With Conventions
 Unless otherwise noted elsewhere, any bid or double by an opponent cancels a
 convention intended for non-competitive sequences.
@@ -491,15 +497,17 @@ to force to game.
    * Double = at least 10 points, probably balanced.
 
 ## Negative Doubles
-The negative double is used through 2♠ promising four cards (at least) in an unbid
-major. Bidding a major at the two level or higher shows 11 or more points and a
-five-card or longer suit.
+The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
+Bidding a major in competition shows a five-card or longer suit and strength suitable to the level. 
+With insufficient points, double may also be used with a five-card suit.
 
 1♣ — (1♦) — Double = 4–4 or better in the majors.
 
 1♦ — (1♥) — Double = exactly four spades (1♠ promises at least five).
 
-1♦— (1♠) — Double = four hearts and 6+ points or five hearts and 5–10 points.
+1♦ — (1♠) — Double = four hearts and 6+ points or five hearts and 5–10 points.
+
+1♠ — (4♦) — Double = four hearts and 10+ points or five hearts and 8-10 points.
 ## Vs. Takeout Doubles
 If RHO makes a takeout double:
 
