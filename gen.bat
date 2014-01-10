@@ -20,10 +20,10 @@ type MajorOpenings\SAYC.md >> system.md
 echo ## Responses >> system.md
 type MajorOpenings\Basic\inv2NT.md >> system.md
 type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
-echo ## Rebids by Opener >> system.md
-type MajorOpenings\Rebids\SAYC.md >> system.md
 echo # Minor Openings >> system.md
 type MinorOpenings\inv2NT.md >> system.md
+echo ## Rebids by Opener >> system.md
+type MajorOpenings\Rebids\SAYC.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md
 type SubsequentSuitBidding\NMF+FSF-INV.md >> system.md
 echo # Strong 2♣ >> system.md
