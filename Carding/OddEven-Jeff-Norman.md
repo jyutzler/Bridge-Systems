@@ -3,7 +3,7 @@ Signals are:
    1. Count
    1. Suit preference
 
-Discards are Odd/Even. Odd encourages, even discourages.
+First discard is Odd/Even. Odd encourages, even discourages.
 
 Leads are: 
    * top of touching honors and interior sequences.
