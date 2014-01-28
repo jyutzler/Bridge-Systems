@@ -1,7 +1,7 @@
 ﻿
 This branch contains a Markdown file "system.md" that describes the bridge system
-used by Jeff Yutzler and Norman Kittrell. 
-It is based on SAYC with a few additions.
+that Jeff Yutzler would use if playing with his clone. 
+It is based on Standard American as taught by Richard Pavlicek at rpbridge.net.
 It is suitable for advancing club players.
 
 # General Approach 
@@ -396,8 +396,7 @@ A cuebid overcall when the opponents have bid two suits is natural in either sui
 ## NT Overcalls
 ### Direct
 A 1NT overcall shows 15–18 points and a balanced hand (preferably a stopper in
-opener’s suit). No conventional responses are used to the 1NT overcall except 2♣,
-which is Stayman.
+opener’s suit). All systems are on - effectively the opening bid is ignored.
 
 To show a stronger hand, double then bid 1NT to show 19-21 points.
 
