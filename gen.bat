@@ -7,7 +7,7 @@ type GeneralApproach\SAYC.md >> system.md
 echo # Notrump Opening Bids >> system.md
 type NotrumpOpenings\SAYC.md >> system.md
 echo ## 1NT 15-17 >> system.md
-type NotrumpOpenings\1NT\Basic\SAYC.md >> system.md
+type NotrumpOpenings\1NT\Basic\Weak3.md >> system.md
 type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby.md >> system.md
 type NotrumpOpenings\1NT\Minors\SAYC2S.md >> system.md
@@ -34,7 +34,7 @@ type Slam\blackwood.md >> system.md
 type Slam\gerber.md >> system.md
 echo # Defensive Bidding >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
-type Defensive\NTOvercall\SAYC.md >> system.md
+type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
 type Preemptive\sound.md >> system.md
 echo # Competitive Bidding >> system.md

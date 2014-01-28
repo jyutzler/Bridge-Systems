@@ -11,9 +11,12 @@ Strong forcing opening: 2♣;
 Notrump openings show a balanced hand. It is permissible to have a five-card major suit provided the hand is otherwise suitable for notrump.
 ## 1NT 15-17 
 ### Basic Responses
-2NT = Invitational 8-9
-
-3NT = sign-off
+   * 2NT = Invitational 8-9
+   * 3♣, 3♦ = Weak sign-off. Opener must pass unless game is likely opposite nothing more than Qxxxxx.
+   * 3♥, 3♠ = Game force, 5+. However, transfers (if available) are preferred.
+   * 3NT = sign-off
+   * 4♣ = Gerber, asking for aces. (See Slam Bidding)
+   * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
 
 ### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit.
@@ -113,6 +116,26 @@ Open the higher of long suits of equal length: 5–5 or 6–6
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
 
+# Minor Openings 
+﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
+where a three-card minor suit must be opened. 
+The exception is a hand with 4–4–3–2 shape: 
+four spades, four hearts, three diamonds, and two clubs, which should
+be opened 1♦.
+
+Responses and later bidding generally follow the ideas set down in the previous
+section. Bidding at the one level is up-the-line in principle. Responder needs more
+trumps to raise (four to raise 1♦; five to raise 1♣, though one fewer trump will do
+in a pinch in a competitive sequence). 
+
+Responses of 2NT and 3NT are standard:
+
+1♣
+   * 2NT = 13–15, game forcing
+   * 3NT = 16–17
+
+There is no forcing minor-suit raise.
+
 ## Rebids by Opener 
 Opener’s rebids are natural and standard.
 ### Rebids with a minimum hand (13–16 points)
@@ -136,26 +159,6 @@ than the opening suit;
 Responder follows up by attempting to sign off in game, bidding 4NT
 Blackwood, or cuebidding if still interested in trying to cooperate with opener
 in making the slam decision.
-
-# Minor Openings 
-﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
-where a three-card minor suit must be opened. 
-The exception is a hand with 4–4–3–2 shape: 
-four spades, four hearts, three diamonds, and two clubs, which should
-be opened 1♦.
-
-Responses and later bidding generally follow the ideas set down in the previous
-section. Bidding at the one level is up-the-line in principle. Responder needs more
-trumps to raise (four to raise 1♦; five to raise 1♣, though one fewer trump will do
-in a pinch in a competitive sequence). 
-
-Responses of 2NT and 3NT are standard:
-
-1♣
-   * 2NT = 13–15, game forcing
-   * 3NT = 16–17
-
-There is no forcing minor-suit raise.
 
 ## Subsequent Bidding by Responder 
 If responder has bid a suit at the one level, he next determines whether he wishes
@@ -229,18 +232,22 @@ positive response.
 8 points.
    * 2NT = a balanced 8 HCP.
 
-If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
-responses are used as over a 2NT opening (see above).
+After a 2♦ response, opener bids a suit naturally:
+   * 2♥, 2♠, 3♣, 3♦ = natural, forcing
+   * 2NT = 22-24 points (see responses for 2NT opening above)
+   * 3NT = 28+ points (see responses for 3NT opening above)
 
-If opener rebids a suit over a 2♦ response, the bidding is forcing to 3 of opener’s
-major or 4 of opener’s minor.
+In response to a suit rebid, responder indicates strength.
 
 2♣ — 2♦
 
-2♥ — 2♠
-
-3♥ = not forcing.
-
+2♥ 
+   * 2♠, 3♦ = natural, game force
+   * 3♣ = artificial, very weak (0-4, not an ace)
+   * 3NT = no support, 5-7 points
+   * 3♥ = positive, slam invitational
+   * 4♥ = sign-off
+   
 # Weak Two Bids of 2♦, 2♥, or 2♠ 
 A weak two-bid shows a six-card suit of reasonable quality and 5–11 HCP. On rare
 occasions it may be a very good five-card suit. It is possible to open a weak two with
@@ -334,8 +341,7 @@ A cuebid overcall when the opponents have bid two suits is natural in either sui
 ## NT Overcalls
 ### Direct
 A 1NT overcall shows 15–18 points and a balanced hand (preferably a stopper in
-opener’s suit). No conventional responses are used to the 1NT overcall except 2♣,
-which is Stayman.
+opener’s suit). All systems are on - effectively the opening bid is ignored.
 
 To show a stronger hand, double then bid 1NT to show 19-21 points.
 
