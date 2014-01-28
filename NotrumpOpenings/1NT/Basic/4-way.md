@@ -1,6 +1,8 @@
 ### Basic Responses
-   * 2NT = Invitational 8-9
-   * 3♣, 3♦ = Weak sign-off. Opener must pass unless game is likely opposite nothing more than Qxxxxx.
+   * 2♣ = Stayman (also for invitational hands)
+   * 2NT = Transfer to 3♣, bust or better than game signoff
+   * 3♣ = Transfer to 3♦, bust or better than game signoff
+   * 3♦ = 5-5 in majors, game forcing
    * 3♥, 3♠ = Game force, 5+. However, transfers (if available) are preferred.
    * 3NT = sign-off
    * 4♣ = Gerber, asking for aces. (See Slam Bidding)
