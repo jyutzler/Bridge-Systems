@@ -12,8 +12,11 @@ Strong forcing opening: 2♣;
 Notrump openings show a balanced hand. It is permissible to have a five-card major suit provided the hand is otherwise suitable for notrump.
 ## 1NT 15-17 
 ### Basic Responses
-   * 2NT = Invitational 8-9
-   * 3♥, 3♦ = Weak sign-off. Opener must pass unless game is likely opposite nothing more than Qxxxxx.
+   * 2♣ = Stayman (also for invitational hands)
+   * 2NT = Transfer to 3♣, bust or better than game signoff
+   * 3♣ = Transfer to 3♦, bust or better than game signoff
+   * 3♦ = 5-5 in majors, game forcing
+   * 3♥, 3♠ = Game force, 5+. However, transfers (if available) are preferred.
    * 3NT = sign-off
    * 4♣ = Gerber, asking for aces. (See Slam Bidding)
    * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
@@ -149,6 +152,15 @@ In competition, splinters are off except for jumps in the opponent's suit.
 
 Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
 
+### Two Way Reverse Drury
+In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). To prevent the contract from getting too high, responder may bid the following: 
+   * 2 of a minor shows a limit raise
+      * 2♣ = 3 card support
+      * 2♦ = 4+ card support
+   * Opener clarifies strength with the rebid   
+      * Rebidding the suit at the 2 level shows a light opener
+      * any other bid shows a full opener
+
 ## Rebids by Opener 
 Opener’s rebids are natural and standard.
 ### Rebids with a minimum hand (13–16 points)
@@ -175,8 +187,9 @@ in making the slam decision.
 
 # Minor Openings 
 ﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
-where a three-card minor suit must be opened. The exception is a hand with 4–4–
-3–2 shape: four spades, four hearts, three diamonds, and two clubs, which should
+where a three-card minor suit must be opened. 
+The exception is a hand with 4–4–3–2 shape: 
+four spades, four hearts, three diamonds, and two clubs, which should
 be opened 1♦.
 
 Responses and later bidding generally follow the ideas set down in the previous
@@ -265,13 +278,7 @@ positive response.
    * 2NT = a balanced 8 HCP.
 
 If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
-responses are used as over a 2NT opening:
-
-2♣ — 2♦ — 2NT 
-   * 3♣ = Stayman.
-   * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
-   * 4♣ = Gerber.
-   * 4NT = inviting a slam in notrump.
+responses are used as over a 2NT opening (see above).
 
 If opener rebids a suit over a 2♦ response, the bidding is forcing to 3 of opener’s
 major or 4 of opener’s minor.
@@ -308,22 +315,36 @@ With no fit for responder’s suit, opener rebids:
    * With a maximum weak two-bid, name a new suit or bid notrump.
    
 # Slam Bidding 
-## Blackwood
-Blackwood 4NT is used to ask for aces. Responses show the number of aces by
-steps. 5NT is then used to ask for kings; 5NT guarantees the partnership holds all
-four aces.
+## Roman Key-Card Blackwood 1430
+Once suit agreement has been reached, 4NT is used to ask for keycards - 
+the 4 aces and the king of trump. 
 
-4NT Ace Asking:
-   * 5♣ = 0 or 4 aces
-   * 5♦ = 1 ace
-   * 5♥ = 2 aces
-   * 5♠ = 3 aces
+4NT KC Asking:
+   * 5♣ = 1 or 4 keycards
+   * 5♦ = 3 or 0 keycards
+   * 5♥ = 2 keycards, no queen of trump
+   * 5♠ = 2 keycards, queen of trump
 
-5NT King Asking:
-   * 6♣ — 0 or 4 kings
-   * 6♦ — 1 king
-   * 6♥ — 2 kings
-   * 6♠ — 3 kings
+After a 5♣ or 5♦ response, the Blackwood initiator may ask for the queen of trump
+(or extra trump length) by bidding the next step:
+
+   * (heart suit agreement) - 4NT - 5♣ - 5♦ = Queen ask
+      * 5♥ = no queen
+	  * 5♠, 6♣, 6♦ = queen that king and no lower kings
+	  * 6♥ = queen, no lower kings
+
+
+### With (Useful) Voids
+After 4NT, responder can show voids with at least one keycard:
+   * 5NT = even number of keycards (never zero)
+   * 6 of void suit = odd number of keycards
+   * 6 of trump suit = odd number of keycards, void is in higher suit
+
+### 5NT
+5NT guarantees the partnership holds all five keycards and is invitational to grand.
+A 6-level bid shows the king in that suit.
+
+
 
 ## Gerber
 4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
@@ -420,8 +441,19 @@ opening game bids (4♥ or higher).
 A below-game jump response to a takeout double is invitational. 
 To force, responder cuebids opener’s suit.
 # Preemptive Bids
-Opening suit bids at the three level and higher are preemptive, usually showing 7 cards at the 3-level and 8 cards at the 4-level. They are sound, roughly in accordance with the rule of 500 - you expect to take seven tricks vulnerable, six tricks non-vulnerable out of your own hand.
+Opening suit bids at the three level and higher are preemptive and based on playing tricks
+(the number of tricks you expect to take if your long suit is trumps).
+Overbid based on the rule of 2-3-4:
+   * vulnerable vs. nonvulnerable: overbid by 2 tricks
+   * equal vulnerability: overbid by 3 tricks
+   * nonvulnerable vs. vulnerable: overbid by 4 tricks
 
+Preempts are generally not made in first or second position with:
+   * more than one outside trick
+   * a four-card major Q-x-x-x or better
+   * a void in a minor
+
+Responses in new suits or NT are natural and forcing if below game.
 # Competitive Bidding 
 There is almost an endless variety of possible sequences, so it pays to have simple
 guidelines to prevent bidding misunderstandings.
@@ -514,7 +546,7 @@ Signals are:
    1. Count
    1. Suit preference
 
-Discards are Odd/Even. Odd encourages, even discourages.
+First discard is Odd/Even. Odd encourages, even discourages.
 
 Leads are: 
    * top of touching honors and interior sequences.
