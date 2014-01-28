@@ -36,7 +36,7 @@ type Slam\blackwood.md >> system.md
 type Slam\gerber.md >> system.md
 echo # Defensive Bidding >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
-type Defensive\NTOvercall\SAYC.md >> system.md
+type Defensive\NTOvercall\RP.md >> system.md
 type Defensive\UnusualNT\SAYC.md >> system.md
 type Defensive\Michaels\SAYC.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
