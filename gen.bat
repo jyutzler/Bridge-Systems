@@ -18,6 +18,7 @@ echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ## Responses >> system.md
 type MajorOpenings\Basic\forcing2NT.md >> system.md
+type MajorOpenings\1NT\SAYC.md >> system.md
 type MajorOpenings\Conventional\Splinter-RP.md >> system.md
 type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Rebids by Opener >> system.md
