@@ -120,7 +120,7 @@ with one of the following hand patterns:
    * 5-3-3-2 
    * 4=5=2=2 distribution (four spades and five hearts)
 
-### Jacoby 2NT
+## Jacoby 2NT
 Over a 1♥ or 1♠ opening
    * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
 opener to show a short suit to help responder evaluate slam prospects.
