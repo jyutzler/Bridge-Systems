@@ -1,4 +1,4 @@
-### Jacoby 2NT
+## Jacoby 2NT
 Over a 1♥ or 1♠ opening
    * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
 opener to show a short suit to help responder evaluate slam prospects.
