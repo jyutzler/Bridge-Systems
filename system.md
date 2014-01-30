@@ -97,10 +97,8 @@ Stayman and Jacoby transfers for the majors are used.
 Normally open five-card majors in all seats.
 
 Open the higher of long suits of equal length: 5–5 or 6–6
-## Responses 
-### Basic Responses Over 1♥
+## Basic Responses Over 1♥
    * 1♠ = at least four spades, 6 or more points. Tends to deny a heart fit.
-   * 1NT = 6–10 points, denies four spades or three hearts. NOT forcing.
    * 2♣, 2♦ = 11 points or more, promises at least four of the suit.
    * 2♥ = three-card or longer heart support; 6–10 dummy points.
    * 2♠, 3♣, 3♦ = strong jump shifts. Invites a slam.
@@ -108,9 +106,19 @@ Open the higher of long suits of equal length: 5–5 or 6–6
    * 3NT = 15–17 HCP, balanced hand with two-card support for partner.
    * 4♥ = usually five+ hearts, a singleton or void, and fewer than 10 HCP.
 
-### Basic Responses Over 1♠
+## Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
+
+## 1NT Response
+1NT shows 6–10 points and denies support for the major opened.
+
+It also denies denies four spades after a 1♥ opening.
+
+It is not forcing, but opener is expected to bid unless the hand is a minimum
+with one of the following hand patterns:
+   * 5-3-3-2 
+   * 4=5=2=2 distribution (four spades and five hearts)
 
 ### Jacoby 2NT
 Over a 1♥ or 1♠ opening
