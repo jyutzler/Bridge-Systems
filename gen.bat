@@ -16,7 +16,6 @@ echo ## 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
 echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
-echo ## Responses >> system.md
 type MajorOpenings\Basic\forcing2NT.md >> system.md
 type MajorOpenings\1NT\SAYC.md >> system.md
 type MajorOpenings\Conventional\Splinter-RP.md >> system.md

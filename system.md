@@ -111,7 +111,6 @@ Stayman and Jacoby transfers for the majors are used.
 Normally open five-card majors in all seats.
 
 Open the higher of long suits of equal length: 5–5 or 6–6
-## Responses 
 ## Basic Responses Over 1♥
    * 1♠ = at least four spades, 6 or more points. Tends to deny a heart fit.
    * 2♣, 2♦ = 11 points or more, promises at least four of the suit or heart support.
