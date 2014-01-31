@@ -32,7 +32,7 @@ type SubsequentSuitBidding\NMF+FSF-INV.md >> system.md
 echo # Strong 2♣ >> system.md
 type StrongOpenings\2Club\SAYC.md >> system.md
 echo # Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
-type WeakTwos\SAYC.md >> system.md
+type WeakTwos\NSNF.md >> system.md
 echo # Slam Bidding >> system.md
 type Slam\1430.md >> system.md
 type Slam\gerber.md >> system.md

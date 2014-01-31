@@ -307,30 +307,22 @@ major or 4 of opener’s minor.
 3♥ = not forcing.
 
 # Weak Two Bids of 2♦, 2♥, or 2♠ 
-A weak two-bid shows a six-card suit of reasonable quality and 5–11 HCP. On rare
-occasions it may be a very good five-card suit. It is possible to open a weak two with
-a poor seven-card suit (not good enough to open with at the three level). 
+A weak two-bid generally shows a six-card suit of reasonable quality and 5–11 HCP. 
+A good five-card suit is possible, especially when non-vulnerable.
+A poor seven-card suit is also possible when it is not good enough to open with at the three level. 
 
 Responses:
+   * 2NT: forcing, showing game interest. (This applies also if the
+opponents intervene with a double or a bid.) 
+   * Raise: to play, could be preemptive.
+   * 3NT: to play.
+   * New suit: non-forcing (alertable), showing a better preempt.
 
-A 2NT response is forcing, showing game interest. (This applies also if the
-opponents intervene with a double or a bid.) Opener rebids his suit with a
-minimum weak two (5–8 points). With a maximum hand opener bids another
-suit to show a “feature” (ace or king in that suit); lacking a feature, he raises to
-3NT and lets responder place the contract.
+After a 2NT response,
+   * Rebid original suit: weaker and/or longer suit
+   * New suit: “feature” (ace or king in that suit)
+   * 3NT: AKJ or better, no feature
 
-Any raise of opener’s suit is to play and could be preemptive. 
-
-A 3NT response is also to play.
-
-“RONF” on the card means “Raise Only Non-Force.” A new-suit response is forcing
-one round and shows at least a five-card suit. Opener should raise a major suit
-response with a three-card fit, or perhaps with a doubleton honor.
-
-With no fit for responder’s suit, opener rebids:
-   * With a minimum weak two-bid (5–8 points), rebid the suit at the lowest level.
-   * With a maximum weak two-bid, name a new suit or bid notrump.
-   
 # Slam Bidding 
 ## Roman Key-Card Blackwood 1430
 Once suit agreement has been reached, 4NT is used to ask for keycards - 
