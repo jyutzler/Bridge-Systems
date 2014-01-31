@@ -103,14 +103,14 @@ Open the higher of long suits of equal length: 5–5 or 6–6
    * 2♥ = three-card or longer heart support; 6–10 dummy points.
    * 2♠, 3♣, 3♦ = strong jump shifts. Invites a slam.
    * 3♥ = limit raise (10–12 dummy points with three or more hearts).
-   * 3NT = 15–17 HCP, balanced hand with two-card support for partner.
    * 4♥ = usually five+ hearts, a singleton or void, and fewer than 10 HCP.
 
 ## Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
 
-## 1NT Response
+## NT Responses 
+### 1NT
 1NT shows 6–10 points and denies support for the major opened.
 
 It also denies denies four spades after a 1♥ opening.
@@ -120,7 +120,7 @@ with one of the following hand patterns:
    * 5-3-3-2 
    * 4=5=2=2 distribution (four spades and five hearts)
 
-## Jacoby 2NT
+### Jacoby 2NT
 Over a 1♥ or 1♠ opening
    * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
 opener to show a short suit to help responder evaluate slam prospects.
@@ -130,7 +130,10 @@ If opener has no short suit, he shows his hand strength;
       * 3NT = medium hand (15–17).
       * 3♥ = maximum hand (18+)
 
-## Rebids by Opener 
+### 3NT
+3NT = 15-17 HCP, balanced hand with two-card support for partner.
+
+## Suit Rebids by Opener 
 Opener’s rebids are natural and standard.
 ### Rebids with a minimum hand (13–16 points)
    * Rebidding notrump at the lowest available level;
