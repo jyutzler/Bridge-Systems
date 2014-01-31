@@ -16,10 +16,13 @@ echo ## 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
 echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
-type MajorOpenings\Basic\forcing2NT.md >> system.md
-type MajorOpenings\1NT\SAYC.md >> system.md
+echo ## Suit Responses >> system.md
+type MajorOpenings\SuitResponses\4CLR.md >> system.md
 type MajorOpenings\Conventional\Splinter-RP.md >> system.md
 type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
+echo ## NT Responses >> system.md
+type MajorOpenings\1NT\SAYC.md >> system.md
+type MajorOpenings\2NT+3NT\2NTunlimited+3NTFraise.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\SAYC.md >> system.md
 echo # Minor Openings >> system.md

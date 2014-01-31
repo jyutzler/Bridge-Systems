@@ -111,29 +111,18 @@ Stayman and Jacoby transfers for the majors are used.
 Normally open five-card majors in all seats.
 
 Open the higher of long suits of equal length: 5–5 or 6–6
-## Basic Responses Over 1♥
+## Suit Responses 
+### Basic Responses Over 1♥
    * 1♠ = at least four spades, 6 or more points. Tends to deny a heart fit.
-   * 2♣, 2♦ = 11 points or more, promises at least four of the suit or heart support.
+   * 2♣, 2♦ = 11 points or more, promises at least four of the suit or three-card heart support.
    * 2♥ = three-card or longer heart support; 6–10 dummy points.
-   * 2NT = 13-16 HCP, balanced hand with two-card support for partner.
    * 2♠, 3♣, 3♦ = strong jump shifts. Invites a slam.
    * 3♥ = limit raise (10–12 dummy points with four or more hearts).
-   * 3NT = 17–18 HCP, balanced hand with two-card support for partner.
    * 4♥ = usually five+ hearts, a singleton or void, and fewer than 10 HCP.
 
-## Basic Responses Over 1♠
+### Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
-
-## 1NT Response
-1NT shows 6–10 points and denies support for the major opened.
-
-It also denies denies four spades after a 1♥ opening.
-
-It is not forcing, but opener is expected to bid unless the hand is a minimum
-with one of the following hand patterns:
-   * 5-3-3-2 
-   * 4=5=2=2 distribution (four spades and five hearts)
 
 ### Splinter Raises
 Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
@@ -161,13 +150,33 @@ In competition, splinters are off except for jumps in the opponent's suit.
 Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
 
 ### Two Way Reverse Drury
-In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). To prevent the contract from getting too high, responder may bid the following: 
+In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). 
+To prevent the contract from getting too high, responder may bid the following: 
    * 2 of a minor shows a limit raise
       * 2♣ = 3 card support
       * 2♦ = 4+ card support
    * Opener clarifies strength with the rebid   
       * Rebidding the suit at the 2 level shows a light opener
       * any other bid shows a full opener
+
+## NT Responses 
+### 1NT
+1NT shows 6–10 points and denies support for the major opened.
+
+It also denies denies four spades after a 1♥ opening.
+
+It is not forcing, but opener is expected to bid unless the hand is a minimum
+with one of the following hand patterns:
+   * 5-3-3-2 
+   * 4=5=2=2 distribution (four spades and five hearts)
+
+### 2NT
+2NT = 13+ HCP, balanced hand, game forcing
+   * New suit responses show 4+ cards
+
+### 3NT
+3NT = forcing raise, 13+, balanced hand, 4+card support
+   * Cue bids in a new suit are cue bids, suggesting slam
 
 ## Rebids by Opener 
 Opener’s rebids are natural and standard.
