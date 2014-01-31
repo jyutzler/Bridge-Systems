@@ -1,4 +1,4 @@
-## 1NT Forcing Response
+### 1NT Forcing
 1NT typically shows 6–12 points and is used in a number of circumstances:
    * No support for the major opened 
    * A three-card limit raise
