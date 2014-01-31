@@ -17,7 +17,8 @@ echo ## 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
 echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
-type MajorOpenings\Basic\SAYC.md >> system.md
+echo ## Suit Responses >> system.md
+type MajorOpenings\SuitResponses\SAYC.md >> system.md
 echo ## NT Responses >> system.md
 type MajorOpenings\1NT\SAYC.md >> system.md
 type MajorOpenings\2NT+3NT\Jacoby.md >> system.md
