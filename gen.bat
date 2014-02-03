@@ -13,7 +13,7 @@ type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\Minors\MSS.md >> system.md
 type NotrumpOpenings\1NT\Interference\Jacoby+Texas.md >> system.md
 echo ## 2NT and 3NT >> system.md
-type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
+type NotrumpOpenings\2NT+3NT\Texas.md >> system.md
 echo # Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ## Suit Responses >> system.md
@@ -26,11 +26,11 @@ type MajorOpenings\2NT+3NT\2NTunlimited+3NTFraise.md >> system.md
 echo ## Rebids by Opener >> system.md
 type MajorOpenings\Rebids\SAYC.md >> system.md
 echo # Minor Openings >> system.md
-type MinorOpenings\SAYC.md >> system.md
+type MinorOpenings\InvertedInComp.md >> system.md
 echo ## Subsequent Bidding by Responder >> system.md
 type SubsequentSuitBidding\NMF+FSF-INV.md >> system.md
 echo # Strong 2♣ >> system.md
-type StrongOpenings\2Club\SAYC.md >> system.md
+type StrongOpenings\2Club\CheaperMinor.md >> system.md
 echo # Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
 type WeakTwos\NSNF.md >> system.md
 echo # Slam Bidding >> system.md
@@ -47,9 +47,10 @@ type Preemptive\2-3-4.md >> system.md
 echo # Competitive Bidding >> system.md
 type Competitive\SAYC.md >> system.md
 type Competitive\CueBid\LimitRaise.md >> system.md
+type Competitive\JumpShift\WJS.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\SAYC.md >> system.md
-type Competitive\Negative\SAYC.md >> system.md
+type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo # Defensive Leads and Signals >> system.md

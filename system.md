@@ -95,12 +95,13 @@ I have a real fit with you.”
 The Texas transfer is on through 3♣. In other words it must be a jump.
 
 ## 2NT and 3NT 
-Stayman and Jacoby transfers for the majors are used.
+Stayman and Jacoby/Texas transfers for the majors are used.
 
 ### 2NT 20-21
    * 3♣ = Stayman.
    * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
    * 4♣ = Gerber (ace asking).
+   * 4♦, 4♥ = Texas transfers to hearts and spades, respectively.
    * 4NT = Invites a slam in notrump.
 
 ### 3NT 25-27
@@ -207,20 +208,34 @@ in making the slam decision.
 where a three-card minor suit must be opened. 
 The exception is a hand with 4–4–3–2 shape: 
 four spades, four hearts, three diamonds, and two clubs, which should
-be opened 1♦.
+be opened 1♦. 
+However, it is acceptable to open 1♣ when 4-4 in the minors especially with a 
+balanced hand (opener expects to bid NT next).
 
 Responses and later bidding generally follow the ideas set down in the previous
-section. Bidding at the one level is up-the-line in principle. Responder needs more
-trumps to raise (four to raise 1♦; five to raise 1♣, though one fewer trump will do
-in a pinch in a competitive sequence). 
+section. Bidding at the one level is up-the-line in principle. 
 
 Responses of 2NT and 3NT are standard:
 
 1♣
-   * 2NT = 13–15, game forcing
-   * 3NT = 16–17
+   * 2NT = 13–16, game forcing
+   * 3NT = 17–18
 
-There is no forcing minor-suit raise.
+## Raises
+Raises are inverted so a raise to two is strong (limit raise or better) 
+and a raise to 3 is weak (preemptive).
+Responder needs more trumps to raise (four to raise 1♦; five to raise 1♣, 
+though one fewer trump will do in a pinch in a competitive sequence).
+Since four card majors should be bid up-the-line, a raise denies a four card major. 
+Once a minor is raised, the bidding must end in that suit or NT.
+
+1♦ - 2♦
+   * 2♥, 2♠ = stopper
+   * 2NT = balanced minimum, side suits stopped
+   * 3♦ = unbalanced minimum
+   * 3NT = 18-19, side suits stopped
+
+Inverted raises are on in competition.
 
 ## Subsequent Bidding by Responder 
 If responder has bid a suit at the one level, he next determines whether he wishes
@@ -294,18 +309,22 @@ positive response.
 8 points.
    * 2NT = a balanced 8 HCP.
 
-If opener rebids 2NT after a 2♦ response (showing 22–24 points), the same
-responses are used as over a 2NT opening (see above).
+After a 2♦ response, opener bids a suit naturally:
+   * 2♥, 2♠, 3♣, 3♦ = natural, forcing
+   * 2NT = 22-24 points (see responses for 2NT opening above)
+   * 3NT = 28+ points (see responses for 3NT opening above)
 
-If opener rebids a suit over a 2♦ response, the bidding is forcing to 3 of opener’s
-major or 4 of opener’s minor.
+In response to a suit rebid, responder indicates strength.
 
 2♣ — 2♦
 
-2♥ — 2♠
-
-3♥ = not forcing.
-
+2♥ 
+   * 2♠, 3♦ = natural, game force
+   * 3♣ = artificial, very weak (0-4, not an ace)
+   * 3NT = no support, 5-7 points
+   * 3♥ = positive, slam invitational
+   * 4♥ = sign-off
+   
 # Weak Two Bids of 2♦, 2♥, or 2♠ 
 A weak two-bid generally shows a six-card suit of reasonable quality and 5–11 HCP. 
 A good five-card suit is possible, especially when non-vulnerable.
@@ -498,6 +517,12 @@ When using this treatment, a jump raise is weak / competitive.
 Note: if you pass a suit bid and bid it later, it is natural, not a cue bid:
    * (1♦) - p - (1♥) - p - (1♠) - 2♦ = natural, 6+  
 
+## Weak Jump Shifts
+In a competitive sequence, jump shifts are weak, showing a similar hand to a preempt.
+To make a strong jump shift in competition:
+   * Double/Redouble and bid a new suit
+   * Cue bid opponent's suit and raise
+
 ## With Conventions
 Unless otherwise noted elsewhere, any bid or double by an opponent cancels a
 convention intended for non-competitive sequences.
@@ -515,15 +540,17 @@ to force to game.
    * Double = at least 10 points, probably balanced.
 
 ## Negative Doubles
-The negative double is used through 2♠ promising four cards (at least) in an unbid
-major. Bidding a major at the two level or higher shows 11 or more points and a
-five-card or longer suit.
+The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
+Bidding a major in competition shows a five-card or longer suit and strength suitable to the level. 
+With insufficient points, double may also be used with a five-card suit.
 
 1♣ — (1♦) — Double = 4–4 or better in the majors.
 
 1♦ — (1♥) — Double = exactly four spades (1♠ promises at least five).
 
-1♦— (1♠) — Double = four hearts and 6+ points or five hearts and 5–10 points.
+1♦ — (1♠) — Double = four hearts and 6+ points or five hearts and 5–10 points.
+
+1♠ — (4♦) — Double = four hearts and 10+ points or five hearts and 8-10 points.
 ## Vs. Takeout Doubles
 If RHO makes a takeout double:
 
