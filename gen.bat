@@ -36,6 +36,7 @@ type WeakTwos\NSNF.md >> system.md
 echo # Slam Bidding >> system.md
 type Slam\1430.md >> system.md
 type Slam\gerber.md >> system.md
+type Slam\pickaslam.md >> system.md
 echo # Defensive Bidding >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
 type Defensive\NTOvercall\systems-on.md >> system.md

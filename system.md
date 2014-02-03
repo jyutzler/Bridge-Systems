@@ -339,7 +339,7 @@ After a 5♣ or 5♦ response, the Blackwood initiator may ask for the queen of 
 
    * (heart suit agreement) - 4NT - 5♣ - 5♦ = Queen ask
       * 5♥ = no queen
-	  * 5♠, 6♣, 6♦ = queen that king and no lower kings
+	  * 5♠, 6♣, 6♦ = queen, that king, and no lower kings
 	  * 6♥ = queen, no lower kings
 
 
@@ -378,6 +378,16 @@ King Asking:
    * 5♥ = 1 king
    * 5♠ = 2 kings
    * 5NT = 3 kings
+
+## 5NT Pick a Slam
+A voluntary bid of 5NT is forcing and asks partner to try to pick the best slam available.
+There are no hard-and-fast rules here, but possibilities include:
+   * bidding a new 4-card suit (looking for a 4-4 fit)
+   * supporting partner with mild support (looking for a good 7-card fit)
+   * rebidding a previously bid suit with unannounced length and/or strength
+   * returning to 6NT with no better options
+
+The asker may continue to bid up the line if completely displeased with the response.
 
 # Defensive Bidding 
 ## Overcalls
