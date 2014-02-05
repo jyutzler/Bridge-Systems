@@ -13,9 +13,8 @@ Notrump openings show a balanced hand. It is permissible to have a five-card maj
 ## 1NT 15-17 
 ### Basic Responses
    * 2♣ = Stayman (also for invitational hands)
-   * 2NT = Transfer to 3♣, bust or better than game signoff
-   * 3♣ = Transfer to 3♦, bust or better than game signoff
-   * 3♦ = 5-5 in majors, game forcing
+   * 2NT = Transfer to 3♣, bust or slam invitation
+   * 3♣ = Transfer to 3♦, bust or slam invitation
    * 3♥, 3♠ = Game force, 5+. However, transfers (if available) are preferred.
    * 3NT = sign-off
    * 4♣ = Gerber, asking for aces. (See Slam Bidding)
@@ -74,6 +73,18 @@ while reducing the risk of unwanted interference from the opponents.
    * Slam invitation (opening strength): Jacoby, raise to 4
    * Slam (stronger-than-minimum opening): Texas, 4NT (Blackwood)
 
+### 3 Diamonds 5-5 Majors Game-forcing
+When using the 4-way transfers, the 3♦ bid is normally idle.
+Instead of the traditional (1NT - 2♥ - 2♠ - 3♥), 
+3♦ is now used to show a game forcing hand with both majors. 
+This ensures that opener is declarer.
+
+The other uses stay the same:
+   * Transfer to the weaker major and pass = bust
+   * 1NT - 2♦ - 2♥ - 2♠ = invitational
+   * 1NT - 3♦ = game forcing, 5-5 in majors
+
+Note: This treatment is a simplified version of [Richard Pavlicek's](http://rpbridge.net/7g66.htm).
 ### Minor Suit Stayman
 A 2♠ response shows at least an invitational hand with strength in both minors.
 

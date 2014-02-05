@@ -10,6 +10,7 @@ echo ## 1NT 15-17 >> system.md
 type NotrumpOpenings\1NT\Basic\4-way.md >> system.md
 type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
+type NotrumpOpenings\1NT\5-5Majors\3DGF.md >> system.md
 type NotrumpOpenings\1NT\Minors\MSS.md >> system.md
 type NotrumpOpenings\1NT\Interference\Jacoby+Texas.md >> system.md
 echo ## 2NT and 3NT >> system.md
