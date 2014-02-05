@@ -72,6 +72,14 @@ while reducing the risk of unwanted interference from the opponents.
    * Slam invitation (opening strength): Jacoby, raise to 4
    * Slam (stronger-than-minimum opening): Texas, 4NT (Blackwood)
 
+### 5-5 Majors
+When using the Jacoby transfer, it is possible to show 5-5 in the majors 
+with a number of hand types.
+
+   * Transfer to the weaker major and pass = bust
+   * 1NT - 2♦ - 2♥ - 2♠ = invitational
+   * 1NT - 2♥ - 2♠ - 3♥ = game forcing
+
 ### Minor Suit Stayman
 A 2♠ response shows at least an invitational hand with strength in both minors.
 
