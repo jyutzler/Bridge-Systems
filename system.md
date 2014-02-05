@@ -1,7 +1,7 @@
 ﻿
 This branch contains a Markdown file "system.md" that describes the bridge system
 that Jeff Yutzler would use if playing with his clone. 
-It is based on Standard American as taught by Richard Pavlicek at rpbridge.net.
+It is based on Standard American as taught by Richard Pavlicek at http://rpbridge.net.
 It is suitable for advancing club players.
 
 # General Approach 
