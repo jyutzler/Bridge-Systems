@@ -173,16 +173,6 @@ In competition, splinters are off except for jumps in the opponent's suit.
 
 Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
 
-### Two Way Reverse Drury
-In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). 
-To prevent the contract from getting too high, responder may bid the following: 
-   * 2 of a minor shows a limit raise
-      * 2♣ = 3 card support
-      * 2♦ = 4+ card support
-   * Opener clarifies strength with the rebid   
-      * Rebidding the suit at the 2 level shows a light opener
-      * any other bid shows a full opener
-
 ## NT Responses 
 ### 1NT
 1NT shows 6–10 points and denies support for the major opened.
