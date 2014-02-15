@@ -28,28 +28,31 @@ Opener rebids:
 If responder rebids three of either minor,
 he shows slam interest and at least a five-card suit.
 ### Jacoby Transfer
-The Jacoby transfer that shows a five-card suit is used for the majors: 2♦ is a
-transfer to hearts, 2♥ is a transfer to spades. Opener accepts the transfer, though
-he can jump to the three level with 17 points and four-card support for responder’s
-major. For example:
+The Jacoby Transfer shows a five-card major. 
+After a 1NT opening (or overcall if systems are on - see Defensive Bidding):
+   * 2♦ = transfer to hearts
+   * 2♥ = transfer to spades. 
+
+Opener accepts the transfer, though he can jump to the three level 
+with 17 points and four-card support for responder’s major. For example:
 
 1NT — 2♦
 
    * 2♥ = normal acceptance of the transfer.
    * 3♥ = 17 points and four-card heart support.
 
-If, after the transfer is accepted, responder bids a new suit, that is natural and
-game forcing. Possible calls after the accepted transfer are:
+If, after the transfer is accepted, responder bids a new suit, 
+that is natural and game forcing. 
+Possible calls after the accepted transfer are:
 
 1NT — 2♥ — 2♠
    * Pass = content to play 2♠.
    * 2NT = invitational with a five-card suit. Opener may pass or bid 3♠
 with a minimum hand; bid 3NT or 4♠ with a maximum.
+   * 3♣, 3♦, 3♥ = natural and game forcing (4+).
    * 3♠ = invitational with a six-card suit. Opener may pass with a minimum hand; bid 3NT or 4♠ with a maximum.
-   * 3♣, 3♦, 3♥ = natural and game forcing.
    * 3NT = asking for a choice between 3NT and 4♠.
-   * 4♠ = placing the contract, with a six-card or longer suit.
-
+   * 4NT = quantitative invitation to 6♠ or 6NT with a five-card suit.
 ### 2 Spades
 A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
 club bust, or responder may rebid 3♦ with a diamond bust. Example:
@@ -110,16 +113,6 @@ Open the higher of long suits of equal length: 5–5 or 6–6
 ### Basic Responses Over 1♠
 Same as above except:
    * 2♥ = 11 points or more, promises at least five of the suit.
-
-### Two Way Reverse Drury
-In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). 
-To prevent the contract from getting too high, responder may bid the following: 
-   * 2 of a minor shows a limit raise
-      * 2♣ = 3 card support
-      * 2♦ = 4+ card support
-   * Opener clarifies strength with the rebid   
-      * Rebidding the suit at the 2 level shows a light opener
-      * any other bid shows a full opener
 
 ## NT Responses 
 ### 1NT
