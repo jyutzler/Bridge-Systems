@@ -8,3 +8,6 @@ If opener has no short suit, he shows his hand strength;
       * 3NT = medium hand (15–17).
       * 3♥ = maximum hand (18+)
 
+### 3NT
+3NT = 15-17 HCP, balanced hand with two-card support for partner.
+
