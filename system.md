@@ -356,22 +356,36 @@ After a 2NT response,
    * 3NT: AKJ or better, no feature
 
 # Slam Bidding 
-## Blackwood
-Blackwood 4NT is used to ask for aces. Responses show the number of aces by
-steps. 5NT is then used to ask for kings; 5NT guarantees the partnership holds all
-four aces.
+## Roman Key-Card Blackwood 1430
+Once suit agreement has been reached, 4NT is used to ask for keycards - 
+the 4 aces and the king of trump. 
 
-4NT Ace Asking:
-   * 5♣ = 0 or 4 aces
-   * 5♦ = 1 ace
-   * 5♥ = 2 aces
-   * 5♠ = 3 aces
+4NT KC Asking:
+   * 5♣ = 1 or 4 keycards
+   * 5♦ = 3 or 0 keycards
+   * 5♥ = 2 keycards, no queen of trump
+   * 5♠ = 2 keycards, queen of trump
 
-5NT King Asking:
-   * 6♣ = 0 or 4 kings
-   * 6♦ = 1 king
-   * 6♥ = 2 kings
-   * 6♠ = 3 kings
+After a 5♣ or 5♦ response, the Blackwood initiator may ask for the queen of trump
+(or extra trump length) by bidding the next step:
+
+   * (heart suit agreement) - 4NT - 5♣ - 5♦ = Queen ask
+      * 5♥ = no queen
+	  * 5♠, 6♣, 6♦ = queen, that king, and no lower kings
+	  * 6♥ = queen, no lower kings
+
+
+### With (Useful) Voids
+After 4NT, responder can show voids with at least one keycard:
+   * 5NT = even number of keycards (never zero)
+   * 6 of void suit = odd number of keycards
+   * 6 of trump suit = odd number of keycards, void is in higher suit
+
+### 5NT
+5NT guarantees the partnership holds all five keycards and is invitational to grand.
+A 6-level bid shows the king in that suit.
+
+
 
 ## Gerber
 4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
@@ -396,6 +410,16 @@ King Asking:
    * 5♥ = 1 king
    * 5♠ = 2 kings
    * 5NT = 3 kings
+
+## 5NT Pick a Slam
+A voluntary bid of 5NT is forcing and asks partner to try to pick the best slam available.
+There are no hard-and-fast rules here, but possibilities include:
+   * bidding a new 4-card suit (looking for a 4-4 fit)
+   * supporting partner with mild support (looking for a good 7-card fit)
+   * rebidding a previously bid suit with unannounced length and/or strength
+   * returning to 6NT with no better options
+
+The asker may continue to bid up the line if completely displeased with the response.
 
 # Defensive Bidding 
 ## Overcalls
