@@ -19,3 +19,4 @@ a double shows at least one four-card major.
 
 If opener bids the a major you cannot support, 
 rebid opener's first suit or NT to imply the other major.
+
