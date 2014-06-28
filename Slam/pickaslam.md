@@ -1,4 +1,4 @@
-## 5NT Pick a Slam
+### 5NT Pick a Slam
 A voluntary bid of 5NT is forcing and asks partner to try to pick the best slam available.
 There are no hard-and-fast rules here, but possibilities include:
    * bidding a new 4-card suit (looking for a 4-4 fit)

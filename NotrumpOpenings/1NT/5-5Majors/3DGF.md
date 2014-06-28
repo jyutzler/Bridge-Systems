@@ -1,4 +1,4 @@
-### 3 Diamonds 5-5 Majors Game-forcing
+#### 3 Diamonds 5-5 Majors Game-forcing
 When using the 4-way transfers, the 3♦ bid is normally idle.
 Instead of the traditional (1NT - 2♥ - 2♠ - 3♥), 
 3♦ is now used to show a game forcing hand with both majors. 

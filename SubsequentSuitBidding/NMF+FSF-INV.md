@@ -2,7 +2,7 @@ If responder has bid a suit at the one level, he next determines whether he wish
 to sign off in a partscore, invite game, sign off in game, or force to game and get
 more information about opener’s hand.
 
-### Sign-off
+#### Sign-off
 Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
 
 1♥ — 1♠
@@ -21,7 +21,7 @@ This also applies to minor suit openings with one additional treatment.
    * 2♠ = 6+ spades
    * 2♥ = sign-off - opener must pass or correct (5-5 or 5-4 distribution)
    
-### Inviting Game
+#### Inviting Game
 Bids available for inviting game: 2NT, 3 of opener's suit:
 
 1♥ — 1♠
@@ -38,7 +38,7 @@ is invitational at the 2-level and game forcing at the 3-level.
 In this case, opener is encouraged to show secondary support for responder's suit. 
 When more than one minor is available, it tends to show a stopper for NT.
 
-### Forcing to Game
+#### Forcing to Game
 All second round jumps (except for opener's suit as mentioned above) 
 and new suits above two of the first bid suit are forcing to 3NT or higher: 
 
@@ -54,6 +54,6 @@ Opener can sign off in game or make a slam try.
 Otherwise it is quantitative, asking responder to proceed with a maximum. 
 Suit bids usually show controls.
 
-### Signing off at Game
+#### Signing off at Game
 Any bid of game is a sign-off, though partner can proceed with a maximum (see Slam Bidding).
 

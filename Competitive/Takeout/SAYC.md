@@ -1,4 +1,4 @@
-## Vs. Takeout Doubles
+### Vs. Takeout Doubles
 If RHO makes a takeout double:
 
 1♦ — (Double)

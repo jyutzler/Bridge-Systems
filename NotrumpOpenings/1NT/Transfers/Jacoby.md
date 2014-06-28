@@ -1,4 +1,4 @@
-### Jacoby Transfer
+#### Jacoby Transfer
 The Jacoby Transfer shows a five-card major. 
 After a 1NT opening (or overcall if systems are on - see Defensive Bidding):
    * 2♦ = transfer to hearts

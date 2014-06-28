@@ -1,4 +1,4 @@
-### Basic Responses
+#### Basic Responses
    * 2NT = Invitational 8-9
    * 3♣, 3♦ = Weak sign-off. Opener must pass unless game is likely opposite nothing more than Qxxxxx.
    * 3♥, 3♠ = Game force, 5+. However, transfers (if available) are preferred.

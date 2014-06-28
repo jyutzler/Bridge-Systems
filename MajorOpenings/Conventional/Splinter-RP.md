@@ -1,4 +1,4 @@
-### Splinter Raises
+#### Splinter Raises
 Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
 4+ card support, and shortness in the suit bid (either a singleton or void).
 Opener can explore slam by bidding controls or attempt to sign off by bidding game.
