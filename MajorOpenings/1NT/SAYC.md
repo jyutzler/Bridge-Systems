@@ -1,4 +1,4 @@
-### 1NT
+#### 1NT
 1NT shows 6–10 points and denies support for the major opened.
 
 It also denies denies four spades after a 1♥ opening.

@@ -1,4 +1,4 @@
-### 5-5 Majors
+#### 5-5 Majors
 When using the Jacoby transfer, it is possible to show 5-5 in the majors 
 with a number of hand types.
 
