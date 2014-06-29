@@ -1,4 +1,4 @@
-## Michaels Cuebid
+### Michaels Cuebid
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). If the opening is in a minor suit,
 the cuebid shows the majors; if the opening is in a major, the cuebid shows the

@@ -1,4 +1,4 @@
-## Negative Doubles
+### Negative Doubles
 The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
 Bidding a major in competition shows a five-card or longer suit and strength suitable to the level. 
 With insufficient points, double may also be used with a five-card suit.

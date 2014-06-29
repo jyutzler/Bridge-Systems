@@ -1,4 +1,4 @@
-### Jacoby Transfer
+#### Jacoby Transfer
 The Jacoby Transfer shows a five-card major. 
 After a 1NT opening (or overcall if systems are on - see Defensive Bidding):
    * 2♦ = transfer to hearts
@@ -25,7 +25,7 @@ with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 4NT = quantitative invitation to 6♠ or 6NT with a five-card suit.
    * 5NT = asking for a choice between 6♠ and 6NT.
 
-### Single-suited Hands
+#### Single-suited Hands
 The Texas Transfer shows a six-card major. 
 After a 1NT or 2NT opening or overcall (if systems are on):
    * 4♦ = transfer to hearts

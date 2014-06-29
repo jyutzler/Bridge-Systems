@@ -1,4 +1,4 @@
-### Jacoby 2NT
+#### Jacoby 2NT
 Over a 1♥ or 1♠ opening
    * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
 opener to show a short suit to help responder evaluate slam prospects.
@@ -8,6 +8,6 @@ If opener has no short suit, he shows his hand strength;
       * 3NT = medium hand (15–17).
       * 3♥ = maximum hand (18+)
 
-### 3NT
+#### 3NT
 3NT = 15-17 HCP, balanced hand with two-card support for partner.
 

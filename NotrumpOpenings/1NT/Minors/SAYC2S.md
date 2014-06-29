@@ -1,4 +1,4 @@
-### 2 Spades
+#### 2 Spades
 A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
 club bust, or responder may rebid 3♦ with a diamond bust. Example:
 
