@@ -94,31 +94,24 @@ A 2♠ response shows at least an invitational hand with strength in both minors
 
 From there, responder should have enough information to proceed using methods described elsewhere.
 #### Over Interference
-If an opponent doubles, all conventional responses are “on.” For example:
-
-1NT — (Double) — 2♣ = Stayman
-
-1NT — (Double) — 2♦ = transfer to hearts
-
-If an opponent bids over your 1NT opener, conventional responses like Stayman
-and transfers are “off.” Bids are natural except for a cuebid, which can be used with
-game forcing strength as a substitute for Stayman.
+All systems are on over double. 
+1NT — (double) — Redouble = Rescue - weak with a long minor (opener bids 2♣, pass or correct) 
+1NT — (2♣) — Double = Stayman without game-forcing values. 
 
 If the opponents intervene over a conventional response, bids carry the same
 meaning as if there were no intervention. A bid says, “I’m bidding voluntarily, so
 I have a real fit with you.”
 
 1NT — (Pass) — 2♦ — (Double) — 2♥ = Real fit for hearts — pass with only two hearts
-The Texas transfer is on through 3♣. In other words it must be a jump.
-
-Systems are on over double and 2♣. 
-A double of 2♣ is Stayman without game-forcing values. 
 
 3-level bids have a different meaning if the opponents show a suit.
 
    * 3♣, 3♦ = Invitational, denying a stopper
    * 3♥, 3♠ = Game force, 5+.
    * Cue bid of opponent's suit = Game force, Stayman. Note: if the interference is a waiting bid (such as Cappelletti 2♣), it may be pragmatic to pass and wait for the suit to be shown in case a penalty double is a possibility. (For more information see [here](http://www.bridgebuff.com/cappsucks.html) although the entire system indicated is more complex than what is presented here.)
+
+   The Texas transfer is on through 3♣. In other words it must be a jump.
+
 ## 2NT and 3NT 
 Stayman and Jacoby/Texas transfers for the majors are used.
 
