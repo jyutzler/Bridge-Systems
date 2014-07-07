@@ -100,8 +100,8 @@ If an opponent doubles, all conventional responses are “on.” For example:
 
 1NT — (Double) — 2♦ = transfer to hearts
 
-If an opponent bids over your 1NT opener, Stayman and Jacoby transfers “off.” 
-Bids are natural except for a cuebid, which can be used with
+If an opponent bids over your 1NT opener, conventional responses like Stayman
+and transfers are “off.” Bids are natural except for a cuebid, which can be used with
 game forcing strength as a substitute for Stayman.
 
 If the opponents intervene over a conventional response, bids carry the same
@@ -109,9 +109,16 @@ meaning as if there were no intervention. A bid says, “I’m bidding voluntari
 I have a real fit with you.”
 
 1NT — (Pass) — 2♦ — (Double) — 2♥ = Real fit for hearts — pass with only two hearts
-
 The Texas transfer is on through 3♣. In other words it must be a jump.
 
+Systems are on over double and 2♣. 
+A double of 2♣ is Stayman without game-forcing values. 
+
+3-level bids have a different meaning if the opponents show a suit.
+
+   * 3♣, 3♦ = Invitational, denying a stopper
+   * 3♥, 3♠ = Game force, 5+.
+   * Cue bid of opponent's suit = Game force, Stayman. Note: if the interference is a waiting bid (such as Cappelletti 2♣), it may be pragmatic to pass and wait for the suit to be shown in case a penalty double is a possibility. (For more information see [here](http://www.bridgebuff.com/cappsucks.html) although the entire system indicated is more complex than what is presented here.)
 ## 2NT and 3NT 
 Stayman and Jacoby/Texas transfers for the majors are used.
 
@@ -452,11 +459,7 @@ opener’s suit). All systems are on - effectively the opening bid is ignored.
 To show a stronger hand, double then bid 1NT to show 19-21 points.
 
 #### Reopening
-A reopening 1NT after an opponent has opened shows 10–14 points. 
-This is a wide range, but there will not usually be a game on for you.
-
-To show a stronger hand, double then bid 1NT to show 15-18 points 
-or jump to 2NT to show 19-21.
+A reopening 1NT after an opponent has opened shows the same as in the direct position.
 
 #### Vs. Preempts
 Versus an opening preempt, an overcall in notrump is natural.

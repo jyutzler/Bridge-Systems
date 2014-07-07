@@ -12,7 +12,9 @@ type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Minors\MSS.md >> system.md
-type NotrumpOpenings\1NT\Interference\Jacoby+Texas.md >> system.md
+type NotrumpOpenings\1NT\Interference\SAYC.md >> system.md
+type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
+type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
 echo ## 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\Texas.md >> system.md
 echo # Major Openings >> system.md
@@ -40,7 +42,7 @@ type Slam\gerber.md >> system.md
 type Slam\pickaslam.md >> system.md
 echo # Defensive Bidding >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
-type Defensive\NTOvercall\systems-on.md >> system.md
+type Defensive\NTOvercall\no-balancing.md >> system.md
 type Defensive\UnusualNT\SAYC.md >> system.md
 type Defensive\Michaels\SAYC.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
