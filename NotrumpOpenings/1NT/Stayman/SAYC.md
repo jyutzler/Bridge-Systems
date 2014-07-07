@@ -1,4 +1,4 @@
-### Non-forcing Stayman
+#### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit.
 
 Opener rebids:

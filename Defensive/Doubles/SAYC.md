@@ -1,4 +1,4 @@
-## Doubles
+### Doubles
 A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
 opening game bids (4♥ or higher). 
 

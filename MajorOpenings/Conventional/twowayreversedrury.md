@@ -1,4 +1,4 @@
-### Two Way Reverse Drury
+#### Two Way Reverse Drury
 In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). 
 To prevent the contract from getting too high, responder may bid the following: 
    * 2 of a minor shows a limit raise

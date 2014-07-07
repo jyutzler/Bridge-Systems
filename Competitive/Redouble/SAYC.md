@@ -1,4 +1,4 @@
-## Redoubles
+### Redoubles
 A redouble can have one of three meanings:
 
 To play if: 

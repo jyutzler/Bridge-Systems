@@ -1,9 +1,9 @@
 Signals are:
-   1. Attitude
-   1. Count
-   1. Suit preference
+   1. Attitude (high encourages)
+   1. Count (high = even)
+   1. Suit preference (high = higher suit)
 
-First discard is Odd/Even. Odd encourages, even discourages.
+First discard is Odd/Even. Odd encourages, even discourages (suit preference).
 
 Leads are: 
    * top of touching honors and interior sequences.

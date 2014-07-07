@@ -1,4 +1,4 @@
-### Minor Suit Stayman
+#### Minor Suit Stayman
 A 2♠ response shows at least an invitational hand with strength in both minors.
 
 1NT — 2♠

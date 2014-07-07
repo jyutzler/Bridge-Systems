@@ -1,4 +1,4 @@
-## Vs. Takeout Doubles
+### Vs. Takeout Doubles
 If RHO makes a takeout double, bid as naturally as possible.
 
 1♦ — (Double)

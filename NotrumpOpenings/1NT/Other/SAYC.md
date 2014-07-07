@@ -1,4 +1,4 @@
-### Other Responses
+#### Other Responses
    * 3♣, 3♦ = a six-card or longer suit and invitational to 3NT.
    * 3♥, 3♠ = at least a six-card suit and slam interest (otherwise,
 responder uses a transfer bid).
