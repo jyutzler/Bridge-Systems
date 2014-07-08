@@ -95,7 +95,9 @@ A 2♠ response shows at least an invitational hand with strength in both minors
 From there, responder should have enough information to proceed using methods described elsewhere.
 #### Over Interference
 All systems are on over double. 
-1NT — (double) — Redouble = Rescue - weak with a long minor (opener bids 2♣, pass or correct) 
+
+1NT — (double) — Redouble = Rescue - weak with a long minor (opener bids 2♣, pass or correct).
+
 1NT — (2♣) — Double = Stayman without game-forcing values. 
 
 If the opponents intervene over a conventional response, bids carry the same
@@ -110,7 +112,7 @@ I have a real fit with you.”
    * 3♥, 3♠ = Game force, 5+.
    * Cue bid of opponent's suit = Game force, Stayman. Note: if the interference is a waiting bid (such as Cappelletti 2♣), it may be pragmatic to pass and wait for the suit to be shown in case a penalty double is a possibility. (For more information see [here](http://www.bridgebuff.com/cappsucks.html) although the entire system indicated is more complex than what is presented here.)
 
-   The Texas transfer is on through 3♣. In other words it must be a jump.
+The Texas transfer is on through 3♣. In other words it must be a jump.
 
 ## 2NT and 3NT 
 Stayman and Jacoby/Texas transfers for the majors are used.
