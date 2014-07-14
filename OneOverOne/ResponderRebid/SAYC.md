@@ -2,7 +2,6 @@ If responder has bid a suit at the one level, he next determines whether he wish
 to sign off in a partscore, invite game, sign off in game, or force to game and get
 more information about opener’s hand.
 
-
 Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
 
 1♥ — 1♠
