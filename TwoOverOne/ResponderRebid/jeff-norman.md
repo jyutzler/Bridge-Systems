@@ -5,21 +5,19 @@ since opener could have 18 points (just short of a jump shift rebid).
 If responder bids a second time, it is either in support of opener or an attempt to find a NT contract.
 A non-jump raise of opener’s first suit is invitational, usually with three-card support.
 
-1!S — 2!C
+1♠ — 2♣
 
-2!D — 2!S, 2NT, 3!C, 3!D = invitation to game (10–11 points).
+2♦ 
 
-    — 2!H = game force, could be conventional.
+   * 2♠, 2NT, 3♣, 3♦ = invitation to game (10–11 points).
+   * 2♥ = game force, could be conventional.
+   * 3♠ = game force with extras.
+   * 4♠ = game, no extras.
 
-    — 3!S = game force with extras.
+1♥ — 2♣
 
-    — 4!S = game, no extras.
-
-1!H — 2!C
-
-2!S — 2NT, 3!C, 3!S = invitation to game (10–11 points).
-
-    — 3!D = game force, could be conventional. (Bidding 4!H next would show extras.)
-
-    — 4!H = game, no extras.
+2♠ 
+   * 2NT, 3♣, 3♠ = invitation to game (10–11 points).
+   * 3♦ = game force, could be conventional. (Bidding 4♥ next would show extras.)
+   * 4♥ = game, no extras.
 
