@@ -1,5 +1,5 @@
 A two-over-one response shows 10+ points and 4+ cards. It is forcing.
-2!H over 1!S shows 5+ cards.
+2♥ over 1♠ shows 5+ cards.
 
 #### Opener's Rebids
 Opener responds naturally to clarify the hand.
