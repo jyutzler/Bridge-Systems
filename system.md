@@ -225,6 +225,7 @@ Once a minor is raised, the bidding must end in that suit or NT.
 
 Inverted raises are on in competition.
 
+Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://rpbridge.net/cgi-bin/quiz.pl?5n4125).
 ## One Over One 
 A 1/1 bid shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
 
