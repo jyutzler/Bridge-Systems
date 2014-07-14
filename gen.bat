@@ -28,6 +28,8 @@ echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\StrongJS.md >> system.md
 REM type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Minor Openings >> system.md
+type MinorOpenings\SAYC.md >> system.md
+echo ### Raises >> system.md
 type MinorOpenings\Raises\InvertedInComp.md >> system.md
 echo ## One Over One >> system.md
 type OneOverOne\SAYC.md >> system.md
