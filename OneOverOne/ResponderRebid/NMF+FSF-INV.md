@@ -8,6 +8,7 @@ Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid sui
 1♥ — 1♠
 
 2♣
+
    * Pass
    * 2♥ = 2-3 hearts, likely misfit
    * 2♠ = 6+ spades
@@ -17,6 +18,7 @@ This also applies to minor suit openings with one additional treatment.
 1♣ — 1♠
 
 1NT
+
    * Pass, 2♣
    * 2♠ = 6+ spades
    * 2♥ = sign-off - opener must pass or correct (5-5 or 5-4 distribution)
