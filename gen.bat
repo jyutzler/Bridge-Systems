@@ -51,8 +51,8 @@ type Slam\pickaslam.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
 type Defensive\NTOvercall\no-balancing.md >> system.md
-type Defensive\UnusualNT\SAYC.md >> system.md
-type Defensive\Michaels\SAYC.md >> system.md
+type Defensive\UnusualNT\RP.md >> system.md
+type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
 type Preemptive\2-3-4.md >> system.md
 echo ## Competitive Bidding >> system.md

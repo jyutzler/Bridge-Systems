@@ -513,21 +513,28 @@ A reopening 1NT after an opponent has opened shows the same as in the direct pos
 Versus an opening preempt, an overcall in notrump is natural.
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
-When vulnerable it shows at least opening strength
-but when nonvulnerable it can be fairly light.
+(In rare circumstances it may show 4-5 distribution.)
 
 (1♦) - 2NT = hearts and clubs
+
+The strength is either weak or very strong/distributional. 
+(Any subsequent bid by the cuebidder shows extra strength or distribution.)
+With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
+
+In a highly competitive auction, 4NT is also unusual.
 
 Note: Unusual 2NT is off in the reopening seat (see above).
 ### Michaels Cuebid
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
-showing a 5–5 two-suiter (or more distributional). If the opening is in a minor suit,
+showing a 5–5 two-suiter (or more distributional). 
+
+If the opening is in a minor suit,
 the cuebid shows the majors; if the opening is in a major, the cuebid shows the
 other major and an unspecified minor.
 
-(1♦) — 2♦ = at least 5–5 in the majors, 8 points or more.
+(1♦) — 2♦ = at least 5–5 in the majors.
 
-(1♠) — 2♠ = at least 5–5 in hearts and a minor; 10 points or more.
+(1♠) — 2♠ = at least 5–5 in hearts and a minor.
 
 Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
 
@@ -535,9 +542,13 @@ Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
    * 3♣ = club suit.
    * 3♦ = diamond suit.
 
+The strength is either weak or very strong/distributional. 
+(Any subsequent bid by the cuebidder shows extra strength or distribution.)
+With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
 ### Doubles
 A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
 opening game bids (4♥ or higher). 
+However, advancer may pull the double with undisclosed length.
 
 A below-game jump response to a takeout double is invitational. 
 To force, responder cuebids opener’s suit.
