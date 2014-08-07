@@ -5,6 +5,7 @@ Opener can explore slam by bidding controls or attempt to sign off by bidding ga
 For example:
 
 1♠ — 4♣ = game forcing, club shortness
+
    * 4♦, 4♥ = slam interest, first round control (usually ace)
    * 4♠ = signoff
 
@@ -17,6 +18,7 @@ Responder shows a void by rebidding the splinter suit:
 Opener can also splinter with a good hand and 4-card support:
 
 1♣ — 1♠
+
    * 4♦, 4♥ = game forcing, shortness
 
 In competition, splinters are off except for jumps in the opponent's suit.

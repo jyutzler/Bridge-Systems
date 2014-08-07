@@ -1,7 +1,8 @@
 Opener’s rebids are natural and standard.
+
 #### Rebids with a minimum hand (13–16 points)
    * Rebidding notrump at the lowest available level;
-   * Raising responder’s suit at the lowest level (usually four cards, though good three-card support is acceptable if notrump is not);
+   * Raising responder’s suit at the lowest level (may have good three-card support);
    * Rebidding a new suit at the one level or rebidding a new suit at the two level that
 is lower ranking than the opening suit (not reversing);
    * Rebidding opener’s suit at the lowest level.
