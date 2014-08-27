@@ -4,14 +4,14 @@ copy seed.md system.md > nul
 type README >> system.md
 echo ## General Approach >> system.md
 type GeneralApproach\SAYC.md >> system.md
-echo ## Notrump Opening Bids >> system.md
+echo ## Balanced Openings >> system.md
 type NotrumpOpenings\SAYC.md >> system.md
 echo ### 1NT 15-17 >> system.md
 type NotrumpOpenings\1NT\Basic\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\SAYC.md >> system.md
-type NotrumpOpenings\1NT\Minors\SAYC2S.md >> system.md
+type NotrumpOpenings\1NT\Minors\4-way-Basic.md >> system.md
 type NotrumpOpenings\1NT\Other\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
 echo ### 2NT and 3NT >> system.md
@@ -55,7 +55,7 @@ echo ## Competitive Bidding >> system.md
 type Competitive\SJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
-type Competitive\VsConventions\SAYC.md >> system.md
+type Competitive\VsConventions\Cue-support.md >> system.md
 type Competitive\Negative\SAYC.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md

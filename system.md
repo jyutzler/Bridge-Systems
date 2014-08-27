@@ -8,8 +8,25 @@ It is suitable for intermediate club players.
 Standard American with 5 Card Majors
 
 Strong forcing opening: 2♣;
-## Notrump Opening Bids 
-Notrump openings show a balanced hand. It is permissible to have a five-card major suit provided the hand is otherwise suitable for notrump.
+## Balanced Openings 
+Balanced hands have either 4-3-3-3, 4-4-3-2, or 5-3-3-2 distribution.
+This includes five-card majors unless the major is particularly strong. 
+Semi-balanced hands with either 5-4-2-2 or 6-3-2-2 distribution 
+may be treated as balanced if the doubletons are Qx or better. 
+
+A hand may be upgraded 1 point for a long suit with good texture (e.g., QJT9x)
+and downgraded 1 point for a 4-3-3-3 hand with poor texture (e.g., AJx-KJx-Axx-Qxxx).
+
+The bidding structure for balanced hands is as follows:
+
+   * 12-14: Open 1 of a suit, rebid NT
+   * 15-17: Open 1NT
+   * 18-19: Open 1 of a suit, jump NT
+   * 20-21: Open 2NT
+   * 22-24: Open 2♣, rebid NT
+   * 25-27: Open 3NT
+   * 28+: Open 2♣, jump NT
+
 ### 1NT 15-17 
 #### Basic Responses
 2NT = Invitational 8-9
@@ -61,13 +78,16 @@ with a number of hand types.
    * 1NT - 2♦ - 2♥ - 2♠ = invitational
    * 1NT - 2♥ - 2♠ - 3♥ = game forcing
 
-#### 2 Spades
-A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
-club bust, or responder may rebid 3♦ with a diamond bust. Example:
+#### Minor Suit Transfer Bids
 
-1NT — 2♠ — 3♣ 
-   * Pass = club bust
-   * 3♦ = diamond bust (notrump opener passes).
+Transfers are used to show hands with a long minor.
+
+   * 2♠ = transfer to clubs
+   * 3♣ = transfer to diamonds
+
+Opener accepts the transfer unless game is reachable opposite nothing more than Qxxxxx.
+
+A 2NT response to 2♠ is a preacceptance which shows good support for clubs.
 
 #### Other Responses
    * 3♣, 3♦ = a six-card or longer suit and invitational to 3NT.
@@ -137,7 +157,7 @@ with one of the following hand patterns:
    * 4=5=2=2 distribution (four spades and five hearts)
 
 #### 2NT
-2NT is invitational - 10-12 HCP, balanced hand with two-card support for partner.
+2NT is invitational - 11-12 HCP, balanced hand with two-card support for partner.
 
 #### 3NT
 3NT shows game-values - 13-15 HCP, balanced hand with two-card support for partner.
@@ -323,8 +343,8 @@ Responses:
 A 2NT response is forcing, showing game interest. (This applies also if the
 opponents intervene with a double or a bid.) Opener rebids his suit with a
 minimum weak two (5–8 points). With a maximum hand opener bids another
-suit to show a “feature” (ace or king in that suit); lacking a feature, he raises to
-3NT and lets responder place the contract.
+suit to show a “feature” (ace or king in that suit); 
+with a solid suit (AKJxxx or better) he raises to 3NT.
 
 Any raise of opener’s suit is to play and could be preemptive. 
 
@@ -504,10 +524,11 @@ convention intended for non-competitive sequences.
 
 ### Against Conventions
 If the opponents use a convention (such as Michaels or the unusual notrump), you
-can double to show at least 10 points, or you can cuebid one of their shown suits
-to force to game.
+can double to show at least 10 points, or you can cuebid their lowest shown suit
+to show a good raise.
+
 1♠ — (2♠) 
-   * 3♥ = game force.
+   * 3♥ = Limit raise or better.
    * Double = at least 10 points, probably balanced.
 
 ### Negative Doubles
