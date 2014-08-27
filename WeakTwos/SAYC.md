@@ -7,8 +7,8 @@ Responses:
 A 2NT response is forcing, showing game interest. (This applies also if the
 opponents intervene with a double or a bid.) Opener rebids his suit with a
 minimum weak two (5–8 points). With a maximum hand opener bids another
-suit to show a “feature” (ace or king in that suit); lacking a feature, he raises to
-3NT and lets responder place the contract.
+suit to show a “feature” (ace or king in that suit); 
+with a solid suit (AKJxxx or better) he raises to 3NT.
 
 Any raise of opener’s suit is to play and could be preemptive. 
 
