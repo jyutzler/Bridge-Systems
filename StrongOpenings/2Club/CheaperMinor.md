@@ -5,8 +5,8 @@ Responses:
 2♣ 
    * 2♦= conventional, could be “waiting” with a good hand not suited to a
 positive response.
-   * 2♥, 2♠, 3♣, 3♦= natural and game forcing. At least a five-card suit 
-with two of the top three honors and 8+ HCP.
+   * 2♥, 2♠, 3♣, 3♦= natural and game forcing with a minimum of 8 HCP and 
+a five-card suit with two of the top three honors.
    * 2NT = 8+ HCP, balanced.
 
 After a 2♦ response, opener rebids naturally:
