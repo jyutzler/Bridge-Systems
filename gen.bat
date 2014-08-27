@@ -12,7 +12,7 @@ type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Basic.md >> system.md
-type NotrumpOpenings\1NT\Other\SAYC.md >> system.md
+type NotrumpOpenings\1NT\Other\basic.md >> system.md
 type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
 echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
