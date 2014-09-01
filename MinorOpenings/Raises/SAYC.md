@@ -1,5 +1,4 @@
-﻿#### Raises
-Responder needs more trumps to raise (four to raise 1♦; five to raise 1♣, 
+﻿Responder needs more trumps to raise (four to raise 1♦; five to raise 1♣, 
 though one fewer trump will do in a pinch in a competitive sequence).
 Since four card majors should be bid up-the-line, a raise denies a four card major. 
 Once a minor is raised, the bidding must end in that suit or NT.
