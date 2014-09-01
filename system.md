@@ -9,7 +9,24 @@ Standard American with 5 Card Majors
 
 Strong forcing opening: 2♣;
 ## Notrump Opening Bids 
-Notrump openings show a balanced hand. It is permissible to have a five-card major suit provided the hand is otherwise suitable for notrump.
+Balanced hands have either 4-3-3-3, 4-4-3-2, or 5-3-3-2 distribution.
+This includes five-card majors unless the major is particularly strong. 
+Semi-balanced hands with either 5-4-2-2 or 6-3-2-2 distribution 
+may be treated as balanced if the doubletons are Qx or better. 
+
+A hand may be upgraded 1 point for a long suit with good texture (e.g., QJT9x)
+and downgraded 1 point for a 4-3-3-3 hand with poor texture (e.g., AJx-KJx-Axx-Qxxx).
+
+The bidding structure for balanced hands is as follows:
+
+   * 12-14: Open 1 of a suit, rebid NT
+   * 15-17: Open 1NT
+   * 18-19: Open 1 of a suit, jump NT
+   * 20-21: Open 2NT
+   * 22-24: Open 2♣, rebid NT
+   * 25-27: Open 3NT
+   * 28+: Open 2♣, jump NT
+
 ### 1NT 15-17 
 #### Basic Responses
    * 2NT = Invitational 8-9
@@ -170,8 +187,8 @@ with one of the following hand patterns:
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
 
-   * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
-opener to show a short suit to help responder evaluate slam prospects.
+   * 2NT = Game-forcing raise (13+ dummy points, 4+ trumps, balanced). 
+Asks opener to show a short suit to help responder evaluate slam prospects.
 If opener has no short suit, he shows his hand strength;
 
       * 3♣, 3♦, 3♠ = singleton or void in that suit. Other bids deny a short suit.
@@ -180,7 +197,7 @@ If opener has no short suit, he shows his hand strength;
       * 3♥ = maximum hand (18+)
 
 #### 3NT
-3NT = 13-16 HCP, balanced hand with two-card support for partner.
+3NT = 13-15 HCP, balanced hand with two-card support for partner.
 
 #### Splinter Raises
 Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
@@ -284,18 +301,16 @@ Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid sui
    * 2♥ = 2-3 hearts, likely misfit
    * 2♠ = 6+ spades
 
-This also applies to minor suit openings with one additional treatment.
+There is one exception to the rule that new suits are forcing:
 
 1♣ — 1♠
 
 1NT
 
-   * Pass, 2♣
-   * 2♠ = 6+ spades
-   * 2♥ = sign-off - opener must pass or correct (5-5 or 5-4 distribution)
+   * 2♥ = sign-off - opener must pass or correct (bust with 5-5 or 5-4 distribution)
    
 #### Inviting Game
-Bids available for inviting game: 2NT, 3 of opener's suit:
+Bids available for inviting game: 2NT, 3 of opener's suit, new minor, fourth suit:
 
 1♥ — 1♠
 
@@ -313,7 +328,7 @@ When more than one minor is available, it tends to show a stopper for NT.
 
 #### Forcing to Game
 All second round jumps (except for opener's suit as mentioned above) 
-and new suits above two of the first bid suit are forcing to 3NT or higher: 
+are forcing to 3NT or higher: 
 
 1♥ — 1♠
 
@@ -366,19 +381,20 @@ A non-jump raise of opener’s first suit is invitational, usually with three-ca
    * 4♥ = game, no extras.
 
 ## Strong 2♣ 
-﻿A 2♣ opening shows at least 22+ points, or the playing equivalent. 
+﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor. 
 
 Responses:
 
 2♣ 
    * 2♦= conventional, could be “waiting” with a good hand not suited to a
 positive response.
-   * 2♥, 2♠, 3♣, 3♦= natural and game forcing. At least a five-card suit and
-8 points.
-   * 2NT = a balanced 8 HCP.
+   * 2♥, 2♠, 3♣, 3♦= natural and game forcing with a minimum of 8 HCP and 
+a five-card suit with two of the top three honors.
+   * 2NT = 8+ HCP, balanced.
 
-After a 2♦ response, opener bids a suit naturally:
-   * 2♥, 2♠, 3♣, 3♦ = natural, forcing
+After a 2♦ response, opener rebids naturally:
+   * 2♥, 2♠, 3♣, 3♦ = natural, forcing to 3 of opener’s
+major or 4 of opener’s minor
    * 2NT = 22-24 points (see responses for 2NT opening above)
    * 3NT = 28+ points (see responses for 3NT opening above)
 
@@ -389,7 +405,7 @@ In response to a suit rebid, responder indicates strength.
 2♥ 
    * 2♠, 3♦ = natural, game force
    * 3♣ = artificial, very weak (0-4, not an ace)
-   * 3NT = no support, 5-7 points
+   * 3NT = 5-7 points, at best a low doubleton
    * 3♥ = positive, slam invitational
    * 4♥ = sign-off
    
