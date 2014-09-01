@@ -11,7 +11,6 @@ type NotrumpOpenings\1NT\Basic\weak3.md >> system.md
 type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\SAYC.md >> system.md
-type NotrumpOpenings\1NT\Minors\MSS.md >> system.md
 type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
 echo ### 2NT and 3NT >> system.md
@@ -24,13 +23,13 @@ echo ### Raises >> system.md
 type MajorOpenings\Raises\4CLR.md >> system.md
 type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
+type MajorOpenings\Raises\twowayreversedrury.md >> system.md
 echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\StrongJS.md >> system.md
-REM type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
 echo ### Raises >> system.md
-type MinorOpenings\Raises\InvertedInComp.md >> system.md
+type MinorOpenings\Raises\SAYC.md >> system.md
 echo ## One Over One >> system.md
 type OneOverOne\SAYC.md >> system.md
 echo ### Opener Rebids >> system.md
@@ -47,16 +46,16 @@ type WeakTwos\NSNF.md >> system.md
 echo ## Slam Bidding >> system.md
 type Slam\1430.md >> system.md
 type Slam\gerber.md >> system.md
-type Slam\pickaslam.md >> system.md
+REM type Slam\pickaslam.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
 type Defensive\NTOvercall\no-balancing.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
-type Preemptive\2-3-4.md >> system.md
+type Preemptive\sound.md >> system.md
 echo ## Competitive Bidding >> system.md
-type Competitive\WJS.md >> system.md
+type Competitive\SJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\SAYC.md >> system.md
@@ -64,4 +63,4 @@ type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
-type Carding\OddEven-Jeff-Norman.md >> system.md
+type Carding\lavinthal.md >> system.md
