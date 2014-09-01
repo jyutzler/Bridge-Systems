@@ -1,6 +1,6 @@
 ﻿
 This branch contains a Markdown file "system.md" that describes the bridge system
-used by Jeff Yutzler and Norman Kittrell. 
+used by Jeff Yutzler and Francesca Mazarella. 
 It is based on SAYC with a few additions.
 It is suitable for advancing club players.
 
@@ -175,8 +175,8 @@ with one of the following hand patterns:
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
 
-   * 2NT = Game-forcing raise (Jacoby 2NT), 13+ dummy points. Asks
-opener to show a short suit to help responder evaluate slam prospects.
+   * 2NT = Game-forcing raise (13+ dummy points, 4+ trumps, balanced). 
+Asks opener to show a short suit to help responder evaluate slam prospects.
 If opener has no short suit, he shows his hand strength;
 
       * 3♣, 3♦, 3♠ = singleton or void in that suit. Other bids deny a short suit.
@@ -185,7 +185,7 @@ If opener has no short suit, he shows his hand strength;
       * 3♥ = maximum hand (18+)
 
 #### 3NT
-3NT = 13-16 HCP, balanced hand with two-card support for partner.
+3NT = 13-15 HCP, balanced hand with two-card support for partner.
 
 #### Splinter Raises
 Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
@@ -236,8 +236,7 @@ four spades, four hearts, three diamonds, and two clubs, which should
 be opened 1♦.
 
 ### Raises 
-﻿#### Raises
-Responder needs more trumps to raise (four to raise 1♦; five to raise 1♣, 
+﻿Responder needs more trumps to raise (four to raise 1♦; five to raise 1♣, 
 though one fewer trump will do in a pinch in a competitive sequence).
 Since four card majors should be bid up-the-line, a raise denies a four card major. 
 Once a minor is raised, the bidding must end in that suit or NT.
@@ -293,18 +292,16 @@ Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid sui
    * 2♥ = 2-3 hearts, likely misfit
    * 2♠ = 6+ spades
 
-This also applies to minor suit openings with one additional treatment.
+There is one exception to the rule that new suits are forcing:
 
 1♣ — 1♠
 
 1NT
 
-   * Pass, 2♣
-   * 2♠ = 6+ spades
-   * 2♥ = sign-off - opener must pass or correct (5-5 or 5-4 distribution)
+   * 2♥ = sign-off - opener must pass or correct (bust with 5-5 or 5-4 distribution)
    
 #### Inviting Game
-Bids available for inviting game: 2NT, 3 of opener's suit:
+Bids available for inviting game: 2NT, 3 of opener's suit, new minor, fourth suit:
 
 1♥ — 1♠
 
@@ -322,7 +319,7 @@ When more than one minor is available, it tends to show a stopper for NT.
 
 #### Forcing to Game
 All second round jumps (except for opener's suit as mentioned above) 
-and new suits above two of the first bid suit are forcing to 3NT or higher: 
+are forcing to 3NT or higher: 
 
 1♥ — 1♠
 
@@ -375,7 +372,7 @@ A non-jump raise of opener’s first suit is invitational, usually with three-ca
    * 4♥ = game, no extras.
 
 ## Strong 2♣ 
-﻿A 2♣ opening shows at least 22+ points balanced, 9+ tricks in a major, or 10+ tricks in a minor. 
+﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor. 
 
 Responses:
 
