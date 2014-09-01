@@ -1,4 +1,4 @@
-﻿A 2♣ opening shows at least 22+ points balanced, 9+ tricks in a major, or 10+ tricks in a minor. 
+﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor. 
 
 Responses:
 

@@ -13,18 +13,16 @@ Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid sui
    * 2♥ = 2-3 hearts, likely misfit
    * 2♠ = 6+ spades
 
-This also applies to minor suit openings with one additional treatment.
+There is one exception to the rule that new suits are forcing:
 
 1♣ — 1♠
 
 1NT
 
-   * Pass, 2♣
-   * 2♠ = 6+ spades
-   * 2♥ = sign-off - opener must pass or correct (5-5 or 5-4 distribution)
+   * 2♥ = sign-off - opener must pass or correct (bust with 5-5 or 5-4 distribution)
    
 #### Inviting Game
-Bids available for inviting game: 2NT, 3 of opener's suit:
+Bids available for inviting game: 2NT, 3 of opener's suit, new minor, fourth suit:
 
 1♥ — 1♠
 
@@ -42,7 +40,7 @@ When more than one minor is available, it tends to show a stopper for NT.
 
 #### Forcing to Game
 All second round jumps (except for opener's suit as mentioned above) 
-and new suits above two of the first bid suit are forcing to 3NT or higher: 
+are forcing to 3NT or higher: 
 
 1♥ — 1♠
 
