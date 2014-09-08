@@ -20,10 +20,10 @@ echo ## Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ### NT Responses >> system.md
 type MajorOpenings\1NT\SAYC.md >> system.md
-type MajorOpenings\2NT+3NT\SAYC.md >> system.md
 echo ### Raises >> system.md
 type MajorOpenings\Raises\4CLR.md >> system.md
 REM type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
+type MajorOpenings\Raises\Jacoby-AM.md >> system.md
 echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\StrongJS.md >> system.md
 echo ## Minor Openings >> system.md
@@ -56,8 +56,8 @@ type Competitive\SJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\Cue-support.md >> system.md
-type Competitive\Negative\SAYC.md >> system.md
-type Competitive\Takeout\SAYC.md >> system.md
+type Competitive\Negative\BelowGame.md >> system.md
+type Competitive\Takeout\AM.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
 type Carding\SAYC.md >> system.md

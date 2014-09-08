@@ -155,16 +155,31 @@ with one of the following hand patterns:
    * 5-3-3-2 
    * 4=5=2=2 distribution (four spades and five hearts)
 
-#### 2NT
-2NT is invitational - 11-12 HCP, balanced hand with two-card support for partner.
-
-#### 3NT
-3NT shows game-values - 13-15 HCP, balanced hand with two-card support for partner.
 ### Raises 
 #### Basic Raises
    * 2 = three-card or longer heart support; 6–10 dummy points.
    * 3 = four-card limit raise (11–12 dummy points).
    * 4 = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+
+#### Jacoby 2NT
+Over a 1♥ or 1♠ opening:
+
+   * 2NT = Game-forcing raise (13+ dummy points, 4+ trumps, all hand patterns). 
+Asks opener to describe his hand to help responder evaluate slam prospects.
+
+      * 3♣, 3♦, 3♠ = singleton or void in that suit.
+      * 4♥ = minimum hand.
+      * 3NT = medium hand (15–17).
+      * 3♥ = maximum hand (18+).
+	  * 4♣, 4♦, 4♠ = 5-card suit with two of the top three honors.
+
+This treatment is also on after a takeout double but is off as a passed hand (see below).
+	  
+#### 3NT
+3NT = 13-15 HCP, balanced hand with two-card support for partner.
+
+#### 2NT (passed hand only)
+2NT = 11-12 HCP, balanced hand with two-card support for partner.
 
 ### Jump Shifts 
 #### Strong Jump Shift
@@ -399,11 +414,11 @@ King Asking:
    * 5NT = 3 kings
 
 ## Defensive Bidding 
-### Overcalls
-Overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
+### Suit Overcalls
+Suit overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
 A reopening bid means much the same as a direct seat bid, 
-though it can be lighter at the minimum end.
-Versus an opening preempt, an overcall in a suit is natural.
+but it may be made with about a king less.
+Versus an opening preempt, an overcall is natural. 
 
 The only forcing response is a cuebid of opener’s suit, asking the overcaller about
 the quality of his overcall:
@@ -530,30 +545,48 @@ to show a good raise.
    * Double = at least 10 points, probably balanced.
 
 ### Negative Doubles
-The negative double is used through 2♠ promising four cards (at least) in an unbid
-major. Bidding a major at the two level or higher shows 11 or more points and a
-five-card or longer suit.
+The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
+Bidding a major in competition shows a five-card or longer suit and strength suitable to the level. 
+With insufficient points, double may also be used with a five-card suit.
 
-1♣ — (1♦) — Double = 4–4 or better in the majors.
+   * 1♣ — (1♦) — Double = 4–4 or better in the majors.
+   * 1♦ — (1♥) — Double = exactly four spades (1♠ promises at least five).
+   * 1♦ — (1♠) — Double = four hearts and 6+ points or five hearts and 5–6 points.
+   * 1♠ — (4♦) — Double = four hearts and 10+ points or five hearts and 8-10 points.
 
-1♦ — (1♥) — Double = exactly four spades (1♠ promises at least five).
+If both majors are bid, then a double shows both minors.
+   * 1♥ — (1♠) — Double = 4-4 or better in the minors.
 
-1♦— (1♠) — Double = four hearts and 6+ points or five hearts and 5–10 points.
+When the opponents overcall a minor over a minor at the two-level or higher, 
+a double shows at least one four-card major.
+
+   * 1♦ — (2♣) — Double = at least one four-card major.
+   * 1♣ — (2♦) — Double = at least one four-card major.
+
+If opener bids the a major you cannot support, 
+rebid opener's first suit or NT to imply the other major.
+
 ### Vs. Takeout Doubles
-If RHO makes a takeout double:
+If RHO makes a takeout double, bid as naturally as possible.
 
 1♦ — (Double)
    * 1♥, 1♠ = forcing, point count not limited.
+   * 1NT = non-forcing, 6-9 points, no four-card major or four-card support
    * 2♣ = non-forcing (6–10 points, usually a six-card suit).
-   * 2NT = limit raise (at least 10 points) — or better.
-   * Redouble = 10 points or more, but it is better to make a more
-descriptive bid of 1♥, 1♠, or 2NT with the appropriate hand.
+   * Redouble = 10 points or more, could have good support.
+   * 2♦ = weak, four-card trump support but fewer than 10 points.
    * 3♦ = preemptive, good trump support but fewer than 10 points.
 
-A responder’s jump shift after a double is to play:
+1♥ — (Double)
+   * 1♠ = forcing, point count not limited.
+   * 1NT = non-forcing, 6-9 points.
+   * 2♣, 2♦ = non-forcing (6–10 points, usually a six-card suit).
+   * Redouble = 10 points or more, could have a limit raise.
+   * 2♥ = weak, generally four-card support but fewer than 10 points.
+   * 2NT = game force
+   * 3♥ = weak, generally four-card support but fewer than 10 points.
+   * 4♥ = natural, could be preemptive
 
-1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
-preemptive three-bid.
 ### Redoubles
 A redouble can have one of three meanings:
 
