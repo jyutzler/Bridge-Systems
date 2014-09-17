@@ -88,6 +88,7 @@ Opener must accept the transfer.
 When used in conjunction with the Jacoby Transfer, 
 the Texas Transfer gives you a way to show a range of single-suited hands 
 while reducing the risk of unwanted interference from the opponents. 
+The following shows how they are used with strong NT (15-17) openings.
 
    * Bust (would pass a 1-bid): Jacoby, pass
    * Game invitation (would make a 1/1 bid): Jacoby, raise (Opener may pass with a minimum hand; bid 3NT or 4♠ with a maximum.)
