@@ -1,6 +1,6 @@
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
-(In rare circumstances it may show 4-5 distribution.)
+(It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
 
 (1♦) - 2NT = hearts and clubs
 
