@@ -9,21 +9,24 @@ type NotrumpOpenings\SAYC.md >> system.md
 echo ### 1NT 15-17 >> system.md
 type NotrumpOpenings\1NT\Basic\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
-type NotrumpOpenings\1NT\Transfers\Jacoby.md >> system.md
+type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Basic.md >> system.md
 type NotrumpOpenings\1NT\Other\basic.md >> system.md
-type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
+type NotrumpOpenings\1NT\Interference\jeff-donna-double.md >> system.md
+type NotrumpOpenings\1NT\Interference\jeff-donna-suit.md >> system.md
+type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
 echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
 echo ## Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ### NT Responses >> system.md
-type MajorOpenings\1NT\SAYC.md >> system.md
+type MajorOpenings\1NT\1NTforcing.md >> system.md
 echo ### Raises >> system.md
 type MajorOpenings\Raises\4CLR.md >> system.md
-REM type MajorOpenings\Conventional\twowayreversedrury.md >> system.md
 type MajorOpenings\Raises\Jacoby-AM.md >> system.md
+type MajorOpenings\Raises\Splinter-RP.md >> system.md
+type MajorOpenings\Raises\twowayreversedrury.md >> system.md
 echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\StrongJS.md >> system.md
 echo ## Minor Openings >> system.md

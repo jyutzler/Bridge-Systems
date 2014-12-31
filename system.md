@@ -47,6 +47,7 @@ he shows slam interest and at least a five-card suit.
 #### Jacoby Transfer
 The Jacoby Transfer shows a five-card major. 
 After a 1NT opening (or overcall if systems are on - see Defensive Bidding):
+
    * 2♦ = transfer to hearts
    * 2♥ = transfer to spades. 
 
@@ -63,13 +64,35 @@ that is natural and game forcing.
 Possible calls after the accepted transfer are:
 
 1NT — 2♥ — 2♠
+
    * Pass = content to play 2♠.
    * 2NT = invitational with a five-card suit. Opener may pass or bid 3♠
 with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3♣, 3♦, 3♥ = natural and game forcing (4+).
-   * 3♠ = invitational with a six-card suit. Opener may pass with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3NT = asking for a choice between 3NT and 4♠.
    * 4NT = quantitative invitation to 6♠ or 6NT with a five-card suit.
+   * 5NT = asking for a choice between 6♠ and 6NT.
+
+#### Single-suited Hands
+The Texas Transfer shows a six-card major. 
+After a 1NT or 2NT opening or overcall (if systems are on):
+
+   * 4♦ = transfer to hearts
+   * 4♥ = transfer to spades 
+
+Opener must accept the transfer.
+
+When used in conjunction with the Jacoby Transfer, 
+the Texas Transfer gives you a way to show a range of single-suited hands 
+while reducing the risk of unwanted interference from the opponents. 
+The following shows how they are used with strong NT (15-17) openings.
+
+   * Bust (would pass a 1-bid): Jacoby, pass
+   * Game invitation (would make a 1/1 bid): Jacoby, raise (Opener may pass with a minimum hand; bid 3NT or 4♠ with a maximum.)
+   * Game signoff (weak 2 strength): Texas, pass
+   * Slam invitation (opening strength): Jacoby, raise to 4
+   * Slam (stronger-than-minimum opening): Texas, 4NT (Blackwood)
+
 #### 5-5 Majors
 When using the Jacoby transfer, it is possible to show 5-5 in the majors 
 with a number of hand types.
@@ -95,36 +118,46 @@ responder uses a transfer bid).
    * 4♣ = Gerber, asking for aces. (See Slam Bidding)
    * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
 
-#### Over Interference
+#### When Opponents Double
 If an opponent doubles, all conventional responses are “on.” For example:
 
 1NT — (Double) — 2♣ = Stayman
 
 1NT — (Double) — 2♦ = transfer to hearts
 
-With a bad hand and a weak minor, redouble for SOS.
+With a bad hand and a long minor, redouble for SOS.
 
 1NT — (Double) — Redouble = Rescue - weak with a long minor (opener bids 2♣, pass or correct).
 
-Double of any natural suit bid by the opponents is for penalty.
+Otherwise pass and let opener reopen the bidding.
 
+1NT — (Double) — pass - (pass) = Forcing - opener must either bids a 5-card suit or redoubles. 
+Responder passes the redouble with 7+ (possibly less) 
+or bids a 4-card suit to attempt to scramble to safety.
+#### Over 2♣
 Jacoby Transfers are on over 2♣.
 
 Double of an artificial 2♣ = Stayman, does not imply invitational or better values. 
 
+#### Over Other Overcalls
+Double of any natural suit bid by the opponents is for penalty.
+
 Cue bid of opponent's natural suit = Game force, Stayman. Note: if the interference is a waiting bid (such as Cappelletti 2♣), it may be pragmatic to pass and wait for the suit to be shown in case a penalty double is a possibility. (For more information see [here](http://www.bridgebuff.com/cappsucks.html) although the entire system indicated is more complex than what is presented here.)
-
-If the opponents intervene over a conventional response, bids carry the same
-meaning as if there were no intervention. A bid says, “I’m bidding voluntarily, so
-I have a real fit with you.”
-
-1NT — (Pass) — 2♦ — (Double) — 2♥ = Real fit for hearts — pass with only two hearts
 
 Suit bids have a different meaning if the opponents intervene.
 
    * 2♥, 2♠ = To play, 5+.
    * 3♣, 3♦ = Invitational, 5+, denying a stopper if a suit was shown.
    * 3♥, 3♠ = Game force, 5+, denying a stopper if a suit was shown.
+
+#### Interference With Conventions
+If the opponents intervene over a conventional response, bids carry the same
+meaning as if there were no intervention. A bid says, “I’m bidding voluntarily, so
+I have a real fit with you.”
+
+1NT — (Pass) — 2♦ — (Double) — 2♥ = Real fit for hearts — pass with only two hearts
+
+The Texas transfer is on through 3♣. In other words it must be a jump.
 
 ### 2NT and 3NT 
 Stayman and Jacoby transfers for the majors are used.
@@ -144,16 +177,15 @@ Normally open five-card majors in all seats.
 
 Open the higher of long suits of equal length: 5–5 or 6–6.
 ### NT Responses 
-#### 1NT
-1NT shows 6–10 points and denies support for the major opened.
+#### 1NT Forcing
+1NT typically shows 6–12 points and is used in a number of circumstances:
+   * No support for the major opened 
+   * A three-card limit raise
+   * A bust hand with otherwise good trump support (too weak for a direct raise)
 
 It also denies denies four spades after a 1♥ opening.
 
-It is not forcing, but opener is expected to bid unless the hand is a minimum
-with one of the following hand patterns:
-
-   * 5-3-3-2 
-   * 4=5=2=2 distribution (four spades and five hearts)
+It is 100% forcing so responder must be prepared for a three-card response or a rebid with only five cards.
 
 ### Raises 
 #### Basic Raises
@@ -180,6 +212,43 @@ This treatment is also on after a takeout double but is off as a passed hand (se
 
 #### 2NT (passed hand only)
 2NT = 11-12 HCP, balanced hand with two-card support for partner.
+
+#### Splinter Raises
+Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
+4+ card support, and shortness in the suit bid (either a singleton or void).
+Opener can explore slam by bidding controls or attempt to sign off by bidding game.
+For example:
+
+1♠ — 4♣ = game forcing, club shortness
+
+   * 4♦, 4♥ = slam interest, first round control (usually ace)
+   * 4♠ = signoff
+
+Responder shows a void by rebidding the splinter suit:
+
+1♠ — 4♣ 
+
+4♥ — 5♣ = void
+
+Opener can also splinter with a good hand and 4-card support:
+
+1♣ — 1♠
+
+   * 4♦, 4♥ = game forcing, shortness
+
+In competition, splinters are off except for jumps in the opponent's suit.
+
+Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
+
+#### Two Way Reverse Drury
+In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). 
+To prevent the contract from getting too high, responder may bid the following: 
+   * 2 of a minor shows a limit raise
+      * 2♣ = 3 card support
+      * 2♦ = 4+ card support
+   * Opener clarifies strength with the rebid   
+      * Rebidding the suit at the 2 level shows a light opener
+      * any other bid shows a full opener
 
 ### Jump Shifts 
 #### Strong Jump Shift
