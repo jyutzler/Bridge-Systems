@@ -40,6 +40,8 @@ echo ### Responder Rebids >> system.md
 type OneOverOne\ResponderRebid\NMF+FSF-INV.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
+echo ## Game Tries >> system.md
+type GameTries\hsgt.md >> system.md
 REM type TwoOverOne\ResponderRebid\jeff-norman.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md

@@ -373,6 +373,11 @@ Opener responds naturally to clarify the hand.
    * Jump shift - splinter support of previously bid suit
    * Rebid of original suit - no better response
 
+## Game Tries 
+#### Help Suit Game Try
+
+Once suit agreement has been reached in a non-game-forcing auction, a new suit is a game try.
+The idea is to identify a suit Qxx or better that would benefit from fitting honors. One may bid game, sign off, or make another game try.
 ## Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor. 
 
