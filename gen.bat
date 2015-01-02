@@ -59,6 +59,7 @@ type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
 type Preemptive\2-3-4-majors-only.md >> system.md
+type NotrumpDefense\Landy.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
