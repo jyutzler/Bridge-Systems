@@ -508,6 +508,13 @@ honors:
    * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
    * 7 of the trump suit = two of the three top trump honors.
 
+### Serious 3NT
+Once agreement in a major suit has been reached, 
+a bid of 3NT is "serious" slam try and shows significant extras. 
+Responder is expected to cue bid first-round controls.
+
+A voluntary cue bid at the 4-level that skips 3NT is not serious, but a mild slam try. 
+
 ## Defensive Bidding 
 ### Suit Overcalls
 Suit overcalls show 8–16 points nonvulnerable and 10-16 points vulnerable

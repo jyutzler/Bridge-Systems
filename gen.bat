@@ -52,6 +52,7 @@ type Slam\1430.md >> system.md
 type Slam\gerber.md >> system.md
 type Slam\pickaslam.md >> system.md
 type Slam\grandslamforce.md >> system.md
+type Slam\serious3NT.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
 type Defensive\NTOvercall\systems-on.md >> system.md
