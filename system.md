@@ -204,7 +204,7 @@ It is 100% forcing so responder must be prepared for a three-card response or a 
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
 
-   * 2NT = Game-forcing raise (13+ dummy points, 4+ trumps, all hand patterns). 
+   * 2NT = Game-forcing raise (13+ dummy points, 4+ trumps, no singleton or void). 
 Asks opener to describe his hand to help responder evaluate slam prospects.
 
       * 3♣, 3♦, 3♠ = singleton or void in that suit.
@@ -258,6 +258,16 @@ To prevent the contract from getting too high, responder may bid the following:
       * Rebidding the suit at the 2 level shows a light opener
       * any other bid shows a full opener
 
+### Jump Shifts 
+#### Weak Jump Shift
+A jump shift shows a weak hand (less than invitational values) and 6+ cards. Opener must pass without good support.
+1♠
+   * 3♣, 3♦, 3♥: weak
+
+To show an invitational hand, bid 1NT and then jump or reverse.
+1♠ - 1NT - 2♦
+   * 3♣, 3♥: invitational
+
 ## Minor Openings 
 ﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
 where a three-card minor suit must be opened. 
@@ -266,9 +276,16 @@ four spades, four hearts, three diamonds, and two clubs, which should
 be opened 1♦.
 
 ## One Over One 
-A 1/1 bid shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
+A 1/1 bid generally shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
 
-A diamond suit is routinely skipped if it is not particularly long or strong.
+#### 1♦
+A diamond suit is skipped in favor of a major unless the hand is strong enough to force to game.
+1♦ may also show a balanced 6-8 points and a desire for opener to declare 1NT.
+
+#### 1NT
+1NT shows a balanced 8–10 points and denies a four-card major.
+It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
+
 
 ### Opener Rebids 
 Opener’s rebids are natural and standard.
@@ -602,8 +619,22 @@ A double is for takeout over an opening partscore bid (4♦ or lower); penalty o
 opening game bids (4♥ or higher). 
 However, advancer may pull the double with undisclosed length and/or poor defensive values.
 
-A below-game jump response to a takeout double is invitational. 
-To force, responder cuebids opener’s suit.
+A below-game jump response to a takeout double is invitational (9-12 declarer points). 
+To force for one round, responder cuebids opener’s suit.
+Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
+### Landy vs 1NT
+#### Unpassed Hand
+Landy is a simple defense to 1NT with only one artificial bid:
+   * Double: Penalty
+   * 2♣: Majors (5-5 when vulnerable, may be shorter when non-vulnerable)
+   * 2NT: Minors
+   * Others: Natural
+
+After 2♣, advancer bids the better major or 2♦ to defer to partner.
+
+#### Passed Hand
+Since it is impossible to have a penalty double as a passed hand,
+double is a relay to 2♣.
 ## Preemptive Bids
 Opening major suit bids at the three level and higher are preemptive and based on playing tricks
 (the number of tricks you expect to take if your long suit is trumps).
@@ -621,19 +652,6 @@ Preempts are generally not made in first or second position with:
    * a void in a minor
 
 Responses in new suits or NT are natural and forcing if below game.
-### Landy
-#### Unpassed Hand
-Landy is a simple defense to 1NT with only one artificial bid:
-   * Double: Penalty
-   * 2♣: Majors (5-5 when vulnerable, may be shorter when non-vulnerable)
-   * 2NT: Minors
-   * Others: Natural
-
-After 2♣, advancer bids the better major or 2♦ to defer to partner.
-
-#### Passed Hand
-Since it is impossible to have a penalty double as a passed hand,
-double is a relay to 2♣.
 ## Competitive Bidding 
 It is sometimes necessary to pick a bid that would normally have been a second choice
 without the overcall:

@@ -28,12 +28,12 @@ type MajorOpenings\Raises\basic-SR.md >> system.md
 type MajorOpenings\Raises\Jacoby-AM.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
 type MajorOpenings\Raises\twowayreversedrury.md >> system.md
-REM echo ### Jump Shifts >> system.md
-REM type MajorOpenings\JumpShifts\StrongJS.md >> system.md
+echo ### Jump Shifts >> system.md
+type MajorOpenings\JumpShifts\WeakJS.md >> system.md
 echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
 echo ## One Over One >> system.md
-type OneOverOne\SAYC.md >> system.md
+type OneOverOne\Walsh.md >> system.md
 echo ### Opener Rebids >> system.md
 type OneOverOne\OpenerRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
@@ -59,8 +59,8 @@ type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
-type Preemptive\2-3-4-majors-only.md >> system.md
 type NotrumpDefense\Landy.md >> system.md
+type Preemptive\2-3-4-majors-only.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
