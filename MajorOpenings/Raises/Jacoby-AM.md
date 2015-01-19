@@ -1,7 +1,7 @@
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
 
-   * 2NT = Game-forcing raise (13+ dummy points, 4+ trumps, all hand patterns). 
+   * 2NT = Game-forcing raise (13+ dummy points, 4+ trumps, no singleton or void). 
 Asks opener to describe his hand to help responder evaluate slam prospects.
 
       * 3♣, 3♦, 3♠ = singleton or void in that suit.
