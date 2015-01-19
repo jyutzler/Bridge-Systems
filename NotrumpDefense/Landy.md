@@ -1,4 +1,4 @@
-### Landy
+### Landy vs 1NT
 #### Unpassed Hand
 Landy is a simple defense to 1NT with only one artificial bid:
    * Double: Penalty
