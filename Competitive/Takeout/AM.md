@@ -14,8 +14,8 @@ If RHO makes a takeout double, bid as naturally as possible.
    * 1NT = non-forcing, 6-9 points.
    * 2♣, 2♦ = non-forcing (6–10 points, usually a six-card suit).
    * Redouble = 10 points or more, could have a limit raise.
-   * 2♥ = weak, generally four-card support but fewer than 10 points.
-   * 2NT = game force
+   * 2♥ = weak, generally three-card support but fewer than 10 points.
+   * 2NT = game force (Jacoby)
    * 3♥ = weak, generally four-card support but fewer than 10 points.
    * 4♥ = natural, could be preemptive
 
