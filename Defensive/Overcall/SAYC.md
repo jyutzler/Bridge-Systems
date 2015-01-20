@@ -1,8 +1,8 @@
-### Overcalls
-Overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
+### Suit Overcalls
+Suit overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
 A reopening bid means much the same as a direct seat bid, 
-though it can be lighter at the minimum end.
-Versus an opening preempt, an overcall in a suit is natural.
+but it may be made with about a king less.
+Versus an opening preempt, an overcall is natural. 
 
 The only forcing response is a cuebid of opener’s suit, asking the overcaller about
 the quality of his overcall:
