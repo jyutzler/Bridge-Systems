@@ -1,5 +1,6 @@
 #### Non-forcing Stayman
-2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit.
+2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
+Usually responder will have 8+ HCPs (assuming a 15-17 1NT range).
 
 Opener rebids:
 
