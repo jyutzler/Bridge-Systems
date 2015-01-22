@@ -34,7 +34,8 @@ The bidding structure for balanced hands is as follows:
 3NT = sign-off
 
 #### Non-forcing Stayman
-2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit.
+2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
+Usually responder will have 8+ HCPs (assuming a 15-17 1NT range).
 
 Opener rebids:
 
@@ -193,7 +194,7 @@ Open the higher of long suits of equal length: 5–5 or 6–6.
 
 It also denies denies four spades after a 1♥ opening.
 
-It is 100% forcing so responder must be prepared for a three-card response or a rebid with only five cards.
+It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
 
 ### Raises 
 #### Basic Raises
@@ -261,11 +262,13 @@ To prevent the contract from getting too high, responder may bid the following:
 ### Jump Shifts 
 #### Weak Jump Shift
 A jump shift shows a weak hand (less than invitational values) and 6+ cards. Opener must pass without good support.
+
 1♠
    * 3♣, 3♦, 3♥: weak
 
 To show an invitational hand, bid 1NT and then jump or reverse.
-1♠ - 1NT - 2♦
+
+1♠ — 1NT — 2♦
    * 3♣, 3♥: invitational
 
 ## Minor Openings 
@@ -279,8 +282,9 @@ be opened 1♦.
 A 1/1 bid generally shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
 
 #### 1♦
-A diamond suit is skipped in favor of a major unless the hand is strong enough to force to game.
-1♦ may also show a balanced 6-8 points and a desire for opener to declare 1NT.
+A diamond suit is automatically skipped in favor of a major unless the hand is strong enough to force to game.
+1♦ may also show a balanced 6-8 points and a desire for opener to declare 1NT. 
+
 
 #### 1NT
 1NT shows a balanced 8–10 points and denies a four-card major.
@@ -290,14 +294,14 @@ It is not forcing, but opener is expected to bid with a strong and/or unbalanced
 ### Opener Rebids 
 Opener’s rebids are natural and standard.
 
-#### Rebids with a minimum hand (13–16 points)
-   * Rebidding notrump at the lowest available level;
+#### Rebids with a minimum hand (13–16 points with distribution)
    * Raising responder’s suit at the lowest level (usually four cards, though good three-card support is acceptable if notrump is not);
+   * 1NT with a balanced hand and no support for responder's suit;
    * Rebidding a new suit at the one level or rebidding a new suit at the two level that
 is lower ranking than the opening suit (not reversing);
    * Rebidding opener’s suit at the lowest level.
 
-#### Rebids with a medium hand (17–18 points)
+#### Rebids with a medium hand (17–18 points with distribution)
    * Jump raise or jump rebid of opener’s suit;
    * Reverse in a new suit, i.e., bid a new suit at the two level which is higher ranking
 than the opening suit;
@@ -350,7 +354,8 @@ is invitational at the 2-level and game forcing at the 3-level.
 
 1NT (or 2♣) — 2♦ (forcing)
 
-In this case, opener is encouraged to show secondary support for responder's suit. 
+Opener is encouraged to show secondary support for responder's suit
+or bid an unbid 4-card major if possible. 
 When more than one minor is available, it tends to show a stopper for NT.
 
 #### Forcing to Game
@@ -597,13 +602,17 @@ Note: Unusual 2NT is off in the reopening seat (see above).
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). 
 
-If the opening is in a minor suit,
-the cuebid shows the majors; if the opening is in a major, the cuebid shows the
+If the opening is in a minor suit, the cuebid shows the majors; 
+if the opening is in a major, the cuebid shows the
 other major and an unspecified minor.
 
 (1♦) — 2♦ = at least 5–5 in the majors.
 
 (1♠) — 2♠ = at least 5–5 in hearts and a minor.
+
+The strength is either weak or very strong/distributional. 
+(Any subsequent bid by the cuebidder shows extra strength or distribution.)
+With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
 
 Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
 
@@ -611,9 +620,10 @@ Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
    * 3♣ = club suit.
    * 3♦ = diamond suit.
 
-The strength is either weak or very strong/distributional. 
-(Any subsequent bid by the cuebidder shows extra strength or distribution.)
-With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
+When vulnerable, it is best to avoid very weak hands. 
+This also makes it easier for advancer to decide to bid game.
+When non-vulnerable, the low-end range is much wider. 
+To invite game, advancer bids 2NT (to ask for the minor) followed by 3 of a suit (slow arrival).
 ### Doubles
 A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
 opening game bids (4♥ or higher). 
@@ -622,6 +632,7 @@ However, advancer may pull the double with undisclosed length and/or poor defens
 A below-game jump response to a takeout double is invitational (9-12 declarer points). 
 To force for one round, responder cuebids opener’s suit.
 Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
+If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
 ### Landy vs 1NT
 #### Unpassed Hand
 Landy is a simple defense to 1NT with only one artificial bid:

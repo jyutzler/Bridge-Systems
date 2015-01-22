@@ -35,7 +35,7 @@ type MinorOpenings\SAYC.md >> system.md
 echo ## One Over One >> system.md
 type OneOverOne\Walsh.md >> system.md
 echo ### Opener Rebids >> system.md
-type OneOverOne\OpenerRebid\RP.md >> system.md
+type OneOverOne\OpenerRebid\Walsh.md >> system.md
 echo ### Responder Rebids >> system.md
 type OneOverOne\ResponderRebid\NMF+FSF-INV.md >> system.md
 echo ## Two Over One >> system.md
