@@ -1,7 +1,7 @@
 ﻿
 This branch contains a Markdown file "system.md" that describes the bridge system
 used by Jeff Yutzler and Donna Hickling. 
-It is based on SAYC with a few additions.
+It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
 It is suitable for intermediate club players.
 
 ## General Approach 
