@@ -35,7 +35,8 @@ is invitational at the 2-level and game forcing at the 3-level.
 
 1NT (or 2♣) — 2♦ (forcing)
 
-In this case, opener is encouraged to show secondary support for responder's suit. 
+Opener is encouraged to show secondary support for responder's suit
+or bid an unbid 4-card major if possible. 
 When more than one minor is available, it tends to show a stopper for NT.
 
 #### Forcing to Game
