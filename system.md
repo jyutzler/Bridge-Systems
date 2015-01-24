@@ -173,6 +173,7 @@ It also denies denies four spades after a 1♥ opening.
 It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
 
 ### Raises 
+The following assumes a 1♥ opening but the system over 1♠ is similar. 
 #### General
    * 2♥ = three-card or longer heart support; 7–10 dummy points (strong enough to accept at least one game try).
    * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.

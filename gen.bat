@@ -21,6 +21,7 @@ type MajorOpenings\SAYC.md >> system.md
 echo ### NT Responses >> system.md
 type MajorOpenings\1NT\1NTforcing.md >> system.md
 echo ### Raises >> system.md
+echo The following assumes a 1♥ opening but the system over 1♠ is similar. >> system.md
 type MajorOpenings\Raises\Bergen.md >> system.md
 type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
