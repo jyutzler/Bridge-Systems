@@ -27,7 +27,7 @@ type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
 type MajorOpenings\Raises\twowayreversedrury.md >> system.md
 echo ### Jump Shifts >> system.md
-type MajorOpenings\JumpShifts\WeakJS.md >> system.md
+type MajorOpenings\JumpShifts\WeakJS-Bergen.md >> system.md
 echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
 echo ### Raises >> system.md
