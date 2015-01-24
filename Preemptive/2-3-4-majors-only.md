@@ -1,0 +1,17 @@
+## Preemptive Bids
+Opening major suit bids at the three level and higher are preemptive and based on playing tricks
+(the number of tricks you expect to take if your long suit is trumps).
+Overbid based on the rule of 2-3-4:
+   * vulnerable vs. nonvulnerable: overbid by 2 tricks
+   * equal vulnerability: overbid by 3 tricks
+   * nonvulnerable vs. vulnerable: overbid by 4 tricks
+
+In a minor, preempts are less predictable so be cautious about raising 
+with a balanced hand.
+   
+Preempts are generally not made in first or second position with:
+   * more than one outside trick
+   * a four-card major Q-x-x-x or better
+   * a void in a minor
+
+Responses in new suits or NT are natural and forcing if below game.

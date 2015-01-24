@@ -6,5 +6,5 @@
 
 It also denies denies four spades after a 1♥ opening.
 
-It is 100% forcing so responder must be prepared for a three-card response or a rebid with only five cards.
+It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
 

@@ -24,3 +24,4 @@ with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3♠ = invitational with a six-card suit. Opener may pass with a minimum hand; bid 3NT or 4♠ with a maximum.
    * 3NT = asking for a choice between 3NT and 4♠.
    * 4NT = quantitative invitation to 6♠ or 6NT with a five-card suit.
+
