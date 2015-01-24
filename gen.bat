@@ -21,7 +21,7 @@ type MajorOpenings\SAYC.md >> system.md
 echo ### NT Responses >> system.md
 type MajorOpenings\1NT\1NTforcing.md >> system.md
 echo ### Raises >> system.md
-type MajorOpenings\Raises\basic-SR.md >> system.md
+type MajorOpenings\Raises\Bergen.md >> system.md
 type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
 type MajorOpenings\Raises\twowayreversedrury.md >> system.md
@@ -53,7 +53,7 @@ type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
-type NotrumpDefense\Cappelletti.md >> system.md
+type NotrumpDefense\DONT.md >> system.md
 type Preemptive\sound.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md

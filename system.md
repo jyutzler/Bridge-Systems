@@ -1,7 +1,7 @@
 ﻿
 This branch contains a Markdown file "system.md" that describes the bridge system
 used by Jeff Yutzler and Francesca Mazarella. 
-It is based on SAYC with a few additions.
+It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
 It is suitable for advancing club players.
 
 ## General Approach 
@@ -34,7 +34,8 @@ The bidding structure for balanced hands is as follows:
 3NT = sign-off
 
 #### Non-forcing Stayman
-2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit.
+2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
+Usually responder will have 8+ HCPs (assuming a 15-17 1NT range).
 
 Opener rebids:
 
@@ -169,13 +170,27 @@ Open the higher of long suits of equal length: 5–5 or 6–6.
 
 It also denies denies four spades after a 1♥ opening.
 
-It is 100% forcing so responder must be prepared for a three-card response or a rebid with only five cards.
+It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
 
 ### Raises 
-#### Basic Raises
-   * 2 = three-card or longer heart support; 7–10 dummy points (strong enough to accept at least one game try).
-   * 3 = four-card limit raise (11–12 dummy points).
-   * 4 = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+#### General
+   * 2♥ = three-card or longer heart support; 7–10 dummy points (strong enough to accept at least one game try).
+   * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+
+#### Bergen Raises
+   * 3♣ = mixed raise (7-10 dummy points with four or more hearts).
+      * 3♦ = game try
+   * 3♦ = limit raise (11–12 dummy points with four or more hearts).
+   * 3♥ = weak raise (6 or fewer dummy points with four or more hearts).
+
+#### Passed Hands
+Bergen Raises are off. See Drury section if applicable.
+
+#### In Competition
+Bergen Raises are off in competition
+   * 3♥ = weak raise (10 or fewer dummy points with four or more hearts).
+   * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+   * Cue = Limit Raise or better (at least a good 10 dummy points and three hearts)
 
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
@@ -237,11 +252,13 @@ To prevent the contract from getting too high, responder may bid the following:
 ### Jump Shifts 
 #### Weak Jump Shift
 A jump shift shows a weak hand (less than invitational values) and 6+ cards. Opener must pass without good support.
+
 1♠
    * 3♣, 3♦, 3♥: weak
 
 To show an invitational hand, bid 1NT and then jump or reverse.
-1♠ - 1NT - 2♦
+
+1♠ — 1NT — 2♦
    * 3♣, 3♥: invitational
 
 ## Minor Openings 
@@ -335,7 +352,8 @@ is invitational at the 2-level and game forcing at the 3-level.
 
 1NT (or 2♣) — 2♦ (forcing)
 
-In this case, opener is encouraged to show secondary support for responder's suit. 
+Opener is encouraged to show secondary support for responder's suit
+or bid an unbid 4-card major if possible. 
 When more than one minor is available, it tends to show a stopper for NT.
 
 #### Forcing to Game
@@ -551,13 +569,17 @@ Note: Unusual 2NT is off in the reopening seat (see above).
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). 
 
-If the opening is in a minor suit,
-the cuebid shows the majors; if the opening is in a major, the cuebid shows the
+If the opening is in a minor suit, the cuebid shows the majors; 
+if the opening is in a major, the cuebid shows the
 other major and an unspecified minor.
 
 (1♦) — 2♦ = at least 5–5 in the majors.
 
 (1♠) — 2♠ = at least 5–5 in hearts and a minor.
+
+The strength is either weak or very strong/distributional. 
+(Any subsequent bid by the cuebidder shows extra strength or distribution.)
+With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
 
 Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
 
@@ -565,9 +587,10 @@ Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
    * 3♣ = club suit.
    * 3♦ = diamond suit.
 
-The strength is either weak or very strong/distributional. 
-(Any subsequent bid by the cuebidder shows extra strength or distribution.)
-With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
+When vulnerable, it is best to avoid very weak hands. 
+This also makes it easier for advancer to decide to bid game.
+When non-vulnerable, the low-end range is much wider. 
+To invite game, advancer bids 2NT (to ask for the minor) followed by 3 of a suit (slow arrival).
 ### Doubles
 A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
 opening game bids (4♥ or higher). 
@@ -576,35 +599,22 @@ However, advancer may pull the double with undisclosed length and/or poor defens
 A below-game jump response to a takeout double is invitational (9-12 declarer points). 
 To force for one round, responder cuebids opener’s suit.
 Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
-### Cappelletti vs. 1NT
-#### Unpassed Hand
-Cappelletti (AKA Hamilton) is a common defense to 1NT. Unpassed hand responses:
-   * double: penalty 
-   * 2♣: single-suited
-      * pass: 6 clubs
-	  * 2♦: relay (pass or correct)
-	     * 2NT: 4 diamonds, 6 clubs
-	  * 2♥/2♠: 5-card suit, weak
-	  * 2NT: Invitational (11+), balanced
-   * 2♦: majors (5-5 when vulnerable, may be shorter when non-vulnerable)
-      * Pass: 6 diamonds
-      * 2♥/2♠: Unconstructive preference
-      * 2NT: Minors
-      * 3♣: 6 clubs
-	  * Raise to 3: Invitational
-   * 2♥/2♠: that major and a minor
-      * pass: Fit, unconstructive
-      * 2NT: Asking for minor
-	     * Responder may return to major to show 10-12
-      * Raise to 3: Invitational 8-9
+If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
+### DONT vs. 1NT
+DONT features multiple ways to show single-suited or 5-5 hands (4-5 distribution is possible when non-vulnerable).  
+   * double: single-suited 
+   * 2♣: clubs and a higher suit
+   * 2♦: diamonds and a higher suit
+   * 2♥: majors
+   * 2♠: spades (normal weak 2 or worse in strength; use 2♣ followed by 2♠ to show a better hand)
    * 2NT: Minors (5-5 or better)
-      * 3♣/3♦: Unconstructive preference
-	  * 3♥/3♠: six cards, no interest in minors
-	  * 4♣/4♦: Invitational
-	  
-#### Passed Hand
-By a passed hand, the system changes slightly:
-   * double: clubs or red suits (pass or correct)
+
+Advancer responses:
+   * pass or bid of a shown suit: fit, unconstructive
+   * next higher suit: relay (pass or correct)
+   * pass of double is for penalty and rare
+   * new suit: single-suited
+   * jump or raise in shown suit: invitational (8-9 points)
 ## Preemptive Bids
 Opening suit bids at the three level and higher are preemptive, usually showing 7 cards at the 3-level and 8 cards at the 4-level. They are sound, roughly in accordance with the rule of 500 - you expect to take seven tricks vulnerable, six tricks non-vulnerable out of your own hand.
 
