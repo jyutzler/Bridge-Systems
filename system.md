@@ -41,13 +41,24 @@ Opener rebids:
 
    * 2♦ with no four-card major 
    * 2♥ with four or five hearts and less than five spades
-   * 2♠ with four spades or five spades and four hearts
+   * 2♠ with five spades (possibly with four hearts) or four spades
 
-Responder will generally invite or bid game. 
-If responder rebids three of either minor,
-he shows slam interest and at least a five-card suit.
-A rebid of 4NT over a major is Blackwood so if you want to make a quantitative raise, 
-you must bid a minor first.
+After 2♦:
+   * 2♥, 2♠: five cards in that suit, four in the other major, invitational
+   * 3♥, 3♠: five cards in the other major, four in that major, forcing (Smolen)
+
+After 2♥ or 2♠: 
+   * 2♠ (over 2♥) or 3♥ (over 2♠): forcing raise slam interest, no splinter
+   * 3 of that major: invitational
+   * 3♠ (over 2♥), 4♣, 4♦, 4♥ (over 2♠): forcing raise, slam interest, that splinter
+   * 4 of that major: signoff
+   * 4NT after any forcing raise is Blackwood
+   
+After any response:
+   * 2NT: invitational with an unbid major
+   * 3♣, 3♦: five cards, slam interest
+   * 3NT: signoff with an unbid major (choice of games)
+   * 4NT: quantitative
 #### Jacoby Transfer
 The Jacoby Transfer shows a five-card major. 
 After a 1NT opening (or overcall if systems are on - see Defensive Bidding):
@@ -602,28 +613,39 @@ Note: Unusual 2NT is off in the reopening seat (see above).
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). 
 
-If the opening is in a minor suit, the cuebid shows the majors; 
-if the opening is in a major, the cuebid shows the
+   * If the opening is in a minor suit, the cuebid shows the majors; 
+   * If the opening is in a major, the cuebid shows the
 other major and an unspecified minor.
 
-(1♦) — 2♦ = at least 5–5 in the majors.
-
-(1♠) — 2♠ = at least 5–5 in hearts and a minor.
-
 The strength is either weak or very strong/distributional. 
-(Any subsequent bid by the cuebidder shows extra strength or distribution.)
 With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
-
-Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
-
-(1♥) — 2♥ — (Pass) — 2NT (asks for the minor).
-   * 3♣ = club suit.
-   * 3♦ = diamond suit.
-
 When vulnerable, it is best to avoid very weak hands. 
-This also makes it easier for advancer to decide to bid game.
+(This also makes it easier for advancer to decide to bid game.)
 When non-vulnerable, the low-end range is much wider. 
-To invite game, advancer bids 2NT (to ask for the minor) followed by 3 of a suit (slow arrival).
+
+#### Responses to a Minor Cuebid
+
+1. Major at lowest level: Preference (usually 3)
+1. 2NT: Invitational
+1. Opponent's suit: Game or slam try
+
+#### Responses to a Major Cuebid
+
+1. Major at lowest level: Preference (usually 3)
+2. Jump in major: Weak if below game
+1. 2NT: asks for overcaller’s minor.
+   * If advancer then returns to the major, this is invitational.
+   * If there is further interference, 4NT may also ask for the minor.
+
+#### Rare Responses to Either Cuebid
+
+2. Jump in major: Good support, but weak if below game
+1. Unbid minor (no further interference): Weak
+1. 3NT: To play
+
+#### Overcaller Rebids
+Overcaller will normally have a weak hand and will pass or make a minimum response. 
+With a strong hand or freakier distribution, overcaller will make some other bid.
 ### Doubles
 A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
 opening game bids (4♥ or higher). 

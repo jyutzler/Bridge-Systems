@@ -8,7 +8,7 @@ echo ## Balanced Openings >> system.md
 type NotrumpOpenings\SAYC.md >> system.md
 echo ### 1NT 15-17 >> system.md
 type NotrumpOpenings\1NT\Basic\SAYC.md >> system.md
-type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
+type NotrumpOpenings\1NT\Stayman\jeff-donna.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Basic.md >> system.md
