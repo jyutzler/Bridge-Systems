@@ -1,16 +1,13 @@
 ### NT Overcalls
-#### Direct
-A 1NT overcall shows 15–18 points and a balanced hand (preferably a stopper in
-opener’s suit). All systems are on - effectively the opening bid is ignored.
 
-To show a stronger hand, double then bid 1NT to show 19-21 points.
+With appropriate strength and a stopper in the opponent's suit,
+you may make a NT overcall.
 
-#### Reopening
-A reopening 1NT after an opponent has opened shows 10–14 points. 
-This is a wide range, but there will not usually be a game on for you.
+|Hand|Direct|Reopening|2-level|3-level|
+|10-14|pass or double then pass|pass or 1NT|pass|pass|
+|15-18|1NT|double then 1NT|2NT|maybe 3NT|
+|19-21|double then bid NT|2NT|3NT|3NT|
+|22-24|double then jump NT|3NT|3NT|3NT|
 
-To show a stronger hand, double then bid 1NT to show 15-18 points 
-or jump to 2NT to show 19-21.
+All systems are on - effectively the opening bid is ignored.
 
-#### Vs. Preempts
-Versus an opening preempt, an overcall in notrump is natural.
