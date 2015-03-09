@@ -38,6 +38,8 @@ echo ### Opener Rebids >> system.md
 type OneOverOne\OpenerRebid\Walsh.md >> system.md
 echo ### Responder Rebids >> system.md
 type OneOverOne\ResponderRebid\NMF+FSF-INV.md >> system.md
+echo ### Reverses >> system.md
+type OneOverOne\Reverses\SAYC.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Game Tries >> system.md
@@ -52,6 +54,7 @@ type Slam\1430.md >> system.md
 type Slam\gerber.md >> system.md
 type Slam\pickaslam.md >> system.md
 type Slam\grandslamforce.md >> system.md
+type Slam\voluntary5.md >> system.md
 type Slam\serious3NT.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
@@ -65,7 +68,7 @@ echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
-type Competitive\VsConventions\Cue-support.md >> system.md
+type Competitive\VsConventions\Reverse-cue-support.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\AM.md >> system.md
 type Competitive\Redouble\jeff-donna.md >> system.md

@@ -388,6 +388,19 @@ Suit bids usually show controls.
 #### Signing off at Game
 Any bid of game is a sign-off, though partner can proceed with a maximum (see Slam Bidding).
 
+### Reverses 
+### Reverses
+After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
+It is forcing for one round. 
+Responder has two weak responses:
+   * A rebid at the two-level shows 5+ cards in the suit
+   * 2NT denies 5+ cards
+
+Both of these responses are forcing for one round. 
+Without good support, opener will usually retreat to the first suit.
+The exception is when there is another unbid four-card suit (e.g., 5-0-4-4 distribution).
+
+All other bids by responder are natural and forcing to game. 
 ## Two Over One 
 By an unpassed hand, a two-over-one response shows 13+ points and 4+ cards 
 or exactly 3 of opener's major. 
@@ -409,8 +422,13 @@ Opener responds naturally to clarify the hand.
 ## Game Tries 
 #### Help Suit Game Try
 
-Once suit agreement has been reached in a non-game-forcing auction, a new suit is a game try.
-The idea is to identify a suit Qxx or better that would benefit from fitting honors. One may bid game, sign off, or make another game try.
+Once any major suit is raised from 1 to 2 (declaring suit agreement), a new suit is a game try.
+The idea is to identify a suit Qxx or better that would benefit from fitting honors. 
+One may bid game, sign off, or make another game try.
+
+When this treatment is used, other bids change their meanings.
+   * 2NT shows a balanced hand
+   * 3 of the trump suit shows bad trumps but otherwise a good hand
 ## Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor. 
 
@@ -541,6 +559,17 @@ honors:
    * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
    * 7 of the trump suit = two of the three top trump honors.
 
+### Voluntary 5-bid
+A voluntary bid of 5 of a suit is invitational to slam.
+It is used in two circumstances: 
+   * If opponents have bid one suit or there is one unbid suit, it asks for second-round control in that suit. Responder:
+      * Bids 5NT with an unguarded K to invite an alternative contract of 6NT
+	  * Raises to 6 with first or second-round control
+	  * Passes otherwise
+   * Otherwise, it asks for top trump honors. Responder 
+      * Raises to 7 with AK and the Q or extra length
+	  * Raises to 6 with at least AJ or KQ
+	  * Passes otherwise
 ### Serious 3NT
 Once agreement in a major suit has been reached, 
 a bid of 3NT is "serious" slam try and shows significant extras. 
@@ -581,21 +610,19 @@ When the opponents have bid two suits,
 an overcall in either suit is natural.
 
 ### NT Overcalls
-#### Direct
-A 1NT overcall shows 15–18 points and a balanced hand (preferably a stopper in
-opener’s suit). All systems are on - effectively the opening bid is ignored.
 
-To show a stronger hand, double then bid 1NT to show 19-21 points.
+With appropriate strength and a stopper in the opponent's suit,
+you may make a NT overcall.
 
-#### Reopening
-A reopening 1NT after an opponent has opened shows 10–14 points. 
-This is a wide range, but there will not usually be a game on for you.
+Hand|Direct|Reopening|2-level|3-level
+-----|--------|------|-------|---------
+10-14|pass or double then pass|pass or 1NT|pass|pass
+15-18|1NT|double then 1NT|2NT|maybe 3NT
+19-21|double then bid NT|2NT|3NT|3NT
+22-24|double then jump NT|3NT|3NT|3NT
 
-To show a stronger hand, double then bid 1NT to show 15-18 points 
-or jump to 2NT to show 19-21.
+All systems are on - effectively the opening bid is ignored.
 
-#### Vs. Preempts
-Versus an opening preempt, an overcall in notrump is natural.
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
 (It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
@@ -724,13 +751,24 @@ convention intended for non-competitive sequences.
    * 2♣ — Double — 2♦ = natural and positive.
 
 ### Against Conventions
-If the opponents use a convention (such as Michaels or the unusual notrump), you
-can double to show at least 10 points, or you can cuebid their lowest shown suit
-to show a good raise.
+After partner opens in a suit and a conventional bid by the opponents shows one known suit, 
+a cue bid shows a good raise, a double shows a good hand without support, and other bids are weak. 
+For example:
 
-1♠ — (2♠) 
-   * 3♥ = Limit raise or better.
-   * Double = at least 10 points, probably balanced.
+1♠ — (2♠:Michaels) 
+   * 3♣, 3♦, 3♠: weak
+   * 3♥: Limit raise or better in spades.
+   * Double: at least 10 points, possibly willing to make a penalty double.
+
+If the conventional bid shows two known suits, 
+there are two cue bids available, the first shows the fourth suit and the second shows good support. 
+For example:
+
+1♣ — (2NT:Unusual) 
+   * 3♣, 3♠: weak
+   * 3♦: 10+HCP, 5+ spades
+   * 3♥: Limit raise or better in clubs.
+   * Double: at least 10 points, possibly willing to make a penalty double.
 
 ### Negative Doubles
 The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
