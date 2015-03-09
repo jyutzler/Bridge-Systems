@@ -16,7 +16,7 @@ than the opening suit;
 #### With a maximum hand (19–21 or 22 points) opener must make a very strong rebid:
    * Jump in notrump;
    * Double jump raise of responder’s suit or double jump rebid of opener’s suit;
-   * Jump shift in a new suit.
+   * Jump shift or reverse in a new suit.
 
 Responder follows up by attempting to sign off in game, bidding 4NT
 Blackwood, or cuebidding if still interested in trying to cooperate with opener

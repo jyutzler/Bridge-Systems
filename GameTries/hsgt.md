@@ -7,3 +7,4 @@ One may bid game, sign off, or make another game try.
 When this treatment is used, other bids change their meanings.
    * 2NT shows a balanced hand
    * 3 of the trump suit shows bad trumps but otherwise a good hand
+
