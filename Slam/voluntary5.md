@@ -9,3 +9,4 @@ It is used in two circumstances:
       * Raises to 7 with AK and the Q or extra length
 	  * Raises to 6 with at least AJ or KQ
 	  * Passes otherwise
+
