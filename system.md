@@ -321,7 +321,7 @@ than the opening suit;
 #### With a maximum hand (19–21 or 22 points) opener must make a very strong rebid:
    * Jump in notrump;
    * Double jump raise of responder’s suit or double jump rebid of opener’s suit;
-   * Jump shift in a new suit.
+   * Jump shift or reverse in a new suit.
 
 Responder follows up by attempting to sign off in game, bidding 4NT
 Blackwood, or cuebidding if still interested in trying to cooperate with opener
@@ -388,7 +388,6 @@ Suit bids usually show controls.
 #### Signing off at Game
 Any bid of game is a sign-off, though partner can proceed with a maximum (see Slam Bidding).
 
-### Reverses 
 ### Reverses
 After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
 It is forcing for one round. 
@@ -429,6 +428,7 @@ One may bid game, sign off, or make another game try.
 When this treatment is used, other bids change their meanings.
    * 2NT shows a balanced hand
    * 3 of the trump suit shows bad trumps but otherwise a good hand
+
 ## Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor. 
 
@@ -570,6 +570,7 @@ It is used in two circumstances:
       * Raises to 7 with AK and the Q or extra length
 	  * Raises to 6 with at least AJ or KQ
 	  * Passes otherwise
+
 ### Serious 3NT
 Once agreement in a major suit has been reached, 
 a bid of 3NT is "serious" slam try and shows significant extras. 

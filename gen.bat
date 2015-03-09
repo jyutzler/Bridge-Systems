@@ -38,7 +38,6 @@ echo ### Opener Rebids >> system.md
 type OneOverOne\OpenerRebid\Walsh.md >> system.md
 echo ### Responder Rebids >> system.md
 type OneOverOne\ResponderRebid\NMF+FSF-INV.md >> system.md
-echo ### Reverses >> system.md
 type OneOverOne\Reverses\SAYC.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
