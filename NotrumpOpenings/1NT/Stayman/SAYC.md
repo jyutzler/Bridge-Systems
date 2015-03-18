@@ -6,7 +6,7 @@ Opener rebids:
 
    * 2♦ with no four-card major 
    * 2♥ with four or five hearts and less than five spades
-   * 2♠ with four spades or five spades and four hearts
+   * 2♠ with five spades (possibly with four hearts) or four spades
 
 Responder will generally invite or bid game. 
 If responder rebids three of either minor,
