@@ -41,7 +41,7 @@ Opener rebids:
 
    * 2♦ with no four-card major 
    * 2♥ with four or five hearts and less than five spades
-   * 2♠ with four spades or five spades and four hearts
+   * 2♠ with five spades (possibly with four hearts) or four spades
 
 Responder will generally invite or bid game. 
 If responder rebids three of either minor,
@@ -154,9 +154,6 @@ Stayman and Jacoby/Texas transfers for the majors are used.
    * 4♣ = Stayman.
    * 4♦, 4♥ = Jacoby transfers to hearts and spades, respectively
 
-#### 4NT Blackwood Opening
-An opening of 4NT shows a rare hand that is solid except for aces or kings.
-Standard Blackwood responses are used.
 ## Major Openings 
 Normally open five-card majors in all seats.
 
@@ -314,7 +311,7 @@ than the opening suit;
 #### With a maximum hand (19–21 or 22 points) opener must make a very strong rebid:
    * Jump in notrump;
    * Double jump raise of responder’s suit or double jump rebid of opener’s suit;
-   * Jump shift in a new suit.
+   * Jump shift or reverse in a new suit.
 
 Responder follows up by attempting to sign off in game, bidding 4NT
 Blackwood, or cuebidding if still interested in trying to cooperate with opener
@@ -543,21 +540,19 @@ When the opponents have bid two suits,
 an overcall in either suit is natural.
 
 ### NT Overcalls
-#### Direct
-A 1NT overcall shows 15–18 points and a balanced hand (preferably a stopper in
-opener’s suit). All systems are on - effectively the opening bid is ignored.
 
-To show a stronger hand, double then bid 1NT to show 19-21 points.
+With appropriate strength and a stopper in the opponent's suit,
+you may make a NT overcall.
 
-#### Reopening
-A reopening 1NT after an opponent has opened shows 10–14 points. 
-This is a wide range, but there will not usually be a game on for you.
+Hand|Direct|Reopening|2-level|3-level
+-----|--------|------|-------|---------
+10-14|pass or double then pass|pass or 1NT|pass|pass
+15-18|1NT|double then 1NT|2NT|maybe 3NT
+19-21|double then bid NT|2NT|3NT|3NT
+22-24|double then jump NT|3NT|3NT|3NT
 
-To show a stronger hand, double then bid 1NT to show 15-18 points 
-or jump to 2NT to show 19-21.
+All systems are on - effectively the opening bid is ignored.
 
-#### Vs. Preempts
-Versus an opening preempt, an overcall in notrump is natural.
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
 (It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
@@ -575,28 +570,39 @@ Note: Unusual 2NT is off in the reopening seat (see above).
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). 
 
-If the opening is in a minor suit, the cuebid shows the majors; 
-if the opening is in a major, the cuebid shows the
+   * If the opening is in a minor suit, the cuebid shows the majors; 
+   * If the opening is in a major, the cuebid shows the
 other major and an unspecified minor.
 
-(1♦) — 2♦ = at least 5–5 in the majors.
-
-(1♠) — 2♠ = at least 5–5 in hearts and a minor.
-
 The strength is either weak or very strong/distributional. 
-(Any subsequent bid by the cuebidder shows extra strength or distribution.)
 With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
-
-Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
-
-(1♥) — 2♥ — (Pass) — 2NT (asks for the minor).
-   * 3♣ = club suit.
-   * 3♦ = diamond suit.
-
 When vulnerable, it is best to avoid very weak hands. 
-This also makes it easier for advancer to decide to bid game.
+(This also makes it easier for advancer to decide to bid game.)
 When non-vulnerable, the low-end range is much wider. 
-To invite game, advancer bids 2NT (to ask for the minor) followed by 3 of a suit (slow arrival).
+
+#### Responses to a Minor Cuebid
+
+1. Major at lowest level: Preference (usually 3)
+1. 2NT: Invitational
+1. Opponent's suit: Game or slam try
+
+#### Responses to a Major Cuebid
+
+1. Major at lowest level: Preference (usually 3)
+2. Jump in major: Weak if below game
+1. 2NT: asks for overcaller’s minor.
+   * If advancer then returns to the major, this is invitational.
+   * If there is further interference, 4NT may also ask for the minor.
+
+#### Rare Responses to Either Cuebid
+
+2. Jump in major: Good support, but weak if below game
+1. Unbid minor (no further interference): Weak
+1. 3NT: To play
+
+#### Overcaller Rebids
+Overcaller will normally have a weak hand and will pass or make a minimum response. 
+With a strong hand or freakier distribution, overcaller will make some other bid.
 ### Doubles
 A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
 opening game bids (4♥ or higher). 
@@ -663,13 +669,24 @@ convention intended for non-competitive sequences.
    * 2♣ — Double — 2♦ = natural and positive.
 
 ### Against Conventions
-If the opponents use a convention (such as Michaels or the unusual notrump), you
-can double to show at least 10 points, or you can cuebid their lowest shown suit
-to show a good raise.
+After partner opens in a suit and a conventional bid by the opponents shows one known suit, 
+a cue bid shows a good raise, a double shows a good hand without support, and other bids are weak. 
+For example:
 
-1♠ — (2♠) 
-   * 3♥ = Limit raise or better.
-   * Double = at least 10 points, probably balanced.
+1♠ — (2♠:Michaels) 
+   * 3♣, 3♦, 3♠: weak
+   * 3♥: Limit raise or better in spades.
+   * Double: at least 10 points, possibly willing to make a penalty double.
+
+If the conventional bid shows two known suits, 
+there are two cue bids available and the second shows the fourth suit. 
+For example:
+
+1♣ — (2NT:Unusual) 
+   * 3♣, 3♠: weak
+   * 3♦: Limit raise or better in clubs.
+   * 3♥: 10+HCP, 5+ spades
+   * Double: at least 10 points, possibly willing to make a penalty double.
 
 ### Negative Doubles
 The negative double is used through 4♦ promising four cards (at least) in an unbid major. 

@@ -15,7 +15,6 @@ type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
 echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\Texas.md >> system.md
-type NotrumpOpenings\2NT+3NT\4NT-BW.md >> system.md
 echo ## Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 echo ### NT Responses >> system.md
