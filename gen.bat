@@ -43,7 +43,6 @@ echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Game Tries >> system.md
 type GameTries\hsgt.md >> system.md
-REM type TwoOverOne\ResponderRebid\jeff-norman.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
@@ -61,7 +60,7 @@ type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
-type NotrumpDefense\Landy.md >> system.md
+type Defensive\vsNT\Landy.md >> system.md
 type Preemptive\2-3-4-majors-only.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
