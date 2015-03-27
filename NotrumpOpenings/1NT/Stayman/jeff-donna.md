@@ -8,10 +8,6 @@ Opener rebids:
    * 2♥ with four or five hearts and less than five spades
    * 2♠ with five spades (possibly with four hearts) or four spades
 
-After 2♦:
-   * 2♥, 2♠: five cards in that suit, four in the other major, invitational
-   * 3♥, 3♠: five cards in the other major, four in that major, forcing (Smolen)
-
 After 2♥ or 2♠: 
    * 2♠ (over 2♥) or 3♥ (over 2♠): forcing raise slam interest, no splinter
    * 3 of that major: invitational
