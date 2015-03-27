@@ -20,3 +20,4 @@ After any response:
    * 3♣, 3♦: five cards, slam interest
    * 3NT: signoff with an unbid major (choice of games)
    * 4NT: quantitative
+
