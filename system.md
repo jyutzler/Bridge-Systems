@@ -55,6 +55,7 @@ After any response:
    * 3♣, 3♦: five cards, slam interest
    * 3NT: signoff with an unbid major (choice of games)
    * 4NT: quantitative
+
 #### Jacoby Transfer
 The Jacoby Transfer shows a five-card major. 
 After a 1NT opening (or overcall if systems are on - see Defensive Bidding):
@@ -113,6 +114,24 @@ with a number of hand types.
    * Transfer to the weaker major and pass = bust
    * 1NT - 2♦ - 2♥ - 2♠ = invitational
    * 1NT - 2♥ - 2♠ - 3♥ = game forcing
+
+#### Smolen 5-4 or better in the Majors
+Unless responder is weak, 5-4 in the majors is shown with a Stayman sequence as follows:
+
+   * 2♣, pass: weak, four diamonds
+   * transfer to five-card major, pass: weak, less than four diamonds
+   * 2♣, 2♥ or 2♠: that major, invitational
+   * 2♣, 3♥ or 3♠: the other major, game-forcing
+   * 2♣, 4♦ or 4♥: transfer to 4♥ or 4♠, at least 6, slam interest (Otherwise bypass Smolen and use a straight transfer)
+
+Over 2NT, a similar system applies but there are no invitational bids:
+
+   * 3♣, pass: weak, four diamonds
+   * transfer to five-card major, pass: weak, less than four diamonds
+   * 3♣, 3♥ or 3♠: the other major, game-forcing
+   * 2♣, 4♦ or 4♥: transfer to 4♥ or 4♠, at least 6, slam interest (Otherwise bypass Smolen and use a straight transfer)
+
+Smolen does not apply over 3NT.
 
 #### Minor Suit Transfer Bids
 
