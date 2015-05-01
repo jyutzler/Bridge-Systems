@@ -9,12 +9,12 @@ For example:
    * Double: at least 10 points, possibly willing to make a penalty double.
 
 If the conventional bid shows two known suits, 
-there are two cue bids available and the second shows the fourth suit. 
+there are two cue bids available, the first shows the fourth suit and the second shows good support. 
 For example:
 
 1♣ — (2NT:Unusual) 
    * 3♣, 3♠: weak
-   * 3♦: Limit raise or better in clubs.
-   * 3♥: 10+HCP, 5+ spades
+   * 3♦: 10+HCP, 5+ spades
+   * 3♥: Limit raise or better in clubs.
    * Double: at least 10 points, possibly willing to make a penalty double.
 
