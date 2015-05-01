@@ -35,6 +35,8 @@ echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
 echo ## One Over One >> system.md
 type OneOverOne\Walsh.md >> system.md
+echo ### NT Responses >> system.md
+type MinorOpenings\NTResponses\walsh.md >> system.md
 echo ### Opener Rebids >> system.md
 type OneOverOne\OpenerRebid\Walsh.md >> system.md
 echo ### Responder Rebids >> system.md
@@ -54,7 +56,7 @@ type Slam\gerber.md >> system.md
 type Slam\pickaslam.md >> system.md
 type Slam\grandslamforce.md >> system.md
 type Slam\voluntary5.md >> system.md
-type Slam\serious3NT.md >> system.md
+type Slam\forcing3NT.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
 type Defensive\NTOvercall\systems-on.md >> system.md

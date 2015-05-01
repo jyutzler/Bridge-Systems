@@ -157,7 +157,7 @@ If an opponent doubles, all conventional responses are “on.” For example:
 
 1NT — (Double) — 2♦ = transfer to hearts
 
-With a bad hand and a long minor, redouble for SOS.
+With a bad hand and a long minor, redouble for scramble to safety, looking for a 4-4 or 4-3 fit.
 
 1NT — (Double) — Redouble = Rescue - weak with a long minor (opener bids 2♣, pass or correct).
 
@@ -165,7 +165,7 @@ Otherwise pass and let opener reopen the bidding.
 
 1NT — (Double) — pass - (pass) = Forcing - opener must either bids a 5-card suit or redoubles. 
 Responder passes the redouble with 7+ (possibly less) 
-or bids a 4-card suit to attempt to scramble to safety.
+or bids a 5-card minor.32
 #### Over 2♣
 Jacoby Transfers are on over 2♣.
 
@@ -311,12 +311,19 @@ A 1/1 bid generally shows 6+ dummy points and either a 5+ card suit or no lower 
 A diamond suit is automatically skipped in favor of a major unless the hand is strong enough to force to game.
 1♦ may also show a balanced 6-8 points and a desire for opener to declare 1NT. 
 
-
+### NT Responses 
 #### 1NT
 1NT shows a balanced 8–10 points and denies a four-card major.
 It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
 
+#### 2NT
+2NT is invitational - 11-12 HCP, no four-card major, balanced hand with two-card support for partner.
 
+#### 3NT
+3NT shows game-values - 13-15 HCP, no four-card major, balanced hand with two-card support for partner.
+
+#### 4NT
+4NT is quantitative - 16-18 HCP, no four-card major, balanced hand with two-card support for partner.
 ### Opener Rebids 
 Opener’s rebids are natural and standard.
 
@@ -586,12 +593,14 @@ It is used in two circumstances:
 	  * Raises to 6 with at least AJ or KQ
 	  * Passes otherwise
 
-### Serious 3NT
+### Forcing 3NT
 Once agreement in a major suit has been reached, 
-a bid of 3NT is "serious" slam try and shows significant extras. 
-Responder is expected to cue bid first-round controls.
-
-A voluntary cue bid at the 4-level that skips 3NT is not serious, but a mild slam try. 
+a bid of 3NT is a slam try that asks responder to cue bid first-round controls.
+A voluntary cue bid at the 4-level that skips 3NT is also a slam try. 
+The two bids say nothing specific about hand strength 
+but are more tactical in nature.
+For example, the player that will be declarer may choose to bid 3NT 
+so as to not reveal any unnecessary information about the closed hand.
 
 ## Defensive Bidding 
 ### Suit Overcalls
