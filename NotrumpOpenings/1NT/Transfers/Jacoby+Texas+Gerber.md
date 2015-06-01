@@ -8,7 +8,6 @@ Opener accepts the transfer, though he can jump to the three level
 with 17 points and four-card support for responder’s major. For example:
 
 1NT — 2♦
-
    * 2♥: normal acceptance of the transfer
    * 3♥: 17 points and four-card heart support
 
@@ -23,6 +22,7 @@ Possible calls after the accepted transfer are:
       * 3NT or 4♠: maximum
    * 3♣, 3♦: natural and game forcing (4+)
    * 3NT: asking for a choice between 3NT and 4♠
+   * 4♣: Gerber with a five-card suit (opener may correct a final contract to NT)
    * 4NT: quantitative invitation to 6♠ or 6NT with a five-card suit
    * 5NT: Grand Slam Force (asking to bid 7 with 2 of top 3 honors)
    * 6♠: pick a slam (pass or correct)
@@ -30,7 +30,6 @@ Possible calls after the accepted transfer are:
 #### Single-suited Hands
 The Texas Transfer shows a six-card major. 
 After a 1NT or 2NT opening or overcall (if systems are on):
-
    * 4♦: transfer to hearts
    * 4♥: transfer to spades 
 
@@ -40,7 +39,6 @@ When used in conjunction with the Jacoby Transfer,
 the Texas Transfer gives you a way to show a range of single-suited hands 
 while reducing the risk of unwanted interference from the opponents. 
 The following shows how they are used with strong NT (15-17) openings.
-
    * Bust (would pass a 1-bid): Jacoby, pass
    * 3♠: invitational with a six-card suit (would make a 1 over 1 bid)
       * pass: minimum
