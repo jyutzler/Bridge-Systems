@@ -13,7 +13,6 @@ After 2♥ or 2♠:
    * 3 of that major: invitational
    * 3♠ (over 2♥), 4♦, 4♥ (over 2♠): forcing raise, slam interest, that splinter
    * 4 of that major: signoff
-   * 4NT after any forcing raise is Blackwood
    
 After any response:
    * 2NT: invitational with an unbid major
