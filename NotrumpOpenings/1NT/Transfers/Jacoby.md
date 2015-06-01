@@ -17,14 +17,15 @@ that is natural and game forcing.
 Possible calls after the accepted transfer are:
 
 1NT — 2♥ — 2♠
-   * Pass = content to play 2♠
-   * 2NT = invitational with a five-card suit
+   * Pass: content to play 2♠
+   * 2NT: invitational with a five-card suit
       * Pass or 3♠: minimum
       * 3NT or 4♠: maximum
    * 3♣, 3♦ = natural and game forcing (4+)
-   * 3♠ = invitational with a six-card suit
+   * 3♠: invitational with a six-card suit
       * pass: minimum
       * 3NT or 4♠: maximum
-   * 3NT = asking for a choice between 3NT and 4♠
-   * 4NT = quantitative invitation to 6♠ or 6NT with a five-card suit
+   * 3NT: asking for a choice between 3NT and 4♠
+   * 4♣: Gerber
+   * 4NT: quantitative invitation to 6♠ or 6NT with a five-card suit
 
