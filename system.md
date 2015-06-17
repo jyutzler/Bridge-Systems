@@ -113,7 +113,6 @@ It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when yo
 There are a large number of ways to show 5-5 hands.
 
    * Transfer to the weaker major and pass: bust
-   * 1NT - 2♦ - 2♥ - 2♠ = invitational
    * 3♣: 5-5 minors, weak
    * 3♦: 5-5 minors, game forcing
    * 3♥: 5-5 majors, invitational
@@ -141,16 +140,13 @@ Over 2NT, a similar system applies but there are no invitational bids:
 
 Smolen does not apply over 3NT.
 
-#### Minor Suit Transfer Bids
+#### 2 Spades
+A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
+club bust, or responder may rebid 3♦ with a diamond bust. Example:
 
-Transfers are used to show hands with a long minor.
-
-   * 2♠ = transfer to clubs
-      * 2NT: preacceptance (good support)
-      * 3♣: normal response
-   * 3♣ = transfer to diamonds
-      * 3♦: normal response
-      * 3NT: game is reachable opposite nothing more than Qxxxxx.
+1NT — 2♠ — 3♣ 
+   * Pass = club bust
+   * 3♦ = diamond bust (notrump opener passes).
 
 #### Other Responses
    * 3♥, 3♠ = at least a six-card suit and slam interest (rare outside competition since transfers are typically used instead).
