@@ -2,7 +2,6 @@
 There are a large number of ways to show 5-5 hands.
 
    * Transfer to the weaker major and pass: bust
-   * 1NT - 2♦ - 2♥ - 2♠ = invitational
    * 3♣: 5-5 minors, weak
    * 3♦: 5-5 minors, game forcing
    * 3♥: 5-5 majors, invitational
