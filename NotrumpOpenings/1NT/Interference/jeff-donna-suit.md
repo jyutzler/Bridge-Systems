@@ -1,7 +1,7 @@
 #### Over 2♣
 Jacoby Transfers are on over 2♣.
 
-Double of an artificial 2♣ = Stayman, does not imply invitational or better values. 
+Double of an artificial 2♣ = Stayman, does not imply invitational or better values.
 
 #### Over Other Overcalls
 Double of any natural suit bid by the opponents is negative, showing at least one major.
@@ -20,5 +20,9 @@ If the opponents intervene over a conventional response, bids carry the same
 meaning as if there were no intervention. A bid says, “I’m bidding voluntarily, so
 I have a real fit with you.”
 
-1NT — (Pass) — 2♦ — (Double) — 2♥ = Real fit for hearts — pass with only two hearts
-
+For example: 1NT — (Pass) — 2♦ — (Double)
+   * Redouble: Suggestion to play (rare)
+   * Pass: Only two hearts
+      * Redouble: retransfer
+      * Others: same as without interference
+   * 2♥: Real fit for hearts
