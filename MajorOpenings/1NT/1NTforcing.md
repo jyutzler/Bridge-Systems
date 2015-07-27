@@ -1,6 +1,6 @@
 #### 1NT Forcing
 1NT typically shows 6–12 points and is used in a number of circumstances:
-   * No support for the major opened 
+   * No support for the major opened
    * A three-card limit raise
    * A bust hand with otherwise good trump support (too weak for a direct raise)
 
@@ -11,10 +11,9 @@ It is 100% forcing by an unpassed hand so responder must be prepared for a three
 Responder can sign off or invite game with the rebid
    * other 2-level bid: weak hand, sign-off (opener may raise 1♠-1NT;2m-2♥ with 5=4-0-4 distribution and a good hand)
    * 2 of major: sign-off
-   * 2♠ after 1♥-1NT;2m: good support of minor
+   * 2♠ after 1♥-1NT;2m: good support of minor (impossible spade)
    * single raise of minor: good support (could be weak especially if 2♠ is available)
    * 2NT: balanced invite (11-12)
    * 3♥ after 1♠-1NT;2♥: invitational
    * 3X: invitational (usually a 6-card suit)
    * 3 of major: three-card limit raise
-
