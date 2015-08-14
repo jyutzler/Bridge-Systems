@@ -20,3 +20,4 @@ After any response:
    * 3NT: signoff with an unbid major (choice of games)
    * 4♣: Gerber (1430 over a major)
    * 4NT: quantitative
+

@@ -51,3 +51,4 @@ The following shows how they are used with strong NT (15-17) openings.
    * Grand Slam Force (asking to bid 7 with 2 of top 3 honors): Texas, 5NT
 
 It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring.
+

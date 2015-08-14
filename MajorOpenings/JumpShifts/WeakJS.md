@@ -8,3 +8,4 @@ To show an invitational hand, bid 1NT and then jump or reverse.
 
 1♠ — 1NT — 2♦
    * 3♣, 3♥: invitational
+

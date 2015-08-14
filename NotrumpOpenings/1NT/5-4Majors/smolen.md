@@ -1,9 +1,9 @@
 #### Smolen 5-4 or better in the Majors
-If responder is weak, transfer to the five-card major and pass. 
+If responder is weak, transfer to the five-card major and pass.
 Otherwise use a Stayman to show 5-4 in the majors as follows:
 
 1NT — 2♣; 2♦
-   * pass: weak, four diamonds
+   * pass: weak, generally four diamonds
    * 2♥ or 2♠: that major, invitational
    * 3♥ or 3♠: the other major, game-forcing
    * 4♦ or 4♥: transfer to 4♥ or 4♠, at least 6, slam interest (Otherwise bypass Smolen and use a straight transfer)
