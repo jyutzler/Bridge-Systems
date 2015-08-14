@@ -9,7 +9,7 @@ Opener rebids:
    * 2♠ with five spades (possibly with four hearts) or four spades
 
 After 2♥ or 2♠:
-   * 2♠ (over 2♥) or 3♥ (over 2♠): forcing raise, slam interest, cue bid
+   * 2♠ (over 2♥) or 3♥ (over 2♠): forcing raise, slam interest, requests cue bid
    * 3 of that major: invitational
    * 3♠ (over 2♥), 4♦, 4♥ (over 2♠): unused
    * 4 of that major: signoff
