@@ -28,3 +28,4 @@ Possible calls after the accepted transfer are:
    * 3NT: asking for a choice between 3NT and 4♠
    * 4♣: Gerber
    * 4NT: quantitative invitation to 6♠ or 6NT with a five-card suit
+

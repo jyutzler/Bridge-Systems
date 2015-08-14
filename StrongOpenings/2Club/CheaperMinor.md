@@ -31,3 +31,4 @@ In response to a suit rebid, responder indicates strength.
 3♦:
    * 3♥: "cheaper minor" (instead of 4♣)
    * others: same as above
+
