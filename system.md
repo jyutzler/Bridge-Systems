@@ -44,7 +44,7 @@ Opener rebids:
    * 2♠ with five spades (possibly with four hearts) or four spades
 
 After 2♥ or 2♠:
-   * 2♠ (over 2♥) or 3♥ (over 2♠): forcing raise, slam interest, cue bid
+   * 2♠ (over 2♥) or 3♥ (over 2♠): forcing raise, slam interest, requests cue bid
    * 3 of that major: invitational
    * 3♠ (over 2♥), 4♦, 4♥ (over 2♠): unused
    * 4 of that major: signoff
@@ -55,6 +55,7 @@ After any response:
    * 3NT: signoff with an unbid major (choice of games)
    * 4♣: Gerber (1430 over a major)
    * 4NT: quantitative
+
 #### Jacoby Transfer
 The Jacoby Transfer shows a five-card major.
 After a 1NT opening (or overcall if systems are on - see Defensive Bidding):
@@ -108,11 +109,12 @@ The following shows how they are used with strong NT (15-17) openings.
    * Grand Slam Force (asking to bid 7 with 2 of top 3 honors): Texas, 5NT
 
 It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring.
+
 #### 2-level:
 A transfer at the 2-level is used with certain hands with the majors.
    * Transfer to the weaker major and pass: bust
-   * 2♦(transfer) followed by 2♠: 5 hearts, 4 spades, invitational
-   * 2♥(transfer) followed by 3♥: 5-5 majors, slam try
+   * 2♦(transfer) followed by 2♠: 6 hearts, slam try (request to cue bid)
+   * 2♥(transfer) followed by 3♥: 6 spades, slam try (request to cue bid)
 
 #### 3-level: 5-5 hands
 The 3-level is used to show most 5-5 hands.
@@ -125,12 +127,13 @@ The 3-level is used to show most 5-5 hands.
 #### 4-level
    * 4♣ = Gerber, asking for aces. (See Slam Bidding)
    * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
+
 #### Smolen 5-4 or better in the Majors
-If responder is weak, transfer to the five-card major and pass. 
+If responder is weak, transfer to the five-card major and pass.
 Otherwise use a Stayman to show 5-4 in the majors as follows:
 
 1NT — 2♣; 2♦
-   * pass: weak, four diamonds
+   * pass: weak, generally four diamonds
    * 2♥ or 2♠: that major, invitational
    * 3♥ or 3♠: the other major, game-forcing
    * 4♦ or 4♥: transfer to 4♥ or 4♠, at least 6, slam interest (Otherwise bypass Smolen and use a straight transfer)
@@ -247,6 +250,7 @@ Responder can sign off or invite game with the rebid
    * 3♥ after 1♠-1NT;2♥: invitational
    * 3X: invitational (usually a 6-card suit)
    * 3 of major: three-card limit raise
+
 ### Raises 
 #### Basic Raises
    * 2 = three-card or longer heart support; 7–10 dummy points (strong enough to accept at least one game try).
@@ -325,6 +329,7 @@ To show an invitational hand, bid 1NT and then jump or reverse.
 
 1♠ — 1NT — 2♦
    * 3♣, 3♥: invitational
+
 ## Minor Openings 
 ﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
 where a three-card minor suit must be opened. 
@@ -514,6 +519,7 @@ In response to a suit rebid, responder indicates strength.
 3♦:
    * 3♥: "cheaper minor" (instead of 4♣)
    * others: same as above
+
 ## Weak Two Bids of 2♦, 2♥, or 2♠ 
 A weak two-bid shows a six-card suit of reasonable quality and 5–11 HCP. On rare
 occasions it may be a very good five-card suit. 
