@@ -17,3 +17,4 @@ Responder can sign off or invite game with the rebid
    * 3♥ after 1♠-1NT;2♥: invitational
    * 3X: invitational (usually a 6-card suit)
    * 3 of major: three-card limit raise
+
