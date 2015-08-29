@@ -6,3 +6,4 @@ All responses except 4NT are natural and non-forcing though opener can bid again
    * 3♣, 3♦ = preference
    * 3♥, 3♠, 3NT, 4♥, 4♠ = natural, non-forcing
    * 4NT = Ace-asking (normal Blackwood)
+

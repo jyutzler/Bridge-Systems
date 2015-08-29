@@ -3,9 +3,9 @@
 Transfers are used to show hands with a long minor.
 
    * 2♠ = transfer to clubs
+      * 2NT: preacceptance (good support)
+      * 3♣: normal response
    * 3♣ = transfer to diamonds
-
-Opener accepts the transfer unless game is reachable opposite nothing more than Qxxxxx.
-
-A 2NT response to 2♠ is a preacceptance which shows good support for clubs.
+      * 3♦: normal response
+      * 3NT: game is reachable opposite nothing more than Qxxxxx.
 

@@ -13,3 +13,4 @@ If responder rebids three of either minor,
 he shows slam interest and at least a five-card suit.
 A rebid of 4NT over a major is Blackwood so if you want to make a quantitative raise, 
 you must bid a minor first.
+
