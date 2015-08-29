@@ -29,9 +29,10 @@ The bidding structure for balanced hands is as follows:
 
 ### 1NT 15-17 
 #### Basic Responses
-2NT = Invitational 8-9
-
-3NT = sign-off
+   * 2♣ = Stayman (also for invitational hands)
+   * 3NT = sign-off
+   * 4♣ = Gerber, asking for aces. (See Slam Bidding)
+   * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
 
 #### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
@@ -39,15 +40,44 @@ Usually responder will have 8+ HCPs (assuming a 15-17 1NT range).
 
 Opener rebids:
 
-   * 2♦ with no four-card major 
+   * 2♦ with no four-card major
    * 2♥ with four or five hearts and less than five spades
    * 2♠ with five spades (possibly with four hearts) or four spades
 
-Responder will generally invite or bid game. 
-If responder rebids three of either minor,
-he shows slam interest and at least a five-card suit.
-A rebid of 4NT over a major is Blackwood so if you want to make a quantitative raise, 
-you must bid a minor first.
+After 2♥ or 2♠:
+   * 2♠ (over 2♥) or 3♥ (over 2♠): forcing raise, slam interest, requests cue bid
+   * 3 of that major: invitational
+   * 3♠ (over 2♥), 4♦, 4♥ (over 2♠): unused
+   * 4 of that major: signoff
+
+After any response:
+   * 2NT: invitational with an unbid major
+   * 3♣, 3♦: five cards, slam interest
+   * 3NT: signoff with an unbid major (choice of games)
+   * 4♣: Gerber (1430 over a major)
+   * 4NT: quantitative
+
+#### 3♣ Puppet Stayman
+3♣ is a game-forcing artificial bid that is designed to find both 5-3 and 4-4 fits.
+It is on over 1NT and 2NT openings.
+
+Opener rebids:
+
+   * 3♦ with no five-card major
+   * 3♥ or 3♠ with that major
+
+After 3♦:
+   * 3♥ or 3♠: The other major
+   * 4 of that major: signoff
+
+After 3 of a major:
+   * 4 of that major: signoff
+   * The other major: Good hand, requests cue bids
+
+After any response:
+   * 3NT: signoff
+   * 4♣: Gerber (1430 over a major)
+   * 4NT: quantitative
 
 #### Jacoby Transfer
 The Jacoby Transfer shows a five-card major.
@@ -102,6 +132,17 @@ The following shows how they are used with strong NT (15-17) openings.
    * Grand Slam Force (asking to bid 7 with 2 of top 3 honors): Texas, 5NT
 
 It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring.
+
+#### Minor Suit Transfer Bids
+
+Transfers are used to show hands with a long minor.
+
+   * 2♠ = transfer to clubs
+      * 2NT: preacceptance (good support)
+      * 3♣: normal response
+   * 2NT = transfer to diamonds
+      * 3♦: normal response
+      * 3♣: preacceptance (good support)
 
 #### 5-5 Majors
 When using the Jacoby transfer, it is possible to show 5-5 in the majors 
@@ -160,6 +201,7 @@ Stayman and Jacoby/Texas transfers for the majors are used.
    * 4♦, 4♥: Jacoby transfers to hearts and spades, respectively
    * 4NT: Quantitative for 6NT
    * 5NT: Quantitative for 7NT
+
 ## Major Openings 
 Normally open five-card majors in all seats.
 
@@ -308,6 +350,19 @@ but with two 5+-card suits bid the highest first.
 #### 1♦
 A diamond suit is automatically skipped in favor of a major unless the hand is strong enough to force to game.
 1♦ may also show a balanced 6-8 points and a desire for opener to declare 1NT.
+#### 1NT
+1NT over 1♣ shows a balanced 8–10 HCP and denies a four-card major. 
+Over 1♦ the range is wider (6-10 HCP).
+It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
+
+#### 2NT
+2NT is invitational - 11-12 HCP, no four-card major, balanced hand with two-card support for partner.
+
+#### 3NT
+3NT shows game-values - 13-15 HCP, no four-card major, balanced hand with two-card support for partner.
+
+#### 4NT
+4NT is quantitative - 16-18 HCP, no four-card major, balanced hand with two-card support for partner.
 ### Opener Rebids 
 Opener’s rebids are natural and standard.
 

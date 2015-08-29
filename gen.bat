@@ -7,9 +7,11 @@ type GeneralApproach\two-over-one.md >> system.md
 echo ## Notrump Opening Bids >> system.md
 type NotrumpOpenings\SAYC.md >> system.md
 echo ### 1NT 15-17 >> system.md
-type NotrumpOpenings\1NT\Basic\SAYC.md >> system.md
-type NotrumpOpenings\1NT\Stayman\SAYC.md >> system.md
+type NotrumpOpenings\1NT\Basic\4-way-pre.md >> system.md
+type NotrumpOpenings\1NT\Stayman\jeff-donna.md >> system.md
+type NotrumpOpenings\1NT\Stayman\Puppet3NT.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
+type NotrumpOpenings\1NT\Minors\4-way-Pre.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\SAYC.md >> system.md
 type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
@@ -33,6 +35,7 @@ echo ### Raises >> system.md
 type MinorOpenings\Raises\SAYC.md >> system.md
 echo ## One Over One >> system.md
 type OneOverOne\Walsh.md >> system.md
+type MinorOpenings\NTResponses\walsh.md >> system.md
 echo ### Opener Rebids >> system.md
 type OneOverOne\OpenerRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
