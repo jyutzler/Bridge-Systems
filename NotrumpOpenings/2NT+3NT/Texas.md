@@ -13,3 +13,4 @@ Stayman and Jacoby/Texas transfers for the majors are used.
    * 4♦, 4♥: Jacoby transfers to hearts and spades, respectively
    * 4NT: Quantitative for 6NT
    * 5NT: Quantitative for 7NT
+
