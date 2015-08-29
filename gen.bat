@@ -53,7 +53,7 @@ type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
-type NotrumpDefense\DONT.md >> system.md
+type Defensive\vsNT\DONT.md >> system.md
 type Preemptive\sound.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
