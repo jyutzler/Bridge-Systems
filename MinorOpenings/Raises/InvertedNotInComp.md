@@ -11,6 +11,4 @@ Once a minor is raised, the bidding must end in that suit or NT.
    * 3♦: unbalanced minimum
    * 3NT: 18-19, side suits stopped
 
-Inverted raises are on in competition.
-
-Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://rpbridge.net/cgi-bin/quiz.pl?5n4125).
+Inverted raises are on over a double but not an overcall.

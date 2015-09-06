@@ -5,8 +5,8 @@ Instead of the traditional (1NT - 2♥ - 2♠ - 3♥),
 This ensures that opener is declarer.
 
 The other uses stay the same:
-   * Transfer to the weaker major and pass = bust
-   * 1NT - 2♦ - 2♥ - 2♠ = invitational
-   * 1NT - 3♦ = game forcing, 5-5 in majors
+   * Transfer to the weaker major and pass: bust
+   * 1NT - 2♦; 2♥ - 2♠: invitational
+   * 1NT - 3♦: game forcing, 5-5 in majors
 
 Note: This treatment is a simplified version of [Richard Pavlicek's](http://rpbridge.net/7g66.htm).
