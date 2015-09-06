@@ -42,13 +42,13 @@ while reducing the risk of unwanted interference from the opponents.
 The following shows how they are used with strong NT (15-17) openings.
 
    * Bust (would pass a 1-bid): Jacoby, pass
-   * 3♠: invitational with a six-card suit (would make a 1 over 1 bid)
+   * Invitational with a six-card suit (would make a 1 over 1 bid): Jacoby, raise
       * pass: minimum
-      * 3NT or 4♠: maximum
+      * 3NT (rare) or 4M: maximum
    * Game signoff (weak 2 strength): Texas, pass
    * Slam invitation (opening strength): Jacoby, raise to 4 in suit
-   * Slam (stronger-than-minimum opening): Texas, 4NT (Blackwood)
+   * Slam (stronger-than-minimum opening): Texas, 4NT (Blackwood) OR Jacoby, other major
    * Grand Slam Force (asking to bid 7 with 2 of top 3 honors): Texas, 5NT
 
-It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring.
+It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring (for example, an unprotected king).
 
