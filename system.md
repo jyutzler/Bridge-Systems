@@ -40,15 +40,14 @@ Usually responder will have 8+ HCPs (assuming a 15-17 1NT range).
 
 Opener rebids:
 
-   * 2♦ with no four-card major
-   * 2♥ with four or five hearts and less than five spades
-   * 2♠ with five spades (possibly with four hearts) or four spades
+   * 2♦: no four-card major
+   * 2♥: four or five hearts and less than five spades
+   * 2♠: five spades (possibly with four hearts) or four spades
 
 Responder's rebids after 2♥ or 2♠:
    * 2♠ (over 2♥): four spades, denies four hearts
    * 3♠ (over 2♥) or 3♥ (over 2♠): forcing raise, slam interest, requests cue bid
    * 3 of that major: invitational
-   * 4♦, 4♥ (over 2♠): unused
    * 4 of that major: signoff
 
 Responder's rebids after any response:
@@ -56,6 +55,7 @@ Responder's rebids after any response:
    * 3♣, 3♦: five cards, slam interest
    * 3NT: signoff with an unbid major (choice of games)
    * 4♣: Gerber (1430 over a major)
+   * 4♦, 4♥ (over 2♠): unused
    * 4NT: quantitative
 
 #### 3♣ Puppet Stayman
@@ -100,7 +100,7 @@ If, after the transfer is accepted, responder bids a new suit,
 that is natural and game forcing.
 Possible calls after the accepted transfer are:
 
-1NT — 2♥ — 2♠
+1NT — 2♥; 2♠
    * Pass: content to play 2♠
    * 2NT: invitational with a five-card suit
       * Pass or 3♠: minimum
@@ -343,11 +343,12 @@ four spades, four hearts, three diamonds, and two clubs, which should
 be opened 1♦.
 
 ### Raises 
-﻿Raises are inverted so a raise to two is strong (limit raise or better) 
-and a raise to 3 is weak (preemptive).
 Responder needs more trumps to raise (four to raise 1♦; five to raise 1♣).
 Since four card majors should be bid up-the-line, a raise denies a four card major. 
 Once a minor is raised, the bidding must end in that suit or NT.
+Raises are inverted so a raise to two is strong (limit raise or better) 
+and a raise to 3 is weak (preemptive). When vulnerable, a jump raise should be 
+sound (8-9 dummy points) but when non-vulnerable it is much more wide-ranging.
 
 1♦ - 2♦
 
@@ -371,13 +372,13 @@ Over 1♦ the range is wider (6-10 HCP).
 It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
 
 #### 2NT
-2NT is invitational - 11-12 HCP, no four-card major, balanced hand with two-card support for partner.
+2NT is invitational - 11-12 HCP, no four-card major, balanced hand.
 
 #### 3NT
-3NT shows game-values - 13-15 HCP, no four-card major, balanced hand with two-card support for partner.
+3NT shows game-values - 13-15 HCP, no four-card major, balanced hand.
 
 #### 4NT
-4NT is quantitative - 16-18 HCP, no four-card major, balanced hand with two-card support for partner.
+4NT is quantitative - 16-18 HCP, no four-card major, balanced hand.
 ### Opener Rebids 
 Opener’s rebids are natural and standard.
 
