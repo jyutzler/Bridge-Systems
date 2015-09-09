@@ -16,7 +16,7 @@ If, after the transfer is accepted, responder bids a new suit,
 that is natural and game forcing.
 Possible calls after the accepted transfer are:
 
-1NT — 2♥ — 2♠
+1NT — 2♥; 2♠
    * Pass: content to play 2♠
    * 2NT: invitational with a five-card suit
       * Pass or 3♠: minimum
