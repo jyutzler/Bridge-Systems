@@ -12,7 +12,8 @@
 Bergen Raises are off. See Drury section if applicable.
 
 #### In Competition
-Bergen Raises are off in competition
+Bergen Raises are on over a double (Redouble implies no fit) 
+but off in competition. After an overcall:
    * 3♥ = weak raise (10 or fewer dummy points with four or more hearts).
    * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
    * Cue = Limit Raise or better (at least a good 10 dummy points and three hearts)
