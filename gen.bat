@@ -39,7 +39,7 @@ type MinorOpenings\NTResponses\walsh.md >> system.md
 echo ### Opener Rebids >> system.md
 type OneOverOne\OpenerRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
-type OneOverOne\ResponderRebid\NMF+FSF-INV.md >> system.md
+type OneOverOne\ResponderRebid\limit-style.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Strong 2♣ >> system.md
@@ -56,8 +56,10 @@ type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
+type Defensive\Doubles\responsive.md >> system.md
+type Defensive\Doubles\card-showing.md >> system.md
 type Defensive\vsNT\DONT.md >> system.md
-type Preemptive\sound.md >> system.md
+type Preemptive\2-3-4.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
@@ -67,4 +69,4 @@ type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\AM.md >> system.md
 type Competitive\Redouble\jeff-donna.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
-type Carding\lavinthal.md >> system.md
+type Carding\UDCA.md >> system.md

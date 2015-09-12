@@ -241,7 +241,7 @@ Responder can sign off or invite game with the rebid
 ### Raises 
 The following assumes a 1♥ opening but the system over 1♠ is similar. 
 #### General
-   * 2♥ = three-card or longer heart support; 7–10 dummy points (strong enough to accept at least one game try).
+   * 2♥ = three-card support, 7–10 dummy points (strong enough to accept at least one game try).
    * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
 
 #### Bergen Raises
@@ -254,7 +254,8 @@ The following assumes a 1♥ opening but the system over 1♠ is similar.
 Bergen Raises are off. See Drury section if applicable.
 
 #### In Competition
-Bergen Raises are off in competition
+Bergen Raises are on over a double (Redouble implies no fit) 
+but off in competition. After an overcall:
    * 3♥ = weak raise (10 or fewer dummy points with four or more hearts).
    * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
    * Cue = Limit Raise or better (at least a good 10 dummy points and three hearts)
@@ -412,7 +413,7 @@ more information about opener’s hand.
 #### Sign-off
 Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
 
-1♥ — 1♠
+1♥ — 1♠;
 
 2♣
 
@@ -422,40 +423,38 @@ Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid sui
 
 There is one exception to the rule that new suits are forcing:
 
-1♣ — 1♠
+1♣ — 1♠;
 
 1NT
 
    * 2♥ = sign-off - opener must pass or correct (bust with 5-5 or 5-4 distribution)
    
 #### Inviting Game
-Bids available for inviting game: 2NT, 3 of opener's suit, new minor, fourth suit:
+Bids available for inviting game: 2NT, 3 of opener's suit, new minor, jump rebid of major:
 
-1♥ — 1♠
+1♥ — 1♠;
 
-2♦ — 2NT, 3♦, 3♥ = 11–12 points, inviting game.
+2♣ — 2NT, 3♣, 3♥ = 11–12 points, inviting game.
 
 In addition, a new minor suit at the responder's second bid or later is forcing for one round and thus
 is invitational at the 2-level and game forcing at the 3-level.
 
-1♥ — 1♠
+1♥ — 1♠;
 
-1NT (or 2♣) — 2♦ (forcing)
+1NT (or 2♣)
+
+   * 2♦: New Minor Forcing
 
 Opener is encouraged to show secondary support for responder's suit
 or bid an unbid 4-card major if possible. 
 When more than one minor is available, it tends to show a stopper for NT.
 
 #### Forcing to Game
-All second round jumps (except for opener's suit as mentioned above) 
-are forcing to 3NT or higher: 
-
-1♥ — 1♠
-
-1NT or 2m
-
-   * 3♥ = game forcing (5-5 or 5-4 distribution)
-   * 3♠ = game forcing (6+ cards)
+Bids available for forcing to game:
+   * Fourth suit
+   * Jump or reverse in new suit
+   * New Minor Forcing followed by a rebid of previously bid suit
+      * For example, 1♣-1♠;1NT-2♦;2♥-2♠ shows a game-forcing hand and a 6-card suit
 
 Opener can sign off in game or make a slam try. 
 4NT is Blackwood (see topic) only if suit agreement has been established. 
@@ -561,8 +560,6 @@ After a 5♣ or 5♦ response, the Blackwood initiator may ask for the queen of 
       * 5♥ = no queen
 	  * 5♠, 6♣, 6♦ = queen, that king, and no lower kings
 	  * 5NT = queen, no kings
-	  * 6♥ = queen, ♠K
-
 
 #### With (Useful) Voids
 After 4NT, responder can show voids with at least one keycard:
@@ -573,8 +570,6 @@ After 4NT, responder can show voids with at least one keycard:
 #### 5NT
 5NT guarantees the partnership holds all five keycards and is invitational to grand.
 A 6-level bid shows the king in that suit.
-
-
 
 ### Gerber
 4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
@@ -715,14 +710,27 @@ When non-vulnerable, the low-end range is much wider.
 Overcaller will normally have a weak hand and will pass or make a minimum response. 
 With a strong hand or freakier distribution, overcaller will make some other bid.
 ### Doubles
-A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
-opening game bids (4♥ or higher). 
-However, advancer may pull the double with undisclosed length and/or poor defensive values.
+A double is for takeout over a partscore bid (4♦ or lower) and 
+penalty over opening game bids (4♥ or higher). 
+However, advancer may pull the double with undisclosed distribution and/or poor defensive values.
 
 A below-game jump response to a takeout double is invitational (9-12 declarer points). 
-To force for one round, responder cuebids opener’s suit.
+To force for one round, responder cuebids opener’s suit. 
+This is forcing to game by an unpassed hand.
+
 Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
 If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
+### Responsive Doubles
+After an opponent bids at the one level, partner doubles for takeout,
+and the other opponent and raises, a double by advancer is responsive. 
+This allows the original doubler to be declarer and to pick the preferred suit.
+
+Responsive Doubles are on through 4♦ but off after a preempt.
+### Card-Showing Doubles
+Card-showing doubles are used when there is a general desire to act but no clear direction.
+Partner is asked to "do something intelligent" like bid an unbid four-card suit,
+rebid a good suit, bid NT, or show secondary support.
+Generally they are for takeout but they may be converted to penalty (like a Negative Double).
 ### DONT vs. 1NT
 DONT features multiple ways to show single-suited or 5-5 hands (4-5 distribution is possible when non-vulnerable).  
    * double: single-suited or 18+ HCP 
@@ -741,8 +749,19 @@ Advancer responses:
    * 2NT: forcing (15+ points)
 
 ## Preemptive Bids
-Opening suit bids at the three level and higher are preemptive, usually showing 7 cards at the 3-level and 8 cards at the 4-level. They are sound, roughly in accordance with the rule of 500 - you expect to take seven tricks vulnerable, six tricks non-vulnerable out of your own hand.
+Opening suit bids at the three level and higher are preemptive and based on playing tricks
+(the number of tricks you expect to take if your long suit is trumps).
+Overbid based on the rule of 2-3-4:
+   * vulnerable vs. nonvulnerable: overbid by 2 tricks
+   * equal vulnerability: overbid by 3 tricks
+   * nonvulnerable vs. vulnerable: overbid by 4 tricks
 
+Preempts are generally not made in first or second position with:
+   * more than one outside trick
+   * a four-card major Q-x-x-x or better
+   * a void in a minor
+
+Responses in new suits or NT are natural and forcing if below game.
 ## Competitive Bidding 
 It is sometimes necessary to pick a bid that would normally have been a second choice
 without the overcall:
@@ -867,11 +886,11 @@ unbid suits.
 
 ## Defensive Leads and Signals 
 Signals are:
-   1. Attitude (high encourages)
-   1. Count (high = even)
+   1. Attitude (low encourages)
+   1. Count (low = even)
    1. Suit preference (high = higher suit)
 
-First discard is Lavinthal. A high card encourages the higher ranking suit, low encourages the lower ranking suit.
+First discard is attitude for that suit.
 
 Leads are: 
    * top of touching honors and interior sequences.
