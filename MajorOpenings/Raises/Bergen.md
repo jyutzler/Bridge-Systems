@@ -1,5 +1,5 @@
 #### General
-   * 2♥ = three-card or longer heart support; 7–10 dummy points (strong enough to accept at least one game try).
+   * 2♥ = three-card support, 7–10 dummy points (strong enough to accept at least one game try).
    * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
 
 #### Bergen Raises
