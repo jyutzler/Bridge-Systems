@@ -6,7 +6,13 @@ Landy is a simple defense to 1NT with only one artificial bid:
    * 2NT: Minors
    * Others: Natural
 
-After 2♣, advancer bids the better major or 2♦ to defer to partner.
+After 2♣, advancer generally bids the better major.
+   * pass: No major, long clubs
+   * 2♦: No major, long diamonds
+   * 2♥, 2♠: Weak, sign-off
+   * 2NT: Forcing, invitational in either major
+   * 3♥, 3♠: Limit raise
+   * 4♥, 4♠: To play
 
 #### Passed Hand
 Since it is impossible to have a penalty double as a passed hand,
