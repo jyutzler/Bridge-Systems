@@ -29,9 +29,9 @@ The bidding structure for balanced hands is as follows:
 
 ### 1NT 15-17 
 #### Basic Responses
-2NT = Invitational 8-9
+2NT: Invitational 8-9
 
-3NT = sign-off
+3NT: sign-off
 
 #### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
@@ -39,19 +39,19 @@ Usually responder will have 8+ HCPs (assuming a 15-17 1NT range).
 
 Opener rebids:
 
-   * 2♦ with no four-card major
-   * 2♥ with four or five hearts and less than five spades
-   * 2♠ with five spades (possibly with four hearts) or four spades
+   * 2♦: no four-card major
+   * 2♥: four or five hearts and less than five spades
+   * 2♠: five spades (possibly with four hearts) or four spades
 
-After 2♥ or 2♠:
+Responder's rebids after 2♥ or 2♠:
    * 2♠ (over 2♥) or 3♥ (over 2♠): forcing raise, slam interest, requests cue bid
    * 3 of that major: invitational
-   * 3♠ (over 2♥), 4♦, 4♥ (over 2♠): unused
    * 4 of that major: signoff
 
-After any response:
+Responder's rebids after any response:
    * 2NT: invitational with an unbid major
    * 3♣, 3♦: five cards, slam interest
+   * 3♠ (over 2♥), 4♦, 4♥ (over 2♠): unused
    * 3NT: signoff with an unbid major (choice of games)
    * 4♣: Gerber (1430 over a major)
    * 4NT: quantitative
@@ -74,7 +74,7 @@ If, after the transfer is accepted, responder bids a new suit,
 that is natural and game forcing.
 Possible calls after the accepted transfer are:
 
-1NT — 2♥ — 2♠
+1NT — 2♥; 2♠
    * Pass: content to play 2♠
    * 2NT: invitational with a five-card suit
       * Pass or 3♠: minimum
@@ -100,15 +100,15 @@ while reducing the risk of unwanted interference from the opponents.
 The following shows how they are used with strong NT (15-17) openings.
 
    * Bust (would pass a 1-bid): Jacoby, pass
-   * 3♠: invitational with a six-card suit (would make a 1 over 1 bid)
+   * Invitational with a six-card suit (would make a 1 over 1 bid): Jacoby, raise
       * pass: minimum
-      * 3NT or 4♠: maximum
+      * 3NT (rare) or 4M: maximum
    * Game signoff (weak 2 strength): Texas, pass
    * Slam invitation (opening strength): Jacoby, raise to 4 in suit
-   * Slam (stronger-than-minimum opening): Texas, 4NT (Blackwood)
+   * Slam (stronger-than-minimum opening): Texas, 4NT (Blackwood) OR Jacoby, other major
    * Grand Slam Force (asking to bid 7 with 2 of top 3 honors): Texas, 5NT
 
-It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring.
+It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring (for example, an unprotected king).
 
 #### 2-level:
 A transfer at the 2-level is used with certain hands with the majors.
@@ -337,7 +337,7 @@ The exception is a hand with 4–4–3–2 shape:
 four spades, four hearts, three diamonds, and two clubs, which should
 be opened 1♦.
 
-## One Over One 
+### One Over One 
 A 1/1 bid shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
 Bid 4-card suits up the line
 but with two 5+-card suits bid the highest first.
@@ -352,13 +352,13 @@ Over 1♦ the range is wider (6-10 HCP).
 It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
 
 #### 2NT
-2NT is invitational - 11-12 HCP, no four-card major, balanced hand with two-card support for partner.
+2NT is invitational - 11-12 HCP, no four-card major, balanced hand.
 
 #### 3NT
-3NT shows game-values - 13-15 HCP, no four-card major, balanced hand with two-card support for partner.
+3NT shows game-values - 13-15 HCP, no four-card major, balanced hand.
 
 #### 4NT
-4NT is quantitative - 16-18 HCP, no four-card major, balanced hand with two-card support for partner.
+4NT is quantitative - 16-18 HCP, no four-card major, balanced hand.
 ### Opener Rebids 
 Opener’s rebids are natural and standard.
 
@@ -566,8 +566,6 @@ After a 5♣ or 5♦ response, the Blackwood initiator may ask for the queen of 
       * 5♥ = no queen
 	  * 5♠, 6♣, 6♦ = queen, that king, and no lower kings
 	  * 5NT = queen, no kings
-	  * 6♥ = queen, ♠K
-
 
 #### With (Useful) Voids
 After 4NT, responder can show voids with at least one keycard:
@@ -578,8 +576,6 @@ After 4NT, responder can show voids with at least one keycard:
 #### 5NT
 5NT guarantees the partnership holds all five keycards and is invitational to grand.
 A 6-level bid shows the king in that suit.
-
-
 
 ### Gerber
 4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
@@ -699,16 +695,28 @@ A cuebid of opener’s suit shows good support (limit raise or better).
 
 With appropriate strength and a stopper in the opponent's suit,
 you may make a NT overcall.
-
-Hand|Direct|Reopening|2-level|3-level
------|--------|------|-------|---------
-10-14|pass or double then pass|pass or 1NT|pass|pass
-15-18|1NT|double then 1NT|2NT|maybe 3NT
-19-21|double then bid NT|2NT|3NT|3NT
-22-24|double then jump NT|3NT|3NT|3NT
-
 All systems are on - effectively the opening bid is ignored.
 
+#### Direct Position (1X-?)
+   * 10-14 HCP: pass or double then pass
+   * 15-18 HCP: 1NT
+   * 19-21 HCP: double then bid NT
+   * 22-24 HCP: double then jump NT
+   
+#### Balancing Position (1X-p-p-?)
+   * 10-14 HCP: pass or 1NT
+   * 15-18 HCP: double then 1NT
+   * 19-21 HCP: 2NT
+   * 22-24 HCP: 3NT
+
+#### 2-Level (2X-? or 1X-p-2X-?)
+   * 15-18 HCP: 2NT
+   * 19-24 HCP: 3NT
+      
+#### 3-Level (3X-? or any-p-3X-?)
+   * 15-18 HCP: pass or 3NT
+   * 19-24 HCP: 3NT
+         
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
 (It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
@@ -760,12 +768,14 @@ When non-vulnerable, the low-end range is much wider.
 Overcaller will normally have a weak hand and will pass or make a minimum response. 
 With a strong hand or freakier distribution, overcaller will make some other bid.
 ### Doubles
-A double is for takeout over an opening partscore bid (4♦ or lower); penalty over
-opening game bids (4♥ or higher). 
-However, advancer may pull the double with undisclosed length and/or poor defensive values.
+A double is for takeout over a partscore bid (4♦ or lower) and 
+penalty over opening game bids (4♥ or higher). 
+However, advancer may pull the double with undisclosed distribution and/or poor defensive values.
 
 A below-game jump response to a takeout double is invitational (9-12 declarer points). 
-To force for one round, responder cuebids opener’s suit.
+To force for one round, responder cuebids opener’s suit. 
+This is forcing to game by an unpassed hand.
+
 Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
 If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
 ### Landy vs 1NT
@@ -776,7 +786,13 @@ Landy is a simple defense to 1NT with only one artificial bid:
    * 2NT: Minors
    * Others: Natural
 
-After 2♣, advancer bids the better major or 2♦ to defer to partner.
+After 2♣, advancer generally bids the better major.
+   * pass: No major, long clubs
+   * 2♦: No major, long diamonds
+   * 2♥, 2♠: Weak, sign-off
+   * 2NT: Forcing, invitational in either major
+   * 3♥, 3♠: Limit raise
+   * 4♥, 4♠: To play
 
 #### Passed Hand
 Since it is impossible to have a penalty double as a passed hand,
@@ -918,17 +934,22 @@ at the three level or lower:
 unbid suits.
 
 ## Defensive Leads and Signals 
-Signals are:
-   1. Attitude (high encourages)
-   1. Count (high = even)
-   1. Suit preference (high = higher suit)
-
+#### Carding
 First discard against NT is Lavinthal. 
 A high card encourages the higher ranking suit, 
 low encourages the lower ranking suit.
 
+Against suits the first discard is attitude for that suit.
+
+#### Signals
+   1. Attitude (low encourages)
+   1. Count (low = odd)
+   1. Suit preference (high = higher suit)
+
+#### Leads
 Leads are: 
    * top of touching honors and interior sequences.
    * A from A–K–x
    * 4th best from x-x-x-x or x-x-x-x-x. 
    * Top from x–x–x.
+

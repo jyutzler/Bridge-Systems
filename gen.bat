@@ -33,7 +33,7 @@ echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\WeakJS.md >> system.md
 echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
-echo ## One Over One >> system.md
+echo ### One Over One >> system.md
 type OneOverOne\Walsh.md >> system.md
 echo ### NT Responses >> system.md
 type MinorOpenings\NTResponses\walsh.md >> system.md
@@ -75,4 +75,6 @@ type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\AM.md >> system.md
 type Competitive\Redouble\jeff-donna.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
-type Carding\lavinthal-jeff-donna.md >> system.md
+type Defense\Carding\lavinthal-nt.md >> system.md
+type Defense\Signals\UDA.md >> system.md
+type Defense\Leads\SAYC.md >> system.md
