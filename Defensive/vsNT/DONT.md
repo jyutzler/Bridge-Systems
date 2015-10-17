@@ -1,4 +1,4 @@
-### DONT vs. 1NT
+### DONT vs. Strong 1NT
 DONT features multiple ways to show single-suited or 5-5 hands (4-5 distribution is possible when non-vulnerable).  
    * double: single-suited or 18+ HCP 
    * 2♣: clubs and a higher suit

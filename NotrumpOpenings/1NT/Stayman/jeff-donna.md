@@ -18,6 +18,6 @@ Responder's rebids after any response:
    * 3♣, 3♦: five cards, slam interest
    * 3♠ (over 2♥), 4♦, 4♥ (over 2♠): unused
    * 3NT: signoff with an unbid major (choice of games)
-   * 4♣: Gerber (1430 over a major)
+   * 4♣: Gerber (key card if over a major)
    * 4NT: quantitative
 

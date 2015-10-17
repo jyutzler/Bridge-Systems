@@ -19,6 +19,6 @@ After 3 of a major:
 
 After any response:
    * 3NT: signoff
-   * 4♣: Gerber (1430 over a major)
+   * 4♣: Gerber (key card if over a major)
    * 4NT: quantitative
 
