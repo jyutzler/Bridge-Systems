@@ -1,6 +1,6 @@
 ﻿
 This branch contains a Markdown file "system.md" that describes the bridge system
-used by Jeff Yutzler and Francesca Mazarella. 
+used by Jeff Yutzler and Rick Bingham. 
 It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
 It is suitable for advancing club players.
 
@@ -885,15 +885,15 @@ at the three level or lower:
 unbid suits.
 
 ## Defensive Leads and Signals 
-Signals are:
-   1. Attitude (low encourages)
-   1. Count (low = even)
-   1. Suit preference (high = higher suit)
-
-First discard is attitude for that suit.
-
+#### Leads
 Leads are: 
    * top of touching honors and interior sequences.
    * A from A–K–x
    * 4th best from x-x-x-x or x-x-x-x-x. 
    * Top from x–x–x.
+
+#### Signals
+   1. Attitude (low encourages)
+   1. Count (low = even)
+   1. Suit preference (high = higher suit)
+
