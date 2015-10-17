@@ -44,21 +44,22 @@ echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
+type StrongOpenings\2Club\interference\SAYC.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
 type WeakTwos\SAYC.md >> system.md
 echo ## Slam Bidding >> system.md
-type Slam\1430.md >> system.md
+type Slam\0314.md >> system.md
 type Slam\gerber.md >> system.md
-REM type Slam\pickaslam.md >> system.md
+type Slam\pickaslam.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
-type Defensive\NTOvercall\systems-on.md >> system.md
+type Defensive\NTOvercall\no-balancing.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Doubles\card-showing.md >> system.md
-type Defensive\vsNT\DONT.md >> system.md
+type Defensive\vsNT\meckwell.md >> system.md
 type Preemptive\2-3-4.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
@@ -66,8 +67,8 @@ type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\Cue-support.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
-type Competitive\Takeout\AM.md >> system.md
-type Competitive\Redouble\jeff-donna.md >> system.md
+type Competitive\Takeout\SAYC.md >> system.md
+type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
 REM type Defense\Carding\UDCA.md >> system.md
 type Defense\Leads\SAYC.md >> system.md
