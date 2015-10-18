@@ -175,7 +175,9 @@ With a bad hand and a weak minor, redouble for SOS.
 
 1NT — (Double) — Redouble = Rescue - weak with a long minor (opener bids 2♣, pass or correct).
 
-Double of any natural suit bid by the opponents is for penalty.
+Double of any natural suit bid by the opponents at the 2-level is for penalty.
+
+Double of any natural suit bid by the opponents at the 3-level or higher is for negative, promising at least one major.
 
 Jacoby Transfers are on over 2♣.
 
@@ -580,9 +582,9 @@ After 4NT, responder can show voids with at least one keycard:
 A 6-level bid shows the king in that suit.
 
 ### Gerber
-4♣ is Gerber over any 1NT OR 2NT by partner, including a rebid of
-1NT OR 2NT. Responses show the number of aces, by steps, just as over a Blackwood
-4NT. 5♣ is used to ask for kings.
+4♣ is Gerber over first or last NT. 
+Responses show the number of aces, by steps, just as over a plain Blackwood 4NT. 
+5♣ is used to ask for kings.
 
 Ace Asking:
 
@@ -713,28 +715,6 @@ When non-vulnerable, the low-end range is much wider.
 #### Overcaller Rebids
 Overcaller will normally have a weak hand and will pass or make a minimum response. 
 With a strong hand or freakier distribution, overcaller will make some other bid.
-### Doubles
-A double is for takeout over a partscore bid (4♦ or lower) and 
-penalty over opening game bids (4♥ or higher). 
-However, advancer may pull the double with undisclosed distribution and/or poor defensive values.
-
-A below-game jump response to a takeout double is invitational (9-12 declarer points). 
-To force for one round, responder cuebids opener’s suit. 
-This is forcing to game by an unpassed hand.
-
-Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
-If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
-### Responsive Doubles
-After an opponent bids at the one level, partner doubles for takeout,
-and the other opponent and raises, a double by advancer is responsive. 
-This allows the original doubler to be declarer and to pick the preferred suit.
-
-Responsive Doubles are on through 4♦ but off after a preempt.
-### Card-Showing Doubles
-Card-showing doubles are used when there is a general desire to act but no clear direction.
-Partner is asked to "do something intelligent" like bid an unbid four-card suit,
-rebid a good suit, bid NT, or show secondary support.
-Generally they are for takeout but they may be converted to penalty (like a Negative Double).
 ### Meckwell vs. Strong 1NT
 Meckwwell features multiple ways to show single-suited or 5-4 hands.  
    * double: long minor or both majors or 18+ HCP 
@@ -863,6 +843,28 @@ A responder’s jump shift after a double is to play:
 
 1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
 preemptive three-bid.
+### Doubles
+A double is for takeout over a partscore bid (4♦ or lower) and 
+penalty over opening game bids (4♥ or higher). 
+However, advancer may pull the double with undisclosed distribution and/or poor defensive values.
+
+A below-game jump response to a takeout double is invitational (9-12 declarer points). 
+To force for one round, responder cuebids opener’s suit. 
+This is forcing to game by an unpassed hand.
+
+Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
+If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
+### Responsive Doubles
+After an opponent bids at the one level, partner doubles for takeout,
+and the other opponent and raises, a double by advancer is responsive. 
+This allows the original doubler to be declarer and to pick the preferred suit.
+
+Responsive Doubles are on through 4♦ but off after a preempt.
+### Card-Showing Doubles
+Card-showing doubles are used when there is a general desire to act but no clear direction.
+Partner is asked to "do something intelligent" like bid an unbid four-card suit,
+rebid a good suit, bid NT, or show secondary support.
+Generally they are for takeout but they may be converted to penalty (like a Negative Double).
 ### Redoubles
 A redouble can have one of three meanings:
 
@@ -883,6 +885,8 @@ at the three level or lower:
 unbid suits.
 
 ## Defensive Leads and Signals 
+#### Carding
+First discard is attitude for that suit. (See "Signals" below.)
 #### Leads
 Leads are: 
    * top of touching honors and interior sequences.
@@ -890,7 +894,7 @@ Leads are:
    * 4th best from x-x-x-x or x-x-x-x-x. 
    * Top from x–x–x.
 
-#### Signals
+#### Signals (Upside-Down Count and Attitude)
    1. Attitude (low encourages)
    1. Count (low = even)
    1. Suit preference (high = higher suit)

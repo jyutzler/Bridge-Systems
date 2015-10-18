@@ -13,7 +13,7 @@ type NotrumpOpenings\1NT\Stayman\Puppet3C.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\five-fives-puppet.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Pre.md >> system.md
-type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
+type NotrumpOpenings\1NT\Interference\2p3n.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
 echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\Puppet.md >> system.md
@@ -49,16 +49,13 @@ echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
 type WeakTwos\SAYC.md >> system.md
 echo ## Slam Bidding >> system.md
 type Slam\0314.md >> system.md
-type Slam\gerber.md >> system.md
+type Slam\gerber1st-last.md >> system.md
 type Slam\pickaslam.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
 type Defensive\NTOvercall\no-balancing.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
-type Defensive\Doubles\SAYC.md >> system.md
-type Defensive\Doubles\responsive.md >> system.md
-type Defensive\Doubles\card-showing.md >> system.md
 type Defensive\vsNT\meckwell.md >> system.md
 type Preemptive\2-3-4.md >> system.md
 echo ## Competitive Bidding >> system.md
@@ -68,9 +65,12 @@ type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\Cue-support.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
+type Competitive\Doubles\SAYC.md >> system.md
+type Competitive\Doubles\responsive.md >> system.md
+type Competitive\Doubles\card-showing.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
-REM type Defense\Carding\UDCA.md >> system.md
+type Defense\Carding\attitude.md >> system.md
 type Defense\Leads\SAYC.md >> system.md
 type Defense\Signals\UDCA.md >> system.md
 
