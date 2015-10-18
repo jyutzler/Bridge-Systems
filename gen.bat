@@ -12,6 +12,7 @@ type NotrumpOpenings\1NT\Stayman\4-way-transfers.md >> system.md
 type NotrumpOpenings\1NT\Stayman\Puppet3C.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\five-fives-puppet.md >> system.md
+type NotrumpOpenings\1NT\5-4Majors\smolen.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Pre.md >> system.md
 type NotrumpOpenings\1NT\Interference\2p3n.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md

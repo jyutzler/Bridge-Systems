@@ -153,6 +153,25 @@ The 3-level is used to show most 5-5 hands.
    * 4♣ = Gerber, asking for aces. (See Slam Bidding)
    * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
 
+#### Smolen 5-4 or better in the Majors
+If responder is weak, transfer to the five-card major and pass.
+Otherwise use a Stayman to show 5-4 in the majors as follows:
+
+1NT — 2♣; 2♦
+   * pass: weak (5-4=4=0 distribution)
+   * 2♥ or 2♠: that major, invitational
+   * 3♥ or 3♠: the other major, game-forcing
+   * 4♦ or 4♥: transfer to 4♥ or 4♠, at least 6, slam interest (Otherwise bypass Smolen and use a straight transfer)
+
+Over 2NT, a similar system applies but there are no invitational bids:
+
+2NT — 3♣; 3♦
+   * pass: weak  (5-4=4=0 distribution)
+   * 3♥ or 3♠: the other major, game-forcing
+   * 4♦ or 4♥: transfer to 4♥ or 4♠, at least 6, slam interest (Otherwise bypass Smolen and use a straight transfer)
+
+Smolen does not apply over 3NT.
+
 #### Minor Suit Transfer Bids
 
 Transfers are used to show hands with a long minor.
@@ -716,7 +735,7 @@ When non-vulnerable, the low-end range is much wider.
 Overcaller will normally have a weak hand and will pass or make a minimum response. 
 With a strong hand or freakier distribution, overcaller will make some other bid.
 ### Meckwell vs. Strong 1NT
-Meckwwell features multiple ways to show single-suited or 5-4 hands.  
+Meckwell features multiple ways to show single-suited or 5-4 hands.  
    * double: long minor or both majors or 18+ HCP 
    * 2♣: clubs and a major
    * 2♦: diamonds and a major
