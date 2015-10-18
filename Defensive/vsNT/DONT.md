@@ -1,10 +1,10 @@
-### DONT vs. 1NT
+### DONT vs. Strong 1NT
 DONT features multiple ways to show single-suited or 5-5 hands (4-5 distribution is possible when non-vulnerable).  
    * double: single-suited or 18+ HCP 
    * 2♣: clubs and a higher suit
    * 2♦: diamonds and a higher suit
    * 2♥: majors
-   * 2♠: spades (normal weak 2 or worse in strength; use 2♣ followed by 2♠ to show a better hand)
+   * 2♠: spades (normal weak 2 or worse in strength; use double followed by 2♠ to show a better hand)
    * 2NT: six-card major and five-card minor
 
 Advancer responses:

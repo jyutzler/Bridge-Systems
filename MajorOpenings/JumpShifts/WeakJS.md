@@ -1,5 +1,5 @@
 #### Weak Jump Shift
-A jump shift shows a weak hand (less than invitational values) and 6+ cards. Opener must pass without good support.
+A jump shift shows a weak hand (less than constructive values) and 6+ cards. Opener must pass without good support.
 
 1♠
    * 3♣, 3♦, 3♥: weak

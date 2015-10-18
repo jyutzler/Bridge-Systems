@@ -1,5 +1,5 @@
 #### Basic Responses
-2NT = Invitational 8-9
+2NT: Invitational 8-9
 
-3NT = sign-off
+3NT: sign-off
 

@@ -9,8 +9,8 @@ It is forcing to game.
 #### Opener's Rebids
 Opener responds naturally to clarify the hand.
 
-   * 2NT - balanced minimum and suitable for declaring NT
-   * 3NT - balanced maximum
+   * 2NT - balanced minimum or maximum and suitable for declaring NT
+   * 3NT - intermediate hand (15-17)
    * Any other suit - 4+ cards (reverse implies extra strength)
    * Jump shift - splinter support of previously bid suit
    * Rebid of original suit - no better response
