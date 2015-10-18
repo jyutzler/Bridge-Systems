@@ -1,5 +1,5 @@
 ### Meckwell vs. Strong 1NT
-Meckwwell features multiple ways to show single-suited or 5-4 hands.  
+Meckwell features multiple ways to show single-suited or 5-4 hands.  
    * double: long minor or both majors or 18+ HCP 
    * 2♣: clubs and a major
    * 2♦: diamonds and a major
