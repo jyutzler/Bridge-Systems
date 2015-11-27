@@ -10,4 +10,4 @@ With an normal opening hand it is better to bid the higher suit then rebid the l
 
 In a highly competitive auction, 4NT is also unusual.
 
-Note: Unusual 2NT is off in the reopening seat (see above).
+Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).

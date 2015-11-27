@@ -12,4 +12,4 @@ sound (8-9 dummy points) but when non-vulnerable it is much more wide-ranging.
    * 3♦: unbalanced minimum
    * 3NT: 18-19, side suits stopped
 
-Inverted raises are on over a double but not an overcall.
+Inverted raises are off in all competition.
