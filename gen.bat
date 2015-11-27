@@ -27,7 +27,8 @@ echo The following assumes a 1♥ opening but the system over 1♠ is similar. >
 type MajorOpenings\Raises\Bergen.md >> system.md
 type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
-type MajorOpenings\Raises\twowayreversedrury.md >> system.md
+type MajorOpenings\Raises\Bromad.md >> system.md
+type MajorOpenings\Raises\Bromad-passed.md >> system.md
 echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\WeakJS-Bergen.md >> system.md
 echo ## Minor Openings >> system.md
@@ -58,6 +59,7 @@ type Defensive\NTOvercall\no-balancing.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\vsNT\meckwell.md >> system.md
+type Defensive\vsStrongOpening\transfers.md >> system.md
 type Preemptive\2-3-4.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md

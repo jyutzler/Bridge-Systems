@@ -63,15 +63,15 @@ Responder's rebids after any response:
 It is on over 1NT and 2NT openings.
 
 Opener rebids:
-
    * 3♦: no five-card major and at least one four-card major
-   * 3♥ or 3♠: that major
+   * 3♥ or 3♠: five of that major
    * 3NT: no four-card or five-card major
 
 After 3♦:
-   * 3♥ or 3♠: The other major
+   * 3♥ or 3♠: four of the other major
    * 3NT: signoff
-   * 4 of that major: signoff
+   * 4♦: 4 of both majors
+   * 4 of that major: signoff - usually six cards and three of the other major
 
 After 3 of a major:
    * 4 of that major: signoff
@@ -126,12 +126,16 @@ while reducing the risk of unwanted interference from the opponents.
 The following shows how they are used with strong NT (15-17) openings.
 
    * Bust (would pass a 1-bid): Jacoby, pass
-   * Invitational with a six-card suit (would make a 1 over 1 bid): Jacoby, raise
+   * Invitational with a six-card suit (would make a 1 over 1 bid): Jacoby, raise to 3; Opener rebids:
       * pass: minimum
-      * 3NT (rare) or 4M: maximum
+      * 3NT (rare - usually requires three cards and a balanced hand) or 4M: maximum
    * Game signoff (weak 2 strength): Texas, pass
-   * Slam invitation (opening strength): Jacoby, raise to 4 in suit
-   * Slam (stronger-than-minimum opening): Texas, 4NT (Blackwood) OR Jacoby, other major
+   * Slam invitation (opening strength): Two options:
+      * Jacoby, raise to 4 in suit (balanced)
+      * Jacoby, jump in another suit (splinter)
+   * Slam (stronger-than-minimum opening): Two options:
+      * Texas, 4NT (Blackwood) OR 
+      * Jacoby, other major (requests cue bids)
    * Grand Slam Force (asking to bid 7 with 2 of top 3 honors): Texas, 5NT
 
 It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring (for example, an unprotected king).
@@ -275,12 +279,7 @@ The following assumes a 1♥ opening but the system over 1♠ is similar.
 Bergen Raises are off. See Drury section if applicable.
 
 #### In Competition
-Bergen Raises are on over a double (Redouble implies no fit) 
-but off in competition. After an overcall:
-   * 3♥ = weak raise (10 or fewer dummy points with four or more hearts).
-   * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
-   * Cue = Limit Raise or better (at least a good 10 dummy points and three hearts)
-
+Bergen Raises are off in competition.
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
 
@@ -328,20 +327,24 @@ In competition, splinters are off except for jumps in the opponent's suit.
 
 Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
 
-#### Two Way Reverse Drury
-In third or fourth position, a 1♥ or 1♠ opening may be light (equivalent to an overcall). 
-To prevent the contract from getting too high, responder may bid the following: 
-   * 2 of a minor shows a limit raise
-      * 2♣: 3 card support
-      * 2♦: 4+ card support
-	  * 3 of the major: 5+ card support, unbalanced (rare)
-   * Opener clarifies strength with the rebid   
-      * 2 of the major: sign-off
-	  * 3 of the major: good hand, requests cue bid
-	  * 4 of the major: sign-off
-      * 2♦ over 2♣ or 2♥ over 2♦: full opener, game try
-	  * 2♥ over 1♠-2♣: 4 hearts, game try or better
-	  * 2♠ over 1♥-2♣: 4 spades, game try or better
+#### Bromad Raises
+The following raises are made after a double.
+   * 2♣: constructive raise (7-10 dummy points with three hearts).
+      * 2♦: game try
+   * 2♦: limit raise (11-12 dummy points with three hearts).
+   * 2♥: weak raise (6 or fewer dummy points with three hearts).
+   * 3♣: mixed raise (7-10 dummy points with four or more hearts).
+      * 3♦: game try
+   * 3♦: limit raise (11–12 dummy points with four or more hearts).
+   * 3♥: weak raise (6 or fewer dummy points with four or more hearts).
+   * 4♥: usually five+ cards, a singleton or void, and fewer than 10 HCP.
+
+#### Other Bids after a Takeout Double
+   * Redouble: game-forcing raise or 10+HCP without support
+   * 2NT: weak with one long minor (opener bids 3♣, pass or correct)
+
+#### Passed hands
+Bromad raises are on as a passed hand. 
 
 ### Jump Shifts 
 #### Weak Jump Shift
@@ -379,7 +382,7 @@ sound (8-9 dummy points) but when non-vulnerable it is much more wide-ranging.
    * 3♦: unbalanced minimum
    * 3NT: 18-19, side suits stopped
 
-Inverted raises are on over a double but not an overcall.
+Inverted raises are off in all competition.
 ## One Over One 
 A 1/1 bid shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
 Bid 4-card suits up the line
@@ -673,17 +676,31 @@ A cuebid of opener’s suit shows good support (limit raise or better).
    * (Pass) — other = natural, game-forcing.
 
 ### NT Overcalls
-#### Direct
-A 1NT overcall shows 15–18 points and a balanced hand (preferably a stopper in
-opener’s suit). All systems are on - effectively the opening bid is ignored.
+With appropriate strength and a stopper in the opponent's suit,
+you may make a NT overcall.
+All systems are on - effectively the opening bid is ignored.
 
-To show a stronger hand, double then bid 1NT to show 19-21 points.
+#### Direct Position (1X-?)
+   * 10-14 HCP: pass or double then pass
+   * 15-18 HCP: 1NT
+   * 19-21 HCP: double then bid NT
+   * 22-24 HCP: double then jump NT
+   
+#### Balancing Position (1X-p-p-?)
+   * 10-13 HCP: pass or double
+   * 14-17 HCP: 1NT
+   * 18-21 HCP: double then bid NT
+   * 22-24 HCP: 3NT
 
-#### Reopening
-A reopening 1NT after an opponent has opened shows the same as in the direct position.
+#### 2-Level (2X-? or 1X-p-2X-?)
+   * 15-18 HCP: 2NT
+   * 19-21 HCP: 3NT
+   * 22-24 HCP: double then 3NT
+      
+#### 3-Level (3X-? or any-p-3X-?)
+   * 15-18 HCP: pass or 3NT
+   * 19-24 HCP: 3NT
 
-#### Vs. Preempts
-Versus an opening preempt, an overcall in notrump is natural.
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
 (It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
@@ -696,7 +713,7 @@ With an normal opening hand it is better to bid the higher suit then rebid the l
 
 In a highly competitive auction, 4NT is also unusual.
 
-Note: Unusual 2NT is off in the reopening seat (see above).
+Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
 ### Michaels Cuebid
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). 
@@ -753,6 +770,10 @@ Responses to 2♣:
 
 After 2♣ or 2♦, Advancer may pass or bid 2♥. 
 Overcaller may pass or correct to 2♠.
+### Overcalls of Strong Openings
+Against any strong opening (usually 2♣ or 1♣), 
+an overcall is a transfer to the next higher suit.
+
 ## Preemptive Bids
 Opening suit bids at the three level and higher are preemptive and based on playing tricks
 (the number of tricks you expect to take if your long suit is trumps).
@@ -918,3 +939,4 @@ Leads are:
    1. Count (low = even)
    1. Suit preference (high = higher suit)
 
+A jack is an encouraging card, more than a 2.
