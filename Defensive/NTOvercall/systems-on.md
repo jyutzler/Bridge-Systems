@@ -1,5 +1,4 @@
 ### NT Overcalls
-
 With appropriate strength and a stopper in the opponent's suit,
 you may make a NT overcall.
 All systems are on - effectively the opening bid is ignored.
