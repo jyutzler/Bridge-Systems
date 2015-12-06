@@ -3,5 +3,10 @@ Bid 4-card suits up the line
 but with two 5+-card suits bid the highest first.
 
 #### 1♦
-A diamond suit is automatically skipped in favor of a major unless the hand is strong enough to force to game.
-1♦ may also show a balanced 6-8 points and a desire for opener to declare 1NT.
+A 1♦ response to 1♣ shows one of the following hand types:
+   * Rebiddable diamonds
+   * A game force with at least one major
+   * A balanced 6-8 points and a desire for opener to declare 1NT.
+
+A diamond suit is automatically skipped in favor of a major 
+unless the hand is strong enough to force to game. 
