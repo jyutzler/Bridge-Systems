@@ -19,3 +19,4 @@ Responder's rebids are mostly natural.
 #### 1♣ - 1♦; 2NT...
 Same as the above with the following addition:
    * 3♥, 3♠: 4-card major, game-forcing
+
