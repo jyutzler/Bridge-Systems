@@ -38,6 +38,7 @@ type MinorOpenings\Raises\InvertedNotInComp.md >> system.md
 echo ## One Over One >> system.md
 type OneOverOne\Walsh.md >> system.md
 type MinorOpenings\NTResponses\walsh.md >> system.md
+type OneOverOne\jumpTo2NT\SAYC.md >> system.md
 echo ### Opener Rebids >> system.md
 type OneOverOne\OpenerRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
