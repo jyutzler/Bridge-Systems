@@ -242,6 +242,30 @@ The Texas transfer is on through 3♣. In other words it must be a jump.
 Normally open five-card majors in all seats.
 
 Open the higher of long suits of equal length: 5–5 or 6–6.
+### 1♠ Over 1♥
+Since the immediate objective is to support with support, 
+1♠ must be skipped in favor of heart support without game-forcing values.
+
+#### After any Rebid by Opener
+   - pass: minimum, 4 or 5 spades
+   - 2♠: minimum, 6+ spades
+   - 2NT: 4 spades, 11-12 HCP
+   - 3♥: Game-forcing, good hand
+   - 3♠: As per 1 over 1 system
+   - 3NT: 4 spades, 13-15 HCP
+   - 4♥: Game-forcing, minimum hand
+   - 4♠: To play, 7+ spades
+   - 4NT: quantitative, 16-17 HCP
+
+#### After 1NT Rebid
+   - 2♣ or 2♦: New Minor Forcing 
+   - 2♥: preference (rare, 2 hearts and concern about NT)
+
+#### After 2♣ or 2♦ Rebid
+   - raise minor: Invitational
+   - other minor: New Minor Forcing
+   - 2♥: preference (2 hearts and no more than 3 of the minor)
+
 ### NT Responses 
 #### 1NT Forcing
 1NT typically shows 6–12 points and is used in a number of circumstances:
@@ -391,11 +415,9 @@ but with two 5+-card suits bid the highest first.
 #### 1♦
 A 1♦ response to 1♣ shows one of the following hand types:
    * Rebiddable diamonds
-   * A game force with at least one major
+   * A game force with at least one 4-card major
    * A balanced 6-8 points and a desire for opener to declare 1NT.
 
-A diamond suit is automatically skipped in favor of a major 
-unless the hand is strong enough to force to game. 
 #### 1NT
 1NT over 1♣ shows a balanced 8–10 HCP and denies a four-card major. 
 Over 1♦ the range is wider (6-10 HCP).
@@ -434,23 +456,26 @@ Same as the above with the following addition:
 ### Opener Rebids 
 Opener’s rebids are natural and standard.
 
-#### Rebids with a minimum hand (13–16 points)
+#### Rebids with a minimum hand (13–16 total points)
    * Rebidding notrump at the lowest available level;
    * Raising responder’s suit at the lowest level (usually four cards, though good three-card support is acceptable if notrump is not);
    * Rebidding a new suit at the one level or rebidding a new suit at the two level that
 is lower ranking than the opening suit (not reversing);
    * Rebidding opener’s suit at the lowest level.
 
-#### Rebids with a medium hand (17–18 points)
+#### Rebids with a medium hand (17–18 total points)
    * Jump raise or jump rebid of opener’s suit;
    * Reverse in a new suit, i.e., bid a new suit at the two level which is higher ranking
-than the opening suit;
+than the opening suit; (see [Reverses](#Reverses))
    * Non-reverse bid in a new suit (this has the wide range of 13–18 points)
 
-#### With a maximum hand (19–21 or 22 points) opener must make a very strong rebid:
+#### With a maximum hand (19–21 or 22 total points) opener must make a very strong rebid:
    * Jump in notrump;
-   * Double jump raise of responder’s suit or double jump rebid of opener’s suit;
+   * Double jump raise of responder’s suit
+   * Double jump rebid of opener’s suit;
    * Jump shift or reverse in a new suit.
+   * Jump reverse (requires at least 6-4 shape)
+   * Double jump in a new suit (Splinter, showing support of responder's suit)
 
 Responder follows up by attempting to sign off in game, bidding 4NT
 Blackwood, or cuebidding if still interested in trying to cooperate with opener
@@ -464,28 +489,28 @@ more information about opener’s hand.
 #### Sign-off
 Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
 
-1♥ — 1♠;
+1♦ — 1♠;
 
 2♣
 
    * Pass
-   * 2♥ = 2-3 hearts, likely misfit
+   * 2♦ = 2-3 hearts, likely misfit
    * 2♠ = 6+ spades
 
 There is one exception to the rule that new suits are forcing:
 
-1♣ — 1♠;
+1♦ — 1♠;
 
 1NT
 
-   * 2♥ = sign-off - opener must pass or correct (bust with 5-5 or 5-4 distribution)
+   * 2♥ = sign-off - opener must pass or correct (bust with 5-4 or better distribution)
    
 #### Inviting Game
-Bids available for inviting game: 2NT, 3 of opener's suit, new minor, jump rebid of major:
+Bids available for inviting game: 2NT, jump in a bid suit, new minor:
 
-1♥ — 1♠;
+1♦ — 1♠;
 
-2♣ — 2NT, 3♣, 3♥ = 11–12 points, inviting game.
+2♣ — 2NT, 3♣, 3♦, 3♠ = 11–12 points, inviting game.
 
 In addition, a new minor suit at the responder's second bid or later is forcing for one round and thus
 is invitational at the 2-level and game forcing at the 3-level.

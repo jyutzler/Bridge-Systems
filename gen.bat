@@ -20,6 +20,7 @@ echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\Puppet.md >> system.md
 echo ## Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
+type MajorOpenings\1Sover1H\SAYC.md >> system.md
 echo ### NT Responses >> system.md
 type MajorOpenings\1NT\1NTforcing.md >> system.md
 echo ### Raises >> system.md
@@ -36,13 +37,13 @@ type MinorOpenings\SAYC.md >> system.md
 echo ### Raises >> system.md
 type MinorOpenings\Raises\InvertedNotInComp.md >> system.md
 echo ## One Over One >> system.md
-type OneOverOne\Walsh.md >> system.md
+type MinorOpenings\OneOverOne\Walsh.md >> system.md
 type MinorOpenings\NTResponses\walsh.md >> system.md
-type OneOverOne\jumpTo2NT\SAYC.md >> system.md
+type MinorOpenings\JumpTo2NT\SAYC.md >> system.md
 echo ### Opener Rebids >> system.md
-type OneOverOne\OpenerRebid\RP.md >> system.md
+type MinorOpenings\OneOverOne\OpenerRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
-type OneOverOne\ResponderRebid\limit-style.md >> system.md
+type MinorOpenings\OneOverOne\ResponderRebid\limit-style.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Strong 2♣ >> system.md
