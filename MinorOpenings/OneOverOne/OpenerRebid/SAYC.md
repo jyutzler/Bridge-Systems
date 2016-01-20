@@ -10,12 +10,13 @@ is lower ranking than the opening suit (not reversing);
 #### Rebids with a medium hand (17–18 total points)
    * Jump raise or jump rebid of opener’s suit;
    * Reverse in a new suit, i.e., bid a new suit at the two level which is higher ranking
-than the opening suit;
+than the opening suit; (see [Reverses](#Reverses))
    * Non-reverse bid in a new suit (this has the wide range of 13–18 points)
 
 #### With a maximum hand (19+ total points) opener must make a very strong rebid:
    * Jump in notrump;
-   * Double jump raise of responder’s suit or double jump rebid of opener’s suit;
+   * Double jump raise of responder’s suit
+   * Double jump rebid of opener’s suit;
    * Jump shift or reverse in a new suit.
 
 Responder follows up by attempting to sign off in game, bidding 4NT
