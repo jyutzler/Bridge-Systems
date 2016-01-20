@@ -4,27 +4,27 @@ more information about opener’s hand.
 
 Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
 
-1♥ — 1♠
+1♦ — 1♠
 
 2♣ — Pass, 2♥, 2♠ = 6–10 points, sign-off in partscore.
 
 Bids available for inviting game: 2NT, 3 of a previously bid suit:
 
-1♥ — 1♠
+1♦ — 1♠
 
-2♦ — 2NT, 3♦, 3♥, 3♠ = 11–12 points, inviting game.
+2♣ — 2NT, 3♦, 3♥, 3♠ = 11–12 points, inviting game.
 
 After opener rebids in a suit, a new suit by responder is forcing. If the new suit is the
 fourth suit, the bid may be artificial/conventional.
 
-1♥ — 1♠
+1♦ — 1♠
 
 2♣ — 2♦ = one-round force, could be conventional.
 
 However, after a 1NT rebid by opener, bids of a new suit at the next higher level are
 non-forcing.
 
-1♥ — 1♠
+1♦ — 1♠
 
 1NT — 2♣, 2♦ = non-forcing. Responder must jump shift to 3♣ or 3♦ to force game.
 Second-round forcing bids following a 1NT rebid by opener: a reverse or jump shift
