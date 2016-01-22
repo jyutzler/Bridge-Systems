@@ -6,8 +6,8 @@ but it may show a strong 4 (AKJx) at the one level.
 
 The one exception is over 1♣ where an overcall of 1♦ does little to obstruct the opponents.
 (1♣)
-   * 1♦ = a good 4 or bad 5, often lead-directing
-   * 2♦ = sound overcall (would bid over 1♠)
+   * 1♦ = a good 4 or bad 5, often lead-directing - alert as not intermediate
+   * 2♦ = sound overcall (would bid over 1♠) - alert as intermediate
    
 A reopening bid means much the same as a direct seat bid, 
 but it may be made with about a king less.
