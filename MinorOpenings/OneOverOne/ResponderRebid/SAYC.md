@@ -52,7 +52,7 @@ points and at least three-card support:
 
  — 3♦ = game force, could be conventional.
 
- — 3♠ = game force.5
+ — 3♠ = game force.
 
 NOTE: Responder promises to bid again if he responded with a new suit at the two
 level unless opener’s rebid is at the game level.
