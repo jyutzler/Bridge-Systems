@@ -12,7 +12,8 @@ If both majors are bid, then a double shows both minors.
    * 1♥ — (1♠) — Double = 4-4 or better in the minors.
 
 When the opponents overcall a minor over a minor at the two-level or higher, 
-a double shows at least one four-card major.
+a double shows at least one four-card major 
+and at least two places to play.
 
    * 1♦ — (2♣) — Double = at least one four-card major.
    * 1♣ — (2♦) — Double = at least one four-card major.
