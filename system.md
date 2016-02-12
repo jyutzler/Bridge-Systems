@@ -307,22 +307,22 @@ Bergen Raises are off in competition. See Bromad section if applicable.
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
 
-   * 2NT = Game-forcing raise (13+ dummy points, 4+ trumps, all hand patterns). 
+   * 2NT: Game-forcing raise (13+ dummy points, 4+ trumps, all hand patterns). 
 Asks opener to describe his hand to help responder evaluate slam prospects.
 
-      * 3♣, 3♦, 3♠ = singleton or void in that suit.
-      * 4♥ = minimum hand.
-      * 3NT = medium hand (15–17).
-      * 3♥ = maximum hand (18+).
-	  * 4♣, 4♦, 4♠ = 5-card suit with two of the top three honors.
+      * 3♣, 3♦, 3♠: singleton or void in that suit.
+      * 4♥: minimum hand.
+      * 3NT: medium hand (15–17).
+      * 3♥: maximum hand (18+).
+	  * 4♣, 4♦, 4♠: 5-card suit with two of the top three honors.
 	  
 This treatment is off in competition and as a passed hand.
 Unless otherwise stated, 2NT is natural.
 
-2NT = 11-12 HCP, balanced hand with two-card support for partner.
+2NT: 11-12 HCP, balanced hand with two-card support for partner.
 	  
 #### 3NT
-3NT = 13-15 HCP, balanced hand with two-card support for partner.
+3NT: 13-15 HCP, balanced hand with two-card support for partner.
 
 #### Splinter Raises
 Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
@@ -330,10 +330,10 @@ Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
 Opener can explore slam by bidding controls or attempt to sign off by bidding game.
 For example:
 
-1♠ — 4♣ = game forcing, club shortness
+1♠ — 4♣: game forcing, club shortness
 
-   * 4♦, 4♥ = slam interest, first round control (usually ace)
-   * 4♠ = signoff
+   * 4♦, 4♥: slam interest, first round control (usually ace)
+   * 4♠: signoff
 
 Responder shows a void by rebidding the splinter suit:
 
@@ -341,11 +341,11 @@ Responder shows a void by rebidding the splinter suit:
 
 4♥ — 5♣ = void
 
-Opener can also splinter with a good hand and 4-card support:
+Opener can also self-splinter with a good hand and 4-card support:
 
 1♣ — 1♠
 
-   * 4♦, 4♥ = game forcing, shortness
+   * 4♦, 4♥: game forcing, shortness
 
 In competition, splinters are off except for jumps in the opponent's suit.
 
@@ -405,6 +405,7 @@ sound (8-9 dummy points) but when non-vulnerable it is much more wide-ranging.
    * 2NT: balanced minimum, side suits stopped
    * 3♦: unbalanced minimum
    * 3NT: 18-19, side suits stopped
+   * 4♦: unbalanced maximum (GF, asks for control bids)
 
 Inverted raises are off in all competition.
 ## One Over One 
@@ -424,13 +425,13 @@ Over 1♦ the range is wider (6-10 HCP).
 It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
 
 #### 2NT
-2NT is invitational - 11-12 HCP, no four-card major, balanced hand.
+2NT: invitational balanced hand (11-12 HCP), no four-card major.
 
 #### 3NT
-3NT shows game-values - 13-15 HCP, no four-card major, balanced hand.
+3NT: game-value balanced hand (13-15 HCP), no four-card major.
 
 #### 4NT
-4NT is quantitative - 16-18 HCP, no four-card major, balanced hand.
+4NT: quantitative balanced hand (16-18 HCP), no four-card major.
 ### Opener's jump to 2NT
 Opener's jump to 2NT shows a stronger-than-1NT opening (18-19 HCP).
 Responder's rebids are mostly natural.
@@ -512,19 +513,6 @@ Bids available for inviting game: 2NT, jump in a bid suit, new minor:
 
 2♣ — 2NT, 3♣, 3♦, 3♠ = 11–12 points, inviting game.
 
-In addition, a new minor suit at the responder's second bid or later is forcing for one round and thus
-is invitational at the 2-level and game forcing at the 3-level.
-
-1♥ — 1♠;
-
-1NT (or 2♣)
-
-   * 2♦: New Minor Forcing
-
-Opener is encouraged to show secondary support for responder's suit
-or bid an unbid 4-card major if possible. 
-When more than one minor is available, it tends to show a stopper for NT.
-
 #### Forcing to Game
 Bids available for forcing to game:
    * Fourth suit
@@ -539,6 +527,33 @@ Suit bids usually show controls.
 
 #### Signing off at Game
 Any bid of game is a sign-off, though partner can proceed with a maximum (see Slam Bidding).
+
+#### New Minor Forcing
+A new minor suit at the responder's second bid or later is forcing for one round and thus
+is invitational at the 2-level and game forcing at the 3-level.
+When more than one minor is available (1♥-1♠;1NT-2m), 
+it tends to show a stopper for NT.
+
+1♣ — 1♠
+
+1NT (or 2♣) — 2♦ (forcing)
+
+After New Minor Forcing, opener must describe his hand further.
+* 2 of responder's suit: 3-card support, minimum
+* 3 of responder's suit: 3-card support, extras (preacceptance)
+* 2 of other major: 4 cards, minimum
+* 3 of other major: 4 cards, extras (preacceptance)
+* 2NT: minimum
+* 3NT: to play (maximum)
+
+If opener has rebid 1NT, 
+rebids should be designed to find a suit contract.
+* raise new minor: extras, stopper, forcing to 3NT or higher
+
+If opener has rebid his suit, 
+rebids should be designed to find a 3NT contract
+* raise other minor: 4-cards, extras
+* rebid opener's suit: retreat (minimum, no stopper in new minor)
 
 ## Two Over One 
 By an unpassed hand, a two-over-one response shows 13+ points and 4+ cards 
@@ -685,6 +700,23 @@ There are no hard-and-fast rules here, but possibilities include:
 The asker may continue to bid up the line if completely displeased with the response.
 
 ## Defensive Bidding 
+### Doubles
+A double is for takeout over a partscore bid (4♦ or lower) and 
+penalty over opening game bids (4♥ or higher). 
+However, advancer may pull the double with undisclosed distribution and/or poor defensive values.
+
+A below-game jump response to a takeout double is invitational (9-12 declarer points). 
+To force for one round, responder cuebids opener’s suit. 
+This is forcing to game by an unpassed hand.
+
+Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
+If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
+### Responsive Doubles
+After an opponent bids at the one level, partner doubles for takeout,
+and the other opponent and raises, a double by advancer is responsive. 
+This allows the original doubler to be declarer and to pick the preferred suit.
+
+Responsive Doubles are on through 4♦ but off after a preempt.
 ### Suit Overcalls
 Suit overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
 A reopening bid means much the same as a direct seat bid, 
@@ -723,6 +755,7 @@ All systems are on - effectively the opening bid is ignored.
    * 14-17 HCP: 1NT
    * 18-21 HCP: double then bid NT
    * 22-24 HCP: 3NT
+   * 2NT is unusual (see below)
 
 #### 2-Level (2X-? or 1X-p-2X-?)
    * 15-18 HCP: 2NT
@@ -826,7 +859,7 @@ without the overcall:
 
 1♦ — (Pass) — 1♠ — (2♣)
 
-2♠ with ♠J43 ♥A875 ♦AQJ4 ♣J3 (rebid 1NT if RHO has passed)
+2♠ with ♠943 ♥A875 ♦AQJ4 ♣Q3 (rebid 1NT if RHO has passed)
 
 ### New Suits
 In a competitive sequence, new suits by an unpassed hand are forcing.
@@ -855,7 +888,7 @@ Unless otherwise noted elsewhere, any bid or double by an opponent cancels a
 convention intended for non-competitive sequences.
 
 #### Examples
-   * 1♥ — 2♠ — 2NT = natural (12–14 HCP).
+   * 1♥ — 2♠ — 2NT = natural (11-12 HCP).
    * 2♣ — Double — 2♦ = natural and positive.
 
 ### Against Conventions
@@ -866,7 +899,7 @@ For example:
 1♠ — (2♠:Michaels) 
    * 3♣, 3♦, 3♠: weak
    * 3♥: Limit raise or better in spades.
-   * Double: at least 10 points, possibly willing to make a penalty double.
+   * Double: at least 10 HCP, possibly willing to make a penalty double.
 
 If the conventional bid shows two known suits, 
 there are two cue bids available and the second shows the fourth suit. 
@@ -876,7 +909,7 @@ For example:
    * 3♣, 3♠: weak
    * 3♦: Limit raise or better in clubs.
    * 3♥: 10+HCP, 5+ spades
-   * Double: at least 10 points, possibly willing to make a penalty double.
+   * Double: at least 10 HCP, possibly willing to make a penalty double.
 
 ### Negative Doubles
 The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
@@ -892,7 +925,8 @@ If both majors are bid, then a double shows both minors.
    * 1♥ — (1♠) — Double = 4-4 or better in the minors.
 
 When the opponents overcall a minor over a minor at the two-level or higher, 
-a double shows at least one four-card major.
+a double shows at least one four-card major 
+and at least two places to play.
 
    * 1♦ — (2♣) — Double = at least one four-card major.
    * 1♣ — (2♦) — Double = at least one four-card major.
@@ -915,23 +949,6 @@ A responder’s jump shift after a double is to play:
 
 1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
 preemptive three-bid.
-### Doubles
-A double is for takeout over a partscore bid (4♦ or lower) and 
-penalty over opening game bids (4♥ or higher). 
-However, advancer may pull the double with undisclosed distribution and/or poor defensive values.
-
-A below-game jump response to a takeout double is invitational (9-12 declarer points). 
-To force for one round, responder cuebids opener’s suit. 
-This is forcing to game by an unpassed hand.
-
-Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
-If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
-### Responsive Doubles
-After an opponent bids at the one level, partner doubles for takeout,
-and the other opponent and raises, a double by advancer is responsive. 
-This allows the original doubler to be declarer and to pick the preferred suit.
-
-Responsive Doubles are on through 4♦ but off after a preempt.
 ### Card-Showing Doubles
 Card-showing doubles are used when there is a general desire to act but no clear direction.
 Partner is asked to "do something intelligent" like bid an unbid four-card suit,
