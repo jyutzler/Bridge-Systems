@@ -44,6 +44,7 @@ echo ### Opener Rebids >> system.md
 type MinorOpenings\OneOverOne\OpenerRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\limit-style.md >> system.md
+type MinorOpenings\OneOverOne\ResponderRebid\new-minor-forcing.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Strong 2♣ >> system.md
@@ -56,6 +57,8 @@ type Slam\0314.md >> system.md
 type Slam\gerber1st-last.md >> system.md
 type Slam\pickaslam.md >> system.md
 echo ## Defensive Bidding >> system.md
+type Defensive\Doubles\SAYC.md >> system.md
+type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
 type Defensive\NTOvercall\no-balancing.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
@@ -70,8 +73,6 @@ type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\Cue-support.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
-type Competitive\Doubles\SAYC.md >> system.md
-type Competitive\Doubles\responsive.md >> system.md
 type Competitive\Doubles\card-showing.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
