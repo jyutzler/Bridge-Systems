@@ -64,6 +64,7 @@ type Defensive\NTOvercall\no-balancing.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\vsNT\meckwell.md >> system.md
+type Defensive\vsNT\Cappelletti.md >> system.md
 type Defensive\vsStrongOpening\transfers.md >> system.md
 type Preemptive\2-3-4.md >> system.md
 echo ## Competitive Bidding >> system.md
