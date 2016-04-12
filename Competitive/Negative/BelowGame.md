@@ -1,7 +1,7 @@
 ### Negative Doubles
 The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
 Bidding a major in competition shows a five-card or longer suit and strength suitable to the level. 
-With insufficient points, double may also be used with a five-card suit.
+With insufficient high-card strength for a free bid, double may also be used with a five-card or longer suit.
 
    * 1♣ — (1♦) — Double = 4–4 or better in the majors.
    * 1♦ — (1♥) — Double = exactly four spades (1♠ promises at least five).

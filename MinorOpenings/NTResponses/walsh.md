@@ -1,5 +1,5 @@
 #### 1NT
-1NT over 1♣ shows a balanced 8–10 HCP and denies a four-card major. 
+1NT over 1♣: balanced 8–10 HCP, no four-card major. (With 6-8 HCP, bid 1♦ instead so that opener can declare 1NT if possible.)
 Over 1♦ the range is wider (6-10 HCP).
 It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
 
