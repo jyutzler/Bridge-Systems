@@ -14,6 +14,7 @@ All systems are on - effectively the opening bid is ignored.
    * 14-17 HCP: 1NT
    * 18-21 HCP: double then bid NT
    * 22-24 HCP: 3NT
+   * 2NT is unusual (see below)
 
 #### 2-Level (2X-? or 1X-p-2X-?)
    * 15-18 HCP: 2NT

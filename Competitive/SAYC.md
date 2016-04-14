@@ -8,5 +8,5 @@ without the overcall:
 
 1♦ — (Pass) — 1♠ — (2♣)
 
-2♠ with ♠J43 ♥A875 ♦AQJ4 ♣J3 (rebid 1NT if RHO has passed)
+2♠ with ♠943 ♥A875 ♦AQJ4 ♣Q3 (rebid 1NT if RHO has passed)
 
