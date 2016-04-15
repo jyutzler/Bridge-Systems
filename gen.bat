@@ -34,15 +34,16 @@ type MajorOpenings\JumpShifts\WeakJS.md >> system.md
 echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
 echo ### One Over One >> system.md
-type OneOverOne\Walsh.md >> system.md
+type MinorOpenings\OneOverOne\Walsh.md >> system.md
 echo ### NT Responses >> system.md
 type MinorOpenings\NTResponses\walsh.md >> system.md
-type OneOverOne\jumpTo2NT\SAYC.md >> system.md
+type MinorOpenings\jumpTo2NT\SAYC.md >> system.md
 echo ### Opener Rebids >> system.md
-type OneOverOne\OpenerRebid\Walsh.md >> system.md
+type MinorOpenings\OneOverOne\OpenerRebid\Walsh.md >> system.md
 echo ### Responder Rebids >> system.md
-type OneOverOne\ResponderRebid\NMF+FSF-INV.md >> system.md
-type OneOverOne\Reverses\SAYC.md >> system.md
+type MinorOpenings\OneOverOne\ResponderRebid\limit-style.md >> system.md
+type MinorOpenings\OneOverOne\ResponderRebid\new-minor-forcing.md >> system.md
+type MinorOpenings\Reverses\SAYC.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Game Tries >> system.md
@@ -60,6 +61,8 @@ type Slam\grandslamforce.md >> system.md
 type Slam\voluntary5.md >> system.md
 type Slam\forcing3NT.md >> system.md
 echo ## Defensive Bidding >> system.md
+type Defensive\Doubles\SAYC.md >> system.md
+type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
 type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
@@ -74,7 +77,6 @@ type Competitive\VsConventions\Reverse-cue-support.md >> system.md
 type Competitive\Takeout\AM.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Doubles\card-showing.md >> system.md
-type Competitive\Doubles\responsive.md >> system.md
 type Competitive\Redouble\jeff-donna.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
 type Defense\Carding\lavinthal-nt.md >> system.md
