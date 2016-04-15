@@ -26,3 +26,4 @@ For example: 1NT — (Pass) — 2♦ — (Double)
       * Redouble: retransfer
       * Others: same as without interference
    * 2♥: Real fit for hearts
+

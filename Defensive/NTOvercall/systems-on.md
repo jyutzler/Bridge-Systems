@@ -23,3 +23,4 @@ All systems are on - effectively the opening bid is ignored.
 #### 3-Level (3X-? or any-p-3X-?)
    * bad 16 HCP or less: pass
    * good 16+ HCP: 3NT
+
