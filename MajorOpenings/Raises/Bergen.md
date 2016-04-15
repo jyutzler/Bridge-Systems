@@ -9,7 +9,7 @@
    * 3♥ = weak raise (6 or fewer dummy points with four or more hearts).
 
 #### Passed Hands
-Bergen Raises are off. See Drury section if applicable.
+Bergen Raises are off. See Drury or Bromad section if applicable.
 
 #### In Competition
-Bergen Raises are off in competition.
+Bergen Raises are off in competition. See Bromad section if applicable.

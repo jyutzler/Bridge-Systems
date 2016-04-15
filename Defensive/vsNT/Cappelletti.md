@@ -1,6 +1,6 @@
 ### Cappelletti vs. 1NT
 #### Unpassed Hand
-Cappelletti (AKA Hamilton) is a common defense to 1NT. Unpassed hand responses:
+Cappelletti (AKA Hamilton) is a common defense to 1NT (especially weak). Unpassed hand responses:
    * double: penalty 
    * 2♣: single-suited
       * pass: 6 clubs

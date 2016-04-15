@@ -11,6 +11,7 @@ sound (8-9 dummy points) but when non-vulnerable it is much more wide-ranging.
    * 2NT: balanced minimum, side suits stopped
    * 3♦: unbalanced minimum
    * 3NT: 18-19, side suits stopped
+   * 4♦: unbalanced maximum (GF, asks for control bids)
 
 Inverted raises are on in competition.
 

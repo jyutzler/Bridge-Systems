@@ -4,10 +4,10 @@ Over a 1♥ or 1♠ opening, a double jump shows 13+ dummy points,
 Opener can explore slam by bidding controls or attempt to sign off by bidding game.
 For example:
 
-1♠ — 4♣ = game forcing, club shortness
+1♠ — 4♣: game forcing, club shortness
 
-   * 4♦, 4♥ = slam interest, first round control (usually ace)
-   * 4♠ = signoff
+   * 4♦, 4♥: slam interest, first round control (usually ace)
+   * 4♠: signoff
 
 Responder shows a void by rebidding the splinter suit:
 
@@ -15,11 +15,11 @@ Responder shows a void by rebidding the splinter suit:
 
 4♥ — 5♣ = void
 
-Opener can also splinter with a good hand and 4-card support:
+Opener can also self-splinter with a good hand and 4-card support:
 
 1♣ — 1♠
 
-   * 4♦, 4♥ = game forcing, shortness
+   * 4♦, 4♥: game forcing, shortness
 
 In competition, splinters are off except for jumps in the opponent's suit.
 

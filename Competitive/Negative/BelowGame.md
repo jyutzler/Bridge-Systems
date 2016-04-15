@@ -1,7 +1,7 @@
 ### Negative Doubles
 The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
 Bidding a major in competition shows a five-card or longer suit and strength suitable to the level. 
-With insufficient points, double may also be used with a five-card suit.
+With insufficient high-card strength for a free bid, double may also be used with a five-card or longer suit.
 
    * 1♣ — (1♦) — Double = 4–4 or better in the majors.
    * 1♦ — (1♥) — Double = exactly four spades (1♠ promises at least five).
@@ -12,7 +12,8 @@ If both majors are bid, then a double shows both minors.
    * 1♥ — (1♠) — Double = 4-4 or better in the minors.
 
 When the opponents overcall a minor over a minor at the two-level or higher, 
-a double shows at least one four-card major.
+a double shows at least one four-card major 
+and at least two places to play.
 
    * 1♦ — (2♣) — Double = at least one four-card major.
    * 1♣ — (2♦) — Double = at least one four-card major.

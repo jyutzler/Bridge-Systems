@@ -1,12 +1,12 @@
 #### 1NT
-1NT shows a balanced 6–10 points and denies a four-card major.
+1NT: balanced 6–10 points, no four-card major.
 It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
 
 #### 2NT
-2NT is invitational - 11-12 HCP, no four-card major, balanced hand.
+2NT: invitational balanced hand (11-12 HCP), no four-card major.
 
 #### 3NT
-3NT shows game-values - 13-15 HCP, no four-card major, balanced hand.
+3NT: game-value balanced hand (13-15 HCP), no four-card major.
 
 #### 4NT
-4NT is quantitative - 16-18 HCP, no four-card major, balanced hand.
+4NT: quantitative balanced hand (16-18 HCP), no four-card major.

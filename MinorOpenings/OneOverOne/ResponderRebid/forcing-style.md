@@ -22,34 +22,14 @@ There is one exception to the rule that new suits are forcing:
    * 2♥ = sign-off - opener must pass or correct (bust with 5-5 or 5-4 distribution)
    
 #### Inviting Game
-Bids available for inviting game: 2NT, 3 of opener's suit, new minor, fourth suit:
+Bids available for inviting game: 2NT(non-jump), new minor, fourth suit:
 
 1♥ — 1♠
 
 2♦ — 2NT, 3♦, 3♥ = 11–12 points, inviting game.
 
-In addition, a new minor suit at the responder's second bid or later is forcing for one round and thus
-is invitational at the 2-level and game forcing at the 3-level.
-
-1♥ — 1♠
-
-1NT (or 2♣) — 2♦ (forcing)
-
-Opener is encouraged to show secondary support for responder's suit
-or bid an unbid 4-card major if possible. 
-When more than one minor is available, it tends to show a stopper for NT.
-
 #### Forcing to Game
-All second round jumps (except for opener's suit as mentioned above) 
-are forcing to 3NT or higher: 
-
-1♥ — 1♠
-
-1NT or 2m
-
-   * 3♥ = game forcing (5-5 or 5-4 distribution)
-   * 3♠ = game forcing (6+ cards)
-
+All second round jumps (including to 2NT) are forcing to 3NT or higher.
 Opener can sign off in game or make a slam try. 
 4NT is Blackwood (see topic) only if suit agreement has been established. 
 Otherwise it is quantitative, asking responder to proceed with a maximum. 
