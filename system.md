@@ -208,6 +208,7 @@ For example: 1NT — (Pass) — 2♦ — (Double)
       * Redouble: retransfer
       * Others: same as without interference
    * 2♥: Real fit for hearts
+
 The Texas transfer is on through 3♣. In other words it must be a jump.
 
 ### 2NT and 3NT 
@@ -626,10 +627,10 @@ A 6-level bid shows the king in that suit.
 Ace Asking:
 
 1NT — 4♣
-   * 4♦ = 0 aces
-   * 4♥ = 1 ace
-   * 4♠ = 2 aces
-   * 4NT = 3 aces
+   * 4♦: 0 aces
+   * 4♥: 1 ace
+   * 4♠: 2 aces
+   * 4NT: 3 aces
 
 If the player using Gerber makes any bid other than 5♣, that is to play
 (including 4NT).
@@ -637,10 +638,10 @@ If the player using Gerber makes any bid other than 5♣, that is to play
 King Asking:
 
 1NT — 4♣ — any — 5♣ 
-   * 5♦ = 0 or 4 kings
-   * 5♥ = 1 king
-   * 5♠ = 2 kings
-   * 5NT = 3 kings
+   * 5♦: 0 or 4 kings
+   * 5♥: 1 king
+   * 5♠: 2 kings
+   * 5NT: 3 kings
 
 ### 5NT Pick a Slam
 A voluntary bid of 5NT is forcing and asks partner to try to pick the best slam available.
@@ -783,6 +784,7 @@ All systems are on - effectively the opening bid is ignored.
 #### 3-Level (3X-? or any-p-3X-?)
    * bad 16 HCP or less: pass
    * good 16+ HCP: 3NT
+
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
 (It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
@@ -793,11 +795,12 @@ The strength is either weak or very strong/distributional.
 (Any subsequent bid by the cuebidder shows extra strength or distribution.)
 With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
 
+Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
+
+### Unusual 4NT
 In a highly competitive auction, 4NT is also unusual.
 
 Over an opening 4♠ bid, 4NT is takeout.
-
-Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
 ### Michaels Cuebid
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). 
