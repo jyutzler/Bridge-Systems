@@ -339,7 +339,7 @@ Responder shows a void by rebidding the splinter suit:
 
 1♠ — 4♣ 
 
-4♥ — 5♣ = void
+4♥ — 5♣: void
 
 Opener can also self-splinter with a good hand and 4-card support:
 
@@ -420,7 +420,7 @@ A 1♦ response to 1♣ shows one of the following hand types:
    * A balanced 6-8 points and a desire for opener to declare 1NT.
 
 #### 1NT
-1NT over 1♣ shows a balanced 8–10 HCP and denies a four-card major. 
+1NT over 1♣: balanced 8–10 HCP, no four-card major. (With 6-8 HCP, bid 1♦ instead so that opener can declare 1NT if possible.)
 Over 1♦ the range is wider (6-10 HCP).
 It is not forcing, but opener is expected to bid with a strong and/or unbalanced hand.
 
@@ -432,7 +432,7 @@ It is not forcing, but opener is expected to bid with a strong and/or unbalanced
 
 #### 4NT
 4NT: quantitative balanced hand (16-18 HCP), no four-card major.
-### Opener's jump to 2NT
+### Opener Jump to 2NT
 Opener's jump to 2NT shows a stronger-than-1NT opening (18-19 HCP).
 Responder's rebids are mostly natural.
 
@@ -701,9 +701,15 @@ The asker may continue to bid up the line if completely displeased with the resp
 
 ## Defensive Bidding 
 ### Doubles
-A double is for takeout over a partscore bid (4♦ or lower) and 
-penalty over opening game bids (4♥ or higher). 
-However, advancer may pull the double with undisclosed distribution and/or poor defensive values.
+A double is for takeout over a partscore bid (4♦ or lower). 
+In the direct position over a 1-level bid, it shows about 13+ total points and support for the unbid suits or 18+ points and any distribution. 
+In the balancing position it can be 2-3 points lighter.
+
+Advancer is expected to bid after a takeout double. 
+The Rule of 9 (#cards + #honors + bid level >= 9) is a reasonable guideline to determine when to convert the double to penalty.
+With insufficient strength and no compelling suit, a 1NT bid is permissible. 
+Unlike in other bidding situations, bid four-card suits highest first. 
+In some cases this will allow you to show your second suit and give partner a choice of places to play. 
 
 A below-game jump response to a takeout double is invitational (9-12 declarer points). 
 To force for one round, responder cuebids opener’s suit. 
@@ -711,12 +717,15 @@ This is forcing to game by an unpassed hand.
 
 Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
 If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
+
+Over opening game bids (4♥ or higher), a double is for penalty.
+However, advancer may pull the double with undisclosed distribution and/or poor defensive values.
 ### Responsive Doubles
 After an opponent bids at the one level, partner doubles for takeout,
-and the other opponent and raises, a double by advancer is responsive. 
+and the other opponent raises, a double by advancer is responsive. 
 This allows the original doubler to be declarer and to pick the preferred suit.
 
-Responsive Doubles are on through 4♦ but off after a preempt.
+Responsive Doubles are on through 4♦ but off after a preemptive opening.
 ### Suit Overcalls
 Suit overcalls show 8–16 points (double and bid the long suit with a stronger hand). 
 A reopening bid means much the same as a direct seat bid, 
@@ -776,9 +785,12 @@ The strength is either weak or very strong/distributional.
 (Any subsequent bid by the cuebidder shows extra strength or distribution.)
 With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
 
+Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
+
+### Unusual 4NT
 In a highly competitive auction, 4NT is also unusual.
 
-Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
+Over an opening 4♠ bid, 4NT is takeout.
 ### Michaels Cuebid
 A cuebid overcall when the opponents have bid only one suit is a Michaels cuebid,
 showing a 5–5 two-suiter (or more distributional). 
@@ -837,7 +849,7 @@ After 2♣ or 2♦, Advancer may pass or bid 2♥.
 Overcaller may pass or correct to 2♠.
 ### Cappelletti vs. 1NT
 #### Unpassed Hand
-Cappelletti (AKA Hamilton) is a common defense to 1NT. Unpassed hand responses:
+Cappelletti (AKA Hamilton) is a common defense to 1NT (especially weak). Unpassed hand responses:
    * double: penalty 
    * 2♣: single-suited
       * pass: 6 clubs
@@ -941,10 +953,25 @@ For example:
    * 3♥: 10+HCP, 5+ spades
    * Double: at least 10 HCP, possibly willing to make a penalty double.
 
+### Vs. Takeout Doubles
+If RHO makes a takeout double:
+
+1♦ — (Double)
+   * 1♥, 1♠ = forcing, point count not limited.
+   * 2♣ = non-forcing (6–10 points, usually a six-card suit).
+   * 2NT = limit raise (at least 10 points) — or better.
+   * Redouble = 10 points or more, but it is better to make a more
+descriptive bid of 1♥, 1♠, or 2NT with the appropriate hand.
+   * 3♦ = preemptive, good trump support but fewer than 10 points.
+
+A responder’s jump shift after a double is to play:
+
+1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
+preemptive three-bid.
 ### Negative Doubles
 The negative double is used through 4♦ promising four cards (at least) in an unbid major. 
 Bidding a major in competition shows a five-card or longer suit and strength suitable to the level. 
-With insufficient points, double may also be used with a five-card suit.
+With insufficient high-card strength for a free bid, double may also be used with a five-card or longer suit.
 
    * 1♣ — (1♦) — Double = 4–4 or better in the majors.
    * 1♦ — (1♥) — Double = exactly four spades (1♠ promises at least five).
@@ -964,26 +991,34 @@ and at least two places to play.
 If opener bids the a major you cannot support, 
 rebid opener's first suit or NT to imply the other major.
 
-### Vs. Takeout Doubles
-If RHO makes a takeout double:
-
-1♦ — (Double)
-   * 1♥, 1♠ = forcing, point count not limited.
-   * 2♣ = non-forcing (6–10 points, usually a six-card suit).
-   * 2NT = limit raise (at least 10 points) — or better.
-   * Redouble = 10 points or more, but it is better to make a more
-descriptive bid of 1♥, 1♠, or 2NT with the appropriate hand.
-   * 3♦ = preemptive, good trump support but fewer than 10 points.
-
-A responder’s jump shift after a double is to play:
-
-1♦ — (Double) — 2♥, 2♠, 3♣ = six-plus card suit, like a weak two-bid or
-preemptive three-bid.
 ### Card-Showing Doubles
-Card-showing doubles are used when there is a general desire to act but no clear direction.
-Partner is asked to "do something intelligent" like bid an unbid four-card suit,
-rebid a good suit, bid NT, or show secondary support.
-Generally they are for takeout but they may be converted to penalty (like a Negative Double).
+In a competitive auction below game, a double is card-showing. 
+Partner is requested to do something intelligent, such as:
+  * Show secondary support for a previously bid suit
+  * Rebid an extra-long or extra-strong suit
+  * Bid a previously unbid four-card suit
+  * Bid NT with at least one good stopper
+  * Convert to penalty (usually with a decent four cards)
+
+### Penalty Doubles
+A double is unequivocally for penalty in the following cases:
+  * After a game contract by the opponents
+  * After a natural NT bid by any player
+  * After a pass
+  * After two previous doubles by either partner
+  * After partner has bid or doubled over an opposing preempt and preempter's partner has raised
+
+#### Lightner Doubles
+A double of a NT or slam contract is Lightner, asking for a specific lead such as:
+  * dummy's first bid suit
+  * a suit doubler has not shown
+
+#### Lead-Directing Doubles
+In fourth position or after a pass, double of an artificial bid is lead-directing. 
+To make the bid, doubler must be confident that:
+   * the lead will be helpful
+   * the opponents will not be able to make the contract redoubled
+
 ### Redoubles
 A redouble can have one of three meanings:
 
@@ -1010,8 +1045,8 @@ First discard is attitude for that suit. (See "Signals" below.)
 Leads are: 
    * top of touching honors and interior sequences.
    * A from A–K–x
-   * 4th best from x-x-x-x or x-x-x-x-x. 
-   * Top from x–x–x.
+   * 4th best from x-x-x-x or x-x-x-x-x
+   * Bottom from T-x-x or better, top from x–x–x (BOSTON)
 
 #### Signals (Upside-Down Count and Attitude)
    1. Attitude (low encourages)

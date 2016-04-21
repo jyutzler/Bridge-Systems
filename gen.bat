@@ -72,9 +72,10 @@ type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\Cue-support.md >> system.md
-type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
+type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Doubles\card-showing.md >> system.md
+type Competitive\Doubles\penalty.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
 type Defense\Carding\attitude.md >> system.md
