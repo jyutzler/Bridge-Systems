@@ -16,3 +16,4 @@ In fourth position or after a pass, double of an artificial bid is lead-directin
 To make the bid, doubler must be confident that:
    * the lead will be helpful
    * the opponents will not be able to make the contract redoubled
+
