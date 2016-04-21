@@ -1,5 +1,9 @@
 ### Card-Showing Doubles
-Card-showing doubles are used when there is a general desire to act but no clear direction.
-Partner is asked to "do something intelligent" like bid an unbid four-card suit,
-rebid a good suit, bid NT, or show secondary support.
-Generally they are for takeout but they may be converted to penalty (like a Negative Double).
+In a competitive auction below game, a double is card-showing. 
+Partner is requested to do something intelligent, such as:
+  * Show secondary support for a previously bid suit
+  * Rebid an extra-long or extra-strong suit
+  * Bid a previously unbid four-card suit
+  * Bid NT with at least one good stopper
+  * Convert to penalty (usually with a decent four cards)
+

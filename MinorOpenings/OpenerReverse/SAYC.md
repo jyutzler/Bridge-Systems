@@ -1,4 +1,4 @@
-### Opener Reverse
+### Reverses
 After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
 It is forcing for one round. 
 Responder has two weak responses:
