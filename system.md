@@ -295,7 +295,7 @@ Responder shows a void by rebidding the splinter suit:
 
 1♠ — 4♣ 
 
-4♥ — 5♣ = void
+4♥ — 5♣: void
 
 Opener can also self-splinter with a good hand and 4-card support:
 
@@ -366,7 +366,7 @@ It is not forcing, but opener is expected to bid with a strong and/or unbalanced
 
 #### 4NT
 4NT: quantitative balanced hand (16-18 HCP), no four-card major.
-### Opener's jump to 2NT
+### Opener Jump to 2NT
 Opener's jump to 2NT shows a stronger-than-1NT opening (18-19 HCP).
 Responder's rebids are mostly natural.
 
@@ -486,18 +486,6 @@ rebids should be designed to find a 3NT contract
 * raise other minor: 4-cards, extras
 * rebid opener's suit: retreat (minimum, no stopper in new minor)
 
-### Reverses
-After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
-It is forcing for one round. 
-Responder has two weak responses:
-   * A rebid at the two-level shows 5+ cards in the suit
-   * 2NT denies 5+ cards
-
-Both of these responses are forcing for one round. 
-Without good support, opener will usually retreat to the first suit.
-The exception is when there is another unbid four-card suit (e.g., 5-0-4-4 distribution).
-
-All other bids by responder are natural and forcing to game. 
 ## Two Over One 
 By an unpassed hand, a two-over-one response shows 13+ points and 4+ cards 
 or exactly 3 of opener's major. 
@@ -527,6 +515,39 @@ When this treatment is used, other bids change their meanings.
    * 2NT shows a balanced hand
    * 3 of the trump suit shows bad trumps but otherwise a good hand
 
+## Strong Rebids 
+### Reverses
+After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
+It is forcing for one round. 
+Responder has two weak responses:
+   * A rebid at the two-level shows 5+ cards in the suit
+   * 2NT denies 5+ cards
+
+Both of these responses are forcing for one round. 
+Without good support, opener will usually retreat to the first suit.
+The exception is when there is another unbid four-card suit (e.g., 5-0-4-4 distribution).
+
+All other bids by responder are natural and forcing to game. 
+### Opener Jump Shift
+After a 1/1 or 1NT/1 bid, a jump shift shows 19+ total points and an unbalanced hand. 
+Usually it shows 5+ cards in the first suit and 4+ in the second suit, 
+although it can also show 6-3-3-1 or 4-4-4-1 distribution if the second suit is a minor.
+It is forcing two game. 
+
+Responses:
+* A rebid at the two-level: 5+ cards in the suit
+* 3NT: denies support, extra length, or shape
+* new suit: natural, extras, often a first round control
+* support of either suit below game: sets trumps and shows extra shape; responder rebids:
+   * return to first suit: 6-3-3-1 distribution (warning responder from a 4-3 fit)
+   * new suit: first round control
+* game in either suit: signoff
+
+### Jump to Game
+After a 1-level bid and any response by partner, 
+a direct jump to game shows a one-suited hand 
+that is too strong to preempt and too weak to jump rebid, reverse, or jump-shift.
+Responder is expected to pass without support and/or excellent controls.
 ## Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor.
 
@@ -658,12 +679,12 @@ When suit agreement has not been reached, a bid of 4NT is quantitative (slam inv
 There are a number of ways to accept the invitation.
 
 4NT quantitative:
-   * 5♣ = 0 or 4 aces
-   * 5♦ = 1 ace
-   * 5♥ = 2 aces
-   * 5♠ = 3 aces
-   * 5NT = pick a slam
-   * any 6-bid = suggested place to play (pass or correct)
+   * 5♣: 0 or 4 aces
+   * 5♦: 1 ace
+   * 5♥: 2 aces
+   * 5♠: 3 aces
+   * 5NT: pick a slam
+   * any 6-bid: suggested place to play (pass or correct)
 
 ### Grand Slam Force
 A jump to 5NT (and some 5NT bids when the auction is at the five level) is “Grand
@@ -857,6 +878,9 @@ After 2♣, advancer generally bids the better major.
 #### Passed Hand
 Since it is impossible to have a penalty double as a passed hand,
 double is a relay to 2♣.
+### Defense of Strong Openings
+Against any strong opening (usually 2♣ or 1♣), 
+the defense against a strong 1NT is used.
 ## Preemptive Bids
 Opening major suit bids at the three level and higher are preemptive and 
 may be very weak particularly in first seat. 
@@ -974,10 +998,33 @@ If opener bids the a major you cannot support,
 rebid opener's first suit or NT to imply the other major.
 
 ### Card-Showing Doubles
-Card-showing doubles are used when there is a general desire to act but no clear direction.
-Partner is asked to "do something intelligent" like bid an unbid four-card suit,
-rebid a good suit, bid NT, or show secondary support.
-Generally they are for takeout but they may be converted to penalty (like a Negative Double).
+In a competitive auction below game, a double is card-showing. 
+Partner is requested to do something intelligent, such as:
+  * Show secondary support for a previously bid suit
+  * Rebid an extra-long or extra-strong suit
+  * Bid a previously unbid four-card suit
+  * Bid NT with at least one good stopper
+  * Convert to penalty (usually with a decent four cards)
+
+### Penalty Doubles
+A double is unequivocally for penalty in the following cases:
+  * After a game contract by the opponents
+  * After a natural NT bid by any player
+  * After a pass
+  * After two previous doubles by either partner
+  * After partner has bid or doubled over an opposing preempt and preempter's partner has raised
+
+#### Lightner Doubles
+A double of a NT or slam contract is Lightner, asking for a specific lead such as:
+  * dummy's first bid suit
+  * a suit doubler has not shown
+
+#### Lead-Directing Doubles
+In fourth position or after a pass, double of an artificial bid is lead-directing. 
+To make the bid, doubler must be confident that:
+   * the lead will be helpful
+   * the opponents will not be able to make the contract redoubled
+
 ### Redoubles
 A redouble can have one of three meanings:
 

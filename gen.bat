@@ -43,11 +43,14 @@ type MinorOpenings\OneOverOne\OpenerRebid\Walsh.md >> system.md
 echo ### Responder Rebids >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\limit-style.md >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\new-minor-forcing.md >> system.md
-type MinorOpenings\Reverses\SAYC.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Game Tries >> system.md
 type GameTries\hsgt.md >> system.md
+echo ## Strong Rebids >> system.md
+type StrongRebids\Reverse\SAYC.md >> system.md
+type StrongRebids\JumpShift\SAYC.md >> system.md
+type StrongRebids\JumpToGame\SAYC.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
@@ -68,6 +71,7 @@ type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\vsNT\Landy.md >> system.md
+type Defensive\vsStrongOpening\1NT.md >> system.md
 type Preemptive\very-light.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
@@ -77,6 +81,7 @@ type Competitive\VsConventions\Reverse-cue-support.md >> system.md
 type Competitive\Takeout\AM.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Doubles\card-showing.md >> system.md
+type Competitive\Doubles\penalty.md >> system.md
 type Competitive\Redouble\jeff-donna.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
 type Defense\Carding\lavinthal-nt.md >> system.md
