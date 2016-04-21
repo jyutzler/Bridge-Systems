@@ -12,3 +12,4 @@ Responses:
    * return to first suit: 6-3-3-1 distribution (warning responder from a 4-3 fit)
    * new suit: first round control
 * game in either suit: signoff
+
