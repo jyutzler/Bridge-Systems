@@ -8,6 +8,9 @@ The strength is either weak or very strong/distributional.
 (Any subsequent bid by the cuebidder shows extra strength or distribution.)
 With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
 
+Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
+
+### Unusual 4NT
 In a highly competitive auction, 4NT is also unusual.
 
-Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
+Over an opening 4♠ bid, 4NT is takeout.

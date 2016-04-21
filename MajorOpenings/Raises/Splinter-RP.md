@@ -13,7 +13,7 @@ Responder shows a void by rebidding the splinter suit:
 
 1♠ — 4♣ 
 
-4♥ — 5♣ = void
+4♥ — 5♣: void
 
 Opener can also self-splinter with a good hand and 4-card support:
 
