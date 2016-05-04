@@ -35,7 +35,7 @@ type MajorOpenings\JumpShifts\WeakJS-Bergen.md >> system.md
 echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
 echo ### Raises >> system.md
-type MinorOpenings\Raises\InvertedNotInComp.md >> system.md
+type MinorOpenings\Raises\InvertedInComp.md >> system.md
 echo ## One Over One >> system.md
 type MinorOpenings\OneOverOne\Walsh.md >> system.md
 type MinorOpenings\NTResponses\walsh.md >> system.md
@@ -45,28 +45,38 @@ type MinorOpenings\OneOverOne\OpenerRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\limit-style.md >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\new-minor-forcing.md >> system.md
+echo ## Strong Rebids >> system.md
+type StrongRebids\JumpShift\SAYC.md >> system.md
+type StrongRebids\JumpToGame\SAYC.md >> system.md
+type StrongRebids\Reverse\SAYC.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
-type StrongOpenings\2Club\interference\SAYC.md >> system.md
+type StrongOpenings\2Club\interference\weakdouble.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
-type WeakTwos\SAYC.md >> system.md
+type WeakTwos\always-feature.md >> system.md
 echo ## Slam Bidding >> system.md
-type Slam\0314.md >> system.md
-type Slam\gerber1st-last.md >> system.md
+type Slam\1430.md >> system.md
+type Slam\gerber-after-jump.md >> system.md
+type Slam\quantitative4NT.md >> system.md
 type Slam\pickaslam.md >> system.md
+type Slam\forcing3NT.md >> system.md
+type Slam\voluntary5.md >> system.md
+type Slam\grandslamforce.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
-type Defensive\NTOvercall\no-balancing.md >> system.md
+type Defensive\NTOvercall\systems-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
+echo ### vs. Strong NT (maximum 15 HCPs) >> system.md
 type Defensive\vsNT\meckwell.md >> system.md
-type Defensive\vsNT\Cappelletti.md >> system.md
-type Defensive\vsStrongOpening\transfers.md >> system.md
-type Preemptive\2-3-4.md >> system.md
+echo ### vs. Weak NT (maximum less than 15 HCPs) >> system.md
+type Defensive\vsNT\Landy.md >> system.md
+type Defensive\vsStrongOpening\1NT.md >> system.md
+type Preemptive\2-3-4-majors-only.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
