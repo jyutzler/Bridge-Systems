@@ -573,6 +573,48 @@ Opener responds naturally to clarify the hand.
    * Jump shift - splinter support of previously bid suit
    * Rebid of original suit - no better response
 
+## Strong Rebids 
+### Jump Rebid
+After an opening at the 1-level and nearly any response by partner, a jump rebid shows at least 16 total points and a good six card suit.
+The suit should be strong enough to play opposite a small singleton. Responses:
+* pass: bad fit, bad hand
+* 3NT or raise to game: to play
+* Other suit: cue bid in support of opener's suit
+* 4NT: Blackwood
+
+### Jump to Game
+After a 1-level bid and any response by partner, 
+a direct jump to game shows a one-suited hand 
+that is too strong to preempt and too weak to jump rebid, reverse, or jump-shift.
+Responder is expected to pass without support and/or excellent controls.
+### Reverses
+After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
+It is forcing for one round. 
+Responder has two weak responses:
+   * A rebid at the two-level shows 5+ cards in the suit
+   * 2NT denies 5+ cards
+
+Both of these responses are forcing for one round. 
+Without good support, opener will usually retreat to the first suit.
+The exception is when there is another unbid four-card suit (e.g., 5-0-4-4 distribution).
+
+All other bids by responder are natural and forcing to game. 
+### Opener Jump Shift
+After a 1/1 or 1NT/1 bid, a jump shift shows 19+ total points and an unbalanced hand. 
+Usually it shows 5+ cards in the first suit and 4+ in the second suit, 
+although it can also show 6-3-3-1 or 4-4-4-1 distribution if the second suit is a minor.
+It is forcing to game. 
+
+Responses:
+* A rebid at the two-level: 5+ cards in the suit
+* 3NT: denies support, extra length, or shape
+* new suit: natural, extras, often a first round control
+* support of either suit below game: sets trumps and shows extra shape; responder rebids:
+   * Suit: first round control
+   * Exception: return to first suit (major only): 6-3-3-1 distribution (warning responder from a 4-3 fit)
+   * Jump new suit: splinter
+* game in either suit: signoff
+
 ## Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor.
 

@@ -47,6 +47,11 @@ type MinorOpenings\OneOverOne\ResponderRebid\limit-style.md >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\new-minor-forcing.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
+echo ## Strong Rebids >> system.md
+type StrongRebids\JumpRebid\SAYC.md >> system.md
+type StrongRebids\JumpToGame\SAYC.md >> system.md
+type StrongRebids\Reverse\SAYC.md >> system.md
+type StrongRebids\JumpShift\SAYC.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
 type StrongOpenings\2Club\interference\SAYC.md >> system.md
