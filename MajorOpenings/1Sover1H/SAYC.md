@@ -1,6 +1,6 @@
 ### 1♠ Over 1♥
 Since the immediate objective is to support with support, 
-1♠ must be skipped in favor of heart support without game-forcing values.
+1♠ must be skipped in favor of heart support without invitational values.
 
 #### After any Rebid by Opener
    - pass: minimum, 4 or 5 spades
