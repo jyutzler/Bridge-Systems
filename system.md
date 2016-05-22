@@ -190,21 +190,17 @@ Transfers are used to show hands with a long minor.
 #### Over Interference
 If an opponent doubles, all conventional responses are “on.” For example:
 
-1NT — (Double) — 2♣ = Stayman
+* 1NT — (Double) — 2♣: Stayman
+* 1NT — (Double) — 2♦: transfer to hearts
+* 1NT — (Double) — Redouble: SOS (bad hand with weak minor)
 
-1NT — (Double) — 2♦ = transfer to hearts
+All systems are on thru 2NT. 
+Double of any natural suit bid by the opponents at the 2-level is a Stolen bid.
 
-With a bad hand and a weak minor, redouble for SOS.
-
-1NT — (Double) — Redouble = Rescue - weak with a long minor (opener bids 2♣, pass or correct).
-
-Double of any natural suit bid by the opponents at the 2-level is for penalty.
+* 1NT — (2♥) — double: transfer to spades
+* 1NT — (2♥) — 2♠ or 2NT: same as without interference
 
 Double of any natural suit bid by the opponents at the 3-level or higher is for negative, promising at least one major.
-
-Jacoby Transfers are on over 2♣.
-
-Double of an artificial 2♣ = Stayman, does not imply invitational or better values. 
 
 Cue bid of opponent's natural suit = Game force, Stayman. Note: if the interference is a waiting bid (such as Cappelletti 2♣), it may be pragmatic to pass and wait for the suit to be shown in case a penalty double is a possibility. (For more information see [here](http://www.bridgebuff.com/cappsucks.html) although the entire system indicated is more complex than what is presented here.)
 
@@ -214,9 +210,8 @@ I have a real fit with you.”
 
 1NT — (Pass) — 2♦ — (Double) — 2♥ = Real fit for hearts — pass with only two hearts
 
-Suit bids have a different meaning if the opponents intervene.
+Higher level suit bids have a different meaning if the opponents intervene.
 
-   * 2♥, 2♠ = To play, 5+.
    * 3♣, 3♦ = Invitational, 5+, denying a stopper if a suit was shown.
    * 3♥, 3♠ = Game force, 5+, denying a stopper if a suit was shown.
 
@@ -244,13 +239,13 @@ Normally open five-card majors in all seats.
 Open the higher of long suits of equal length: 5–5 or 6–6.
 ### 1♠ Over 1♥
 Since the immediate objective is to support with support, 
-1♠ must be skipped in favor of heart support without game-forcing values.
+1♠ must be skipped in favor of heart support without invitational values.
 
 #### After any Rebid by Opener
    - pass: minimum, 4 or 5 spades
    - 2♠: minimum, 6+ spades
    - 2NT: 4 spades, 11-12 HCP
-   - 3♥: Game-forcing, good hand
+   - 3♥: invitational, 3-card limit raise
    - 3♠: As per 1 over 1 system
    - 3NT: 4 spades, 13-15 HCP
    - 4♥: Game-forcing, minimum hand
@@ -277,9 +272,10 @@ It also denies denies four spades after a 1♥ opening.
 
 It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
 
+
 Responder can sign off or invite game with the rebid
    * other 2-level bid: weak hand, sign-off (opener may raise 1♠-1NT;2m-2♥ with 5=4-0-4 distribution and a good hand)
-   * 2 of major: sign-off
+   * 2 of major: sign-off (2-card support or hand too weak for a direct raise)
    * 2♠ after 1♥-1NT;2m: good support of minor (impossible spade)
    * single raise of minor: good support (could be weak especially if 2♠ is available)
    * 2NT: balanced invite (11-12)
@@ -707,29 +703,27 @@ After 4NT, responder can show voids with at least one keycard:
 5NT guarantees the partnership holds all five keycards and is invitational to grand.
 A 6-level bid shows the king in that suit.
 
-### Gerber
+### Gerber 0314 First/Last
 4♣ is Gerber over first or last NT. 
+In the case of first NT, it is key card for the last bid suit.
 Responses show the number of aces, by steps, just as over a plain Blackwood 4NT. 
-5♣ is used to ask for kings.
 
 Ace Asking:
 
 1NT — 4♣
-   * 4♦ = 0 aces
-   * 4♥ = 1 ace
-   * 4♠ = 2 aces
-   * 4NT = 3 aces
+   * 4♦ = 0 or 3 aces or key cards
+   * 4♥ = 1 or 4 aces or key cards
+   * 4♠ = 2 aces or key cards
 
 If the player using Gerber makes any bid other than 5♣, that is to play
 (including 4NT).
 
-King Asking:
+5♣ is used to ask for kings. King Asking:
 
 1NT — 4♣ — any — 5♣ 
-   * 5♦ = 0 or 4 kings
-   * 5♥ = 1 king
+   * 5♦ = 0 or 3 kings
+   * 5♥ = 1 or 4 kings
    * 5♠ = 2 kings
-   * 5NT = 3 kings
 
 ### 5NT Pick a Slam
 A voluntary bid of 5NT is forcing and asks partner to try to pick the best slam available.
@@ -802,9 +796,9 @@ All systems are on - effectively the opening bid is ignored.
    * 22-24 HCP: double then jump NT
    
 #### Balancing Position (1X-p-p-?)
-   * 10-13 HCP: pass or double
-   * 14-17 HCP: 1NT
-   * 18-21 HCP: double then bid NT
+   * 12-15 HCP: 1NT
+   * 16-18 HCP: double then bid NT
+   * 19-21 HCP: double then jump in NT
    * 22-24 HCP: 3NT
    * 2NT is unusual (see below)
 
@@ -1085,10 +1079,13 @@ unbid suits.
 First discard is attitude for that suit. (See "Signals" below.)
 #### Leads
 Leads are: 
-   * top of touching honors and interior sequences.
-   * A from A–K–x
-   * 4th best from x-x-x-x or x-x-x-x-x
-   * Bottom from T-x-x or better, top from x–x–x (BOSTON)
+* top of touching honors and interior sequences.
+* A from A–K–x-(x...)
+   * Q from partner either is singleton or promises J
+* K from A-K tight or A-K-J-(x)
+* Top of all doubletons (including honors)
+* 4th best from x-x-x-x or x-x-x-x-x
+* Bottom from T-x-x or better, top from x–x–x (BOSTON)
 
 #### Signals (Upside-Down Count and Attitude)
    1. Attitude (low encourages)

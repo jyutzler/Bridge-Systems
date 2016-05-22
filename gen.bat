@@ -14,7 +14,7 @@ type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\five-fives-puppet.md >> system.md
 type NotrumpOpenings\1NT\5-4Majors\smolen.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Pre.md >> system.md
-type NotrumpOpenings\1NT\Interference\2p3n.md >> system.md
+type NotrumpOpenings\1NT\Interference\stolen.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
 echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\Puppet.md >> system.md
@@ -65,7 +65,7 @@ echo ## Defensive Bidding >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
-type Defensive\NTOvercall\no-balancing.md >> system.md
+type Defensive\NTOvercall\balancingUNT-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\vsNT\meckwell.md >> system.md
