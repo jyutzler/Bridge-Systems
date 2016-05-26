@@ -178,13 +178,14 @@ Smolen does not apply over 3NT.
 #### Minor Suit Transfer Bids
 
 Transfers are used to show hands with a long minor.
+Super-accept (if willing to play 3NT opposite KQxxxx and out) by bidding what you like.
 
    * 2♠ = transfer to clubs
-      * 2NT: preacceptance (good support)
-      * 3♣: normal response
-   * 2NT = transfer to diamonds
-      * 3♦: normal response
+      * 2NT: normal response
       * 3♣: preacceptance (good support)
+   * 2NT = transfer to diamonds
+      * 3♣: normal response (note: this is non-forcing, giving responder a way out of the auction with a 5-5 weak hand)
+      * 3♦: preacceptance (good support)
 
 #### Over Interference
 If an opponent doubles, all conventional responses are “on.” For example:
@@ -243,13 +244,13 @@ Normally open five-card majors in all seats.
 Open the higher of long suits of equal length: 5–5 or 6–6.
 ### 1♠ Over 1♥
 Since the immediate objective is to support with support, 
-1♠ must be skipped in favor of heart support without game-forcing values.
+1♠ must be skipped in favor of heart support without invitational values.
 
 #### After any Rebid by Opener
    - pass: minimum, 4 or 5 spades
    - 2♠: minimum, 6+ spades
    - 2NT: 4 spades, 11-12 HCP
-   - 3♥: Game-forcing, good hand
+   - 3♥: invitational, 3-card limit raise
    - 3♠: As per 1 over 1 system
    - 3NT: 4 spades, 13-15 HCP
    - 4♥: Game-forcing, minimum hand
@@ -276,9 +277,10 @@ It also denies denies four spades after a 1♥ opening.
 
 It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
 
+
 Responder can sign off or invite game with the rebid
    * other 2-level bid: weak hand, sign-off (opener may raise 1♠-1NT;2m-2♥ with 5=4-0-4 distribution and a good hand)
-   * 2 of major: sign-off
+   * 2 of major: sign-off (2-card support or hand too weak for a direct raise)
    * 2♠ after 1♥-1NT;2m: good support of minor (impossible spade)
    * single raise of minor: good support (could be weak especially if 2♠ is available)
    * 2NT: balanced invite (11-12)
@@ -556,20 +558,54 @@ rebids should be designed to find a 3NT contract
 * raise other minor: 4-cards, extras
 * rebid opener's suit: retreat (minimum, no stopper in new minor)
 
+## Game Tries 
+#### Relay Game Try
+
+Once any major suit is raised from 1 to 2 (declaring suit agreement), the cheapest bid is a generic game try.
+The idea is to allow the presumptive dummy to set the contract 
+or make a help suit game try.
+* ...1M-2M
+   * Cheapest bid: relay (game try)
+   * 2NT over 2♥: 4+ spades, slam try
+   * 3 other suit: 4+ cards, slam try
+   * 3M: preemptive, no game interest
+   * 3♠ over 2♥ or 4 other suit: splinter slam try
+
+After the cheapest bid relay:
+* 2NT: help suit game try in spades
+* 3 other suit: help suit game try in that suit
+* 3M: minimum
+* 4M: maximum
+
+After the game try, if the presumptive declarer is still undecided, 
+he may relay to ask whether the game try is a minimum or maximum.
+For example:
+* 1♠-2♠;2NT-3♣;3♦
+
+Note: this is similar to Richard Pavlicek's [system](http://rpbridge.net/7g70.htm).
 ## Strong Rebids 
+### Jump Rebid
+After an opening at the 1-level and nearly any response by partner, a jump rebid shows at least 16 total points and a good six card suit.
+The suit should be strong enough to play opposite a small singleton. Responses:
+* pass: bad fit, bad hand
+* 3NT or raise to game: to play
+* Other suit: cue bid in support of opener's suit
+* 4NT: Blackwood
+
 ### Opener Jump Shift
 After a 1/1 or 1NT/1 bid, a jump shift shows 19+ total points and an unbalanced hand. 
 Usually it shows 5+ cards in the first suit and 4+ in the second suit, 
 although it can also show 6-3-3-1 or 4-4-4-1 distribution if the second suit is a minor.
-It is forcing two game. 
+It is forcing to game. 
 
 Responses:
 * A rebid at the two-level: 5+ cards in the suit
 * 3NT: denies support, extra length, or shape
 * new suit: natural, extras, often a first round control
 * support of either suit below game: sets trumps and shows extra shape; responder rebids:
-   * return to first suit: 6-3-3-1 distribution (warning responder from a 4-3 fit)
-   * new suit: first round control
+   * Suit: first round control
+   * Exception: return to first suit (major only): 6-3-3-1 distribution (warning responder from a 4-3 fit)
+   * Jump new suit: splinter
 * game in either suit: signoff
 
 ### Jump to Game
@@ -771,15 +807,6 @@ It is used in two circumstances:
       * Raises to 7 with AK and the Q or extra length
 	  * Raises to 6 with at least AJ or KQ
 	  * Passes otherwise
-
-### Grand Slam Force
-A jump to 5NT (and some 5NT bids when the auction is at the five level) is “Grand
-Slam Force,” asking partner to bid a grand slam with two of the three top trump
-honors:
-
-5NT
-   * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
-   * 7 of the trump suit = two of the three top trump honors.
 
 ## Defensive Bidding 
 ### Doubles
@@ -1117,11 +1144,17 @@ unbid suits.
 First discard is attitude for that suit. (See "Signals" below.)
 #### Leads
 Leads are: 
-   * top of touching honors and interior sequences.
-   * A from A–K–x
-   * 4th best from x-x-x-x or x-x-x-x-x
-   * Bottom from T-x-x or better, top from x–x–x (BOSTON)
-
+* top of touching honors and interior sequences.
+* A from A–K–x-(x...)
+   * Q from partner either is singleton or promises J
+* K from A-K tight or A-K-J-(x)
+* Top of all doubletons (including honors)
+* Bottom from T-x-x or better, top from x–x–x (BOSTON)
+* Against suits:
+   * 3rd/5th/7th best from x-x-x(-x...)
+* Against NT
+   * 4th best from H-x-x-x(-x...)
+   * 2nd best from x-x-x-x(-x...) (show original 4th best at next opportunity)
 #### Signals (Upside-Down Count and Attitude)
    1. Attitude (low encourages)
    1. Count (low = even)
