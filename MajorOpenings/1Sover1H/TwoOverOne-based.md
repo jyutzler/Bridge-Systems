@@ -1,12 +1,12 @@
 ### 1♠ Over 1♥
 Since the immediate objective is to support with support, 
-1♠ must be skipped in favor of heart support without invitational values.
+1♠ must be skipped in favor of heart support without game-forcing values.
 
 #### After any Rebid by Opener
    - pass: minimum, 4 or 5 spades
    - 2♠: minimum, 6+ spades
    - 2NT: 4 spades, 11-12 HCP
-   - 3♥: invitational, 3-card limit raise
+   - 3♥: Game-forcing, good hand
    - 3♠: As per 1 over 1 system
    - 3NT: 4 spades, 13-15 HCP
    - 4♥: Game-forcing, minimum hand
