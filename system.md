@@ -1,7 +1,7 @@
 ﻿
-This branch contains a Markdown file "system.md" that describes Jeff Yutzler's "all systems on" approach based loosely on Washington Standard. 
-It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
-It is suitable for advancing club players.
+This branch contains a Markdown file "system.md" that describes the system that Steve Reed and Jeff Yutzler will use for the LM/NLM game. It is loosely based on Washington Standard. 
+It is a 2 over 1 game force (no exceptions) with a reasonable set of conventions.
+Note that we generally don't promise specific point counts or minimum shapes. 
 
 ## General Approach 
 Two-over-one game forcing with five-card majors
@@ -53,8 +53,7 @@ Responder's rebids after any response:
    * 2NT: invitational, not necessarily with an unbid major
    * 3♣, 3♦: five cards, slam interest
    * 3NT: signoff with an unbid major (choice of games)
-   * 4♣: Gerber (key card if over a major)
-   * 4♦, 4♥ (over 2♠): unused
+   * 4♣, 4♦, 4♥ (over 2♠): splinter
    * 4NT: quantitative
 
 #### 3♣ Puppet Stayman
@@ -250,7 +249,7 @@ Since the immediate objective is to support with support,
    - pass: minimum, 4 or 5 spades
    - 2♠: minimum, 6+ spades
    - 2NT: 4 spades, 11-12 HCP
-   - 3♥: invitational, 3-card limit raise
+   - 3♥: invitational, 3-card limit raise, usually 5 spades
    - 3♠: As per 1 over 1 system
    - 3NT: 4 spades, 13-15 HCP
    - 4♥: Game-forcing, minimum hand
@@ -258,12 +257,12 @@ Since the immediate objective is to support with support,
    - 4NT: quantitative, 16-17 HCP
 
 #### After 1NT Rebid
-   - 2♣ or 2♦: New Minor Forcing 
+   - 2♣ or 2♦: See New Minor Forcing below
    - 2♥: preference (rare, 2 hearts and concern about NT)
 
 #### After 2♣ or 2♦ Rebid
-   - raise minor: Invitational
-   - other minor: New Minor Forcing
+   - raise minor: invitational
+   - other minor: See Fourth Suit Forcing below
    - 2♥: preference (2 hearts and no more than 3 of the minor)
 
 ### NT Responses 
@@ -291,20 +290,26 @@ Responder can sign off or invite game with the rebid
 ### Raises 
 The following assumes a 1♥ opening but the system over 1♠ is similar. 
 #### General
-   * 2♥ = three-card support, 7–10 dummy points (strong enough to accept at least one game try).
-   * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+   * 2♥: three-card support, 7–10 dummy points (strong enough to accept at least one game try).
+   * 4♥: usually five+ cards, a singleton or void, and fewer than 10 HCP.
 
 #### Bergen Raises
-   * 3♣ = mixed raise (7-10 dummy points with four or more hearts).
-      * 3♦ = game try
-   * 3♦ = limit raise (11–12 dummy points with four or more hearts).
-   * 3♥ = weak raise (6 or fewer dummy points with four or more hearts).
+Bergen raises show 4 or more cards in support of opener's major.
+   * 3♣: 4+ card mixed raise (7-10 dummy points)
+      * 3♦: game try
+   * 3♦: 4+ card limit raise (11–12 dummy points)
+   * 3♥: 4+ card preemptive raise (6 or fewer dummy points)
 
-#### Passed Hands
-Bergen Raises are off. See Drury or Bromad section if applicable.
+#### Bromad Raises
+As a passed hand or over a double, Bromad Raises are used in addition to Bergen Raises.
+   * 2♣: 3-card constructive raise (7-10 dummy points)
+   * 2♦: 3-card limit raise (11-12 dummy points)
+   * 2♥: 3-card courtesy raise (6 or fewer dummy points)
 
-#### In Competition
-Bergen Raises are off in competition. See Bromad section if applicable.
+#### Other Bids after a Takeout Double
+   * Redouble: game-forcing raise or 10+HCP without support
+   * 2NT: weak with one long minor (opener bids 3♣, pass or correct)
+
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
 
@@ -352,24 +357,9 @@ In competition, splinters are off except for jumps in the opponent's suit.
 
 Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
 
-#### Bromad Raises
-The following raises are made after a double.
-   * 2♣: constructive raise (7-10 dummy points with three hearts).
-      * 2♦: game try
-   * 2♦: limit raise (11-12 dummy points with three hearts).
-   * 2♥: weak raise (6 or fewer dummy points with three hearts).
-   * 3♣: mixed raise (7-10 dummy points with four or more hearts).
-      * 3♦: game try
-   * 3♦: limit raise (11–12 dummy points with four or more hearts).
-   * 3♥: weak raise (6 or fewer dummy points with four or more hearts).
-   * 4♥: usually five+ cards, a singleton or void, and fewer than 10 HCP.
-
-#### Other Bids after a Takeout Double
-   * Redouble: game-forcing raise or 10+HCP without support
-   * 2NT: weak with one long minor (opener bids 3♣, pass or correct)
-
-#### Passed hands
-Bromad raises are on as a passed hand. 
+#### Fit Jumps
+As a passed hand, responder may jump shift to show maximum support and a good side suit. 
+Opener may sign off at the three level if the opening was light.
 
 ### Jump Shifts 
 #### Weak Jump Shift
@@ -388,9 +378,9 @@ With a doubleton, you can bid 1NT and pass, correct, or sign off in opener's sui
 ## Minor Openings 
 ﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
 where a three-card minor suit must be opened. 
-The exception is a hand with 4–4–3–2 shape: 
-four spades, four hearts, three diamonds, and two clubs, which should
-be opened 1♦.
+The exception is a hand with 4=4=3=2 shape which should be opened 1♦. 
+With 9+ cards in the minors, generally open the longer minor first. 
+If the minor is clubs, make sure you have a suitable rebid after partner's response.
 
 ### Raises 
 Responder needs more trumps to raise (four to raise 1♦; five to raise 1♣).
@@ -408,9 +398,7 @@ sound (8-9 dummy points) but when non-vulnerable it is much more wide-ranging.
    * 3NT: 18-19, side suits stopped
    * 4♦: unbalanced maximum (GF, asks for control bids)
 
-Inverted raises are on in competition.
-
-Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://rpbridge.net/cgi-bin/quiz.pl?5n4125).
+Inverted raises are off in all competition.
 ## One Over One 
 A 1/1 bid shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
 Bid 4-card suits up the line
@@ -435,6 +423,23 @@ It is not forcing, but opener is expected to bid with a strong and/or unbalanced
 
 #### 4NT
 4NT: quantitative balanced hand (16-18 HCP), no four-card major.
+### Opener Minimum Rebids 
+Opener’s rebids are natural and standard.
+Unless the hand qualifies for a [Strong Rebid](#strong-rebids), 
+make one of the following bids.
+
+   * pass: partner is a passed hand, you have a minimum with 3-card support 
+or a sub-minimum with 4-card support
+   * 1NT: balanced with 2 or 3-card support for partner, 
+or unbalanced with a stiff A or K in partner's suit and no other alternative
+   * rebid suit: 6-cards or strong 5
+   * new suit (non-reverse): 4-cards
+   * raise to 2: minimum, usually 4-cards, though good 3-card support is acceptable if notrump is not
+   * jump raise: invitational, 17-18 dummy points
+   * 3NT: to play, usually long running minor
+   * double jump shift: game force, splinter
+   * jump to game: 18-19 balanced
+
 ### Opener Jump to 2NT
 Opener's jump to 2NT shows a stronger-than-1NT opening (18-19 HCP).
 Responder's rebids are mostly natural.
@@ -457,133 +462,6 @@ Responder's rebids are mostly natural.
 Same as the above with the following addition:
    * 3♥, 3♠: 4-card major, game-forcing
 
-### Opener Rebids 
-Opener’s rebids are natural and standard.
-
-#### Rebids with a minimum hand (13–16 total points)
-   * Rebidding notrump at the lowest available level;
-   * Raising responder’s suit at the lowest level (usually four cards, though good three-card support is acceptable if notrump is not);
-   * Rebidding a new suit at the one level or rebidding a new suit at the two level that
-is lower ranking than the opening suit (not reversing);
-   * Rebidding opener’s suit at the lowest level.
-
-#### Rebids with a medium hand (17–18 total points)
-   * Jump raise or jump rebid of opener’s suit;
-   * Reverse in a new suit, i.e., bid a new suit at the two level which is higher ranking
-than the opening suit; (see [Reverses](#Reverses))
-   * Non-reverse bid in a new suit (this has the wide range of 13–18 points)
-
-#### With a maximum hand (19–21 or 22 total points) opener must make a very strong rebid:
-   * Jump in notrump;
-   * Double jump raise of responder’s suit
-   * Double jump rebid of opener’s suit;
-   * Jump shift or reverse in a new suit.
-   * Jump reverse (requires at least 6-4 shape)
-   * Double jump in a new suit (Splinter, showing support of responder's suit)
-
-Responder follows up by attempting to sign off in game, bidding 4NT
-Blackwood, or cuebidding if still interested in trying to cooperate with opener
-in making the slam decision.
-
-### Responder Rebids 
-If responder has bid a suit at the one level, he next determines whether he wishes
-to sign off in a partscore, invite game, sign off in game, or force to game and get
-more information about opener’s hand.
-
-#### Sign-off
-Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
-
-1♦ — 1♠;
-
-2♣
-
-   * Pass
-   * 2♦ = 2-3 hearts, likely misfit
-   * 2♠ = 6+ spades
-
-There is one exception to the rule that new suits are forcing:
-
-1♦ — 1♠;
-
-1NT
-
-   * 2♥ = sign-off - opener must pass or correct (bust with 5-4 or better distribution)
-   
-#### Inviting Game
-Bids available for inviting game: 2NT, jump in a bid suit, new minor:
-
-1♦ — 1♠;
-
-2♣ — 2NT, 3♣, 3♦, 3♠ = 11–12 points, inviting game.
-
-#### Forcing to Game
-Bids available for forcing to game:
-   * Fourth suit
-   * Jump or reverse in new suit
-   * New Minor Forcing followed by a rebid of previously bid suit
-      * For example, 1♣-1♠;1NT-2♦;2♥-2♠ shows a game-forcing hand and a 6-card suit
-
-Opener can sign off in game or make a slam try. 
-4NT is Blackwood (see topic) only if suit agreement has been established. 
-Otherwise it is quantitative, asking responder to proceed with a maximum. 
-Suit bids usually show controls.
-
-#### Signing off at Game
-Any bid of game is a sign-off, though partner can proceed with a maximum (see Slam Bidding).
-
-#### New Minor Forcing
-A new minor suit at the responder's second bid or later is forcing for one round and thus
-is invitational at the 2-level and game forcing at the 3-level.
-When more than one minor is available (1♥-1♠;1NT-2m), 
-it tends to show a stopper for NT.
-
-1♣ — 1♠
-
-1NT (or 2♣) — 2♦ (forcing)
-
-After New Minor Forcing, opener must describe his hand further.
-* 2 of responder's suit: 3-card support, minimum
-* 3 of responder's suit: 3-card support, extras (preacceptance)
-* 2 of other major: 4 cards, minimum
-* 3 of other major: 4 cards, extras (preacceptance)
-* 2NT: minimum
-* 3NT: to play (maximum)
-
-If opener has rebid 1NT, 
-rebids should be designed to find a suit contract.
-* raise new minor: extras, stopper, forcing to 3NT or higher
-
-If opener has rebid his suit, 
-rebids should be designed to find a 3NT contract
-* raise other minor: 4-cards, extras
-* rebid opener's suit: retreat (minimum, no stopper in new minor)
-
-## Game Tries 
-#### Relay Game Try
-
-Once any major suit is raised from 1 to 2 (declaring suit agreement), the cheapest bid is a generic game try.
-The idea is to allow the presumptive dummy to set the contract 
-or make a help suit game try.
-* ...1M-2M
-   * Cheapest bid: relay (game try)
-   * 2NT over 2♥: 4+ spades, slam try
-   * 3 other suit: 4+ cards, slam try
-   * 3M: preemptive, no game interest
-   * 3♠ over 2♥ or 4 other suit: splinter slam try
-
-After the cheapest bid relay:
-* 2NT: help suit game try in spades
-* 3 other suit: help suit game try in that suit
-* 3M: minimum
-* 4M: maximum
-
-After the game try, if the presumptive declarer is still undecided, 
-he may relay to ask whether the game try is a minimum or maximum.
-For example:
-* 1♠-2♠;2NT-3♣;3♦
-
-Note: this is similar to Richard Pavlicek's [system](http://rpbridge.net/7g70.htm).
-## Strong Rebids 
 ### Jump Rebid
 After an opening at the 1-level and nearly any response by partner, a jump rebid shows at least 16 total points and a good six card suit.
 The suit should be strong enough to play opposite a small singleton. Responses:
@@ -625,6 +503,56 @@ Without good support, opener will usually retreat to the first suit.
 The exception is when there is another unbid four-card suit (e.g., 5-0-4-4 distribution).
 
 All other bids by responder are natural and forcing to game. 
+### Responder Rebids 
+#### Two-Way Minor Forcing
+After any three bids at the one level, 
+bids of 2 of a minor and 2NT are artificial and forcing.
+
+1X-1Y;1Z
+
+* 2♣: Forces relay to 2♦; Continuations:
+   * pass: wanted to play 2♦
+   * rebid major: invitational with 5 or a bad 6
+   * other major: invitational with 4 (if ♠) or 4+ (if ♥)
+   * 2NT: invitational, balanced
+   * 3m: invitational, natural
+   * 3M (rebid): invitational, good six-card suit
+   * 3♥ over 1♠: invitational, at least 6-5
+* 2♦: Artificial game force; Opener responds with the cheapest acceptable natural bid (unshown 4-card major, 3-card support, etc.); Continuations:
+   * 2♠ over 2♥: denies interest in hearts 4-4 in the majors
+   * jump to 3NT: quantitative (16-18)
+* 2M: non-invitational, non-forcing
+* 2NT: Forces relay to 3♣; Continuations:
+   * pass: wanted to play 3♣
+   * other bid: slam try
+* 3X: good hand, good suit, strong slam try
+* 3NT: to play (13-15)
+
+## Game Tries 
+#### Relay Game Try
+
+Once any major suit is raised from 1 to 2 (declaring suit agreement), the cheapest bid is a generic game try.
+The idea is to allow the presumptive dummy to set the contract 
+or make a help suit game try.
+* ...1M-2M
+   * Cheapest bid: relay (game try)
+   * 2NT over 2♥: 4+ spades, slam try
+   * 3 other suit: 4+ cards, slam try
+   * 3M: preemptive, no game interest
+   * 3♠ over 2♥ or 4 other suit: splinter slam try
+
+After the cheapest bid relay:
+* 2NT: help suit game try in spades
+* 3 other suit: help suit game try in that suit
+* 3M: minimum
+* 4M: maximum
+
+After the game try, if the presumptive declarer is still undecided, 
+he may relay to ask whether the game try is a minimum or maximum.
+For example:
+* 1♠-2♠;2NT-3♣;3♦
+
+Note: this is similar to Richard Pavlicek's [system](http://rpbridge.net/7g70.htm).
 ## Two Over One 
 By an unpassed hand, a two-over-one response shows 13+ points and 4+ cards 
 or exactly 3 of opener's major. 
@@ -684,33 +612,27 @@ All bids are natural and positive (game-forcing).
 All doubles show a bust hand (0-4 HCP, no A). 
 All passes are forcing, semi-positive, and waiting.
 ## Weak Two Bids of 2♦, 2♥, or 2♠ 
-A weak two-bid shows a six-card suit of reasonable quality and 5–11 HCP. On rare
-occasions it may be a very good five-card suit. 
+A weak two-bid shows a six-card suit of reasonable quality 
+and roughly 4–10 HCP, but flexible based on vulnerability and position. 
+On rare occasions it may be a very good five-card suit. 
 It is possible to open a weak two with a poor seven-card suit 
 (not good enough to open with at the three level)
 but in MP scoring three level bids are pretty lenient. 
 
 Responses:
+* New suit: forcing
+   * Raise of responder's suit: honor-doubleton or better
+   * Retreat: no outside strength
+   * New suit: strength in that suit 
+   * 3NT: solid suit (AKJxxx or better)
+* 2NT: forcing, showing game interest (on in competition) 
+   * New suit: feature (usually A or K in that suit)
+   * Rebid of 3: good suit
+   * 3♣: either a feature in clubs or a bad hand; responder may relay 3♦ to inquire further  
+   * 3NT: solid suit (AKJxxx or better)
+* Any raise: to play, preemptive
+* 3NT: to play (typically a good hand with three-card support)
 
-A 2NT response is forcing, showing game interest. 
-(This applies also if the opponents intervene with a double or a bid.) 
-Regardless of hand strength, opener bids another suit 
-to show a “feature” (ace or king in that suit); 
-rebidding the suit denies a feature;
-with a solid suit (AKJxxx or better) he raises to 3NT.
-
-Any raise of opener’s suit is to play and could be preemptive. 
-
-A 3NT response is also to play.
-
-“RONF” on the card means “Raise Only Non-Force.” A new-suit response is forcing
-one round and shows at least a five-card suit. Opener should raise a major suit
-response with a three-card fit, or perhaps with a doubleton honor.
-
-With no fit for responder’s suit, opener rebids:
-   * With a minimum weak two-bid (5–8 points), rebid the suit at the lowest level.
-   * With a maximum weak two-bid, name a new suit or bid notrump.
-   
 ## Slam Bidding 
 ### Roman Key-Card Blackwood 1430
 Once suit agreement has been reached, 4NT is used to ask for keycards - 
@@ -967,7 +889,7 @@ Landy is a simple defense to 1NT with only one artificial bid:
 
 After 2♣, advancer generally bids the better major.
    * pass: No major, long clubs
-   * 2♦: No major, long diamonds
+   * 2♦: No preference
    * 2♥, 2♠: Weak, sign-off
    * 2NT: Forcing, invitational in either major
    * 3♥, 3♠: Limit raise
@@ -1149,12 +1071,12 @@ Leads are:
    * Q from partner either is singleton or promises J
 * K from A-K tight or A-K-J-(x)
 * Top of all doubletons (including honors)
-* Bottom from T-x-x or better, top from x–x–x (BOSTON)
 * Against suits:
    * 3rd/5th/7th best from x-x-x(-x...)
 * Against NT
+   * Bottom from H-x-x, top from x–x–x (BOSTON)
    * 4th best from H-x-x-x(-x...)
-   * 2nd best from x-x-x-x(-x...) (show original 4th best at next opportunity)
+   * 2nd best from x-x-x-x (show original 4th best at next opportunity)
 
 #### Signals (Upside-Down Count and Attitude)
    1. Attitude (low encourages)

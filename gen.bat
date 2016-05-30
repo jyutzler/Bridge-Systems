@@ -8,7 +8,7 @@ echo ## Notrump Opening Bids >> system.md
 type NotrumpOpenings\SAYC.md >> system.md
 echo ### 1NT 15-17 >> system.md
 type NotrumpOpenings\1NT\Basic\4-way-pre.md >> system.md
-type NotrumpOpenings\1NT\Stayman\4-way-transfers.md >> system.md
+type NotrumpOpenings\1NT\Stayman\4-way+splinters.md >> system.md
 type NotrumpOpenings\1NT\Stayman\Puppet3C.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\five-fives-puppet.md >> system.md
@@ -25,40 +25,37 @@ echo ### NT Responses >> system.md
 type MajorOpenings\1NT\1NTforcing.md >> system.md
 echo ### Raises >> system.md
 echo The following assumes a 1♥ opening but the system over 1♠ is similar. >> system.md
-type MajorOpenings\Raises\Bergen.md >> system.md
+type MajorOpenings\Raises\Bergen+Bromad.md >> system.md
 type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
-type MajorOpenings\Raises\Bromad.md >> system.md
-type MajorOpenings\Raises\Bromad-passed.md >> system.md
+type MajorOpenings\Raises\FitJump.md >> system.md
 echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\WeakJS-Bergen.md >> system.md
 echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
 echo ### Raises >> system.md
-type MinorOpenings\Raises\InvertedInComp.md >> system.md
+type MinorOpenings\Raises\InvertedNotInComp.md >> system.md
 echo ## One Over One >> system.md
 type MinorOpenings\OneOverOne\Walsh.md >> system.md
 type MinorOpenings\NTResponses\walsh.md >> system.md
-type MinorOpenings\JumpTo2NT\SAYC.md >> system.md
-echo ### Opener Rebids >> system.md
+echo ### Opener Minimum Rebids >> system.md
 type MinorOpenings\OneOverOne\OpenerRebid\RP.md >> system.md
-echo ### Responder Rebids >> system.md
-type MinorOpenings\OneOverOne\ResponderRebid\limit-style.md >> system.md
-type MinorOpenings\OneOverOne\ResponderRebid\new-minor-forcing.md >> system.md
-echo ## Game Tries >> system.md
-type GameTries\relay.md >> system.md
-echo ## Strong Rebids >> system.md
+type MinorOpenings\JumpTo2NT\SAYC.md >> system.md
 type StrongRebids\JumpRebid\SAYC.md >> system.md
 type StrongRebids\JumpShift\SAYC.md >> system.md
 type StrongRebids\JumpToGame\SAYC.md >> system.md
 type StrongRebids\Reverse\SAYC.md >> system.md
+echo ### Responder Rebids >> system.md
+type MinorOpenings\OneOverOne\ResponderRebid\2-way-MF.md >> system.md
+echo ## Game Tries >> system.md
+type GameTries\relay.md >> system.md
 echo ## Two Over One >> system.md
 type TwoOverOne\2over1GF-SR.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
 type StrongOpenings\2Club\interference\weakdouble.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
-type WeakTwos\always-feature.md >> system.md
+type WeakTwos\two-way-3C.md >> system.md
 echo ## Slam Bidding >> system.md
 type Slam\1430.md >> system.md
 type Slam\gerber-after-jump.md >> system.md
