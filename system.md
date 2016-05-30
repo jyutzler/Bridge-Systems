@@ -440,6 +440,7 @@ or unbalanced with a stiff A or K in partner's suit and no other alternative
    * double jump shift: game force, splinter
    * jump to game: 18-19 balanced
 
+### Opener Strong Rebids 
 ### Opener Jump to 2NT
 Opener's jump to 2NT shows a stronger-than-1NT opening (18-19 HCP).
 Responder's rebids are mostly natural.
@@ -528,6 +529,13 @@ bids of 2 of a minor and 2NT are artificial and forcing.
 * 3X: good hand, good suit, strong slam try
 * 3NT: to play (13-15)
 
+#### Fourth Suit Forcing
+When the fourth suit is bid by either player (usually responder), it is artificial and forcing to game. 
+Partner responds with the cheapest acceptable natural bid (unshown 4-card major, 3-card support, etc.).
+Fourth suit bidder then clarifies the hand by bidding naturally.
+
+The exception to this rule is when all four suits are bid at the 1-level. 
+This is forcing for one round and does not guarantee spades.
 ## Game Tries 
 #### Relay Game Try
 
@@ -709,14 +717,10 @@ There are no hard-and-fast rules here, but possibilities include:
 
 The asker may continue to bid up the line if completely displeased with the response.
 
-### Forcing 3NT
+### Frivolous 3NT
 Once agreement in a major suit has been reached, 
-a bid of 3NT is a slam try that asks responder to cue bid first-round controls.
-A voluntary cue bid at the 4-level that skips 3NT is also a slam try. 
-The two bids say nothing specific about hand strength 
-but are more tactical in nature.
-For example, the player that will be declarer may choose to bid 3NT 
-so as to not reveal any unnecessary information about the closed hand.
+a bid of 3NT is a mild slam try that invites responder to cue bid first-round controls with a suitable hand.
+A voluntary cue bid at the 4-level that skips 3NT is a more serious slam try. 
 
 ### Voluntary 5-bid
 A voluntary bid of 5 of a suit is invitational to slam.

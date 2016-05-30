@@ -39,14 +39,16 @@ echo ## One Over One >> system.md
 type MinorOpenings\OneOverOne\Walsh.md >> system.md
 type MinorOpenings\NTResponses\walsh.md >> system.md
 echo ### Opener Minimum Rebids >> system.md
-type MinorOpenings\OneOverOne\OpenerRebid\RP.md >> system.md
-type MinorOpenings\JumpTo2NT\SAYC.md >> system.md
+type MinorOpenings\OneOverOne\OpenerMinimumRebid\RP.md >> system.md
+echo ### Opener Strong Rebids >> system.md
+type StrongRebids\JumpTo2NT\SAYC.md >> system.md
 type StrongRebids\JumpRebid\SAYC.md >> system.md
 type StrongRebids\JumpShift\SAYC.md >> system.md
 type StrongRebids\JumpToGame\SAYC.md >> system.md
 type StrongRebids\Reverse\SAYC.md >> system.md
 echo ### Responder Rebids >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\2-way-MF.md >> system.md
+type MinorOpenings\OneOverOne\ResponderRebid\fourth-suit-forcing.md >> system.md
 echo ## Game Tries >> system.md
 type GameTries\relay.md >> system.md
 echo ## Two Over One >> system.md
@@ -61,7 +63,7 @@ type Slam\1430.md >> system.md
 type Slam\gerber-after-jump.md >> system.md
 type Slam\quantitative4NT.md >> system.md
 type Slam\pickaslam.md >> system.md
-type Slam\forcing3NT.md >> system.md
+type Slam\frivolous3NT.md >> system.md
 type Slam\voluntary5.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
