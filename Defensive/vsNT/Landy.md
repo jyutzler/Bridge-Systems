@@ -8,7 +8,7 @@ Landy is a simple defense to 1NT with only one artificial bid:
 
 After 2♣, advancer generally bids the better major.
    * pass: No major, long clubs
-   * 2♦: No major, long diamonds
+   * 2♦: No preference
    * 2♥, 2♠: Weak, sign-off
    * 2NT: Forcing, invitational in either major
    * 3♥, 3♠: Limit raise
