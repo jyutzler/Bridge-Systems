@@ -1155,6 +1155,7 @@ Leads are:
 * Against NT
    * 4th best from H-x-x-x(-x...)
    * 2nd best from x-x-x-x(-x...) (show original 4th best at next opportunity)
+
 #### Signals (Upside-Down Count and Attitude)
    1. Attitude (low encourages)
    1. Count (low = even)
