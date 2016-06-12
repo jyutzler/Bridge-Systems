@@ -187,35 +187,29 @@ Transfers are used to show hands with a long minor.
       * 3♦: normal response
       * 3♣: preacceptance (good support)
 
-#### Over Interference
-If an opponent doubles, all conventional responses are “on.” For example:
+#### Double 
+* All systems are on.
+* Redouble: long minor (relay to 2♣, pass or correct)
 
-* 1NT — (Double) — 2♣: Stayman
-* 1NT — (Double) — 2♦: transfer to hearts
-* 1NT — (Double) — Redouble: SOS (bad hand with weak minor)
+#### 2♣
+All systems are on through 2♣. Double of 2♣ is Stayman.
 
-All systems are on thru 2NT. 
-Double of any natural suit bid by the opponents at the 2-level is a Stolen bid.
+#### 2♦ and Higher
+Over any overcall of 2♦ or higher:
+* double: Penalty at the 2-level, Negative at the 3-level
+* suit bid of an unshown suit: to play (less than invitational values)
+* suit bid of a shown suit: takeout
+* 2NT through 3♥: Transfer to the next higher suit, invitational or better values
+   * Transfer to opponent's suit: Stayman
+   * 3♣ after 2NT (unusual) overcall: Stayman
+* 3♠: Asks for a stopper
+* 3NT: To play
 
-* 1NT — (2♥) — double: transfer to spades
-* 1NT — (2♥) — 2♠ or 2NT: same as without interference
+#### Through 3NT:
+* 4♣: Gerber
+* 4♦, 4♥: Texas Transfer, or splinter slam try if transfer would be into opponent's suit
 
-Double of any natural suit bid by the opponents at the 3-level or higher is for negative, promising at least one major.
-
-Cue bid of opponent's natural suit = Game force, Stayman. Note: if the interference is a waiting bid (such as Cappelletti 2♣), it may be pragmatic to pass and wait for the suit to be shown in case a penalty double is a possibility. (For more information see [here](http://www.bridgebuff.com/cappsucks.html) although the entire system indicated is more complex than what is presented here.)
-
-If the opponents intervene over a conventional response, bids carry the same
-meaning as if there were no intervention. A bid says, “I’m bidding voluntarily, so
-I have a real fit with you.”
-
-1NT — (Pass) — 2♦ — (Double) — 2♥ = Real fit for hearts — pass with only two hearts
-
-Higher level suit bids have a different meaning if the opponents intervene.
-
-   * 3♣, 3♦ = Invitational, 5+, denying a stopper if a suit was shown.
-   * 3♥, 3♠ = Game force, 5+, denying a stopper if a suit was shown.
-
-The Texas transfer is on through 3♣. In other words it must be a jump.
+Note: This system is influenced by Richard Pavlicek's [system](http://rpbridge.net/7g67.htm)
 
 ### 2NT and 3NT 
  Stayman and Jacoby transfers for the majors are used.
@@ -286,20 +280,26 @@ Responder can sign off or invite game with the rebid
 ### Raises 
 The following assumes a 1♥ opening but the system over 1♠ is similar. 
 #### General
-   * 2♥ = three-card support, 7–10 dummy points (strong enough to accept at least one game try).
-   * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+   * 2♥: three-card support, 7–10 dummy points (strong enough to accept at least one game try).
+   * 4♥: usually five+ cards, a singleton or void, and fewer than 10 HCP.
 
 #### Bergen Raises
-   * 3♣ = mixed raise (7-10 dummy points with four or more hearts).
-      * 3♦ = game try
-   * 3♦ = limit raise (11–12 dummy points with four or more hearts).
-   * 3♥ = weak raise (6 or fewer dummy points with four or more hearts).
+Bergen raises show 4 or more cards in support of opener's major.
+   * 3♣: 4+ card mixed raise (7-10 dummy points)
+      * 3♦: game try
+   * 3♦: 4+ card limit raise (11–12 dummy points)
+   * 3♥: 4+ card preemptive raise (6 or fewer dummy points)
 
-#### Passed Hands
-Bergen Raises are off. See Drury or Bromad section if applicable.
+#### Bromad Raises
+As a passed hand or over a double, Bromad Raises are used in addition to Bergen Raises.
+   * 2♣: 3-card constructive raise (7-10 dummy points)
+   * 2♦: 3-card limit raise (11-12 dummy points)
+   * 2♥: 3-card courtesy raise (6 or fewer dummy points)
 
-#### In Competition
-Bergen Raises are off in competition. See Bromad section if applicable.
+#### Other Bids after a Takeout Double
+   * Redouble: game-forcing raise or 10+HCP without support
+   * 2NT: weak with one long minor (opener bids 3♣, pass or correct)
+
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
 
@@ -346,27 +346,6 @@ Opener can also self-splinter with a good hand and 4-card support:
 In competition, splinters are off except for jumps in the opponent's suit.
 
 Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
-
-#### General
-   * 2♥: three-card support, 7–10 dummy points (strong enough to accept at least one game try).
-   * 4♥: usually five+ cards, a singleton or void, and fewer than 10 HCP.
-
-#### Bergen Raises
-Bergen raises show 4 or more cards in support of opener's major.
-   * 3♣: 4+ card mixed raise (7-10 dummy points)
-      * 3♦: game try
-   * 3♦: 4+ card limit raise (11–12 dummy points)
-   * 3♥: 4+ card preemptive raise (6 or fewer dummy points)
-
-#### Bromad Raises
-As a passed hand or over a double, Bromad Raises are used in addition to Bergen Raises.
-   * 2♣: 3-card constructive raise (7-10 dummy points)
-   * 2♦: 3-card limit raise (11-12 dummy points)
-   * 2♥: 3-card courtesy raise (6 or fewer dummy points)
-
-#### Other Bids after a Takeout Double
-   * Redouble: game-forcing raise or 10+HCP without support
-   * 2NT: weak with one long minor (opener bids 3♣, pass or correct)
 
 ### Jump Shifts 
 #### Weak Jump Shift

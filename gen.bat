@@ -14,8 +14,7 @@ type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\five-fives-puppet.md >> system.md
 type NotrumpOpenings\1NT\5-4Majors\smolen.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Pre.md >> system.md
-type NotrumpOpenings\1NT\Interference\stolen.md >> system.md
-type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
+type NotrumpOpenings\1NT\Interference\transfers.md >> system.md
 echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\Puppet.md >> system.md
 echo ## Major Openings >> system.md
@@ -25,10 +24,9 @@ echo ### NT Responses >> system.md
 type MajorOpenings\1NT\1NTforcing.md >> system.md
 echo ### Raises >> system.md
 echo The following assumes a 1♥ opening but the system over 1♠ is similar. >> system.md
-type MajorOpenings\Raises\Bergen.md >> system.md
+type MajorOpenings\Raises\Bergen+Bromad.md >> system.md
 type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
-type MajorOpenings\Raises\Bergen+Bromad.md >> system.md
 echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\WeakJS-Bergen.md >> system.md
 echo ## Minor Openings >> system.md
