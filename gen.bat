@@ -28,8 +28,7 @@ echo The following assumes a 1♥ opening but the system over 1♠ is similar. >
 type MajorOpenings\Raises\Bergen.md >> system.md
 type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
-type MajorOpenings\Raises\Bromad.md >> system.md
-type MajorOpenings\Raises\Bromad-passed.md >> system.md
+type MajorOpenings\Raises\Bergen+Bromad.md >> system.md
 echo ### Jump Shifts >> system.md
 type MajorOpenings\JumpShifts\WeakJS-Bergen.md >> system.md
 echo ## Minor Openings >> system.md
@@ -39,9 +38,8 @@ type MinorOpenings\Raises\InvertedNotInComp.md >> system.md
 echo ## One Over One >> system.md
 type MinorOpenings\OneOverOne\Walsh.md >> system.md
 type MinorOpenings\NTResponses\walsh.md >> system.md
-type MinorOpenings\JumpTo2NT\SAYC.md >> system.md
 echo ### Opener Rebids >> system.md
-type MinorOpenings\OneOverOne\OpenerRebid\RP.md >> system.md
+type MinorOpenings\OneOverOne\OpenerMinimumRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\limit-style.md >> system.md
 type MinorOpenings\OneOverOne\ResponderRebid\new-minor-forcing.md >> system.md
@@ -51,6 +49,7 @@ echo ## Strong Rebids >> system.md
 type StrongRebids\JumpRebid\SAYC.md >> system.md
 type StrongRebids\JumpToGame\SAYC.md >> system.md
 type StrongRebids\Reverse\SAYC.md >> system.md
+type StrongRebids\JumpTo2NT\SAYC.md >> system.md
 type StrongRebids\JumpShift\SAYC.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
