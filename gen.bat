@@ -65,6 +65,7 @@ type Defensive\Overcall\SAYC.md >> system.md
 type Defensive\NTOvercall\balancingUNT-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
+type Defensive\OpponentsTwoSuits\jeff-rick.md >> system.md
 type Defensive\vsNT\meckwell.md >> system.md
 type Defensive\vsNT\Cappelletti.md >> system.md
 type Defensive\vsStrongOpening\transfers.md >> system.md
@@ -81,6 +82,6 @@ type Competitive\Doubles\penalty.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
 type Defense\Carding\attitude.md >> system.md
-type Defense\Leads\SAYC.md >> system.md
+type Defense\Leads\jeff-rick.md >> system.md
 type Defense\Signals\UDCA.md >> system.md
 

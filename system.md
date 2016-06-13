@@ -187,14 +187,14 @@ Transfers are used to show hands with a long minor.
       * 3♦: normal response
       * 3♣: preacceptance (good support)
 
-#### Double 
+#### After Opponent's Double 
 * All systems are on.
 * Redouble: long minor (relay to 2♣, pass or correct)
 
-#### 2♣
-All systems are on through 2♣. Double of 2♣ is Stayman.
+#### After Opponent's 2♣ Overcall
+All systems are on after 2♣. Double of 2♣ is Stayman.
 
-#### 2♦ and Higher
+#### After Opponent's Overcall of 2♦ or Higher
 Over any overcall of 2♦ or higher:
 * double: Penalty at the 2-level, Negative at the 3-level
 * suit bid of an unshown suit: to play (less than invitational values)
@@ -204,10 +204,8 @@ Over any overcall of 2♦ or higher:
    * 3♣ after 2NT (unusual) overcall: Stayman
 * 3♠: Asks for a stopper
 * 3NT: To play
-
-#### Through 3NT:
 * 4♣: Gerber
-* 4♦, 4♥: Texas Transfer, or splinter slam try if transfer would be into opponent's suit
+* 4♦ or 4♥ (through 4♣): Texas Transfer, or splinter slam try if transfer would be into opponent's suit
 
 Note: This system is influenced by Richard Pavlicek's [system](http://rpbridge.net/7g67.htm)
 
@@ -834,6 +832,18 @@ When non-vulnerable, the low-end range is much wider.
 #### Overcaller Rebids
 Overcaller will normally have a weak hand and will pass or make a minimum response. 
 With a strong hand or freakier distribution, overcaller will make some other bid.
+### After Opponents Bid Two Suits
+After the opponents show two suits, it is often prudent to show the other two suits.
+
+* Double: 4+ cards in each unbid suit and/or extra strength
+* Cheapest unbid suit: Standard overcall; Continuations by overcaller:
+   * Pass: Minimum
+   * Fourth suit (if first suit is not supported): Opening strength, two-suited
+   * Fourth suit (if first suit is supported): More than opening strength, game try
+* Lower bid suit: Michaels (5-5 distribution expected)
+* Higher bid suit: Natural
+* 2NT: 5-5 or more in the two unbid suits, preemptive
+
 ### Meckwell vs. Strong 1NT
 Meckwell features multiple ways to show single-suited or 5-4 hands.  
    * double: long minor or both majors or 18+ HCP 
@@ -1054,8 +1064,9 @@ Leads are:
    * Q from partner either is singleton or promises J
 * K from A-K tight or A-K-J-(x)
 * Top of all doubletons (including honors)
-* 4th best from x-x-x-x or x-x-x-x-x
-* Bottom from T-x-x or better, top from x–x–x (BOSTON)
+* 2nd best from x-x-x-x or x-x-x-x-x
+* 4th best from H-x-x-x or H-x-x-x-x
+* Bottom from H-x-x, top from x–x–x (BOSTON)
 
 #### Signals (Upside-Down Count and Attitude)
    1. Attitude (low encourages)
