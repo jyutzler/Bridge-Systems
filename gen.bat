@@ -62,12 +62,11 @@ type Defensive\Doubles\SAYC.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Overcall\SAYC.md >> system.md
 type Defensive\NTOvercall\balancingUNT-on.md >> system.md
-type Defensive\UnusualNT\RP.md >> system.md
+type Defensive\UnusualNT\mike-jim.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\OpponentsTwoSuits\jeff-rick.md >> system.md
-type Defensive\vsNT\meckwell.md >> system.md
-type Defensive\vsNT\Cappelletti.md >> system.md
-type Defensive\vsStrongOpening\transfers.md >> system.md
+type Defensive\vsNT\DONT.md >> system.md
+type Defensive\vsStrongOpening\1NT.md >> system.md
 type Preemptive\2-3-4.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md

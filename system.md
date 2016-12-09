@@ -757,16 +757,18 @@ All systems are on - effectively the opening bid is ignored.
    * 19-24 HCP: 3NT
 
 ### Unusual 2NT
-A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
-(It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
-
-(1♦) - 2NT = hearts and clubs
-
+A jump overcall of 2NT shows at least 5–5 in the lowest suit and a higher suit. 
 The strength is either weak or very strong/distributional. 
-(Any subsequent bid by the cuebidder shows extra strength or distribution.)
-With an normal opening hand it is better to bid the higher suit then rebid the lower suit if needed.
 
-Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
+(1♦) - 2NT: clubs and either hearts or spades
+
+Advancer will usually either bid the lowest suit (showing tolerance) 
+or the next step up (asking Overcaller to show the second suit).
+
+Higher advances are possible: 
+* An unbid suit shows extra length
+* A cue bid or jump shows extra strength
+* 3NT is to play
 
 ### Unusual 4NT
 In a highly competitive auction, 4NT is also unusual.
@@ -821,59 +823,26 @@ After the opponents show two suits, it is often prudent to show the other two su
 * Higher bid suit: Natural
 * 2NT: 5-5 or more in the two unbid suits, preemptive
 
-### Meckwell vs. Strong 1NT
-Meckwell features multiple ways to show single-suited or 5-4 hands.  
-   * double: long minor or both majors or 18+ HCP 
-   * 2♣: clubs and a major
-   * 2♦: diamonds and a major
-   * 2♥: natural, rebiddable
-   * 2♠: natural, rebiddable
-   * 2NT: minors
+### DONT vs. Strong 1NT
+DONT features multiple ways to show single-suited or 5-5 hands (4-5 distribution is possible when non-vulnerable).  
+   * double: single-suited or 18+ HCP 
+   * 2♣: clubs and a higher suit
+   * 2♦: diamonds and a higher suit
+   * 2♥: majors
+   * 2♠: spades (normal weak 2 or worse in strength; use double followed by 2♠ to show a better hand)
+   * 2NT: six-card major and five-card minor
 
-After double, Advancer is expected to relay to 2♣. 
-Responses to 2♣:
-   * pass: single-suited with clubs
-   * 2♦: single-suited with diamonds
-   * 2♥: both majors
-   * 2♠: both majors, but spades are stronger
-   * 3♣: natural, rebiddable
+Advancer responses:
+   * pass or bid of a shown suit: fit, unconstructive
+   * next higher suit: relay (pass or correct)
+   * pass of double is for penalty and rare
+   * new suit: single-suited
+   * jump or raise in shown suit: invitational (8-9 points)
+   * 2NT: forcing (15+ points)
 
-After 2♣ or 2♦, Advancer may pass or bid 2♥. 
-Overcaller may pass or correct to 2♠.
-### Cappelletti vs. 1NT
-#### Unpassed Hand
-Cappelletti (AKA Hamilton) is a common defense to 1NT (especially weak). Unpassed hand responses:
-   * double: penalty 
-   * 2♣: single-suited
-      * pass: 6 clubs
-	  * 2♦: relay (pass or correct)
-	     * 2NT: 4 diamonds, 6 clubs
-	  * 2♥/2♠: 5-card suit, weak
-	  * 2NT: Invitational (11+), balanced
-   * 2♦: majors (5-5 when vulnerable, may be shorter when non-vulnerable)
-      * Pass: 6 diamonds
-      * 2♥/2♠: Unconstructive preference
-      * 2NT: Minors
-      * 3♣: 6 clubs
-	  * Raise to 3: Invitational
-   * 2♥/2♠: that major and a minor
-      * pass: Fit, unconstructive
-      * 2NT: Asking for minor
-	     * Responder may return to major to show 10-12
-      * Raise to 3: Invitational 8-9
-   * 2NT: Minors (5-5 or better)
-      * 3♣/3♦: Unconstructive preference
-	  * 3♥/3♠: six cards, no interest in minors
-	  * 4♣/4♦: Invitational
-	  
-#### Passed Hand
-By a passed hand, the system changes slightly:
-   * double: clubs or red suits (pass or correct)
-
-### Overcalls of Strong Openings
+### Defense of Strong Openings
 Against any strong opening (usually 2♣ or 1♣), 
-an overcall is a transfer to the next higher suit.
-
+the defense against a strong 1NT is used.
 ## Preemptive Bids
 Opening suit bids at the three level and higher are preemptive and based on playing tricks
 (the number of tricks you expect to take if your long suit is trumps).
