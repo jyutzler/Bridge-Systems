@@ -13,7 +13,8 @@ Responses:
    * 3NT: solid suit (AKJxxx or better)
 * 2NT: forcing, showing game interest (on in competition) 
    * New suit: feature (usually A or K in that suit)
-   * Rebid of 3: no feature
+   * Rebid of 3: good suit
+   * 3♣: either a feature in clubs or a bad hand; responder may relay 3♦ to inquire further  
    * 3NT: solid suit (AKJxxx or better)
 * Any raise: to play, preemptive
 * 3NT: to play (typically a good hand with three-card support)
