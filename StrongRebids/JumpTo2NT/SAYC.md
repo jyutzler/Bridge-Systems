@@ -1,4 +1,4 @@
-### Opener's jump to 2NT
+### Opener Jump to 2NT
 Opener's jump to 2NT shows a stronger-than-1NT opening (18-19 HCP).
 Responder's rebids are mostly natural.
 
@@ -19,3 +19,4 @@ Responder's rebids are mostly natural.
 #### 1♣ - 1♦; 2NT...
 Same as the above with the following addition:
    * 3♥, 3♠: 4-card major, game-forcing
+
