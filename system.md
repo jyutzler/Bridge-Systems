@@ -2,13 +2,13 @@
 This branch contains a Markdown file "system.md" that describes the bridge system
 used by Jeff Yutzler and Donna Hickling. 
 It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
-It is suitable for intermediate club players.
+It is suitable for advancing club players.
 
 ## General Approach 
 Two-over-one game forcing with five-card majors
 
 Strong forcing opening: 2♣;
-## Balanced Openings 
+## Balanced Opening Hands 
 Balanced hands have either 4-3-3-3, 4-4-3-2, or 5-3-3-2 distribution.
 This includes five-card majors unless the major is particularly strong. 
 Semi-balanced hands with either 5-4-2-2 or 6-3-2-2 distribution 
@@ -29,9 +29,10 @@ The bidding structure for balanced hands is as follows:
 
 ### 1NT 15-17 
 #### Basic Responses
-2NT: Invitational 8-9
-
-3NT: sign-off
+   * 2♣: Stayman (also for invitational hands)
+   * 3NT: sign-off
+   * 4♣: Gerber, asking for aces. (See Slam Bidding)
+   * 4NT: natural, quantitative invite to 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
 
 #### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
@@ -151,18 +152,16 @@ Over 2NT, a similar system applies but there are no invitational bids:
 
 Smolen does not apply over 3NT.
 
-#### 2 Spades
-A 2♠ response requires the 1NT bidder to rebid 3♣, which may be passed with a
-club bust, or responder may rebid 3♦ with a diamond bust. Example:
+#### Minor Suit Transfer Bids
 
-1NT — 2♠ — 3♣ 
-   * Pass = club bust
-   * 3♦ = diamond bust (notrump opener passes).
+Transfers are used to show hands with a long minor.
 
-#### Other Responses
-   * 3♥, 3♠ = at least a six-card suit and slam interest (rare outside competition since transfers are typically used instead).
-   * 4♣ = Gerber, asking for aces. (See Slam Bidding)
-   * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
+   * 2♠ = transfer to clubs
+      * 2NT: preacceptance (good support)
+      * 3♣: normal response
+   * 2NT = transfer to diamonds
+      * 3♦: normal response
+      * 3♣: preacceptance (good support)
 
 #### When Opponents Double
 If an opponent doubles, all conventional responses are “on.” For example:
@@ -234,6 +233,31 @@ Standard Blackwood responses are used.
 Normally open five-card majors in all seats.
 
 Open the higher of long suits of equal length: 5–5 or 6–6.
+### 1♠ Over 1♥ 
+### 1♠ Over 1♥
+Since the immediate objective is to support with support, 
+1♠ must be skipped in favor of heart support without game-forcing values.
+
+#### After any Rebid by Opener
+   - pass: minimum, 4 or 5 spades
+   - 2♠: minimum, 6+ spades
+   - 2NT: 4 spades, 11-12 HCP
+   - 3♥: Game-forcing, good hand
+   - 3♠: As per 1 over 1 system
+   - 3NT: 4 spades, 13-15 HCP
+   - 4♥: Game-forcing, minimum hand
+   - 4♠: To play, 7+ spades
+   - 4NT: quantitative, 16-17 HCP
+
+#### After 1NT Rebid
+   - 2♣ or 2♦: New Minor Forcing 
+   - 2♥: preference (rare, 2 hearts and concern about NT)
+
+#### After 2♣ or 2♦ Rebid
+   - raise minor: Invitational
+   - other minor: New Minor Forcing
+   - 2♥: preference (2 hearts and no more than 3 of the minor)
+
 ### NT Responses 
 #### 1NT Forcing
 1NT typically shows 6–12 points and is used in a number of circumstances:
@@ -245,9 +269,10 @@ It also denies denies four spades after a 1♥ opening.
 
 It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
 
+
 Responder can sign off or invite game with the rebid
    * other 2-level bid: weak hand, sign-off (opener may raise 1♠-1NT;2m-2♥ with 5=4-0-4 distribution and a good hand)
-   * 2 of major: sign-off
+   * 2 of major: sign-off (2-card support or hand too weak for a direct raise)
    * 2♠ after 1♥-1NT;2m: good support of minor (impossible spade)
    * single raise of minor: good support (could be weak especially if 2♠ is available)
    * 2NT: balanced invite (11-12)
@@ -256,10 +281,25 @@ Responder can sign off or invite game with the rebid
    * 3 of major: three-card limit raise
 
 ### Raises 
-#### Basic Raises
-   * 2 = three-card or longer heart support; 7–10 dummy points (strong enough to accept at least one game try).
-   * 3 = four-card limit raise (11–12 dummy points).
-   * 4 = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+#### General
+   * 2♥ = three-card support, 7–10 dummy points (strong enough to accept at least one game try).
+   * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+
+#### Bergen Raises
+   * 3♣ = mixed raise (7-10 dummy points with four or more hearts).
+      * 3♦ = game try
+   * 3♦ = limit raise (11–12 dummy points with four or more hearts).
+   * 3♥ = weak raise (6 or fewer dummy points with four or more hearts).
+
+#### Passed Hands
+Bergen Raises are off. See Drury section if applicable.
+
+#### In Competition
+Bergen Raises are on over a double (Redouble implies no fit) 
+but off in competition. After an overcall:
+   * 3♥ = weak raise (10 or fewer dummy points with four or more hearts).
+   * 4♥ = usually five+ cards, a singleton or void, and fewer than 10 HCP.
+   * Cue = Limit Raise or better (at least a good 10 dummy points and three hearts)
 
 #### Jacoby 2NT
 Over a 1♥ or 1♠ opening:
@@ -324,23 +364,42 @@ To prevent the contract from getting too high, responder may bid the following:
 
 ### Jump Shifts 
 #### Weak Jump Shift
-A jump shift shows a weak hand (less than constructive values) and 6+ cards. Opener must pass without good support.
+A jump shift in the other major shows a weak hand (less than invitational values) and 6+ cards. Opener must pass without good support.
 
 1♠
-   * 3♣, 3♦, 3♥: weak
+   * 3♥: weak
 
-To show an invitational hand, bid 1NT and then jump or reverse.
+To show an invitational hand in the other major or a minor, bid 1NT and then jump or reverse.
 
 1♠ — 1NT — 2♦
-   * 3♣, 3♥: invitational
+   * 3♣, 3♦, 3♥: invitational
 
+With a weak hand and a minor, you must pass if you have a singleton or void in opener's suit.
+With a doubleton, you can bid 1NT and pass, correct, or sign off in opener's suit.
 ## Minor Openings 
 ﻿A 1♦ opener suggests a four-card or longer suit, since 1♣ is preferred on hands
 where a three-card minor suit must be opened. 
-The exception is a hand with 4–4–3–2 shape: 
-four spades, four hearts, three diamonds, and two clubs, which should
-be opened 1♦.
+The exception is a hand with 4=4=3=2 shape which should be opened 1♦. 
+With 9+ cards in the minors, generally open the longer minor first. 
+If the minor is clubs, make sure you have a suitable rebid after partner's response.
 
+### Raises 
+Responder needs more trumps to raise (four to raise 1♦; five to raise 1♣).
+Since four card majors should be bid up-the-line, a raise denies a four card major. 
+Once a minor is raised, the bidding must end in that suit or NT.
+Raises are inverted so a raise to two is strong (limit raise or better) 
+and a raise to 3 is weak (preemptive). When vulnerable, a jump raise should be 
+sound (8-9 dummy points) but when non-vulnerable it is much more wide-ranging.
+
+1♦ - 2♦
+
+   * 2♥, 2♠: stopper
+   * 2NT: balanced minimum, side suits stopped
+   * 3♦: unbalanced minimum
+   * 3NT: 18-19, side suits stopped
+   * 4♦: unbalanced maximum (GF, asks for control bids)
+
+Inverted raises are off in all competition.
 ### One Over One 
 A 1/1 bid shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
 Bid 4-card suits up the line
@@ -366,53 +425,23 @@ It is not forcing, but opener is expected to bid with a strong and/or unbalanced
 
 #### 4NT
 4NT: quantitative balanced hand (16-18 HCP), no four-card major.
-### Opener Jump to 2NT
-Opener's jump to 2NT shows a stronger-than-1NT opening (18-19 HCP).
-Responder's rebids are mostly natural.
-
-#### 1m - 1M; 2NT...
-
-   * pass: weak hand, 4-card suit
-   * rebid suit: weak hand (signoff), 5+card suit
-   * retreat to opener's minor: weak hand (signoff), 4-card major,
-   5+ cards in opener's suit (or 4-4-4-1 distribution)
-   * new minor: 5 card suit and/or unbid four card major, game-forcing
-   * 3♥: 5-5 or better, game-forcing or better
-   (if 6-5 then looking to signoff at game)
-   * 3NT/4NT/6NT: natural, 4-card suit
-   * 4♣: Gerber
-   * 3♠, 4♦, 4♥: 6-5 distribution or better, slam interest
-   * raise to 4: 6+ cards, signoff
-
-#### 1♣ - 1♦; 2NT...
-Same as the above with the following addition:
-   * 3♥, 3♠: 4-card major, game-forcing
-
 ### Opener Rebids 
 Opener’s rebids are natural and standard.
+Unless the hand qualifies for a [Strong Rebid](#strong-rebids), 
+make one of the following bids.
 
-#### Rebids with a minimum hand (13–16 total points)
-   * Raising responder’s suit at the lowest level (usually four cards, though good three-card support is acceptable if notrump is not);
-   * 1NT with a balanced hand and no support for responder's suit;
-   * Rebidding a new suit at the one level or rebidding a new suit at the two level that
-is lower ranking than the opening suit (not reversing);
-   * Rebidding opener’s suit at the lowest level.
+   * pass: partner is a passed hand, you have a minimum with 3-card support 
+or a sub-minimum with 4-card support
+   * 1NT: balanced with 2 or 3-card support for partner, 
+or unbalanced with a stiff A or K in partner's suit and no other alternative
+   * rebid suit: 6-cards or strong 5
+   * new suit (non-reverse): 4-cards
+   * raise to 2: minimum, usually 4-cards, though good 3-card support is acceptable if notrump is not
+   * jump raise: invitational, 17-18 dummy points
+   * 3NT: to play, usually long running minor
+   * double jump shift: game force, splinter
+   * jump to game: 18-19 balanced
 
-#### Rebids with a medium hand (17–18 total points)
-   * Jump raise or jump rebid of opener’s suit;
-   * Reverse in a new suit, i.e., bid a new suit at the two level which is higher ranking
-than the opening suit; (see [Reverses](#Reverses))
-   * Non-reverse bid in a new suit (this has the wide range of 13–18 points)
-
-#### With a maximum hand (19+ total points) opener must make a very strong rebid:
-   * Jump in notrump;
-   * Double jump raise of responder’s suit
-   * Double jump rebid of opener’s suit;
-   * Jump shift or reverse in a new suit.
-
-Responder follows up by attempting to sign off in game, bidding 4NT
-Blackwood, or cuebidding if still interested in trying to cooperate with opener
-in making the slam decision.
 ### Responder Rebids 
 If responder has bid a suit at the one level, he next determines whether he wishes
 to sign off in a partscore, invite game, sign off in game, or force to game and get
@@ -516,6 +545,57 @@ When this treatment is used, other bids change their meanings.
    * 3 of the trump suit shows bad trumps but otherwise a good hand
 
 ## Strong Rebids 
+### Jump Rebid
+After an opening at the 1-level and nearly any response by partner, a jump rebid shows at least 16 total points and a good six card suit.
+The suit should be strong enough to play opposite a small singleton. Responses:
+* pass: bad fit, bad hand
+* 3NT or raise to game: to play
+* Other suit: cue bid in support of opener's suit
+* 4NT: Blackwood
+
+### Opener Jump Shift
+After a 1/1 or 1NT/1 bid, a jump shift shows 19+ total points and an unbalanced hand. 
+Usually it shows 5+ cards in the first suit and 4+ in the second suit, 
+although it can also show 6-3-3-1 or 4-4-4-1 distribution if the second suit is a minor.
+It is forcing to game. 
+
+Responses:
+* A rebid at the two-level: 5+ cards in the suit
+* 3NT: denies support, extra length, or shape
+* new suit: natural, extras, often a first round control
+* support of either suit below game: sets trumps and shows extra shape; responder rebids:
+   * Suit: first round control
+   * Exception: return to first suit (major only): 6-3-3-1 distribution (warning responder from a 4-3 fit)
+   * Jump new suit: splinter
+* game in either suit: signoff
+
+### Opener Jump to 2NT
+Opener's jump to 2NT shows a stronger-than-1NT opening (18-19 HCP).
+Responder's rebids are mostly natural.
+
+#### 1m - 1M; 2NT...
+
+   * pass: weak hand, 4-card suit
+   * rebid suit: weak hand (signoff), 5+card suit
+   * retreat to opener's minor: weak hand (signoff), 4-card major,
+   5+ cards in opener's suit (or 4-4-4-1 distribution)
+   * new minor: 5 card suit and/or unbid four card major, game-forcing
+   * 3♥: 5-5 or better, game-forcing or better
+   (if 6-5 then looking to signoff at game)
+   * 3NT/4NT/6NT: natural, 4-card suit
+   * 4♣: Gerber
+   * 3♠, 4♦, 4♥: 6-5 distribution or better, slam interest
+   * raise to 4: 6+ cards, signoff
+
+#### 1♣ - 1♦; 2NT...
+Same as the above with the following addition:
+   * 3♥, 3♠: 4-card major, game-forcing
+
+### Jump to Game
+After a 1-level bid and any response by partner, 
+a direct jump to game shows a one-suited hand 
+that is too strong to preempt and too weak to jump rebid, reverse, or jump-shift.
+Responder is expected to pass without support and/or excellent controls.
 ### Reverses
 After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
 It is forcing for one round. 
@@ -528,26 +608,6 @@ Without good support, opener will usually retreat to the first suit.
 The exception is when there is another unbid four-card suit (e.g., 5-0-4-4 distribution).
 
 All other bids by responder are natural and forcing to game. 
-### Opener Jump Shift
-After a 1/1 or 1NT/1 bid, a jump shift shows 19+ total points and an unbalanced hand. 
-Usually it shows 5+ cards in the first suit and 4+ in the second suit, 
-although it can also show 6-3-3-1 or 4-4-4-1 distribution if the second suit is a minor.
-It is forcing two game. 
-
-Responses:
-* A rebid at the two-level: 5+ cards in the suit
-* 3NT: denies support, extra length, or shape
-* new suit: natural, extras, often a first round control
-* support of either suit below game: sets trumps and shows extra shape; responder rebids:
-   * return to first suit: 6-3-3-1 distribution (warning responder from a 4-3 fit)
-   * new suit: first round control
-* game in either suit: signoff
-
-### Jump to Game
-After a 1-level bid and any response by partner, 
-a direct jump to game shows a one-suited hand 
-that is too strong to preempt and too weak to jump rebid, reverse, or jump-shift.
-Responder is expected to pass without support and/or excellent controls.
 ## Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor.
 
@@ -584,33 +644,26 @@ In response to a suit rebid, responder indicates strength.
    * others: same as above
 
 ## Weak Two Bids of 2♦, 2♥, or 2♠ 
-A weak two-bid shows a six-card suit of reasonable quality and 5–11 HCP. On rare
-occasions it may be a very good five-card suit. 
+A weak two-bid shows a six-card suit of reasonable quality 
+and roughly 4–10 HCP, but flexible based on vulnerability and position. 
+On rare occasions it may be a very good five-card suit. 
 It is possible to open a weak two with a poor seven-card suit 
 (not good enough to open with at the three level)
 but in MP scoring three level bids are pretty lenient. 
 
 Responses:
+* New suit: forcing
+   * Raise of responder's suit: honor-doubleton or better
+   * Retreat: no outside strength
+   * New suit: strength in that suit 
+   * 3NT: solid suit (AKJxxx or better)
+* 2NT: forcing, showing game interest (on in competition) 
+   * New suit: feature (usually A or K in that suit)
+   * Rebid of 3: no feature
+   * 3NT: solid suit (AKJxxx or better)
+* Any raise: to play, preemptive
+* 3NT: to play (typically a good hand with three-card support)
 
-A 2NT response is forcing, showing game interest. 
-(This applies also if the opponents intervene with a double or a bid.) 
-Regardless of hand strength, opener bids another suit 
-to show a “feature” (ace or king in that suit); 
-rebidding the suit denies a feature;
-with a solid suit (AKJxxx or better) he raises to 3NT.
-
-Any raise of opener’s suit is to play and could be preemptive. 
-
-A 3NT response is also to play.
-
-“RONF” on the card means “Raise Only Non-Force.” A new-suit response is forcing
-one round and shows at least a five-card suit. Opener should raise a major suit
-response with a three-card fit, or perhaps with a doubleton honor.
-
-With no fit for responder’s suit, opener rebids:
-   * With a minimum weak two-bid (5–8 points), rebid the suit at the lowest level.
-   * With a maximum weak two-bid, name a new suit or bid notrump.
-   
 ## Slam Bidding 
 ### Roman Key-Card Blackwood 1430
 Once suit agreement has been reached, 4NT is used to ask for keycards - 
@@ -869,7 +922,7 @@ Landy is a simple defense to 1NT with only one artificial bid:
 
 After 2♣, advancer generally bids the better major.
    * pass: No major, long clubs
-   * 2♦: No major, long diamonds
+   * 2♦: No preference
    * 2♥, 2♠: Weak, sign-off
    * 2NT: Forcing, invitational in either major
    * 3♥, 3♠: Limit raise
@@ -1048,21 +1101,21 @@ unbid suits.
 
 ## Defensive Leads and Signals 
 #### Carding
-First discard against NT is Lavinthal. 
-A high card encourages the higher ranking suit, 
-low encourages the lower ranking suit.
-
-Against suits the first discard is attitude for that suit.
-
-#### Signals (Upside-Down Attitude)
+First discard is attitude for that suit. (See "Signals" below.)
+#### Signals (Upside-Down Count and Attitude)
    1. Attitude (low encourages)
-   1. Count (low = odd)
+   1. Count (low = even)
    1. Suit preference (high = higher suit)
 
+A jack is an encouraging card, more than a 2.
 #### Leads
 Leads are: 
-   * top of touching honors and interior sequences.
-   * A from A–K–x
-   * 4th best from x-x-x-x or x-x-x-x-x
-   * Bottom from T-x-x or better, top from x–x–x (BOSTON)
+* top of touching honors and interior sequences.
+* A from A–K–x-(x...)
+   * Q from partner either is singleton or promises J
+* K from A-K tight or A-K-J-(x)
+* Top of all doubletons (including honors)
+* 2nd best from x-x-x-x or x-x-x-x-x
+* 4th best from H-x-x-x or H-x-x-x-x
+* Bottom from H-x-x, top from x–x–x (BOSTON)
 
