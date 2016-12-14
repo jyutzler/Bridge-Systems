@@ -55,6 +55,7 @@ type StrongRebids\JumpShift\SAYC.md >> system.md
 type StrongRebids\JumpTo2NT\SAYC.md >> system.md
 type StrongRebids\JumpToGame\SAYC.md >> system.md
 type StrongRebids\Reverse\SAYC.md >> system.md
+type StrongRebids\Self-Splinter\SAYC.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
