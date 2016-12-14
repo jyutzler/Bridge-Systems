@@ -7,3 +7,4 @@ Responder is expected to pass without support and/or excellent controls.
 (18-19 HCP), 
 generally with 4-card support and a side doubleton or stiff honor.
 Responder is expected to continue with a limit hand or better.
+
