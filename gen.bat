@@ -21,7 +21,6 @@ type NotrumpOpenings\2NT+3NT\SAYC.md >> system.md
 type NotrumpOpenings\2NT+3NT\4NT-BW.md >> system.md
 echo ## Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
-echo ### 1♠ Over 1♥ >> system.md
 type MajorOpenings\1Sover1H\TwoOverOne-based.md >> system.md
 echo ### NT Responses >> system.md
 type MajorOpenings\1NT\1NTforcing.md >> system.md

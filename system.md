@@ -241,7 +241,6 @@ Standard Blackwood responses are used.
 Normally open five-card majors in all seats.
 
 Open the higher of long suits of equal length: 5–5 or 6–6.
-### 1♠ Over 1♥ 
 ### 1♠ Over 1♥
 Since the immediate objective is to support with support, 
 1♠ must be skipped in favor of heart support without game-forcing values.
@@ -594,6 +593,7 @@ Responder is expected to pass without support and/or excellent controls.
 (18-19 HCP), 
 generally with 4-card support and a side doubleton or stiff honor.
 Responder is expected to continue with a limit hand or better.
+
 ### Reverses
 After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
 It is forcing for one round. 
