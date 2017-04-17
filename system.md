@@ -739,15 +739,6 @@ There are a number of ways to accept the invitation.
    * 5NT: pick a slam
    * any 6-bid: suggested place to play (pass or correct)
 
-### Grand Slam Force
-A jump to 5NT (and some 5NT bids when the auction is at the five level) is “Grand
-Slam Force,” asking partner to bid a grand slam with two of the three top trump
-honors:
-
-5NT
-   * 6 of the trump suit = fewer than two top trump honors (A, K, or Q).
-   * 7 of the trump suit = two of the three top trump honors.
-
 ### Voluntary 5-bid
 A voluntary bid of 5 of a suit is invitational to slam.
 It is used in two circumstances: 
@@ -845,10 +836,11 @@ All systems are on - effectively the opening bid is ignored.
    * 22-24 HCP: double then jump NT
    
 #### Balancing Position (1X-p-p-?)
-   * 10-14 HCP: pass or 1NT
-   * 15-18 HCP: double then 1NT
-   * 19-21 HCP: 2NT
+   * 12-15 HCP: 1NT
+   * 16-18 HCP: double then bid NT
+   * 19-21 HCP: double then jump in NT
    * 22-24 HCP: 3NT
+   * 2NT is unusual (see below)
 
 #### 2-Level (2X-? or 1X-p-2X-?)
    * 15-18 HCP: 2NT
@@ -856,8 +848,8 @@ All systems are on - effectively the opening bid is ignored.
    * 22-24 HCP: double then 3NT
       
 #### 3-Level (3X-? or any-p-3X-?)
-   * bad 16 HCP or less: pass
-   * good 16+ HCP: 3NT
+   * 15-18 HCP: pass or 3NT
+   * 19-24 HCP: 3NT
 
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 

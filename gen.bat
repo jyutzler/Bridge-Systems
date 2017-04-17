@@ -64,14 +64,13 @@ type Slam\1430.md >> system.md
 type Slam\gerber.md >> system.md
 type Slam\pickaslam.md >> system.md
 type Slam\quantitative4NT.md >> system.md
-type Slam\grandslamforce.md >> system.md
 type Slam\voluntary5.md >> system.md
 type Slam\forcing3NT.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Doubles\SAYC.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
-type Defensive\NTOvercall\systems-on.md >> system.md
+type Defensive\NTOvercall\balancingUNT-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
 type Defensive\vsNT\Landy.md >> system.md
