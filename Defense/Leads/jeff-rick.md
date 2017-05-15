@@ -6,10 +6,7 @@ Leads are:
 * K from A-K tight or A-K-J-(x)
 * Q from A-K-Q-x-(x...) - requests count
 * Top of all doubletons (including honors)
-* Against suits:
-   * 3rd/5th/7th best from x-x-x(-x...)
-* Against NT
-   * Bottom from H-x-x, top from x–x–x (BOSTON)
-   * 4th best from H-x-x-x(-x...)
-   * 2nd best from x-x-x-x (show original 4th best at next opportunity)
+* 2nd best from x-x-x-x or x-x-x-x-x (show original 4th best at next opportunity)
+* 4th best from H-x-x-x or H-x-x-x-x
+* Bottom from H-x-x, top from x–x–x (BOSTON)
 

@@ -27,7 +27,7 @@ Possible calls after the accepted transfer are:
    * 5NT: Grand Slam Force (asking to bid 7 with 2 of top 3 honors)
    * 6♠: pick a slam (pass or correct)
 
-#### Single-suited Hands
+#### Single-suited Major Hands
 The Texas Transfer shows a six-card major.
 After a 1NT or 2NT opening or overcall (if systems are on):
 
