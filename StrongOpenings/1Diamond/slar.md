@@ -1,4 +1,4 @@
-﻿A 1♦ opening shows most hands with 18+ HCPs. 
+﻿A 1♦ opening shows balanced, semi-balanced, and single-suited hands with 18+ HCPs and unbalanced hands with 22+ HCPs. 
 In general responder acts as if opener is balanced.
 
 ### 1♥ Response
@@ -12,7 +12,7 @@ Opener attempts to set the contract:
 Shows a number of weak and intermediate hand types:
    * 5+ hearts 0-7 HCP
    * four-card major 5-7 HCP
-   * balanced 5-7 HCP
+   * balanced 5-7 HCP OR 10-11 HCP (jump next round to show higher range)
 
 Opener's responses:
    * 1NT: balanced or semi-balanced 18-21 HCP (systems on)
@@ -23,33 +23,43 @@ Opener's responses:
    * other suit bids: natural, unbalanced
    
 ### 1NT Response
-Shows a weak (0-4 HCP) or intermediate (5-7 HCP) hand with 5+ clubs, diamonds, or spades.
+Shows a number of weak and intermediate hand types:
+   * 5+ clubs 0-7 HCP
+   * 5+ diamonds 0-7 HCP
+   * 5+ spades 0-7 HCP
 
 Opener's responses:
    * 2♣: 18-21 HCP, balanced, semi-balanced, or clubs
-      * pass or correct to 2♦
+      * pass: to play 
+      * 2♦: to play
 	  * 2♥: transfer to 2♠
-   * 3♣: 22+ HCP, balanced, semi-balanced, or clubs
+   * 2NT: 22+ HCP, balanced, semi-balanced
+      * 3♣/3♦: that suit
+      * 3♥: transfer to 3♠
    * other suit bids: natural, unbalanced
 
 ### 2♣ Response
 Game forcing (8+ HCP), Stayman.
 
 Openers responses:
-   * 2♦: 18-21 HCP, balanced, semi-balanced, or diamonds
+   * 2♦: 18-21 HCP, no 4CM
    * 2♥, 2♠: That major (any strength)
-   * 2NT: 21+ HCP, balanced or semi-balanced
+   * 2NT: 22+ HCP, no 4CM
+   * 3-level: Strong-2 in that suit
 
 ### 2♦, 2♥ Response
 Game forcing (8+ HCP), Jacoby Transfer.
 
 Openers responses:
    * accept transfer: 18-21 HCP, balanced or semi-balanced
-   * super-accept: 22+ HCP, good fit
+   * 2NT: 22+ HCP, poor fit
+   * super-accept: good fit (slam-going)
    * other suit bids: natural, unbalanced
 
 ### 2♠ Response
-Game forcing (8+ HCP), balanced, no four-card major.
+Game forcing, multi-range, balanced, no four-card major.
+   * 8-9 HCP
+   * 12+ HCP (jump next round to show this hand)
 
 Openers responses:
    * 2NT: 18-21 or 25+ HCP, balanced or semi-balanced
@@ -67,12 +77,14 @@ Openers responses:
 Game forcing (10+ HCP), shortness in that suit.
 
 Openers responses:
-   * 3NT: 18-21 HCP, balanced or semi-balanced
-   * 4NT: 22+ HCP, balanced or semi-balanced
-   * other suit bids: natural, unbalanced
+   * 3NT: 18-21 HCP, to play
+   * 4NT: 22+ HCP, quantitative
+   * other suit bids: natural, slam-going unless splinter suit
+
+### 4♣ Gerber
 
 ### 4♦, 4♥ Response
-Texas Transfer, semi-solid or solid suit.
+Texas Transfer, semi-solid or solid suit and a likely entry.
 
 Openers responses:
    * accept transfer: 18-21 HCP, fair support (stiff honor or small doubleton)
