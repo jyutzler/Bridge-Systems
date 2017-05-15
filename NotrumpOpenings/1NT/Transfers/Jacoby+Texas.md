@@ -24,7 +24,7 @@ Possible calls after the accepted transfer are:
    * 3♣, 3♦: natural (4+), slam interest
    * 3NT: asking for a choice between 3NT and 4♠
    * 4NT: quantitative invitation to 6♠ or 6NT with a five-card suit
-   * 5NT: pick a slam (pass or correct)
+   * 5NT: pick a slam (6♠ or 6NT)
    * 6♠: to play
 
 #### Single-suited Major Hands
