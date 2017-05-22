@@ -2,7 +2,7 @@ A 1♦ opening shows balanced, semi-balanced, and single-suited hands with 18+ H
 In general responder acts as if opener is balanced. In most cases this allows opener to be declarer. Many forcing responses and rebids are dual-ranged. A jump or artificial bid the following round shows the higher range.
 
 ### 1♥ Response
-Shows a bust - 0-4 HCP, no ace, no five-card suit (would pass a standard 2NT opening). 
+Shows a bust - 0 to a bad 4 HCP with no five-card suit (would pass a standard 2NT opening). 
 Opener attempts to set the contract:
    * pass/1♠/2♣/2♦: natural, unbalanced
    * 1NT: 18-21 HCP
@@ -11,8 +11,8 @@ Opener attempts to set the contract:
 ### 1♠ Response
 Shows a number of weak and intermediate hand types:
    * 5+ hearts 0-7 HCP
-   * four-card major 5-7 HCP or an A
-   * balanced 5-7 HCP or an A
+   * four-card major 4-7 HCP
+   * balanced 4-7 HCP
    * balanced 10-11 HCP with no 4CM
 
 Opener's rebids:
