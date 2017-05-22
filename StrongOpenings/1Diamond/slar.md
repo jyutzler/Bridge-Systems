@@ -16,19 +16,19 @@ Shows a number of weak and intermediate hand types:
    * balanced 10-11 HCP with no 4CM
 
 Opener's rebids:
-   * 1NT: balanced or semi-balanced 18-19 HCP (systems on)
+   * 1NT: balanced or semi-balanced 18-19 HCP (NF)
       * pass: balanced minimum
       * 2♣: Stayman
       * 2♦: transfer to 2♥
       * 2NT: balanced 6-7, invitational
       * 3NT: balanced 10-11
-   * 2♣: 20-21 HCP (systems on) 
+   * 2♣: 20-21 HCP (F) 
       * 2♦: transfer to 2♥
       * 2♠: relay to 2NT or 3NT (assume responder has 4-5HCP)
-      * 2NT: Stayman, GF
-   * 2NT: balanced or semi-balanced 22+ HCP (systems on)
+      * 3♣: Stayman, GF
+   * 2NT: balanced or semi-balanced 22+ HCP (GF)
       * 3♣: Stayman
-      * 3♦: transfer to 2♥
+      * 3♦: transfer to 3♥
       * 3NT: balanced 5-7
       * 4NT: balanced 10-11
    * other suit bids: natural, unbalanced
@@ -40,16 +40,16 @@ Shows most weak and intermediate hands with a long suit:
    * 5+ spades 0-7 HCP
 
 Opener's rebids:
-   * 2♣: 18-19 HCP, balanced or semi-balanced
+   * 2♣: 18-19 HCP, balanced or semi-balanced (NF)
       * pass: to play 
       * 2♦: to play
       * 2♥: transfer to 2♠
       * 3♣/3♦: natural, invitational
-   * 2NT: 20+ HCP, balanced, semi-balanced
+   * 2NT: 20+ HCP, balanced, semi-balanced (F)
       * 3♣/3♦: that suit
       * 3♥: transfer to 3♠
       * 3♠: maximum with a minor
-   * other suit bids: natural, unbalanced
+   * other suit bids: natural, unbalanced (F)
 
 ### 2♣ Response
 Game forcing (8+ HCP), Stayman.
