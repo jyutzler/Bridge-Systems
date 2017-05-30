@@ -33,11 +33,31 @@ hands are upgraded or downgraded due to texture.
 
 ### 1NT 15-17 
 #### Basic Responses
-   * 2♣: Stayman (also for invitational hands)
-   * 3NT: sign-off
-   * 4♣: Gerber, asking for aces. (See Slam Bidding)
-   * 4NT: natural, quantitative invite to 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
+   * 3♠: transfer to 3NT
+   * 3NT: 5 spades, 3 hearts, no slam interest (NF)
+      * If this is bid in error and opener bids 4 of a major, 4NT is "oops"
 
+
+#### Minor Suit Transfer Bids
+
+Transfers are used to show hands with a long minor.
+Super-accept (if willing to play 3NT opposite KQxxxx and out) by bidding what you like.
+
+   * 2♠: transfer to clubs
+      * 2NT: normal response
+      * 3♣: preacceptance (good support)
+   * 2NT: transfer to diamonds
+      * 3♣: normal response (note: this is non-forcing, giving responder a way out of the auction with a 5-5 weak hand)
+      * 3♦: preacceptance (good support)
+
+After the transfer, responder can bid again to show extra length or strength:
+   * New suit: shortness, mild slam try
+   * 3NT: balanced, mild slam try
+   * Raise to 4: invitational
+   * Raise to 5: sign-off
+
+When using this treatment, responder bids 2♣ (Stayman) with any game invitational hand. 
+A rebid of 2NT over a 2♦ or 2♠ response shows an invitational hand that may or may not have a four-card major.
 #### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
 Usually responder will have a decent 8+ HCPs (assuming a 15-17 1NT range).
@@ -176,32 +196,6 @@ Over 2NT, a similar system applies but there are no invitational bids:
 
 Smolen does not apply over 3NT.
 
-#### Basic Responses
-   * 3♠: transfer to 3NT
-   * 3NT: 5 spades, 3 hearts, no slam interest (NF)
-      * If this is bid in error and opener bids 4 of a major, 4NT is "oops"
-
-
-#### Minor Suit Transfer Bids
-
-Transfers are used to show hands with a long minor.
-Super-accept (if willing to play 3NT opposite KQxxxx and out) by bidding what you like.
-
-   * 2♠: transfer to clubs
-      * 2NT: normal response
-      * 3♣: preacceptance (good support)
-   * 2NT: transfer to diamonds
-      * 3♣: normal response (note: this is non-forcing, giving responder a way out of the auction with a 5-5 weak hand)
-      * 3♦: preacceptance (good support)
-
-After the transfer, responder can bid again to show extra length or strength:
-   * New suit: shortness, mild slam try
-   * 3NT: balanced, mild slam try
-   * Raise to 4: invitational
-   * Raise to 5: sign-off
-
-When using this treatment, responder bids 2♣ (Stayman) with any game invitational hand. 
-A rebid of 2NT over a 2♦ or 2♠ response shows an invitational hand that may or may not have a four-card major.
 #### After Opponent's Double 
 * All systems are on.
 * Redouble: long minor (relay to 2♣, pass or correct)
