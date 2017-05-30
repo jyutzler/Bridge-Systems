@@ -3,7 +3,6 @@ If responder is weak, transfer to the five-card major and pass.
 Otherwise use a Stayman to show 5-4 in the majors as follows:
 
 1NT — 2♣; 2♦
-   * pass: weak (5-4=4=0 distribution)
    * 2♥ or 2♠: that major, invitational
    * 3♥ or 3♠: the other major, game-forcing
 
