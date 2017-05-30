@@ -7,13 +7,12 @@ type GeneralApproach\two-over-one.md >> system.md
 echo ## Notrump Opening Bids >> system.md
 type NotrumpOpenings\boyd.md >> system.md
 echo ### 1NT 15-17 >> system.md
-type NotrumpOpenings\1NT\Basic\4-way-pre.md >> system.md
+type NotrumpOpenings\1NT\Minors\boyd.md >> system.md
 type NotrumpOpenings\1NT\Stayman\4-way+splinters.md >> system.md
 type NotrumpOpenings\1NT\Stayman\Puppet3C.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\5-5Majors\five-fives-puppet.md >> system.md
 type NotrumpOpenings\1NT\5-4Majors\smolen.md >> system.md
-type NotrumpOpenings\1NT\Minors\boyd.md >> system.md
 type NotrumpOpenings\1NT\Interference\transfers.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
 echo ### 2NT and 3NT >> system.md
