@@ -369,7 +369,8 @@ To show a weaker hand, bid 1NT and attempt to sign off.
    * 2♥, 3♣: sign-off
 
 ## Minor Openings - See other document 
-### Opener Strong Rebids Over a Major 
+## Opener Strong Rebids 
+_generally over a major_ 
 ### Opener 2NT Rebid
 When opener's rebid (jump or otherwise) shows a stronger-than-1NT opening (17 or 18-19 HCP),
 the following structure applies:
@@ -589,7 +590,9 @@ It is used in two circumstances:
 ## Defensive Bidding 
 ### Doubles
 A double is for takeout over a partscore bid (4♦ or lower). 
-In the direct position over a 1-level bid, it shows about 13+ total points and support for the unbid suits or 18+ points and any distribution. 
+In the direct position over a 1-level bid, it shows support for the unbid suits and 
+enough strength to warrant getting into the auction 
+(usually 10+ points with shortness in opener's suit OR 18+ points and any distribution). 
 In the balancing position it can be 2-3 points lighter.
 
 Advancer is expected to bid after a takeout double. 
@@ -762,15 +765,10 @@ Against any strong opening (usually 2♣ or 1♣),
 an overcall is a transfer to the next higher suit.
 
 ## Preemptive Bids
-Opening major suit bids at the three level and higher are preemptive and based on playing tricks
-(the number of tricks you expect to take if your long suit is trumps).
-Overbid based on the rule of 2-3-4:
-   * vulnerable vs. nonvulnerable: overbid by 2 tricks
-   * equal vulnerability: overbid by 3 tricks
-   * nonvulnerable vs. vulnerable: overbid by 4 tricks
-
-In a minor, preempts are less predictable so be cautious about raising 
-with a balanced hand.
+Opening suit bids at the three level and higher are preemptive and 
+may be very weak particularly in first or third seat. 
+In a major they typically show seven cards. 
+In a minor (particularly clubs) the rules are less strict especially in Matchpoints and/or non-vulnerable. 
    
 Preempts are generally not made in first or second position with:
    * more than one outside trick
@@ -778,6 +776,8 @@ Preempts are generally not made in first or second position with:
    * a void in a minor
 
 Responses in new suits or NT are natural and forcing if below game.
+
+Raises are best used with an unbalanced hand and decent trump support.
 ## Competitive Bidding 
 It is sometimes necessary to pick a bid that would normally have been a second choice
 without the overcall:
@@ -888,13 +888,19 @@ Eschewing the support double shows 4-card support.
 Support Doubles are on through 2♠.
 
 ### Card-Showing Doubles
-In a competitive auction below game, a double is card-showing. 
+In a competitive auction below game, a double is card-showing and major-oriented. 
 Partner is requested to do something intelligent, such as:
   * Show secondary support for a previously bid suit
   * Rebid an extra-long or extra-strong suit
   * Bid a previously unbid four-card suit
   * Bid NT with at least one good stopper
   * Convert to penalty (usually with a decent four cards)
+
+### Competitive 2NT
+In a competitive auction below game, a 2NT bid is artificial (takeout) and minor-oriented.
+Partner is expected to bid the logical minor at the cheapest level.
+When 2NT is available as an artificial bid, 
+a direct bid of a minor is invitational.
 
 ### Penalty Doubles
 A double is unequivocally for penalty in the following cases:
@@ -957,4 +963,6 @@ Leads are:
    1. Count (low = even)
    1. Suit preference (high = higher suit)
 
-A jack is an encouraging card, more than a 2.
+#### Special Carding
+A jack requests a shift to an unexpected suit.
+

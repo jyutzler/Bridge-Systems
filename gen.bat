@@ -39,7 +39,8 @@ REM type MinorOpenings\OneOverOne\Walsh.md >> system.md
 REM type MinorOpenings\NTResponses\walsh.md >> system.md
 REM echo ### Opener Minimum Rebids >> system.md
 REM type MinorOpenings\OneOverOne\OpenerMinimumRebid\RP.md >> system.md
-echo ### Opener Strong Rebids Over a Major >> system.md
+echo ## Opener Strong Rebids >> system.md
+echo _generally over a major_ >> system.md
 type StrongRebids\JumpTo2NT\wolff-signoff.md >> system.md
 REM type StrongRebids\JumpRebid\SAYC.md >> system.md
 type StrongRebids\JumpShift\SAYC.md >> system.md
@@ -75,7 +76,7 @@ type Defensive\vsNT\meckwell.md >> system.md
 echo ### vs. Weak NT (maximum less than 15 HCPs) >> system.md
 type Defensive\vsNT\Landy.md >> system.md
 type Defensive\vsStrongOpening\transfers.md >> system.md
-type Preemptive\2-3-4-majors-only.md >> system.md
+type Preemptive\very-light.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
@@ -85,11 +86,12 @@ type Competitive\VsConventions\Cue-support.md >> system.md
 type Competitive\Takeout\SAYC.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Doubles\support.md >> system.md
-type Competitive\Doubles\card-showing.md >> system.md
+type Competitive\Doubles\card-showing+2NT.md >> system.md
 type Competitive\Doubles\penalty.md >> system.md
 type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
 type Defense\Carding\attitude.md >> system.md
 type Defense\Leads\third-best.md >> system.md
 type Defense\Signals\UDCA.md >> system.md
+type Defense\Signals\jack-bad.md >> system.md
 
