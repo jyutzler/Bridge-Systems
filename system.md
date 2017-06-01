@@ -33,31 +33,11 @@ hands are upgraded or downgraded due to texture.
 
 ### 1NT 15-17 
 #### Basic Responses
-   * 3♠: transfer to 3NT
-   * 3NT: 5 spades, 3 hearts, no slam interest (NF)
-      * If this is bid in error and opener bids 4 of a major, 4NT is "oops"
+   * 3♦, 3♥, 3♠: shortness, other majors usually have 4 cards, slam interest
+   * 3NT: To play
+   * 4♣: Gerber, asking for aces. (See Slam Bidding)
+   * 4NT: Quantitative
 
-
-#### Minor Suit Transfer Bids
-
-Transfers are used to show hands with a long minor.
-Super-accept (if willing to play 3NT opposite KQxxxx and out) by bidding what you like.
-
-   * 2♠: transfer to clubs
-      * 2NT: normal response
-      * 3♣: preacceptance (good support)
-   * 2NT: transfer to diamonds
-      * 3♣: normal response (note: this is non-forcing, giving responder a way out of the auction with a 5-5 weak hand)
-      * 3♦: preacceptance (good support)
-
-After the transfer, responder can bid again to show extra length or strength:
-   * New suit: shortness, mild slam try
-   * 3NT: balanced, mild slam try
-   * Raise to 4: invitational
-   * Raise to 5: sign-off
-
-When using this treatment, responder bids 2♣ (Stayman) with any game invitational hand. 
-A rebid of 2NT over a 2♦ or 2♠ response shows an invitational hand that may or may not have a four-card major.
 #### Non-forcing Stayman
 2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
 Usually responder will have a decent 8+ HCPs (assuming a 15-17 1NT range).
@@ -163,22 +143,13 @@ The following shows how they are used with strong NT (15-17) openings.
 
 It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring (for example, an unprotected king).
 
-#### 2-level:
-A transfer at the 2-level is used with certain hands with the majors.
+#### 5-5 Majors
+When using the Jacoby transfer, it is possible to show 5-5 in the majors 
+with a number of hand types.
+
    * Transfer to the weaker major and pass: bust
-   * 2♦(transfer) followed by 2♠: 6 hearts, slam try (request to cue bid)
-   * 2♥(transfer) followed by 3♥: 6 spades, slam try (request to cue bid)
-
-#### 3-level: 5-5 hands
-The 3-level is used to show most 5-5 hands.
-
-   * 3♦: 5-5 minors, game forcing
-   * 3♥: 5-5 majors, invitational
-   * 3♠: 5-5 majors, choice of games
-
-#### 4-level
-   * 4♣ = Gerber, asking for aces. (See Slam Bidding)
-   * A direct raise of 1NT to 4NT is natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
+   * 1NT - 2♦; 2♥ - 2♠: invitational
+   * 1NT - 2♥; 2♠ - 3♥: game forcing
 
 #### Smolen 5-4 or better in the Majors
 If responder is weak, transfer to the five-card major and pass.
@@ -226,6 +197,9 @@ The Texas transfer is on through 3♣. In other words it must be a jump.
 #### 2NT 20-21
    * 3♣: Puppet Stayman
    * 3♦, 3♥: Jacoby transfers to hearts and spades, respectively
+   * 3♠: Relay to 3NT, to play or to show a good hand with a minor
+   * 3NT: 5♠ + 3♥, no slam interest, pass or correct
+      * If this bid is in error and opener bids 4 of a major, 4NT is "oops"
    * 4♣: Gerber (ace asking)
    * 4NT: Quantitative for 6NT
    * 5NT: Pick a Slam
@@ -265,7 +239,7 @@ Since the immediate objective is to support with support,
    - 2♥: preference (2 hearts and no more than 3 of the minor)
 
 ### NT Responses 
-#### 1NT Forcing
+#### 1NT Semi-Forcing
 1NT typically shows 6–12 points and is used in a number of circumstances:
    * No support for the major opened
    * A three-card limit raise
@@ -273,8 +247,7 @@ Since the immediate objective is to support with support,
 
 It also denies denies four spades after a 1♥ opening.
 
-It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
-
+Opener is expected to bid a lower ranking 4-card suit and may pass without one.
 
 Responder can sign off or invite game with the rebid
    * other 2-level bid: weak hand, sign-off (opener may raise 1♠-1NT;2m-2♥ with 5=4-0-4 distribution and a good hand)
@@ -414,6 +387,13 @@ Responder is expected to pass without support and/or excellent controls.
 generally with 4-card support and a side doubleton or stiff honor.
 Responder is expected to continue with a limit hand or better.
 
+### Self-Splinters
+The following bids are self-splinters, showing a maximum (usually 17+ HCP), shortness, and game-forcing / slam interest:
+   * A double jump-shift after a 1/1 bid
+   * A jump shift after a raise
+   * A jump shift in a game-forcing auction (suit agreement on the last shown suit, but the hand can be less powerful)
+
+Responder is expected to bid a first round control if possible.
 ### Reverses
 After a 1/1 bid, a reverse shows 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
 It is forcing for one round. 
@@ -670,8 +650,7 @@ A jump overcall of 2NT promises at least 5–5 in the lower two unbid suits.
 
 (1♦) - 2NT: hearts and clubs
 
-The strength is either weak or very strong/distributional. 
-(Any subsequent bid by the overcaller shows extra strength or distribution.)
+The strength is wide-ranging.
 
 Responses:
    * Cheapest in either suit: to play
@@ -779,19 +758,11 @@ Responses in new suits or NT are natural and forcing if below game.
 
 Raises are best used with an unbalanced hand and decent trump support.
 ## Competitive Bidding 
-It is sometimes necessary to pick a bid that would normally have been a second choice
-without the overcall:
-
-1♦ — (Pass) — 1♠ — (2♣)
-
-2♠ with ♠943 ♥A875 ♦AQJ4 ♣Q3 (rebid 1NT if RHO has passed)
-
 ### New Suits
-In a competitive sequence, new suits by an unpassed hand are forcing.
-(To make a constructive, non-forcing bid, consider a Negative Double.)
-New suits by a passed hand are constructive but non-forcing.
+In a competitive sequence, new suits by a passed or unpassed hand are non-forcing.
+To make a forcing bid, consider a cue bid, DSI double, or 2NT (if that is forcing).
 
-Jump shifts are weak, showing a similar hand to a preempt.
+Jump shifts are weak, showing a similar hand to a sound preempt.
 
 ### Cue Bids
 Cuebidding right-hand opponent’s suit shows a limit raise or better:

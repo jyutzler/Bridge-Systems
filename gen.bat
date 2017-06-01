@@ -7,21 +7,21 @@ type GeneralApproach\two-over-one.md >> system.md
 echo ## Notrump Opening Bids >> system.md
 type NotrumpOpenings\boyd.md >> system.md
 echo ### 1NT 15-17 >> system.md
-type NotrumpOpenings\1NT\Minors\boyd.md >> system.md
+type NotrumpOpenings\1NT\Basic\3-shortness.md >> system.md
 type NotrumpOpenings\1NT\Stayman\4-way+splinters.md >> system.md
 type NotrumpOpenings\1NT\Stayman\Puppet3C.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
-type NotrumpOpenings\1NT\5-5Majors\five-fives-puppet.md >> system.md
+type NotrumpOpenings\1NT\5-5Majors\SAYC.md >> system.md
 type NotrumpOpenings\1NT\5-4Majors\smolen.md >> system.md
 type NotrumpOpenings\1NT\Interference\transfers.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
 echo ### 2NT and 3NT >> system.md
-type NotrumpOpenings\2NT+3NT\Puppet.md >> system.md
+type NotrumpOpenings\2NT+3NT\Puppet+3Sgadget.md >> system.md
 echo ## Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 type MajorOpenings\1Sover1H\SAYC.md >> system.md
 echo ### NT Responses >> system.md
-type MajorOpenings\1NT\1NTforcing.md >> system.md
+type MajorOpenings\1NT\1NTsemiforcing.md >> system.md
 echo ### Raises >> system.md
 echo The following assumes a 1♥ opening but the system over 1♠ is similar. >> system.md
 type MajorOpenings\Raises\Jacoby.md >> system.md
@@ -45,6 +45,7 @@ type StrongRebids\JumpTo2NT\wolff-signoff.md >> system.md
 REM type StrongRebids\JumpRebid\SAYC.md >> system.md
 type StrongRebids\JumpShift\SAYC.md >> system.md
 type StrongRebids\JumpToGame\SAYC.md >> system.md
+type StrongRebids\Self-Splinter\SAYC.md >> system.md
 type StrongRebids\Reverse\step-weak.md >> system.md
 REM echo ### Responder Rebids >> system.md
 REM type MinorOpenings\OneOverOne\ResponderRebid\2-way-MF.md >> system.md
@@ -78,7 +79,7 @@ type Defensive\vsNT\Landy.md >> system.md
 type Defensive\vsStrongOpening\transfers.md >> system.md
 type Preemptive\very-light.md >> system.md
 echo ## Competitive Bidding >> system.md
-type Competitive\WJS.md >> system.md
+type Competitive\new-suit-NF.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\Raise\mixed-raise.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
