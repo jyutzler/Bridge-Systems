@@ -3,8 +3,7 @@ A jump overcall of 2NT promises at least 5–5 in the lower two unbid suits.
 
 (1♦) - 2NT: hearts and clubs
 
-The strength is either weak or very strong/distributional. 
-(Any subsequent bid by the overcaller shows extra strength or distribution.)
+The strength is wide-ranging.
 
 Responses:
    * Cheapest in either suit: to play
