@@ -22,6 +22,6 @@ All systems are on - effectively the opening bid is ignored.
    * 22-24 HCP: double then 3NT
       
 #### 3-Level (3X-? or any-p-3X-?)
-   * 15-18 HCP: pass or 3NT
-   * 19-24 HCP: 3NT
+   * bad 16 HCP or less: pass or double then pass
+   * good 16 HCP or more: double or 3NT
 

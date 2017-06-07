@@ -2,7 +2,7 @@
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
 (It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
 
-(1♦) - 2NT = hearts and clubs
+(1♦) - 2NT: hearts and clubs
 
 The strength is either weak or very strong/distributional. 
 (Any subsequent bid by the cuebidder shows extra strength or distribution.)

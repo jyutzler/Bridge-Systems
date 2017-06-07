@@ -4,14 +4,6 @@ Suit overcalls show 7–16 points nonvulnerable and 9-16 points vulnerable
 In general an overcall shows 5+ cards 
 but it may show a strong 4 (AKJx) at the one level.
 
-The one exception is over 1♣ where an overcall of 1♦ does little to obstruct the opponents.
-(1♣)
-   * 1♦: a good 4 or bad 5, often lead-directing
-   * 2♦: sound overcall (would bid over 1♠)
-   
-A reopening bid means much the same as a direct seat bid, 
-but it may be made with about a king less.
-
 Versus an opening preempt, an overcall is natural.
 
 Jump overcalls are preemptive, showing the same value as an opening bid at the
@@ -20,9 +12,19 @@ same level:
 (1♦)
    * 2♠: a hand that would open a weak two-bid in spades.
    * 3♣: a hand that would open 3♣.
+   
+A balancing bid means much the same as a direct seat bid, 
+but it may be made with about a king less.
 
 When the opponents have bid two suits,
 an overcall in either suit is natural.
+
+#### Diamonds over 1♣
+The one exception to overcalls is over 1♣ where an overcall of 1♦ does little to obstruct the opponents.
+(1♣)
+   * 1♦: a good 4, a light overcall with 5, weak 2 (Vul only), or a maximum overcall (will bid again if possible)
+   * 2♦: sound overcall (would bid over 1♠)
+   * 3♦: standard preemptive bid OR weak 2 strength (NV only)
 
 #### Responses
 Raises are natural and generally preemptive.

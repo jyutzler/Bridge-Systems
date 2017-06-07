@@ -8,15 +8,15 @@ The only forcing response is a cuebid of opener’s suit, asking the overcaller 
 the quality of his overcall:
 
 (1♦) — 1♠ — (Pass) — 2♦
-   * (Pass) — 2♠ = minimum overcall.
-   * (Pass) — other = extra strength (11 or 12 points minimum).
+   * (Pass) — 2♠: minimum overcall.
+   * (Pass) — other: extra strength (11 or 12 points minimum).
 
 Jump overcalls are preemptive, showing the same value as an opening bid at the
 same level:
 
 (1♦)
-   * 2♠ = a hand that would open a weak two-bid in spades.
-   * 3♣ = a hand that would open 3♣.
+   * 2♠: a hand that would open a weak two-bid in spades.
+   * 3♣: a hand that would open 3♣.
 
 A cuebid overcall when the opponents have bid two suits is natural in either suit.
 
