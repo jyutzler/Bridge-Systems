@@ -83,8 +83,8 @@ Possible calls after the accepted transfer are:
    * 3♣, 3♦: natural (4+), slam interest
    * 3NT: asking for a choice between 3NT and 4♠
    * 4NT: quantitative invitation to 6♠ or 6NT with a five-card suit
-   * 5NT: Grand Slam Force (asking to bid 7 with 2 of top 3 honors)
-   * 6♠: pick a slam (pass or correct)
+   * 5NT: pick a slam (6♠ or 6NT)
+   * 6♠: to play
 
 #### Single-suited Major Hands
 The Texas Transfer shows a six-card major.
@@ -111,7 +111,7 @@ The following shows how they are used with strong NT (15-17) openings.
    * Slam (stronger-than-minimum opening): Two options:
       * Texas, 4NT (Blackwood) OR 
       * Jacoby, other major (requests cue bids)
-   * Grand Slam Force (asking to bid 7 with 2 of top 3 honors): Texas, 5NT
+   * Pick a Slam: Texas, 5NT
 
 It is rare, but a direct bid of 4♠ or 6♠ is to play and is only used when your hand is not amenable to transferring (for example, an unprotected king).
 
@@ -138,17 +138,14 @@ If responder is weak, transfer to the five-card major and pass.
 Otherwise use a Stayman to show 5-4 in the majors as follows:
 
 1NT — 2♣; 2♦
-   * pass: weak (5-4=4=0 distribution)
    * 2♥ or 2♠: that major, invitational
    * 3♥ or 3♠: the other major, game-forcing
-   * 4♦ or 4♥: transfer to 4♥ or 4♠, at least 6, slam interest (Otherwise bypass Smolen and use a straight transfer)
 
 Over 2NT, a similar system applies but there are no invitational bids:
 
 2NT — 3♣; 3♦
    * pass: weak  (5-4=4=0 distribution)
    * 3♥ or 3♠: the other major, game-forcing
-   * 4♦ or 4♥: transfer to 4♥ or 4♠, at least 6, slam interest (Otherwise bypass Smolen and use a straight transfer)
 
 Smolen does not apply over 3NT.
 
@@ -219,20 +216,23 @@ For example: 1NT — (Pass) — 2♦ — (Double)
 The Texas transfer is on through 3♣. In other words it must be a jump.
 
 ### 2NT and 3NT 
-Stayman and Jacoby transfers for the majors are used.
-
 #### 2NT 20-21
-   * 3♣ = Stayman.
-   * 3♦, 3♥ = Jacoby transfers to hearts and spades, respectively.
-   * 4♣ = Gerber (ace asking).
+Stayman and Jacoby transfers for the majors are used for 2NT opening bids, rebids over 2♣, and [overcalls](#nt-overcalls).
+
+   * 3♣: Stayman.
+   * 3♦, 3♥: Jacoby transfers to hearts and spades, respectively.
+   * 4♣: Gerber (ace asking).
    * 4NT: Quantitative for 6NT
-   * 5NT: Quantitative for 7NT
+   * 5NT: Pick a slam
 
 #### 3NT 25-27
-   * 4♣ = Stayman.
-   * 4♦, 4♥ = Jacoby transfers to hearts and spades, respectively
+Systems are off for 3NT opening bids, rebids over 2♣, and [overcalls](#nt-overcalls).
+
+   * 4♣: Gerber
+   * 4♦: GF with diamonds or both minors
+   * 4♥, 4♠: To Play
    * 4NT: Quantitative for 6NT
-   * 5NT: Quantitative for 7NT
+   * 5NT: Pick a slam
 
 #### 4NT Blackwood Opening
 An opening of 4NT shows a rare hand that is solid except for aces or kings.
@@ -607,10 +607,12 @@ The exception is when there is another unbid four-card suit (e.g., 5-0-4-4 distr
 
 All other bids by responder are natural and forcing to game. 
 ### Self-Splinters
-After a 1/1 bid, a double jump-shift shows 17+ HCP 
-and shortness in the bid suit.
-It is forcing to game. 
-Responder is encouraged to bid a first round control if possible.
+The following bids are self-splinters, showing a maximum (usually 17+ HCP), shortness, and game-forcing / slam interest:
+   * A double jump-shift after a 1/1 bid
+   * A jump shift after a raise
+   * A jump shift in a game-forcing auction (suit agreement on the last shown suit, but the hand can be less powerful)
+
+Responder is expected to bid a first round control if possible.
 ## Strong 2♣ 
 ﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor.
 
@@ -763,7 +765,9 @@ so as to not reveal any unnecessary information about the closed hand.
 ## Defensive Bidding 
 ### Doubles
 A double is for takeout over a partscore bid (4♦ or lower). 
-In the direct position over a 1-level bid, it shows about 13+ total points and support for the unbid suits or 18+ points and any distribution. 
+In the direct position over a 1-level bid, it shows support for the unbid suits and 
+enough strength to warrant getting into the auction 
+(usually 10+ points with shortness in opener's suit OR 18+ points and any distribution). 
 In the balancing position it can be 2-3 points lighter.
 
 Advancer is expected to bid after a takeout double. 
@@ -793,14 +797,6 @@ Suit overcalls show 7–16 points nonvulnerable and 9-16 points vulnerable
 In general an overcall shows 5+ cards 
 but it may show a strong 4 (AKJx) at the one level.
 
-The one exception is over 1♣ where an overcall of 1♦ does little to obstruct the opponents.
-(1♣)
-   * 1♦: a good 4 or bad 5, often lead-directing
-   * 2♦: sound overcall (would bid over 1♠)
-   
-A reopening bid means much the same as a direct seat bid, 
-but it may be made with about a king less.
-
 Versus an opening preempt, an overcall is natural.
 
 Jump overcalls are preemptive, showing the same value as an opening bid at the
@@ -809,9 +805,19 @@ same level:
 (1♦)
    * 2♠: a hand that would open a weak two-bid in spades.
    * 3♣: a hand that would open 3♣.
+   
+A balancing bid means much the same as a direct seat bid, 
+but it may be made with about a king less.
 
 When the opponents have bid two suits,
 an overcall in either suit is natural.
+
+#### Diamonds over 1♣
+The one exception to overcalls is over 1♣ where an overcall of 1♦ does little to obstruct the opponents.
+(1♣)
+   * 1♦: a good 4, a light overcall with 5, weak 2 (Vul only), or a maximum overcall (will bid again if possible)
+   * 2♦: sound overcall (would bid over 1♠)
+   * 3♦: standard preemptive bid OR weak 2 strength (NV only)
 
 #### Responses
 Raises are natural and generally preemptive.
@@ -848,14 +854,14 @@ All systems are on - effectively the opening bid is ignored.
    * 22-24 HCP: double then 3NT
       
 #### 3-Level (3X-? or any-p-3X-?)
-   * 15-18 HCP: pass or 3NT
-   * 19-24 HCP: 3NT
+   * bad 16 HCP or less: pass or double then pass
+   * good 16 HCP or more: double or 3NT
 
 ### Unusual 2NT
 A jump overcall of 2NT shows at least 5–5 in the lower two unbid suits. 
 (It may show 4-5-2-2 distribution but in that case it should be a king stronger.)
 
-(1♦) - 2NT = hearts and clubs
+(1♦) - 2NT: hearts and clubs
 
 The strength is either weak or very strong/distributional. 
 (Any subsequent bid by the cuebidder shows extra strength or distribution.)
@@ -928,8 +934,8 @@ Against any strong opening (usually 2♣ or 1♣),
 the defense against a strong 1NT is used.
 A double of 2♣ is the equivalent of a direct 2♣ bid in the NT system.
 ## Preemptive Bids
-Opening major suit bids at the three level and higher are preemptive and 
-may be very weak particularly in first seat. 
+Opening suit bids at the three level and higher are preemptive and 
+may be very weak particularly in first or third seat. 
 In a major they typically show seven cards. 
 In a minor (particularly clubs) the rules are less strict especially in Matchpoints and/or non-vulnerable. 
    
@@ -1100,7 +1106,6 @@ First discard is attitude for that suit. (See "Signals" below.)
    1. Count (low = even)
    1. Suit preference (high = higher suit)
 
-A jack is an encouraging card, more than a 2.
 #### Leads
 Leads are: 
 * top of touching honors and interior sequences.
