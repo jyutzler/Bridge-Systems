@@ -4,9 +4,7 @@ is invitational at the 2-level and game forcing at the 3-level.
 When more than one minor is available (1♥-1♠;1NT-2m), 
 it tends to show a stopper for NT.
 
-1♣ — 1♠
-
-1NT (or 2♣) — 2♦ (forcing)
+Example: 1♣-1♠;1NT (or 2♣)-2♦ (forcing)
 
 After New Minor Forcing, opener must describe his hand further.
 * 2 of responder's suit: 3-card support, minimum
