@@ -1,6 +1,8 @@
 ### Doubles
 A double is for takeout over a partscore bid (4♦ or lower). 
-In the direct position over a 1-level bid, it shows about 13+ total points and support for the unbid suits or 18+ points and any distribution. 
+In the direct position over a 1-level bid, it shows support for the unbid suits and 
+enough strength to warrant getting into the auction 
+(usually 10+ points with shortness in opener's suit OR 18+ points and any distribution). 
 In the balancing position it can be 2-3 points lighter.
 
 Advancer is expected to bid after a takeout double. 

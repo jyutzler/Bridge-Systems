@@ -7,7 +7,7 @@ Leads are:
 * Q from A-K-Q-x-(x...) - requests count
 * Top of all doubletons (including honors)
 * Against suits:
-   * 3rd best (follow with a lower card to show odd, higher to show even)
+   * 3rd/5th/7th best from x-x-x(-x...)
 * Against NT
    * Bottom from H-x-x, top from x–x–x (BOSTON)
    * 4th best from H-x-x-x(-x...)
