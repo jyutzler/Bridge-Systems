@@ -80,7 +80,7 @@ echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
-type Competitive\VsConventions\Reverse-cue-support.md >> system.md
+type Competitive\VsConventions\Cue-support.md >> system.md
 type Competitive\Takeout\AM.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Doubles\card-showing.md >> system.md
