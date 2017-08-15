@@ -1,0 +1,23 @@
+### Roman Key-Card Blackwood 1430
+Once suit agreement has been reached, 4NT is used to ask for keycards - 
+the 4 aces and the king of trump. 
+It can also be used to ask for "Queen or Extra Length" (queen = queen of trump, 
+extra length = enough trump to promise 10 total).
+
+4NT KC Asking:
+   * 5♣: 1 or 4 keycards
+   * 5♦: 3 or 0 keycards
+   * 5♥: 2 keycards, no QOEL
+   * 5♠: 2 keycards, QOEL
+
+After a 5♣ or 5♦ response, the Blackwood initiator may ask for QOEL by bidding the next step:
+
+   * (heart suit agreement)-4NT;5♣-5♦: Queen ask
+      * 5♥: no QOEL
+	  * 5♠, 6♣, 6♦: QOEL, that king, and no lower kings
+	  * 5NT: QOEL, no kings
+
+#### 5NT
+5NT guarantees the partnership holds all five keycards plus QOEL and is invitational to grand.
+A 6-level bid shows the king in that suit.
+
