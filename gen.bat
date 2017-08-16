@@ -8,37 +8,32 @@ echo ## Balanced Opening Hands >> system.md
 type NotrumpOpenings\SAYC.md >> system.md
 echo ### 1NT 15-17 >> system.md
 type NotrumpOpenings\1NT\Basic\4-way-pre.md >> system.md
-type NotrumpOpenings\1NT\Stayman\jeff-donna.md >> system.md
+type NotrumpOpenings\1NT\Stayman\4-way+splinters.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
-type NotrumpOpenings\1NT\5-5Majors\five-fives.md >> system.md
-type NotrumpOpenings\1NT\5-4Majors\smolen.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Pre.md >> system.md
-type NotrumpOpenings\1NT\Interference\jeff-donna-double.md >> system.md
-type NotrumpOpenings\1NT\Interference\jeff-donna-suit.md >> system.md
+type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
 type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
 echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\3NT-systems-off.md >> system.md
-type NotrumpOpenings\2NT+3NT\4NT-BW.md >> system.md
 echo ## Major Openings >> system.md
 type MajorOpenings\SAYC.md >> system.md
 type MajorOpenings\1Sover1H\TwoOverOne-based.md >> system.md
 echo ### NT Responses >> system.md
 type MajorOpenings\1NT\1NTforcing.md >> system.md
 echo ### Raises >> system.md
-type MajorOpenings\Raises\Bergen+double.md >> system.md
-type MajorOpenings\Raises\Jacoby-AM.md >> system.md
+type MajorOpenings\Raises\Jacoby.md >> system.md
 type MajorOpenings\Raises\Splinter-RP.md >> system.md
 type MajorOpenings\Raises\twowayreversedrury.md >> system.md
 echo ### Jump Shifts >> system.md
-type MajorOpenings\JumpShifts\WeakJS-Bergen.md >> system.md
+type MajorOpenings\JumpShifts\WeakJS.md >> system.md
 echo ## Minor Openings >> system.md
 type MinorOpenings\SAYC.md >> system.md
 echo ### Raises >> system.md
 type MinorOpenings\Raises\InvertedNotInComp.md >> system.md
 echo ### One Over One >> system.md
-type MinorOpenings\OneOverOne\Walsh.md >> system.md
+type MinorOpenings\OneOverOne\SAYC.md >> system.md
 echo ### NT Responses >> system.md
-type MinorOpenings\NTResponses\walsh.md >> system.md
+type MinorOpenings\NTResponses\SAYC.md >> system.md
 echo ### Opener Rebids >> system.md
 type MinorOpenings\OneOverOne\OpenerMinimumRebid\RP.md >> system.md
 echo ### Responder Rebids >> system.md
@@ -60,33 +55,30 @@ type StrongOpenings\2Club\CheaperMinor.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
 type WeakTwos\always-feature.md >> system.md
 echo ## Slam Bidding >> system.md
-type Slam\1430.md >> system.md
+type Slam\1430-no-voids.md >> system.md
 type Slam\gerber.md >> system.md
 type Slam\pickaslam.md >> system.md
 type Slam\quantitative4NT.md >> system.md
-type Slam\voluntary5.md >> system.md
-type Slam\forcing3NT.md >> system.md
 echo ## Defensive Bidding >> system.md
-type Defensive\Doubles\SAYC.md >> system.md
+type Defensive\Doubles\jeff-donna.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
-type Defensive\Overcall\jeff-donna.md >> system.md
+type Defensive\Overcall\SAYC.md >> system.md
 type Defensive\NTOvercall\balancingUNT-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
-type Defensive\vsNT\Landy.md >> system.md
-type Defensive\vsStrongOpening\1NT.md >> system.md
+type Defensive\vsNT\meckwell.md >> system.md
 type Preemptive\very-light.md >> system.md
 echo ## Competitive Bidding >> system.md
 type Competitive\WJS.md >> system.md
 type Competitive\Raise\WeakJump.md >> system.md
 type Competitive\WithConventions\SAYC.md >> system.md
 type Competitive\VsConventions\Cue-support.md >> system.md
-type Competitive\Takeout\AM.md >> system.md
+type Competitive\Takeout\SAYC.md >> system.md
 type Competitive\Negative\BelowGame.md >> system.md
 type Competitive\Doubles\card-showing.md >> system.md
 type Competitive\Doubles\penalty.md >> system.md
-type Competitive\Redouble\jeff-donna.md >> system.md
+type Competitive\Redouble\SAYC.md >> system.md
 echo ## Defensive Leads and Signals >> system.md
 type Defense\Carding\attitude.md >> system.md
-type Defense\Signals\UDCA.md >> system.md
+type Defense\Signals\UDA.md >> system.md
 type Defense\Leads\jeff-rick.md >> system.md
