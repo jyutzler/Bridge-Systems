@@ -30,3 +30,4 @@ When the opponents have shown a major fit, balancing is very aggressive especial
 
 * (1♠)-p-(2♠)-p;(p)X: takeout
 * (1♠)-p-(2♠)-p;(p)2NT: minors
+
