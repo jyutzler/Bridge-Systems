@@ -60,14 +60,14 @@ type StrongOpenings\2Club\CheaperMinor.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
 type WeakTwos\always-feature.md >> system.md
 echo ## Slam Bidding >> system.md
-type Slam\1430.md >> system.md
+type Slam\1430-no-voids.md >> system.md
 type Slam\gerber.md >> system.md
 type Slam\pickaslam.md >> system.md
 type Slam\quantitative4NT.md >> system.md
 type Slam\voluntary5.md >> system.md
 type Slam\forcing3NT.md >> system.md
 echo ## Defensive Bidding >> system.md
-type Defensive\Doubles\SAYC.md >> system.md
+type Defensive\Doubles\jeff-donna.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
 type Defensive\NTOvercall\balancingUNT-on.md >> system.md
