@@ -26,13 +26,13 @@ The one exception to overcalls is over 1♣ where an overcall of 1♦ does littl
 
 #### vs. Opening Preempt
 Versus an opening preempt, an overcall is natural. 
-At the two level it can show any opening hand with a five-card suit. 
-At the three-level it should show extras - 15+ total points.
-At the four-level it should show significant extras: 17+ total points.
-A jump raise over a Weak-Two also shows significant extras but is non-forcing. 
-(With a Strong-Two hand, double first then jump to game.)
-A jump overcall to game is to play and is semi-preemptive.
-In the balancing seat, an overcall can be a king lighter.
+* Two-level: any opening hand with a five-card suit
+* Three-level: extras: 15+ total points
+* Four-level: significant extras: 17+ total points
+* Jump raise over a Weak-Two: significant extras, but non-forcing
+(with a Strong-Two hand, double first then jump to game.)
+* Jump overcall to game is to play and is semi-preemptive
+* _In the balancing seat, an overcall can be a king lighter_
 
 #### Responses
 Raises are natural and generally preemptive.
