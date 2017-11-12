@@ -9,3 +9,6 @@ Open the higher of long suits of equal length: 5–5 or 6–6.
 Opening bids are lighter than in standard methods. 
 In general if you would overcall in SAYC then you can open here.
 
+Note that the opener could be light (as good as an overcall),
+but it should have 3-card support in the other major 
+to avoid rebid problems.

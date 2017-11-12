@@ -2,7 +2,7 @@
 Since the immediate objective is to support with support, 
 1♠ must be skipped in favor of heart support without game-forcing values.
 
-#### After any Rebid by Opener
+#### After any Non-Supporting Rebid by Opener
    - pass: minimum, 4 or 5 spades
    - 2♠: minimum, 6+ spades
    - 2NT: 4 spades, 11-12 HCP
