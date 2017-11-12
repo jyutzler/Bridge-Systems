@@ -11,8 +11,8 @@ type NotrumpOpenings\1NT\Basic\4-way-pre.md >> system.md
 type NotrumpOpenings\1NT\Stayman\4-way+splinters.md >> system.md
 type NotrumpOpenings\1NT\Transfers\Jacoby+Texas.md >> system.md
 type NotrumpOpenings\1NT\Minors\4-way-Pre.md >> system.md
-type NotrumpOpenings\1NT\Interference\jeff-norman.md >> system.md
-type NotrumpOpenings\1NT\Interference\Texas.md >> system.md
+type NotrumpOpenings\1NT\Interference\x-xx-rescue.md >> system.md
+type NotrumpOpenings\1NT\Interference\lebensohl.md >> system.md
 echo ### 2NT and 3NT >> system.md
 type NotrumpOpenings\2NT+3NT\3NT-systems-off.md >> system.md
 echo ## Major Openings >> system.md
@@ -48,7 +48,7 @@ type StrongRebids\JumpRebid\SAYC.md >> system.md
 type StrongRebids\JumpShift\SAYC.md >> system.md
 type StrongRebids\JumpTo2NT\SAYC.md >> system.md
 type StrongRebids\JumpToGame\SAYC.md >> system.md
-type StrongRebids\Reverse\SAYC.md >> system.md
+type StrongRebids\Reverse\lebensohl.md >> system.md
 type StrongRebids\Self-Splinter\SAYC.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
@@ -61,8 +61,9 @@ type Slam\pickaslam.md >> system.md
 type Slam\quantitative4NT.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Doubles\jeff-donna.md >> system.md
+type Defensive\Doubles\lebensohl.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
-type Defensive\Overcall\SAYC.md >> system.md
+type Defensive\Overcall\jeff-rick.md >> system.md
 type Defensive\NTOvercall\balancingUNT-on.md >> system.md
 type Defensive\UnusualNT\RP.md >> system.md
 type Defensive\Michaels\RP.md >> system.md
