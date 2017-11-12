@@ -4,8 +4,6 @@ Suit overcalls show 7–16 points nonvulnerable and 9-16 points vulnerable
 In general an overcall shows 5+ cards 
 but it may show a strong 4 (AKJx) at the one level.
 
-Versus an opening preempt, an overcall is natural.
-
 Jump overcalls are preemptive, showing the same value as an opening bid at the
 same level:
 
@@ -26,13 +24,24 @@ The one exception to overcalls is over 1♣ where an overcall of 1♦ does littl
    * 2♦: sound overcall (would bid over 1♠)
    * 3♦: standard preemptive bid OR weak 2 strength (NV only)
 
+#### vs. Opening Preempt
+Versus an opening preempt, an overcall is natural. 
+At the two level it can show any opening hand with a five-card suit. 
+At the three-level it should show extras - 15+ total points.
+At the four-level it should show significant extras: 17+ total points.
+A jump raise over a Weak-Two also shows significant extras but is non-forcing. 
+(With a Strong-Two hand, double first then jump to game.)
+A jump overcall to game is to play and is semi-preemptive.
+In the balancing seat, an overcall can be a king lighter.
+
 #### Responses
 Raises are natural and generally preemptive.
-A new suit by an unpassed hand is forcing. 
-By a passed hand, a new suit is non-forcing but constructive.
+A new suit is non-forcing but constructive.
 
-A cuebid of opener’s suit shows good support (limit raise or better).
+A cuebid of opener’s suit by an unpassed hand shows any good hand and is forcing for one round. Advancer will return to Overcaller's suit to show a limit raise or better.
+A cuebid of opener's suit by a passed hand shows good support (limit raise or better).
 
+Examples:
 (1♦) — 1♠ — (Pass) — 2♦:
    * (Pass) — 2♠: minimum overcall.
    * (Pass) — other: natural, game-forcing.
