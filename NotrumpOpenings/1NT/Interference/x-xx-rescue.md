@@ -13,3 +13,4 @@ Otherwise pass and let opener reopen the bidding.
 * 1NT — (Double) — pass - (pass): Forcing - opener must either bids a 5-card suit or redoubles. 
 Responder passes the redouble with 7+ (possibly less) 
 or bids a 4-card suit to attempt to scramble to safety.
+
