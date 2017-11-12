@@ -2,7 +2,7 @@
 When the opponents interfere with a 1NT opener, 
 a conventional 2NT response is used to show a wider range of hand types.
 
-1NT(2X)
+1NT(2♣ or higher)
 * Double: 
    * Penalty (if the opponent's bid was natural)
    * Penalty in at least one shown suit (if the opponent's bid was artificial)
@@ -15,7 +15,7 @@ a conventional 2NT response is used to show a wider range of hand types.
 * 3Y: Natural, 1 round force
 * 3X (Cue): Stayman, denying a stopper
 * 3NT: Game values, denying a stopper
-* 4♦/4♥: Texas
+* 4♦/4♥: Texas through 3♣. (In other words it must be a jump.)
 
 #### Responses after the 3♣ Relay
 * 3Y, below opponent's suit: sign-off
