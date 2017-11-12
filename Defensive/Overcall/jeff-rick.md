@@ -18,7 +18,7 @@ same level:
    * 2♠: a hand that would open a weak two-bid in spades.
    * 3♣: a hand that would open 3♣.
 
-A cuebid overcall when the opponents have bid two suits is natural in either suit.
+A cuebid overcall when the opponents have bid two suits is natural in the second suit but Michaels in the first suit.
 
 #### vs. Opening Preempt
 Versus an opening preempt, an overcall is natural. 
