@@ -20,3 +20,25 @@ same level:
 
 A cuebid overcall when the opponents have bid two suits is natural in either suit.
 
+#### vs. Opening Preempt
+Versus an opening preempt, an overcall is natural. 
+* Two-level: any opening hand with a five-card suit
+* Three-level: extras: 15+ total points
+* Four-level: significant extras: 17+ total points
+* Jump raise over a Weak-Two: significant extras, but non-forcing
+(with a Strong-Two hand, double first then jump to game.)
+* Jump overcall to game is to play and is semi-preemptive
+* _In the balancing seat, an overcall can be a king lighter_
+
+#### Responses
+Raises are natural and generally preemptive.
+A new suit is non-forcing but constructive.
+
+A cuebid of opener’s suit by an unpassed hand shows any good hand and is forcing for one round. Advancer will return to Overcaller's suit to show a limit raise or better.
+A cuebid of opener's suit by a passed hand shows good support (limit raise or better).
+
+Examples:
+(1♦) — 1♠ — (Pass) — 2♦:
+   * (Pass) — 2♠: minimum overcall.
+   * (Pass) — other: natural, game-forcing.
+
