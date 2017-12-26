@@ -11,4 +11,6 @@ To print out the system notes on regular paper, do the following.
    2. Change the margins to narrow (0.5")
    2. Select all of the text, reduce the font size by two clicks (Ctrl-<)
    3. While the text is selected, set paragraph spacing to Single and 0pt before/after paragraph
+   2. Print
+      * Two-sided: make sure it is set to flip pages on the short side of the page
 
