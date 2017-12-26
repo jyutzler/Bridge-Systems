@@ -24,3 +24,4 @@ If opener has rebid his suit,
 rebids should be designed to find a 3NT contract
 * raise other minor: 4-cards, extras
 * rebid opener's suit: retreat (minimum, no stopper in new minor)
+
