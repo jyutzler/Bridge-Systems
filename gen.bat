@@ -52,7 +52,7 @@ type StrongRebids\JumpRebid\SAYC.md >> system.md
 type StrongRebids\JumpShift\SAYC.md >> system.md
 type StrongRebids\JumpTo2NT\SAYC.md >> system.md
 type StrongRebids\JumpToGame\SAYC.md >> system.md
-type StrongRebids\Reverse\lebensohl.md >> system.md
+type StrongRebids\Reverse\step-weak.md >> system.md
 type StrongRebids\Self-Splinter\SAYC.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
@@ -67,7 +67,7 @@ type Slam\voluntary5.md >> system.md
 type Slam\forcing3NT.md >> system.md
 echo ## Defensive Bidding >> system.md
 type Defensive\Doubles\jeff-donna.md >> system.md
-type Defensive\Doubles\lebensohl.md >> system.md
+type Defensive\Doubles\lebensohl-no-fd.md >> system.md
 type Defensive\Doubles\responsive.md >> system.md
 type Defensive\Overcall\jeff-donna.md >> system.md
 type Defensive\NTOvercall\balancingUNT-on.md >> system.md

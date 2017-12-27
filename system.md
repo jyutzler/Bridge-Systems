@@ -466,24 +466,26 @@ Suit bids usually show controls.
 #### New Minor Forcing
 A new minor suit at the responder's second bid or later is forcing for one round and thus
 is invitational at the 2-level and game forcing at the 3-level.
-When more than one minor is available (1♥-1♠;1NT-2m), 
+When more than one minor is available (1♥-1♠;1NT-2m),
 it tends to show a stopper for NT.
 
 Example: 1♣-1♠;1NT (or 2♣)-2♦ (forcing)
 
 After New Minor Forcing, opener must describe his hand further.
-* 2 of responder's suit: 3-card support, minimum
-* 3 of responder's suit: 3-card support, extras (preacceptance)
-* 2 of other major: 4 cards, minimum
+The following bids are in order of priority:
 * 3 of other major: 4 cards, extras (preacceptance)
-* 2NT: minimum
+* 2 of other major: 4 cards, minimum
+* 3 of responder's suit: 3-card support, extras (preacceptance)
+* 2 of responder's suit: 3-card support, minimum
+* 2NT: minimum (with stoppers if 2♦ is available)
+* 2♦ (if available): minimum, not willing to declare in NT
 * 3NT: to play (maximum)
 
-If opener has rebid 1NT, 
+If opener has rebid 1NT,
 rebids should be designed to find a suit contract.
 * raise new minor: extras, stopper, forcing to 3NT or higher
 
-If opener has rebid his suit, 
+If opener has rebid his suit,
 rebids should be designed to find a 3NT contract
 * raise other minor: 4-cards, extras
 * rebid opener's suit: retreat (minimum, no stopper in new minor)
@@ -574,13 +576,26 @@ Responder is expected to pass without support and/or excellent controls.
 generally with 4-card support and a side doubleton or stiff honor.
 Responder is expected to continue with a limit hand or better.
 
-### Reverses (with Lebensohl)
-After a 1/1 bid, a reverse shows a good 15+ HCP, an unbalanced hand, and at least five cards in the first suit. 
+### Reverses
+After a 1/1 bid, a reverse shows a good 15+ HCP, an unbalanced hand, and at least five cards in the first suit.
 (HCP strength can be lowered in cases of extreme distribution.)
-Bidding 2NT is the only weak response. It is a relay to 3♣ (pass or correct). In cases of extreme strength and/or distribution, Opener may bypass the relay.
+It is forcing and game-forcing unless Responder bids with the cheapest new strain available as shown in the following table:
 
-All other bids by responder are natural and forcing to game. 
-A rebid of a major shows a decent 5+ card suit.
+|Bid Sequence|Weak Response|
+|-----------|---------------|
+|1♣-1♥;2♦|2♠|
+|1♣-1♠;2♦|2♥|
+|1♣-1NT;2♦|2♥|
+|1♣-1NT;2♥|2♠|
+|1♣-1♠;2♥|2NT|
+|1♦-1♠;2♥|2NT|
+|1♦-1NT;2♥|2♠|
+|1♥-1NT;2♠|2NT|
+
+If the weak response is made, opener will retreat to 3♣ unless the distribution is particularly freaky.
+
+All other bids by Responder are natural and forcing to game.
+A rebid of the first suit shows a decent 5+ cards.
 ### Self-Splinters
 The following bids are self-splinters, showing a maximum (usually 17+ HCP), shortness, and game-forcing / slam interest:
    * A double jump-shift after a 1/1 bid
@@ -766,20 +781,19 @@ When the opponents have shown a major fit, balancing is very aggressive especial
 * (1♠)-p-(2♠)-p;(p)X: takeout
 * (1♠)-p-(2♠)-p;(p)2NT: minors
 
-### Lebensohl over a Weak-Two
-After a Weak-Two by the opponents followed by a Takeout Double and 
+#### Lebensohl over a Weak-Two
+After a Weak-Two by the opponents followed by a Takeout Double and
 a pass by responder, 2NT is a conventional response, requesting (but not insisting) on a relay to 3♣. This allows Advancer to distinguish between minimum, intermediate, and maximum hands.
 
 (2♠)X(p):
 * 2NT: Relay to 3♣
    * pass, 3♦, 3♥: to play (7 or fewer HCP)
-   * 3♠: 4 hearts, spade stopper, GF
-   * 3NT: to play, no heart suit, stopper
+   * 3♠: 4 hearts, spade stopper, extras (slow arrival)
+   * 3NT: to play, no heart suit, stopper, extras (slow arrival)
    * _The 3♣ Relay may be bypassed with 22+ HCP or 9+ playing tricks_
 * 3♣, 3♦, 3♥: semi-positive (8-11 HCP)
-* 3♠: game values, 4 hearts, no stopper
-* 3NT: game values, no heart suit, no stopper
- 
+* 3♠: game values, 4 hearts
+* 3NT: game values, no heart suit, stopper
 ### Responsive Doubles
 After an opponent bids at the one level, partner doubles for takeout,
 and the other opponent raises, a double by advancer is responsive. 
