@@ -56,6 +56,7 @@ type StrongRebids\Reverse\step-weak.md >> system.md
 type StrongRebids\Self-Splinter\SAYC.md >> system.md
 echo ## Strong 2♣ >> system.md
 type StrongOpenings\2Club\CheaperMinor.md >> system.md
+type StrongOpenings\2Club\interference\SAYC.md >> system.md
 echo ## Weak Two Bids of 2♦, 2♥, or 2♠ >> system.md
 type WeakTwos\always-feature.md >> system.md
 echo ## Slam Bidding >> system.md

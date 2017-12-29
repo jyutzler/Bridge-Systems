@@ -635,6 +635,9 @@ In response to a suit rebid, responder indicates strength.
    * 3♥: "cheaper minor" (instead of 4♣)
    * others: same as above
 
+### Over Interference
+The 2♣ opening automatically creates a forcing auction.
+All bids are natural and positive, all doubles are for penalty, and all passes are forcing.
 ## Weak Two Bids of 2♦, 2♥, or 2♠ 
 A weak two-bid shows a six-card suit of reasonable quality 
 and roughly 4–10 HCP, but flexible based on vulnerability and position. 
