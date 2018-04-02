@@ -9,6 +9,7 @@ With insufficient high-card strength for a free bid, double may also be used wit
    * 1♠ — (4♦) — Double = four hearts and 10+ points or five hearts and 8-10 points.
 
 If both majors are bid, then a double shows both minors.
+
    * 1♥ — (1♠) — Double = 4-4 or better in the minors.
 
 When the opponents overcall a minor over a minor at the two-level or higher, 

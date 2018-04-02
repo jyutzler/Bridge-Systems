@@ -4,6 +4,7 @@ a cue bid shows a good raise, a double shows a good hand without support, and ot
 For example:
 
 1♠ — (2♠:Michaels) 
+
    * 3♣, 3♦, 3♠: weak
    * 3♥: Limit raise or better in spades.
    * Double: at least 10 HCP, possibly willing to make a penalty double.
@@ -13,6 +14,7 @@ there are two cue bids available, the first shows the fourth suit and the second
 For example:
 
 1♣ — (2NT:Unusual) 
+
    * 3♣, 3♠: weak
    * 3♦: 10+HCP, 5+ spades
    * 3♥: Limit raise or better in clubs.

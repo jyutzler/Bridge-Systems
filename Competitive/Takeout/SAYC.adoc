@@ -2,6 +2,7 @@
 If RHO makes a takeout double:
 
 1♦ — (Double)
+
    * 1♥, 1♠ = forcing, point count not limited.
    * 2♣ = non-forcing (6–10 points, usually a six-card suit).
    * 2NT = limit raise (at least 10 points) — or better.

@@ -2,6 +2,7 @@
 If RHO makes a takeout double, bid as naturally as possible.
 
 1♦ — (Double)
+
    * 1♥, 1♠ = forcing, point count not limited.
    * 1NT = non-forcing, 6-9 points, no four-card major or four-card support
    * 2♣ = non-forcing (6–10 points, usually a six-card suit).
@@ -10,6 +11,7 @@ If RHO makes a takeout double, bid as naturally as possible.
    * 3♦ = preemptive, good trump support but fewer than 10 points.
 
 1♥ — (Double)
+
    * 1♠ = forcing, point count not limited.
    * 1NT = non-forcing, 6-9 points.
    * 2♣, 2♦ = non-forcing (6–10 points, usually a six-card suit).
