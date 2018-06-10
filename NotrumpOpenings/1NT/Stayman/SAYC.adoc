@@ -4,9 +4,9 @@ Usually responder will have 8+ HCPs (assuming a 15-17 1NT range).
 
 Opener rebids:
 
-   * 2♦: no four-card major 
-   * 2♥: four or five hearts and less than five spades
-   * 2♠: five spades (possibly with four hearts) or four spades
+ * 2♦: no four-card major 
+ * 2♥: four or five hearts and less than five spades
+ * 2♠: five spades (possibly with four hearts) or four spades
 
 Responder will generally invite or bid game. 
 If responder rebids three of either minor,

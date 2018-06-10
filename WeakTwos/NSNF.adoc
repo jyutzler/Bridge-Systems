@@ -4,15 +4,15 @@ A poor seven-card suit is also possible when it is not good enough to open with 
 
 Responses:
 
-   * 2NT: forcing, showing game interest. (This applies also if the
+ * 2NT: forcing, showing game interest. (This applies also if the
 opponents intervene with a double or a bid.) 
-   * Raise: to play, could be preemptive.
-   * 3NT: to play.
-   * New suit: non-forcing (alertable), showing a better preempt.
+ * Raise: to play, could be preemptive.
+ * 3NT: to play.
+ * New suit: non-forcing (alertable), showing a better preempt.
 
 After a 2NT response:
 
-   * Rebid original suit: weaker and/or longer suit
-   * New suit: “feature” (ace or king in that suit)
-   * 3NT: AKJ or better, no feature
+ * Rebid original suit: weaker and/or longer suit
+ * New suit: “feature” (ace or king in that suit)
+ * 3NT: AKJ or better, no feature
 

@@ -6,10 +6,10 @@ extra length = enough trump to promise 10 total).
 
 4NT KC Asking:
 
-   * 5♣: 1 or 4 keycards
-   * 5♦: 3 or 0 keycards
-   * 5♥: 2 keycards, no QOEL
-   * 5♠: 2 keycards, QOEL
+ * 5♣: 1 or 4 keycards
+ * 5♦: 3 or 0 keycards
+ * 5♥: 2 keycards, no QOEL
+ * 5♠: 2 keycards, QOEL
 
 After a 5♣ or 5♦ response, the Blackwood initiator may ask for QOEL by bidding the next step:
 

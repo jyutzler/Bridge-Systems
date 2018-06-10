@@ -4,10 +4,10 @@ the 4 aces and the king of trump.
 
 Kickback KC Asking:
 
-   * 1 step: 0 or 3 keycards
-   * 2 steps: 1 or 4 keycards
-   * 3 steps: 2 keycards, no queen (of trump) or extra length (QoEL - promises a 10-card fit)
-   * 4 steps: 2 keycards, QoEL
+ * 1 step: 0 or 3 keycards
+ * 2 steps: 1 or 4 keycards
+ * 3 steps: 2 keycards, no queen (of trump) or extra length (QoEL - promises a 10-card fit)
+ * 4 steps: 2 keycards, QoEL
 
 _do not show voids_
 

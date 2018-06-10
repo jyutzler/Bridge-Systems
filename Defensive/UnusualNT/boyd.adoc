@@ -7,11 +7,11 @@ The strength is wide-ranging.
 
 Responses:
 
-   * Cheapest in either suit: to play
-   * Jump in minor: invitational
-   * Cue: invitational in a major only
-   * 4th suit: natural, sign-off
-   * Game in major: to play
+ * Cheapest in either suit: to play
+ * Jump in minor: invitational
+ * Cue: invitational in a major only
+ * 4th suit: natural, sign-off
+ * Game in major: to play
 
 Note: Unusual 2NT may be off in the reopening seat (see NT Overcalls above).
 

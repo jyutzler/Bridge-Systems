@@ -12,6 +12,6 @@ Responder can bid 2NT over a major suit cuebid to ask for partner’s minor.
 
 (1♥) — 2♥ — (Pass) — 2NT (asks for the minor):
 
-   * 3♣ = club suit.
-   * 3♦ = diamond suit.
+ * 3♣ = club suit.
+ * 3♦ = diamond suit.
 

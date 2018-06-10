@@ -27,7 +27,7 @@ I have a real fit with you.”
 
 Suit bids have a different meaning if the opponents intervene.
 
-   * 2♥, 2♠ = To play, 5+.
-   * 3♣, 3♦ = Invitational, 5+, denying a stopper if a suit was shown.
-   * 3♥, 3♠ = Game force, 5+, denying a stopper if a suit was shown.
+ * 2♥, 2♠ = To play, 5+.
+ * 3♣, 3♦ = Invitational, 5+, denying a stopper if a suit was shown.
+ * 3♥, 3♠ = Game force, 5+, denying a stopper if a suit was shown.
 
