@@ -1,18 +1,2 @@
-This project is designed to describe bridge systems in a Markdown file called "system.md".
-Each system is documented in its own branch. For example, the SAYC branch describes
-Standard American Yellow Card (SAYC).
-
-Rules for making changes:
- * No work is to be done in the Master branch directly. 
- * Make a branch (e.g., *my-md-updates*) to modify existing treatments or add new ones
-    * Branch off of Master
-    * Add or modify .md files
-    * Issue a pull request if desired
-    * Pull requests **must not** modify `README`, `gen.bat`, or `system.md`. 
- * Make a branch to describe your own system (e.g., *my-system*).
-    * Branch off of an existing system that closely resembles your system so that your `gen.bat` is mostly complete.
-    * Modify `gen.bat` by cherry-picking modules in existing .md files
-    * Generate `system.md` by executing `gen.bat` in the Windows PowerShell. Do not edit it directly.
-    * Merge changes from *my-md-updates* as needed. 
-    * Periodically pull from Master to pick up improvements from others.
-
+This project is designed to describe bridge systems.
+It is under construction as I migrate to gh-pages and Asciidoc.
