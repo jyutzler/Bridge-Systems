@@ -19,6 +19,7 @@ one round and shows at least a five-card suit. Opener should raise a major suit
 response with a three-card fit, or perhaps with a doubleton honor.
 
 With no fit for responder’s suit, opener rebids:
+
    * With a minimum weak two-bid (5–8 points), rebid the suit at the lowest level.
    * With a maximum weak two-bid, name a new suit or bid notrump.
    

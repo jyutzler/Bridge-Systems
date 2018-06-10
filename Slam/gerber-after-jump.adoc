@@ -7,6 +7,7 @@ Responses show the number of aces, by steps, just as over a Blackwood 4NT.
 Ace Asking:
 
 1NT — 4♣
+
    * 4♦ = 0 aces
    * 4♥ = 1 ace
    * 4♠ = 2 aces
@@ -18,6 +19,7 @@ If the player using Gerber makes any bid other than 5♣, that is to play
 King Asking:
 
 1NT — 4♣ — any — 5♣ 
+
    * 5♦ = 0 or 4 kings
    * 5♥ = 1 king
    * 5♠ = 2 kings

@@ -1,12 +1,14 @@
 ### Landy vs 1NT
 #### Unpassed Hand
 Landy is a simple defense to 1NT with only one artificial bid:
+
    * Double: Penalty
    * 2♣: Majors (5-5 when vulnerable, may be shorter when non-vulnerable)
    * 2NT: Minors
    * Others: Natural
 
 After 2♣, advancer generally bids the better major.
+
    * pass: No major, long clubs
    * 2♦: No preference
    * 2♥, 2♠: Weak, sign-off

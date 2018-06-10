@@ -6,17 +6,20 @@ more information about opener’s hand.
 Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
 
 Example: 1♥-1♠;2♣:
+
    * Pass
    * 2♥: 2-3 hearts, likely misfit
    * 2♠: Usually 6+ spades
 
 There is one exception to the rule that new suits are forcing: 1♣-1♠;1NT:
+
    * 2♥: sign-off - opener must pass or correct (bust with 5-5 or 5-4 distribution)
    
 #### Inviting Game
 Bids available for inviting game: 2NT(non-jump), new minor, fourth suit:
 
 Example: 1♥-1♠;2♣:
+
    * 2♦, 2NT: 11–12 points, inviting game.
 
 #### Forcing to Game

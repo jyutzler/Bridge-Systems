@@ -6,6 +6,7 @@ A jump overcall of 2NT promises at least 5–5 in the lower two unbid suits.
 The strength is wide-ranging.
 
 Responses:
+
    * Cheapest in either suit: to play
    * Jump in minor: invitational
    * Cue: invitational in a major only

@@ -11,19 +11,20 @@ Cue bid of opponent's natural suit = Game force, Stayman. Note: if the interfere
 
 Suit bids have a different meaning if the opponents intervene.
 
-   * 2♥, 2♠ = To play, 5+.
-   * 3♣, 3♦ = Invitational, 5+, denying a stopper if a suit was shown.
-   * 3♥, 3♠ = Game force, 5+, denying a stopper if a suit was shown.
+* 2♥, 2♠ = To play, 5+.
+* 3♣, 3♦ = Invitational, 5+, denying a stopper if a suit was shown.
+* 3♥, 3♠ = Game force, 5+, denying a stopper if a suit was shown.
 
 #### Interference With Conventions
 If the opponents intervene over a conventional response, bids carry the same
 meaning as if there were no intervention. A bid says, “I’m bidding voluntarily, so
 I have a real fit with you.”
 
-For example: 1NT — (Pass) — 2♦ — (Double)
-   * Redouble: Suggestion to play (rare)
-   * Pass: Only two hearts
-      * Redouble: retransfer
-      * Others: same as without interference
-   * 2♥: Real fit for hearts
+For example: 1NT — (Pass) — 2♦ — (Double):
+
+* Redouble: Suggestion to play (rare)
+* Pass: Only two hearts
+** Redouble: retransfer
+** Others: same as without interference
+* 2♥: Real fit for hearts
 

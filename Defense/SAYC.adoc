@@ -7,6 +7,7 @@ interior sequences).
 Pairs must choose from the following options.
 
 Where no card is pre-marked in bold Italics, pairs must mark their leads.
+
    * Which card is led from A–K–x.
    * Which card is led from x–x–x, x–x–x–x, or x–x–x–x–x.
    * Whether 4th best, or 3rd & 5th best leads are used.

@@ -6,6 +6,7 @@ A 1♦ response is artificial and forcing.
 It is the default response if no other response applies and there is no desire to play 1♣. 
 It asks opener to further describe the hand.
 All rebids by opener are nonforcing and natural:
+
    * 1♥ or 1♠: an unbalanced 13-17 DP and 4 of that major. (If both majors are held, bid 1♠ and show hearts later if needed.)
    * 1NT: a balanced 16-18 DP. (See below for continuations)
    * 2♣: an unbalanced 13-17 DP and 6+ cards in the suit.
@@ -14,12 +15,14 @@ All rebids by opener are nonforcing and natural:
 
 #### 1NT Rebid
 After a 1NT rebid, the following responses apply:
+
    * 2♦: Natural (weak 2 strength)
    * 2♥/2♠: Weak, 5 of that major and 4 of the other major
    * All others: same as 1NT opening but adjusted for higher strength
 
 ### 1♥ or 1♠ Response
 A response in a major shows 5+ cards and is forcing.
+
    * Lowest unbid suit: artificial, unbalanced, denies support
    * One step below a single raise: a maximum raise
    * 1NT: a balanced 16-18 DP without good support
@@ -58,6 +61,7 @@ Opener will support with four-card support, bid 2NT if balanced, or bid another 
 ### 2NT Response
 Shows 11+ DP with stoppers in unbid suits (particularly majors). It is forcing. 
 Opener rebids are as follows:
+
    * 3♦: minimum
    * 3 of another suit: shortness, non-minimum
    * 3NT: balanced

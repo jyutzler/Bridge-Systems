@@ -1,4 +1,5 @@
 To be biddable, a major suit must be as good as or better than one of the following:
+
    * Six cards
    * Kxxxx with shortness (singleton or void)
    * KQxxx with no shortness

@@ -4,10 +4,10 @@ a pass by responder, 2NT is a conventional response, requesting (but not insisti
 
 (2♠)X(p):
 * 2NT: Relay to 3♣
-   * pass, 3♦, 3♥: to play (7 or fewer HCP)
-   * 3♠: 4 hearts, spade stopper, GF
-   * 3NT: to play, no heart suit, stopper
-   * _The 3♣ Relay may be bypassed with 22+ HCP or 9+ playing tricks_
+** pass, 3♦, 3♥: to play (7 or fewer HCP)
+** 3♠: 4 hearts, spade stopper, GF
+** 3NT: to play, no heart suit, stopper
+** _The 3♣ Relay may be bypassed with 22+ HCP or 9+ playing tricks_
 * 3♣, 3♦, 3♥: semi-positive (8-11 HCP)
 * 3♠: game values, 4 hearts, no stopper
 * 3NT: game values, no heart suit, no stopper

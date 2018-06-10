@@ -8,6 +8,7 @@ Advancer will usually either bid the lowest suit (showing tolerance)
 or the next step up (asking Overcaller to show the second suit).
 
 Higher advances are possible: 
+
 * An unbid suit shows extra length
 * A cue bid or jump shows extra strength
 * 3NT is to play

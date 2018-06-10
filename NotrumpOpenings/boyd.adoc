@@ -1,6 +1,7 @@
 Balanced hands have either 4-3-3-3, 4-4-3-2, or 5-3-3-2 distribution.
 This includes five-card majors unless the major is especially strong. 
 The following semi-balanced hands may be treated as balanced:
+
    * 5-4-2-2 (unless the length is in both majors)
    * 6-3-2-2 (unless the length is in a major)
    * 5-4-3-1 or 4-4-4-1 (if the length is not in both majors, the singleton is Q or better, and rebid problems are likely)

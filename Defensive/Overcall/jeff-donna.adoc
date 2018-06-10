@@ -7,9 +7,10 @@ but it may show a strong 4 (AKJx) at the one level.
 Jump overcalls are preemptive, showing the same value as an opening bid at the
 same level:
 
-(1♦)
-   * 2♠: a hand that would open a weak two-bid in spades.
-   * 3♣: a hand that would open 3♣.
+(1♦):
+
+* 2♠: a hand that would open a weak two-bid in spades.
+* 3♣: a hand that would open 3♣.
    
 A balancing bid means much the same as a direct seat bid, 
 but it may be made with about a king less.
@@ -19,13 +20,15 @@ an overcall in either suit is natural.
 
 #### Diamonds over 1♣
 The one exception to overcalls is over 1♣ where an overcall of 1♦ does little to obstruct the opponents.
-(1♣)
-   * 1♦: a good 4, a light overcall with 5, weak 2 (Vul only), or a maximum overcall (will bid again if possible)
-   * 2♦: sound overcall (would bid over 1♠)
-   * 3♦: standard preemptive bid OR weak 2 strength (NV only)
+(1♣):
+
+* 1♦: a good 4, a light overcall with 5, weak 2 (Vul only), or a maximum overcall (will bid again if possible)
+* 2♦: sound overcall (would bid over 1♠)
+* 3♦: standard preemptive bid OR weak 2 strength (NV only)
 
 #### vs. Opening Preempt
 Versus an opening preempt, an overcall is natural. 
+
 * Two-level: any opening hand with a five-card suit
 * Three-level: extras: 15+ total points
 * Four-level: significant extras: 17+ total points
@@ -43,6 +46,7 @@ A cuebid of opener's suit by a passed hand shows good support (limit raise or be
 
 Examples:
 (1♦) — 1♠ — (Pass) — 2♦:
-   * (Pass) — 2♠: minimum overcall.
-   * (Pass) — other: natural, game-forcing.
+
+* (Pass) — 2♠: minimum overcall.
+* (Pass) — other: natural, game-forcing.
 

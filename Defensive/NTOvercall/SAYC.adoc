@@ -1,6 +1,7 @@
 ### NT Overcalls
 #### Direct
 Because of the reduced bidding space available, the structure for NT overcalls is as follows:
+
    * 12-14 pass
    * 15-18 overcall 1NT
    * 19-21 double then raise NT
@@ -14,6 +15,7 @@ To show a stronger hand, double then bid 1NT to show 19-21 points.
 
 #### Reopening
 In the reopening position, NT overcalls become more aggressive as follows:
+
    * 12-14 overcall 1NT
    * 15-18 double then bid NT
    * 19-21 jump to 2NT

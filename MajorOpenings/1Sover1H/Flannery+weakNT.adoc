@@ -3,17 +3,17 @@ Since a bid is available to show a 4=5-x-x hand,
 a bid of 1♠ over 1♥ shows a five-card suit.
 
 #### Rebids by Opener
-  - 1NT: non-forcing, multiple hand types:
-     - subminimum opener, 3-card support
-     - balanced (5PT), 2-card support
-  - new suit, 2-level: sound opener, no support, natural, unbalanced
-  - 2♥: natural (5PT, >1 OT), no fit
-  - 2♠: moderate support (5PT, 3♠, side shortness, balanced or unbalanced)
-  - 2NT: extras, no fit
-  - new suit, 3-level: splinter, extras (6PT)
-  - 3♥: natural (6PT, >1 OT), no support
-  - 3♠: balanced (15-17), super-accept (6PT)
-  - new suit, 4-level: solid suit
+- 1NT: non-forcing, multiple hand types:
+** subminimum opener, 3-card support
+** balanced (5PT), 2-card support
+- new suit, 2-level: sound opener, no support, natural, unbalanced
+- 2♥: natural (5PT, >1 OT), no fit
+- 2♠: moderate support (5PT, 3♠, side shortness, balanced or unbalanced)
+- 2NT: extras, no fit
+- new suit, 3-level: splinter, extras (6PT)
+- 3♥: natural (6PT, >1 OT), no support
+- 3♠: balanced (15-17), super-accept (6PT)
+- new suit, 4-level: solid suit
 
 #### After any Non-Supporting Rebid by Opener
    - pass: minimum, 5 spades

@@ -1,5 +1,6 @@
 ### DONT vs. Strong 1NT
 DONT features multiple ways to show single-suited or 5-5 hands (4-5 distribution is possible when non-vulnerable).  
+
    * double: single-suited or 18+ HCP 
    * 2♣: clubs and a higher suit
    * 2♦: diamonds and a higher suit
@@ -8,6 +9,7 @@ DONT features multiple ways to show single-suited or 5-5 hands (4-5 distribution
    * 2NT: six-card major and five-card minor
 
 Advancer responses:
+
    * pass or bid of a shown suit: fit, unconstructive
    * next higher suit: relay (pass or correct)
    * pass of double is for penalty and rare
