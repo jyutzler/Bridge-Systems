@@ -2,8 +2,8 @@
 
 Transfers are used to show hands with a long minor that are either a bust or slam invitational.
 
- * 2NT = transfer to clubs
- * 3♣ = transfer to diamonds
+ * 2NT: transfer to clubs
+ * 3♣: transfer to diamonds
 
 Opener accepts the transfer unless game is reachable opposite nothing more than Qxxxxx.
 

@@ -1,8 +1,8 @@
 ### Roman Key-Card Blackwood 0314
 Once suit agreement has been reached, 4NT is used to ask for keycards - 
 the 4 aces and the king of trump. 
-It can also be used to ask for "Queen or Extra Length" (queen = queen of trump, 
-extra length = enough trump to promise 10 total).
+It can also be used to ask for "Queen or Extra Length" (queen: queen of trump, 
+extra length: enough trump to promise 10 total).
 
 4NT KC Asking:
 

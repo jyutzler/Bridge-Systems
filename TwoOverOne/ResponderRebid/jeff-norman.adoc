@@ -10,14 +10,14 @@ A non-jump raise of opener’s first suit is invitational, usually with three-ca
 2♦ 
 
  * 2♠, 2NT, 3♣, 3♦: invitation to game (10–11 points).
- * 2♥ = game force, could be conventional.
- * 3♠ = game force with extras.
- * 4♠ = game, no extras.
+ * 2♥: game force, could be conventional.
+ * 3♠: game force with extras.
+ * 4♠: game, no extras.
 
 1♥ — 2♣
 
 2♠ 
- * 2NT, 3♣, 3♠ = invitation to game (10–11 points).
- * 3♦ = game force, could be conventional. (Bidding 4♥ next would show extras.)
- * 4♥ = game, no extras.
+ * 2NT, 3♣, 3♠: invitation to game (10–11 points).
+ * 3♦: game force, could be conventional. (Bidding 4♥ next would show extras.)
+ * 4♥: game, no extras.
 

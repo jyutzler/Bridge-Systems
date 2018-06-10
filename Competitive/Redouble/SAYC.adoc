@@ -4,14 +4,14 @@ A redouble can have one of three meanings:
 To play if: 
 
 * your side is at the four level or higher:
-** 4♠ — (Double) — Redouble = Penalty
+** 4♠ — (Double) — Redouble: Penalty
 * the opponents double a conventional bid:
-** 1NT — (Pass) — 2♦ — (Double) — Redouble = Penalty, good diamond suit;
+** 1NT — (Pass) — 2♦ — (Double) — Redouble: Penalty, good diamond suit;
 
 A good hand if: 
 
 * their double is for takeout:
-** 1♠ — (Double) — Redouble = 10+ points;
+** 1♠ — (Double) — Redouble: 10+ points;
 
 SOS, requesting a different suit if:
 

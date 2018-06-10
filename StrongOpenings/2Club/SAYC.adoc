@@ -20,5 +20,5 @@ major or 4 of opener’s minor.
 
 2♥ — 2♠
 
-3♥ = not forcing.
+3♥: not forcing.
 
