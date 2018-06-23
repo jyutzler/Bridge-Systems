@@ -19,6 +19,7 @@ After a 1 or 2 step response, the Kickback initiator may ask for QoEL by bidding
 ** 5NT: QoEL, no kings
 
 A bid of NT is to play, not a queen ask:
+
 * (diamond suit agreement) - 4♥; 4♠
 ** 4NT: to play
 ** 5♣: Q ask
