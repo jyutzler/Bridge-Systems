@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 asciidoc:
   processor: asciidoctor
   ext: adoc
+  base_dir: :docdir
   safe: unsafe
