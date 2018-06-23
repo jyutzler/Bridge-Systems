@@ -1,82 +1,168 @@
-include::README
+
+This is the bridge system used by Jeff Yutzler and Jenn Fuchs for the 2018 GNT. 
+It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
+It is suitable for advancing club players.
+
 ## General Approach
+
 include::GeneralApproach\two-over-one.adoc
+
 ## Balanced Opening Hands
+
 include::NotrumpOpenings\SAYC.adoc
+
 ### 1NT 15-17
+
 include::NotrumpOpenings\1NT\Basic\4-way-pre.adoc
+
 include::NotrumpOpenings\1NT\Stayman\4-way+splinters.adoc
+
 include::NotrumpOpenings\1NT\Transfers\Jacoby+Texas.adoc
+
 include::NotrumpOpenings\1NT\Minors\4-way-Pre.adoc
+
 include::NotrumpOpenings\1NT\Interference\x-xx-rescue.adoc
+
 include::NotrumpOpenings\1NT\Interference\lebensohl.adoc
+
 ### 2NT and 3NT
+
 include::NotrumpOpenings\2NT+3NT\3NT-systems-off.adoc
+
 ## Major Openings
+
 include::MajorOpenings\SAYC.adoc
+
 include::MajorOpenings\1Sover1H\TwoOverOne-based.adoc
+
 ### NT Responses
+
 include::MajorOpenings\1NT\1NTforcing.adoc
+
 ### Raises
+
 include::MajorOpenings\Raises\Jacoby.adoc
+
 include::MajorOpenings\Raises\Splinter-RP.adoc
+
 include::MajorOpenings\Raises\twowayreversedrury.adoc
+
 ### Jump Shifts
+
 include::MajorOpenings\JumpShifts\WeakJS.adoc
+
 ## Minor Openings
+
 include::MinorOpenings\SAYC.adoc
+
 ### Raises
+
 include::MinorOpenings\Raises\InvertedNotInComp.adoc
+
 ### One Over One
+
 include::MinorOpenings\OneOverOne\SAYC.adoc
+
 ### NT Responses
+
 include::MinorOpenings\NTResponses\SAYC.adoc
+
 ### Opener Rebids
+
 include::MinorOpenings\OneOverOne\OpenerMinimumRebid\RP.adoc
+
 ### Responder Rebids
+
 include::MinorOpenings\OneOverOne\ResponderRebid\limit-style.adoc
+
 include::MinorOpenings\OneOverOne\ResponderRebid\new-minor-forcing.adoc
+
 ## Two Over One
+
 include::TwoOverOne\2over1GF-SR.adoc
+
 ## Game Tries
+
 include::GameTries\hsgt.adoc
+
 ## Strong Rebids
+
 include::StrongRebids\JumpRebid\SAYC.adoc
+
 include::StrongRebids\JumpShift\SAYC.adoc
+
 include::StrongRebids\JumpTo2NT\SAYC.adoc
+
 include::StrongRebids\JumpToGame\SAYC.adoc
+
 include::StrongRebids\Reverse\lebensohl.adoc
+
 include::StrongRebids\Self-Splinter\SAYC.adoc
+
 ## Strong 2♣
+
 include::StrongOpenings\2Club\CheaperMinor.adoc
+
 ## Weak Two Bids of 2♦, 2♥, or 2♠
+
 include::WeakTwos\always-feature.adoc
+
 ## Slam Bidding
+
 include::Slam\1430-no-voids.adoc
+
 include::Slam\gerber.adoc
+
 include::Slam\pickaslam.adoc
+
 include::Slam\quantitative4NT.adoc
+
 ## Defensive Bidding
+
 include::Defensive\Doubles\jeff-donna.adoc
+
 include::Defensive\Doubles\lebensohl.adoc
+
 include::Defensive\Doubles\responsive.adoc
+
 include::Defensive\Overcall\jeff-rick.adoc
+
 include::Defensive\NTOvercall\balancingUNT-on.adoc
+
 include::Defensive\UnusualNT\RP.adoc
+
 include::Defensive\Michaels\RP.adoc
+
 include::Defensive\vsNT\meckwell.adoc
+
 include::Preemptive\very-light.adoc
+
 ## Competitive Bidding
+
 include::Competitive\WJS.adoc
+
 include::Competitive\Raise\WeakJump.adoc
+
 include::Competitive\WithConventions\SAYC.adoc
+
 include::Competitive\VsConventions\Cue-support.adoc
+
 include::Competitive\Takeout\SAYC.adoc
+
 include::Competitive\Negative\BelowGame.adoc
+
 include::Competitive\Doubles\card-showing.adoc
+
 include::Competitive\Doubles\penalty.adoc
+
 include::Competitive\Redouble\SAYC.adoc
+
 ## Defensive Leads and Signals
+
 include::Defense\Carding\attitude.adoc
+
 include::Defense\Signals\UDA.adoc
+
 include::Defense\Leads\jeff-rick.adoc
+
+
