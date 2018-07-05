@@ -5,3 +5,4 @@ asciidoc:
 asciidoctor:
   base_dir: :docdir
   safe: unsafe
+  :!page-layout:
