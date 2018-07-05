@@ -9,6 +9,7 @@ Advancer is expected to bid after a takeout double.
 The Rule of 9 (#cards + #honors + bid level >= 9) is a reasonable guideline to determine when to convert the double to penalty.
 With insufficient strength and no compelling suit, a 1NT bid is permissible. 
 If you have two places to play, look for a way to show both suits:
+
 * Spades and a minor: bid the minor first
 * Hearts and a minor: bid hearts first
 * Both majors or both minors: bid the higher suit first
