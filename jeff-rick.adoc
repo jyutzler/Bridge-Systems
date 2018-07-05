@@ -1,0 +1,173 @@
+
+This is the bridge system used by Jeff Yutzler and Rick Bingham. 
+It is a 2 over 1 game force (no exceptions) with a number of commonly used conventions.
+It is suitable for advancing club players.
+
+## General Approach
+
+include::GeneralApproach/two-over-one.adoc[]
+
+## Notrump Opening Bids
+
+include::NotrumpOpenings/SAYC.adoc[]
+
+### 1NT 15-17
+
+include::NotrumpOpenings/1NT/Basic/4-way-pre.adoc[]
+
+include::NotrumpOpenings/1NT/Stayman/4-way-transfers.adoc[]
+
+include::NotrumpOpenings/1NT/Stayman/Puppet3C.adoc[]
+
+include::NotrumpOpenings/1NT/Transfers/Jacoby+Texas.adoc[]
+
+include::NotrumpOpenings/1NT/5-5Majors/five-fives-puppet.adoc[]
+
+include::NotrumpOpenings/1NT/5-4Majors/smolen.adoc[]
+
+include::NotrumpOpenings/1NT/Minors/4-way-Pre.adoc[]
+
+include::NotrumpOpenings/1NT/Interference/x-xx-rescue.adoc[]
+
+include::NotrumpOpenings/1NT/Interference/lebensohl.adoc[]
+
+### 2NT and 3NT
+
+include::NotrumpOpenings/2NT+3NT/Puppet.adoc[]
+
+## Major Openings
+
+include::MajorOpenings/SAYC.adoc[]
+
+include::MajorOpenings/1Sover1H/SAYC.adoc[]
+
+### NT Responses
+
+include::MajorOpenings/1NT/1NTforcing.adoc[]
+
+### Raises
+
+The following assumes a 1♥ opening but the system over 1♠ is similar.
+
+include::MajorOpenings/Raises/Bergen+Bromad.adoc[]
+
+include::MajorOpenings/Raises/Jacoby.adoc[]
+
+include::MajorOpenings/Raises/Splinter-RP.adoc[]
+
+### Jump Shifts
+
+include::MajorOpenings/JumpShifts/WeakJS-Bergen.adoc[]
+
+## Minor Openings
+
+include::MinorOpenings/SAYC.adoc[]
+
+### Raises
+
+include::MinorOpenings/Raises/InvertedNotInComp.adoc[]
+
+## One Over One
+
+include::MinorOpenings/OneOverOne/Walsh.adoc[]
+
+include::MinorOpenings/NTResponses/walsh.adoc[]
+
+### Opener Rebids
+
+include::MinorOpenings/OneOverOne/OpenerMinimumRebid/RP.adoc[]
+
+### Responder Rebids
+
+include::MinorOpenings/OneOverOne/ResponderRebid/limit-style.adoc[]
+
+include::MinorOpenings/OneOverOne/ResponderRebid/new-minor-forcing.adoc[]
+
+## Two Over One
+
+include::TwoOverOne/2over1GF-SR.adoc[]
+
+## Strong Rebids
+
+include::StrongRebids/JumpRebid/SAYC.adoc[]
+
+include::StrongRebids/JumpToGame/SAYC.adoc[]
+
+include::StrongRebids/Reverse/lebensohl.adoc[]
+
+include::StrongRebids/JumpTo2NT/SAYC.adoc[]
+
+include::StrongRebids/JumpShift/SAYC.adoc[]
+
+## Strong 2♣
+
+include::StrongOpenings/2Club/CheaperMinor.adoc[]
+
+include::StrongOpenings/2Club/interference/SAYC.adoc[]
+
+## Weak Two Bids of 2♦, 2♥, or 2♠
+
+include::WeakTwos/SAYC.adoc[]
+
+## Slam Bidding
+
+include::Slam/0314.adoc[]
+
+include::Slam/gerber1st-last.adoc[]
+
+include::Slam/pickaslam.adoc[]
+
+## Defensive Bidding
+
+include::Defensive/Doubles/SAYC.adoc[]
+
+include::Defensive/Doubles/lebensohl.adoc[]
+
+include::Defensive/Doubles/responsive.adoc[]
+
+include::Defensive/Overcall/jeff-rick.adoc[]
+
+include::Defensive/NTOvercall/balancingUNT-on.adoc[]
+
+include::Defensive/UnusualNT/RP.adoc[]
+
+include::Defensive/Michaels/RP.adoc[]
+
+include::Defensive/OpponentsTwoSuits/jeff-rick.adoc[]
+
+include::Defensive/vsNT/meckwell.adoc[]
+
+include::Defensive/vsNT/Cappelletti.adoc[]
+
+include::Defensive/vsStrongOpening/transfers.adoc[]
+
+include::Preemptive/2-3-4.adoc[]
+
+## Competitive Bidding
+
+include::Competitive/WJS.adoc[]
+
+include::Competitive/Raise/WeakJump.adoc[]
+
+include::Competitive/WithConventions/SAYC.adoc[]
+
+include::Competitive/VsConventions/Cue-support.adoc[]
+
+include::Competitive/Takeout/SAYC.adoc[]
+
+include::Competitive/Negative/BelowGame.adoc[]
+
+include::Competitive/Doubles/card-showing.adoc[]
+
+include::Competitive/Doubles/penalty.adoc[]
+
+include::Competitive/Redouble/SAYC.adoc[]
+
+## Defensive Leads and Signals
+
+include::Defense/Carding/attitude.adoc[]
+
+include::Defense/Leads/jeff-rick.adoc[]
+
+include::Defense/Signals/UDCA.adoc[]
+
