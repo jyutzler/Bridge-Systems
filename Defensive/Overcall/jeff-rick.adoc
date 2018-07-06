@@ -4,6 +4,7 @@ A reopening bid means much the same as a direct seat bid,
 but it may be made with about a king less.
 Versus an opening preempt, an overcall is natural. 
 
+#### Advances of Suit Overcalls
 The only forcing response is a cuebid of opener’s suit, asking the overcaller about
 the quality of his overcall:
 
@@ -12,6 +13,9 @@ the quality of his overcall:
 * (Pass) — 2♠: minimum overcall.
 * (Pass) — other: extra strength (11 or 12 points minimum).
 
+New suit advances are non-forcing but constructive.
+
+#### Jump Overcalls
 Jump overcalls are preemptive, showing the same value as an opening bid at the
 same level:
 
