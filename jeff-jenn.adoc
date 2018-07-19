@@ -1,7 +1,7 @@
 
 This is the bridge system used by Jeff Yutzler and Jenn Colmer for the 2018 GNT. 
 It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
-It is suitable for advancing club players.
+It is suitable for Flight C players.
 
 ## General Approach
 
@@ -161,7 +161,7 @@ include::Competitive/Redouble/SAYC.adoc[]
 
 include::Defense/Carding/attitude.adoc[]
 
-include::Defense/Signals/UDA.adoc[]
+include::Defense/Signals/UDCA.adoc[]
 
 include::Defense/Leads/jeff-rick.adoc[]
 
