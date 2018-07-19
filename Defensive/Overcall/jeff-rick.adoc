@@ -46,6 +46,7 @@ A cuebid of opener's suit by a passed hand shows good support (limit raise or be
 
 Examples:
 (1♦) — 1♠ — (Pass) — 2♦:
- * (Pass) — 2♠: minimum overcall.
- * (Pass) — other: natural, game-forcing.
+
+* (Pass) — 2♠: minimum overcall.
+* (Pass) — other: natural, game-forcing.
 
