@@ -24,6 +24,8 @@ A bid of NT is to play, not a queen ask:
 ** 4NT: to play
 ** 5♣: Q ask
 
+#### Cue bids
+In standard methods, a 4-level suit bid is often a cue bid or splinter. When using Kickback, 4NT and 4 of the kickback suit are swapped so 4NT is a cue bid in the kickback suit. Hands requiring this bid happen much more often in bidding contests than they do in the real world.
 
 #### 5-level (Specific Kings)
 5 of the kickback suit guarantees the partnership holds all five keycards and is invitational to grand.
