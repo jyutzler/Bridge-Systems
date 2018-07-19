@@ -149,6 +149,8 @@ include::Defensive/Michaels/RP.adoc[]
 
 include::Defensive/vsNT/meckwell.adoc[]
 
+include::Defensive/vsNT/Landy.adoc[]
+
 include::Defensive/vsStrongOpening/1NT.adoc[]
 
 include::Preemptive/very-light.adoc[]
