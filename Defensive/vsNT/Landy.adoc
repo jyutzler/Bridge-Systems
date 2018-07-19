@@ -5,6 +5,7 @@ then use that system vs. strong NT (any system including 15HCP or higher in its 
 and use this one only against weak NT.
 
 It only has one artificial bid:
+
  * Double: Penalty
  * 2♣: Majors (5-5 when vulnerable, may be shorter when non-vulnerable)
  * 2NT: Minors
