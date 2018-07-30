@@ -5,12 +5,20 @@ Raises are inverted so a raise to two is strong (limit raise or better)
 and a raise to 3 is weak (preemptive). When vulnerable, a jump raise should be 
 sound (8-9 dummy points) but when non-vulnerable it is much more wide-ranging.
 
-1♦ - 2♦
+1♦
 
- * 2♥, 2♠: stopper
- * 2NT: balanced minimum, side suits stopped
- * 3♦: unbalanced minimum
- * 3NT: 18-19, side suits stopped
- * 4♦: unbalanced maximum (GF, asks for control bids)
+* 2♦: limit raise or better (limit raise as passed hand)
+ ** 2♥, 2♠, 3♣: stopper
+ ** 2NT: balanced minimum, side suits stopped
+ ** 3♦: unbalanced minimum
+ ** 3♥, 3♠, 4♣: extras, splinter
+ ** 3NT: 18-19, side suits stopped
+ ** 4/5♦: to play
+* 3♦: preemptive
 
+#### In Competition
 Inverted raises are off in all competition.
+
+* 2m: courtesy (3-4 card support)
+* 3m: preemptive
+* cue: good support (redouble if interference is a double unless another convention described elsewhere is in effect)
