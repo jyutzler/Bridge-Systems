@@ -21,6 +21,9 @@ This is forcing to game by an unpassed hand.
 Any subsequent bid by doubler shows significant extras and is strongly invitational to game. 
 If advancer has jumped, then a new suit or NT bid by doubler is forcing to game.
 
+#### Reopening Doubles
+When the opponents bid to a level, either player may make a reopening double. These are takeout-oriented, but responder has latitude to convert to penalty if warranted. At low levels, this requires a trump stack. At higher level part-scores, it is more flexible (Kxx or even Qxx may be sufficient).
+
 #### After a Game Bid
 Over 4♥, a double is penalty-oriented, usually with spade tolerance. Advancer may pull the double with undisclosed distribution and/or poor defensive values. 4NT (either directly or after a double) shows the minors.
 

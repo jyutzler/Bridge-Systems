@@ -10,6 +10,7 @@ Transfers are used to show hands with a long minor.
 ** 3♦: normal response
 
 After the transfer, responder can bid again to show extra length or strength:
+
 * New suit: shortness, mild slam try
 * 3NT: balanced, mild slam try
 * Raise to 4: invitational

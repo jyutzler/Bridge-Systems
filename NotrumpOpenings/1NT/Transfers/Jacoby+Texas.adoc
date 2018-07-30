@@ -46,7 +46,7 @@ The following shows how they are used with strong NT (15-17) openings.
 * Bust (would pass a 1-bid): Jacoby, pass
 * Invitational with a six-card suit (would make a 1 over 1 bid): Jacoby, raise to 3; Opener rebids:
 ** pass: minimum
-** 3NT (rare - usually requires three cards and a balanced hand)
+** 3NT: to play (rare - usually requires three cards and a balanced hand)
 ** 4M: maximum
 * Game signoff (weak 2 strength): Texas, pass
 * Slam invitation (opening strength): Two options:

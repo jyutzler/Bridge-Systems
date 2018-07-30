@@ -87,6 +87,10 @@ include::MinorOpenings/OneOverOne/ResponderRebid/new-minor-forcing.adoc[]
 
 include::TwoOverOne/2over1GF-SR.adoc[]
 
+## Game Tries
+
+include::GameTries/hsgt+123stop.adoc[]
+
 ## Strong Rebids
 
 include::StrongRebids/JumpRebid/SAYC.adoc[]

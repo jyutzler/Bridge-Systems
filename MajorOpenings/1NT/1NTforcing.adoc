@@ -1,4 +1,4 @@
-#### 1NT Forcing
+### 1NT Forcing
 1NT typically shows 6–12 points and is used in a number of circumstances:
 
  * No support for the major opened
@@ -7,17 +7,33 @@
 
 It also denies denies four spades after a 1♥ opening.
 
-It is 100% forcing by an unpassed hand so responder must be prepared for a three-card response or a rebid with only five cards.
+#### Rebids
+1NT is 100% forcing by an unpassed hand. 
+With a good hand, see [[strong-rebids]]. 
+Otherwise rebid as follows:
 
+* 2m: 3+ cards
+* 2M: 6+ cards (rarely a good 5)
 
-Responder can sign off or invite game with the rebid
+Responder can sign off or invite game with the rebid:
 
  * other 2-level bid: weak hand, sign-off (opener may raise 1♠-1NT;2m-2♥ with 5=4-0-4 distribution and a good hand)
- * 2 of major: sign-off (2-card support or hand too weak for a direct raise)
+ * 2M: to play (2-card support or hand too weak for a constructive raise)
  * 2♠ after 1♥-1NT;2m: good support of minor (impossible spade)
- * single raise of minor: good support (could be weak especially if 2♠ is available)
+ * single raise of minor: good support (could be a minimum especially if 2♠ is available)
  * 2NT: balanced invite (11-12)
  * 3♥ after 1♠-1NT;2♥: invitational
  * 3X: invitational (usually a 6-card suit)
  * 3 of major: three-card limit raise
+ * 4 of other major: to play (preemptive, too weak for a 2/1 bid)
+
+#### Over Interference
+Double is for penalty (requires a trump stack).
+Generally bid a 4-card or longer suit at the 2-level if possible.
+Otherwise pass and wait for further developments.
+Bidding a new suit at the 3-level requires at least two of the following:
+
+* significant extras 
+* at least 5-5 distribution
+* non-vulnerable
 

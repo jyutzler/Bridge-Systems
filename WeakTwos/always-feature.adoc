@@ -1,11 +1,11 @@
-A weak two-bid shows a six-card suit of reasonable quality 
+A weak two-bid shows a 6-card suit of reasonable quality 
 and roughly 4–10 HCP, but flexible based on vulnerability and position. 
-On rare occasions it may be a very good five-card suit. 
-It is possible to open a weak two with a poor seven-card suit 
+It may be a good 5-card suit (if vulnerable it must be very good). 
+It may also be a poor 7-card suit 
 (not good enough to open with at the three level)
 but in MP scoring three level bids are pretty lenient. 
 
-Responses:
+### Responses
 
 * New suit: forcing
 ** Raise of responder's suit: honor-doubleton or better
@@ -19,3 +19,12 @@ Responses:
 * Any raise: to play, preemptive
 * 3NT: to play (typically a good hand with three-card support)
 
+### After Interference
+
+* 2X(any): 
+** redouble of double: lead-directing (shows top honor)
+** double of overcall: penalty
+** 2NT: systems on
+** 3X: to play (preemptive), usually with a 3-card suit but honor-doubleton is permissible
+** new suit: non-forcing, lead-directing
+** 4X: to play (could be strong or preemptive)

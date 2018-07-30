@@ -1,9 +1,7 @@
-It is sometimes necessary to pick a bid that would normally have been a second choice
-without the overcall:
+When the opponents interfere, opener sometimes has an awkward rebid. For example:
 
-1♦ — (Pass) — 1♠ — (2♣)
-
-2♠ with ♠943 ♥A875 ♦AQJ4 ♣Q3 (rebid 1NT if RHO has passed)
+* 1♦ — (Pass) — 1♠ — (2♣)
+** Rebid 2♠ with ♠943 ♥A875 ♦AQJ4 ♣Q3 (rebid 1NT if RHO has passed, make a reopening double if the ♣Q is in another suit)
 
 ### New Suits
 In a competitive sequence, new suits by an unpassed hand are forcing.

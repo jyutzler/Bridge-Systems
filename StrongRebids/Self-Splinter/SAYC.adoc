@@ -6,3 +6,7 @@ The following bids are self-splinters, showing a maximum (usually 17+ HCP), shor
  * A jump shift in a game-forcing auction (suit agreement on the last shown suit, but the hand can be less powerful)
 
 Responder is expected to bid a first round control if possible.
+
+In competition, splinters are off except for jumps in the opponent's suit.
+
+Note: This is the treatment recommended by Richard Pavlicek as described in this quiz[http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100].

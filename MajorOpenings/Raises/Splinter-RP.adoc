@@ -7,21 +7,17 @@ For example:
 1♠ — 4♣: game forcing, club shortness
 
  * 4♦, 4♥: slam interest, first round control (usually ace)
- * 4♠: signoff
+ * 4♠: to play
 
 Responder shows a void by rebidding the splinter suit:
 
-1♠ — 4♣ 
+1♠-4♣;4♥-5♣: void
 
-4♥ — 5♣: void
+Opener can also self-splinter with a strong distributional hand.
+1♠ — 2♠:
 
-Opener can also self-splinter with a good hand and 4-card support:
-
-1♣ — 1♠
-
- * 4♦, 4♥: game forcing, shortness
+ * 4X: game forcing, shortness
 
 In competition, splinters are off except for jumps in the opponent's suit.
 
-Note: This is the treatment recommended by Richard Pavlicek as described in this [quiz](http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100).
-
+Note: This is the treatment recommended by Richard Pavlicek as described in this quiz[http://www.rpbridge.net/cgi-bin/quiz.pl?5h4100].

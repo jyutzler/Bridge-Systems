@@ -3,12 +3,14 @@ Meckwell features multiple ways to show single-suited or 5-4 hands.
 
  * double: long minor or both majors or 18+ HCP 
  * 2♣: clubs and a major
+ ** 2♦, 2♠: natural, to play
  * 2♦: diamonds and a major
+ ** 2♠: natural, to play
  * 2♥: natural, rebiddable
  * 2♠: natural, rebiddable
  * 2NT: minors
 
-After double, Advancer is expected to relay to 2♣. 
+After double, advancer is expected to relay to 2♣ but may break the relay with a 6-card suit. 
 Responses to 2♣:
 
  * pass: single-suited with clubs

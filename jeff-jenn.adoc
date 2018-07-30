@@ -1,5 +1,4 @@
-
-This is the bridge system used by Jeff Yutzler and Jenn Colmer for the 2018 GNT. 
+This is the bridge system used by Jeff Yutzler and Jenn Colmer for the 2018-9 NAP. 
 It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
 It is suitable for Flight C players.
 
@@ -34,8 +33,6 @@ include::NotrumpOpenings/2NT+3NT/3NT-systems-off.adoc[]
 include::MajorOpenings/SAYC.adoc[]
 
 include::MajorOpenings/1Sover1H/TwoOverOne-based.adoc[]
-
-### NT Responses
 
 include::MajorOpenings/1NT/1NTforcing.adoc[]
 
@@ -85,6 +82,7 @@ include::TwoOverOne/2over1GF-SR.adoc[]
 
 include::GameTries/hsgt.adoc[]
 
+<<strong-rebids>>
 ## Strong Rebids
 
 include::StrongRebids/JumpRebid/SAYC.adoc[]
@@ -163,6 +161,6 @@ include::Defense/Carding/attitude.adoc[]
 
 include::Defense/Signals/UDCA.adoc[]
 
-include::Defense/Leads/jeff-rick.adoc[]
+include::Defense/Leads/3-5-7suits.adoc[]
 
 

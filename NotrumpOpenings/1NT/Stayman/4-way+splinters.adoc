@@ -1,5 +1,12 @@
 #### Non-forcing Stayman
-2♣ is “non-forcing” Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
+2♣ is "non-forcing" Stayman, meaning that the bidding can stop in two of a suit (Garbage Stayman).
+Garbage Stayman is suitable for weak hands with the following shape:
+
+* 4=4=4=1
+* (3-4)=5=1
+* 3=3=5=2 (maybe)
+* (3-4)=4=2 (maybe)
+
 Usually responder will have a decent 8+ HCPs (assuming a 15-17 1NT range).
 
 Opener rebids:
@@ -13,13 +20,17 @@ Responder's rebids after 2♥ or 2♠:
  * 2♠ (over 2♥): four spades, denies four hearts
  * 3♠ (over 2♥) or 3♥ (over 2♠): forcing raise, slam interest, requests cue bid
  * 3 of that major: invitational
- * 4 of that major: signoff
+ * 4 of that major: to play
 
 Responder's rebids after any response:
 
  * 2NT: invitational, not necessarily with an unbid major
- * 3♣, 3♦: five cards, slam interest
- * 3NT: signoff with an unbid major (choice of games)
+ * 3♣, 3♦: 5+ cards, denies opener's shown major (if any), GF, slam interest; opener responses:
+ ** 3♥ after 1NT-2♣;2♠-3m: good support for hearts, 5=4=2=2 pattern
+ ** 3♠ after 1NT-2♣;2♥-3m: good support for spades (responder's implied major)
+ ** 4 other major (see hand patterns from previous two lines) or 5m: to play
+ ** new previously denied suit: cue bid in support of minor
+ * 3NT: to play (over 2♥ it promises 4♠ – choice of games)
  * 4♣, 4♦, 4♥ (over 2♠): splinter
  * 4NT: quantitative
 
