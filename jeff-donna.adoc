@@ -1,7 +1,7 @@
 
 This is the bridge system used by Jeff Yutzler and Donna Hickling. 
 It is a 2 over 1 game force (no exceptions) with a number of commonly used conventions.
-It is suitable for advancing club players.
+It is suitable for Flight B players.
 
 ## General Approach
 
