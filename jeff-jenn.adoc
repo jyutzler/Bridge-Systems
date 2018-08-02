@@ -1,7 +1,21 @@
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: macro
+:toclevels: 3
+:numbered:
+:sectanchors:
+
 This is the bridge system used by Jeff Yutzler and Jenn Colmer for the 2018-9 NAP. 
 It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
 It is suitable for Flight C players.
 For more information on this document, see https://github.com/jyutzler/Bridge-Systems.
+
+<<<<
+
+toc::[]
+
+<<<<
 
 ## General Approach
 
