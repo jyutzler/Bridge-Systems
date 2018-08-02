@@ -1,8 +1,22 @@
 
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: macro
+:toclevels: 3
+:numbered:
+:sectanchors:
+
 This is the bridge system used by Jeff Yutzler and Donna Hickling. 
 It is a 2 over 1 game force (no exceptions) with a number of commonly used conventions.
 It is suitable for Flight B players.
 For more information on this document, see https://github.com/jyutzler/Bridge-Systems.
+
+<<<<
+
+toc::[]
+
+<<<<
 
 ## General Approach
 
