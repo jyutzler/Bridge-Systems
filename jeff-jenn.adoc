@@ -110,7 +110,7 @@ include::WeakTwos/always-feature.adoc[]
 
 include::Slam/1430-no-voids.adoc[]
 
-include::Slam/gerber.adoc[]
+include::Slam/gerber1st-last.adoc.adoc[]
 
 include::Slam/pickaslam.adoc[]
 
