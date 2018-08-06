@@ -1,4 +1,4 @@
-<<nt-overcalls>>
+[[nt-overcalls]]
 ### NT Overcalls
 #### Direct
 Because of the reduced bidding space available, the structure for NT overcalls is as follows:
