@@ -1,5 +1,5 @@
 #### 2NT 20-21
-Stayman and Jacoby transfers for the majors are used for 2NT opening bids, rebids over 2♣, and [overcalls](#nt-overcalls).
+Stayman and Jacoby transfers for the majors are used for 2NT opening bids, rebids over 2♣, and <<#nt-overcalls,overcalls>>.
 
 * 3♣: Stayman
 * 3♦, 3♥: Jacoby transfers to hearts and spades, respectively
