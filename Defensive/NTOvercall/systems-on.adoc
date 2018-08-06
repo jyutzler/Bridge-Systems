@@ -1,4 +1,4 @@
-<<nt-overcalls>>
+[[nt-overcalls]]
 ### NT Overcalls
 With appropriate strength and a stopper in the opponent's suit,
 you may make a NT overcall.
