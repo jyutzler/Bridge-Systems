@@ -17,10 +17,13 @@ same level:
 A balancing bid means much the same as a direct seat bid, 
 but it may be made with about a king less.
 
-#### vs. Two Suits
-When the opponents have bid two suits,
-an overcall in the lower suit is Michaels and an overcall in the higher suit is natural.
-To show the lower suit, pass initially and then come back in during the next round.
+#### Cappelletti Cue Bids vs. Two Suits
+When the opponents have bid two suits, there are four ways to enter the auction: 
+
+* double: 4-4 in the unbid suits
+* 2NT: 5-5 in the unbid suits
+* lower cue bid: 5-4 in the unbid suits, with the lower suit being stronger
+* higher cue bid: 5-4 in the unbid suits, with the higher suit being stronger
 
 #### Diamonds over 1♣
 The one exception to overcalls is over 1♣ where an overcall of 1♦ does little to obstruct the opponents.
