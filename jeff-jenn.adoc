@@ -6,7 +6,7 @@
 :numbered:
 :sectanchors:
 
-This is the bridge system used by Jeff Yutzler and Jenn Colmer for the 2018-9 NAP. 
+This is the bridge system used by Jeff Yutzler and Jenn Colmer for the 2018 season. 
 It is a 2 over 1 game force (no exceptions) with other commonly used conventions.
 It is suitable for Flight C players.
 For more information on this document, see https://github.com/jyutzler/Bridge-Systems.
