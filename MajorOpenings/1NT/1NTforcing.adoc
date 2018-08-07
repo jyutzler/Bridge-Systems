@@ -9,7 +9,7 @@ It also denies denies four spades after a 1♥ opening.
 
 #### Rebids
 1NT is 100% forcing by an unpassed hand. 
-With a good hand, see [[strong-rebids]]. 
+With a good hand, see <<strong-rebids>>. 
 Otherwise rebid as follows:
 
 * 2m: 3+ cards
