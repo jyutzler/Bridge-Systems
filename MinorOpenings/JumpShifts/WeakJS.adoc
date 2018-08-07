@@ -1,0 +1,9 @@
+#### Weak Jump Shift
+A jump shift shows a weak hand (less than constructive values) and 6+ cards. 
+A general guideline is to overbid by 4 tricks what you can make by yourself.
+Opener must pass without good support.
+
+1♣:
+
+* 2♥, 2♠, 3♣, 3♦, etc.: preemptive
+

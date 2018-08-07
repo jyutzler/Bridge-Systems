@@ -1,0 +1,19 @@
+An opening bid of 2♦ shows exactly 4 spades and either 5 or 6 hearts with 10-15HCP. 
+Responder is expected to pick a place to play or bid 2NT to inquire, 
+but may pass with a poor fit and diamonds.
+
+2♦:
+
+* pass or any minor: to play
+* 2♥, 2♠: to play (preference)
+* 2NT: forcing inquiry
+** 3m: 3-card minor (4=5-3-1)
+** 3♥: 4=5=2=2 minimum
+** 3♠: 4=5=2=2 maximum, bad minors
+** 3NT: 4=5=2=2 maximum, good minors
+** 4m: 4-card minor (4=5=4-0)
+** 4♥: 6-card suit
+* 3♥, 3♠: invitational
+* 3NT, 4♥, 4♠: to play
+
+

@@ -71,7 +71,7 @@ include::MinorOpenings/SAYC.adoc[]
 
 ### Raises
 
-include::MinorOpenings/Raises/InvertedNotInComp.adoc[]
+include::MinorOpenings/Raises/criss-cross.adoc[]
 
 ### One Over One
 
@@ -90,6 +90,10 @@ include::MinorOpenings/OneOverOne/OpenerMinimumRebid/RP.adoc[]
 include::MinorOpenings/OneOverOne/ResponderRebid/limit-style.adoc[]
 
 include::MinorOpenings/OneOverOne/ResponderRebid/new-minor-forcing.adoc[]
+
+### Jump Shifts
+
+include::MinorOpenings/JumpShifts/WeakJS.adoc[]
 
 ## Two Over One
 
@@ -118,9 +122,13 @@ include::StrongRebids/Self-Splinter/SAYC.adoc[]
 
 include::StrongOpenings/2Club/CheaperMinor.adoc[]
 
-## Weak Two Bids of 2♦, 2♥, or 2♠
+## Flannery 2♦
 
-include::WeakTwos/always-feature.adoc[]
+include::MinorOpenings/flannery.adoc[]
+
+## Weak Two Bids of 2♥, or 2♠
+
+include::WeakTwos/ogust.adoc[]
 
 ## Slam Bidding
 

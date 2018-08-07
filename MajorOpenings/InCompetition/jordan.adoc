@@ -1,0 +1,15 @@
+### Jordan 2NT
+After a takeout double, a 2NT bid shows a 4-card limit raise or better. 
+
+1M(X):
+
+* redouble: 10+ HCP, denies 4-card support
+* raise: offer to play (may be raised with extra length and/or strength)
+* new suit (non-jump): natural, 1-round force
+* new suit (jump): natural, preemptive
+* 2NT: 4-card limit raise or better
+** Return to suit: to play
+** 3m: game or slam try
+** key-card/ace asking conventions apply
+
+
