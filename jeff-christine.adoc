@@ -65,6 +65,10 @@ include::MajorOpenings/Raises/twowayreversedrury.adoc[]
 
 include::MajorOpenings/JumpShifts/no-fit-jumps.adoc[]
 
+### In Competition
+
+include::MajorOpenings/InCompetition/jordan.adoc[]
+
 ## Minor Openings
 
 include::MinorOpenings/SAYC.adoc[]
@@ -148,7 +152,7 @@ include::Defensive/Doubles/lebensohl.adoc[]
 
 include::Defensive/Doubles/responsive.adoc[]
 
-include::Defensive/Overcall/jeff-rick.adoc[]
+include::Defensive/Overcall/jeff-christine.adoc[]
 
 include::Defensive/NTOvercall/balancingUNT-on.adoc[]
 
@@ -173,6 +177,10 @@ include::Competitive/VsConventions/Cue-support.adoc[]
 include::Competitive/Takeout/SAYC.adoc[]
 
 include::Competitive/Negative/BelowGame.adoc[]
+
+include::Competitive/Doubles/support.adoc[]
+
+include::Competitive/Doubles/maximal.adoc[]
 
 include::Competitive/Doubles/card-showing.adoc[]
 

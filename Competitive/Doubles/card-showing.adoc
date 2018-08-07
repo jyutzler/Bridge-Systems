@@ -1,5 +1,5 @@
 ### Card-Showing Doubles
-In a competitive auction below game, a double is card-showing. 
+In a competitive auction below game where no other double applies, a double is card-showing. 
 Partner is requested to do something intelligent, such as:
 
 * Show secondary support for a previously bid suit

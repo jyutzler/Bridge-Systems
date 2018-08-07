@@ -1,0 +1,10 @@
+### Maximal Double
+Under normal circumstances, a bid of an intervening suit is a game-try. 
+In the following cases, no suit game-try is available:
+
+* after heart support, the opponents compete to 3♦
+* after spade support, the opponents compete to 3♥
+
+In these cases, the Maximal Double is used to show a game try.
+
+
