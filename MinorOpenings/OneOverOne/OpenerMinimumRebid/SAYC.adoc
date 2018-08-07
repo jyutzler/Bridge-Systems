@@ -1,5 +1,5 @@
 Opener’s rebids are natural and standard.
-Unless the hand qualifies for a [Strong Rebid](#strong-rebids), 
+Unless the hand qualifies for a <<strong-rebids,Strong Rebid>>, 
 make one of the following bids.
 
  * pass: partner is a passed hand, you have a minimum with 3-card support 
