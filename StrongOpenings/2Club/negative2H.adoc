@@ -1,0 +1,19 @@
+﻿A 2♣ opening shows at least 22+ points balanced, 8 1/2+ tricks in a major, or 9 1/2+ tricks in a minor.
+
+Responses:
+
+2♣:
+
+ * 2♦: waiting, game force
+ * 2♥: bust (0-4 HCP, not an ace)
+ * 2♠, 3♣, 3♦: natural and game forcing with a minimum of 8 HCP and
+a five-card suit with two of the top three honors
+ * 2NT: natural with hearts
+
+After a 2♦ or 2♥ response, opener rebids naturally (but non-forcing after 2♥):
+
+ * 2♥, 2♠, 3♣, 3♦: natural, 6+ cards or a good 5
+ * 2NT: 22-24 points (see responses for 2NT opening above)
+ * 3NT: 25-27 points (see responses for 3NT opening above)
+ * 4NT: 28+ points
+
