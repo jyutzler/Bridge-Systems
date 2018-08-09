@@ -126,6 +126,8 @@ include::StrongRebids/Self-Splinter/SAYC.adoc[]
 
 include::StrongOpenings/2Club/CheaperMinor.adoc[]
 
+include::StrongOpenings/2Club/interference/weakdouble.adoc[]
+
 ## Flannery 2♦
 
 include::MinorOpenings/flannery.adoc[]
