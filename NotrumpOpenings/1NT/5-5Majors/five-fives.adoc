@@ -9,7 +9,7 @@ A transfer at the 2-level is used with certain hands with the majors.
 The 3-level is used to show most 5-5 hands.
 
  * 3♣: 5-5 minors, less than game-forcing
- ** any bid other than pass or 3♦ accepts an invitation; responder corrects to 4♣ to show the weak hand, pass or correct
+ ** any bid other than pass or 3♦ accepts an invitation; with a weak hand responder attempts to sign off in 4 of a minor
  * 3♦: 5-5 minors, game forcing
  * 3♥: 5-5 majors, invitational
  * 3♠: 5-5 majors, choice of games
