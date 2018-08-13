@@ -1,8 +1,7 @@
 ### Opener 2NT Rebid
-When opener's rebid (jump or otherwise) shows a stronger-than-1NT opening (17 or 18-19 HCP),
-the following structure applies:
+In most circumstances, opener's jump to 2NT shows a stronger-than-1NT opening (17 or 18-19 HCP). The following structure applies (similar structure for other combinations).
 
-#### 1m - 1X; 2NT (similar structure for other combinations)
+1m - 1X; 2NT: 
 
 * pass: weak hand, 4-card suit
 * 3♣: inquiry
@@ -15,5 +14,5 @@ the following structure applies:
 * 3NT/4NT/5NT/6NT: natural, suggesting a 4-card suit (signoff/quantitative/pick-a-slam/signoff)
 * 4♣: Gerber
 * 4X: 6+ cards, signoff
-* 4♥ (after 1♠): 6+ cards, signoff
+* 4♥ (after 1♠): 5-5 distribution, signoff
 
