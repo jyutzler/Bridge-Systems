@@ -1,0 +1,12 @@
+### Support Doubles
+Unless overruled elsewhere, after opener bids a suit, 
+responder bids another suit, and RHO overcalls, 
+a double shows three-card support for responder. 
+If RHO doubles, a redouble shows 3-card support for responder.
+Eschewing the support double shows 4-card support.
+
+The one exception to this rule is the sequence 1♣-(p)-1♦-(1♠);X - this shows hearts and is not a support double.
+
+Support Doubles are on through 2♠.
+
+NOTE: This is the Washington Standard treatment.
