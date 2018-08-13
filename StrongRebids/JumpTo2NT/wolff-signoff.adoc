@@ -6,13 +6,14 @@ the following structure applies:
 
 * pass: weak hand, 4-card suit
 * 3♣: inquiry
-** 3♦: two-card support for major (non-forcing, and any response is to play)
-** 3X: three-card support for major (non-forcing, and any response is to play)
+** 3♦: two-card support for major (non-forcing, any non-game response is to play, and any game response is a slam try)
+** 3X: three-card support for major (non-forcing, any non-game response is to play, and any game response is a slam try)
 * 3♦: game forcing, artificial checkback
 ** 3X, 3Y: three-card support for major or new four-card major (up the line)
 ** 3NT: to play
 * 3♥, 3♠: Natural (6+ if rebid, 4 cards if new suit), GF
 * 3NT/4NT/5NT/6NT: natural, suggesting a 4-card suit (signoff/quantitative/pick-a-slam/signoff)
 * 4♣: Gerber
-* raise to 4: 6+ cards, signoff
+* 4X: 6+ cards, signoff
+* 4♥ (after 1♠): 6+ cards, signoff
 
