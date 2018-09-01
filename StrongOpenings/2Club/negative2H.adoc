@@ -16,7 +16,7 @@ After a 2♦ response, opener rebids naturally:
  * 2NT: 22+ points (see responses for 2NT opening above)
  ** With 24+, opener will make at least one slam try or quantitative raise
 
- After a 2♥ response, opener attempts to set the contract, but responder may raise :
+After a 2♥ response, opener attempts to set the contract (but responder may raise with a decent fit):
  
   * 2♥, 2♠, 3♣, 3♦: natural, 6+ cards or a good 5
   * 2NT: 22-24 points (see responses for 2NT opening above)
