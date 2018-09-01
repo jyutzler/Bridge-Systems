@@ -1,0 +1,8 @@
+### Reverses (with Ingberman)
+After a 1/1 bid, a reverse shows a good 15+ HCP, an unbalanced hand, and at least five cards in the first suit. 
+(HCP strength can be lowered in cases of extreme distribution.)
+Bidding the cheapest unbid strain is the only weak response. 
+It is a relay to the next higher bid (pass or correct). In cases of extreme strength and/or distribution, Opener may bypass the relay.
+
+All other bids by responder are natural and forcing to game. 
+A rebid of a major shows a decent 5+ card suit.

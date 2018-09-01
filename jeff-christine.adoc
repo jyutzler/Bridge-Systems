@@ -49,7 +49,7 @@ include::NotrumpOpenings/2NT+3NT/3NT-systems-off.adoc[]
 
 include::MajorOpenings/SAYC.adoc[]
 
-include::MajorOpenings/1Sover1H/TwoOverOne-based.adoc[]
+include::MajorOpenings/1Sover1H/Flannery.adoc[]
 
 include::MajorOpenings/1NT/1NTforcing.adoc[]
 
@@ -69,6 +69,7 @@ include::MajorOpenings/JumpShifts/no-fit-jumps.adoc[]
 
 include::MajorOpenings/InCompetition/jordan.adoc[]
 
+[[MinorOpenings]]
 ## Minor Openings
 
 include::MinorOpenings/SAYC.adoc[]
@@ -118,7 +119,7 @@ include::StrongRebids/JumpTo2NT/wolff-signoff.adoc[]
 
 include::StrongRebids/JumpToGame/SAYC.adoc[]
 
-include::StrongRebids/Reverse/lebensohl.adoc[]
+include::StrongRebids/Reverse/ingberman.adoc[]
 
 include::StrongRebids/Self-Splinter/SAYC.adoc[]
 
@@ -180,7 +181,7 @@ include::Competitive/Takeout/SAYC.adoc[]
 
 include::Competitive/Negative/BelowGame.adoc[]
 
-include::Competitive/Doubles/support-ws.adoc[]
+include::Competitive/Doubles/support-2.adoc[]
 
 include::Competitive/Doubles/maximal.adoc[]
 
@@ -196,6 +197,6 @@ include::Defense/Carding/attitude.adoc[]
 
 include::Defense/Signals/UDCA.adoc[]
 
-include::Defense/Leads/jeff-rick.adoc[]
+include::Defense/Leads/jeff-christine.adoc[]
 
 

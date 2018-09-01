@@ -1,0 +1,33 @@
+### 1♠ Over 1♥
+Since a bid is available to show a 4=5-x-x hand,
+a bid of 1♠ over 1♥ shows a five-card suit.
+
+#### Rebids by Opener
+- 1NT: weak NT, 2 spades (non-forcing)
+- 2m: 4+ cards, no spade fit
+- 2♥: natural (less than invitational), no spade fit
+- 2♠: 3+♠, no extras
+- 2NT: 1.5NT, 2=5=3=3 (non-forcing)
+- 3m: natural jump shift
+- 3♥: natural (invitational), no spade fit
+- 3♠: balanced (15-17), 3-4♠, excellent heart suit (or would have opened 1NT)
+- 4m: 4+♠, splinter, extras (too much for the normal 4=5 bid)
+- 4♠: 1.5NT, 3=5-3-2 or 4=5=2=2
+
+#### After any Non-Supporting Rebid by Opener
+   - pass: minimum, 5 spades
+   - 2♥: false preference
+   - 2♠: minimum, 6+ spades
+   - 2NT: natural (11-12)
+   - raise: invitational
+   - new suit: opening strength, natural
+
+#### After 1NT Rebid
+   - 2♣ or 2♦: As per 1X-1Y;1Z system (see under <<Minor Openings>>)
+   - 2♥: preference (rare, 2 hearts and concern about NT)
+
+#### After 2♣ or 2♦ Rebid
+   - raise minor: Invitational
+   - other minor: Fourth Suit (see under <<Minor Openings>>)
+   - 2♥: preference (2 hearts and no more than 3 of the minor)
+

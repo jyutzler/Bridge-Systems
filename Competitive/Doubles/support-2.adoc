@@ -5,5 +5,10 @@ a double shows three-card support for responder.
 If RHO doubles, a redouble shows 3-card support for responder.
 Eschewing the support double shows 4-card support.
 
-Support Doubles are on through 2♠.
+Support Doubles are on through 2♥. 
+At 2♠ or higher, doubles in competition are card-showing.
 
+#### Exceptions
+* 1♣-(p)-1♦-(X);XX: support, but bidding a major takes priority
+* 1♣-(p)-1♦-(1M);X: negative
+ 
