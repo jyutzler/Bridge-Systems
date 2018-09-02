@@ -1,14 +1,3 @@
-#### 2NT 20-21
-Stayman, Jacoby Transfers, and Texas Transfers are used for 2NT opening bids, rebids over 2♣, and <<#nt-overcalls,overcalls>>.
-
-* 3♣: Stayman
-* 3♦, 3♥: Jacoby Transfer
-* 4♣: Gerber (ace asking)
-* 4♦, 4♥: Texas Transfer
-* 4NT: Quantitative for 6NT
-* 5NT: Pick a slam
-
-#### 3NT 25-27
 Systems are off for 3NT opening bids, rebids over 2♣, and <<#nt-overcalls,overcalls>>.
 
 * 4♣: Gerber

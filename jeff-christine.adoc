@@ -41,7 +41,11 @@ include::NotrumpOpenings/1NT/Interference/x-xx-rescue.adoc[]
 
 include::NotrumpOpenings/1NT/Interference/lebensohl.adoc[]
 
-### 2NT and 3NT
+### 2NT
+
+include::NotrumpOpenings/2NT+3NT/Puppet3C.adoc[]
+
+### 3NT
 
 include::NotrumpOpenings/2NT+3NT/3NT-systems-off.adoc[]
 
