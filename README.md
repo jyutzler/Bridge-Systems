@@ -2,6 +2,7 @@ This project contains system notes for bridge systems.
 
 Some examples: 
 
+* http://jyutzler.github.io/Bridge-Systems/jeff-christine.html
 * http://jyutzler.github.io/Bridge-Systems/jeff-jenn.html
 * http://jyutzler.github.io/Bridge-Systems/jeff-donna.html
 * http://jyutzler.github.io/Bridge-Systems/jeff-rick.html
