@@ -13,7 +13,7 @@ but may pass with a poor fit and diamonds.
 ** 3NT: 4=5=2=2 maximum, good minors
 ** 4m: 4-card minor (4=5=4-0)
 ** 4♥: 6-card suit
-* 3♥, 3♠: invitational
+* 3♥, 3♠: slam try
 * 3NT, 4♥, 4♠: to play
 
 
