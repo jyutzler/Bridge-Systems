@@ -98,7 +98,7 @@ include::MinorOpenings/OneOverOne/OpenerMinimumRebid/RP.adoc[]
 
 include::MinorOpenings/OneOverOne/ResponderRebid/limit-style.adoc[]
 
-include::MinorOpenings/OneOverOne/ResponderRebid/new-minor-forcing.adoc[]
+include::MinorOpenings/OneOverOne/ResponderRebid/2-way-MF.adoc[]
 
 ### Jump Shifts
 
@@ -145,7 +145,7 @@ include::WeakTwos/ogust.adoc[]
 
 include::Slam/1430-no-voids.adoc[]
 
-include::Slam/gerber1st-last.adoc[]
+include::Slam/gerber1L-0123-SK.adoc[]
 
 include::Slam/pickaslam.adoc[]
 
@@ -179,7 +179,7 @@ include::Competitive/Raise/WeakJump.adoc[]
 
 include::Competitive/WithConventions/SAYC.adoc[]
 
-include::Competitive/VsConventions/Cue-support.adoc[]
+include::Competitive/VsConventions/UoU-LLHH.adoc[]
 
 include::Competitive/Takeout/SAYC.adoc[]
 
