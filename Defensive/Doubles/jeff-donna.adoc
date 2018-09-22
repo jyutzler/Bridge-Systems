@@ -32,6 +32,6 @@ After 4♠, a double is penalty-oriented. Advancer may pull the double with undi
 #### Balancing
 When the opponents have shown a major fit, balancing is very aggressive especially when non-vulnerable. 
 
-* (1♠)-p-(2♠)-p;(p)X: takeout
-* (1♠)-p-(2♠)-p;(p)2NT: minors
+* (1♠)-p-(2♠)-p;(p)X: takeout (promises hearts and tolerance for minors)
+* (1♠)-p-(2♠)-p;(p)2NT: minors (promises 4-4 or better in the minors)
 
