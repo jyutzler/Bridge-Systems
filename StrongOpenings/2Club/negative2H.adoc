@@ -5,7 +5,7 @@ Responses:
 2♣:
 
  * 2♦: waiting, game force
- * 2♥: bust (0-4 HCP, not an ace)
+ * 2♥: bust (no controls, <4 HCP)
  * 2♠, 3♣, 3♦: natural and game forcing with a minimum of 8 HCP and
 a five-card suit with two of the top three honors
  * 2NT: natural with hearts
