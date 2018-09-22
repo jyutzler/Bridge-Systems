@@ -8,11 +8,11 @@ In the balancing position it can be 2-3 points lighter.
 Advancer is expected to bid after a takeout double. 
 The Rule of 9 (#cards + #honors + bid level >= 9) is a reasonable guideline to determine when to convert the double to penalty.
 With insufficient strength and no compelling suit, a 1NT bid is permissible. 
-If you have two places to play, look for a way to show both suits:
+If you have two places to play, look for a way to show both suits if you have 6+ HCP:
 
-* Spades and a minor: bid the minor first
-* Hearts and a minor: bid hearts first
-* Both majors or both minors: bid the higher suit first
+* Spades and a minor: bid the minor first (example: (1♥)X(p)2m;(2♥)p(p)2♠)
+* Hearts and a minor: bid hearts first (example: (1♠)X(p)2♥;(2♠)p(p)3m)
+* Both majors or both minors: bid the higher suit first (example: (1m)X(p)1♠;(2m)p(p)2♥)
 
 A below-game jump response to a takeout double is invitational (9-12 declarer points). 
 To force for one round, responder cuebids opener’s suit. 
