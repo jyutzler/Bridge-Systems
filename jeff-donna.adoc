@@ -6,6 +6,7 @@
 :toclevels: 3
 :numbered:
 :sectanchors:
+:negative-double-max: 4♦
 
 This is the bridge system used by Jeff Yutzler and Donna Hickling. 
 It is a 2 over 1 game force (no exceptions) with a number of commonly used conventions.
@@ -180,7 +181,7 @@ include::Competitive/VsConventions/Cue-support.adoc[]
 
 include::Competitive/Takeout/AM.adoc[]
 
-include::Competitive/Negative/BelowGame.adoc[]
+include::Competitive/Negative/SAYC.adoc[]
 
 include::Competitive/Doubles/card-showing.adoc[]
 

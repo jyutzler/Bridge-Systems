@@ -6,6 +6,8 @@
 :toclevels: 3
 :numbered:
 :sectanchors:
+:negative-double-max: 4♦
+:support-double-max: 2♥
 
 This is the bridge system used by Jeff Yutzler and Rick Bingham. 
 It is a 2 over 1 game force (no exceptions) with a number of commonly used conventions.
@@ -174,7 +176,7 @@ include::Competitive/VsConventions/Cue-support.adoc[]
 
 include::Competitive/Takeout/SAYC.adoc[]
 
-include::Competitive/Negative/BelowGame.adoc[]
+include::Competitive/Negative/SAYC.adoc[]
 
 include::Competitive/Doubles/card-showing.adoc[]
 
