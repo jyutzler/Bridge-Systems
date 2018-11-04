@@ -3,10 +3,10 @@ Since four card majors should be bid up-the-line, a raise denies a four card maj
 
 1♣:
 
-   * 2♣: game-forcing raise
-   * 2♦: limit raise (criss-cross)
-   * 3♣: preemptive raise
-   * 4♣, 5♣: extra preemptive
+* 2♣: game-forcing raise
+* 2♦: limit raise (criss-cross)
+* 3♣: preemptive raise
+* 4♣, 5♣: extra preemptive
 
 If a 1♦ opening is natural, then the raise structure is the same, but the limit raise is 3♣ (criss-cross).
 
@@ -17,11 +17,11 @@ As a passed hand, the structure changes slightly.
 
 1♣:
 
-   * 2♣: simple or mixed raise
-   * 2♦: limit raise (criss-cross)
-   * 2♥, 2♠: fit jump (5+ clubs, 4+ in side suit, invitational but NF)
-   * 3♣: preemptive raise
-   * 4♣, 5♣: extra preemptive
+* 2♣: simple or mixed raise (4+ cards, 5-9 HCP, not willing to push to 3-level unilaterally)
+* 2♦: limit raise (criss-cross)
+* 2♥, 2♠: fit jump (5+ clubs, 4+ in side suit, invitational but NF)
+* 3♣: preemptive raise
+* 4♣, 5♣: extra preemptive
 
 ### In Competition
 In competition, the structure is mostly natural.
@@ -29,12 +29,15 @@ In competition, the structure is mostly natural.
 1♣(any):
 
 * 1X: see 1 over 1 system
-* 2♣: simple raise (includes some mixed raises)
+* 2♣: simple or mixed raise (4+ cards, 5-9 HCP, not willing to push to 3-level unilaterally)
 * cue: limit raise or better
 * #X (nonjump): natural, forcing for 1 round if below game
 * #X (jump): fit jump (5+ clubs, 4+ in side suit, invitational but NF)
 * 3♣, 4♣, 5♣: preemptive raise
 
 ### Continuations
-After a raise, new suits are NT-oriented (stopper-showing). 
+After any raise:
+
+* new suits: NT-oriented (stopper-showing)
+* cue: NT-oriented (stopper-asking)
 
