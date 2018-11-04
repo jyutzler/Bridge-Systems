@@ -1,0 +1,24 @@
+#### Lebensohl
+When the opponents interfere with a 1NT opener, 
+a conventional 2NT response is used to show a wider range of hand types.
+
+1NT(2♣ or higher):
+
+* Double: 
+** Penalty in at least one suit (if the opponent's bid is 2NT or lower)
+** Negative if the opponent's bid is 3♣ or higher 
+(since Responder rarely has a true Penalty Double here)
+* 2Y: 
+** sign-off (if the suit is unshown)
+** takeout (if the suit is shown)
+* 2NT: Relay to 3♣; followups:
+** pass: to play
+** 3Y, below opponent's suit: sign-off
+** 3X (Cue): Stayman, showing a stopper
+** 3Y, above opponent's suit: natural, invitational
+** 3NT: Game values, showing a stopper
+* 3Y: Natural, 1 round force (GF if suit is higher than opponent's suit)
+* 3X (Cue): Stayman, denying a stopper
+* 3NT: Game values, denying a stopper
+* 4♦/4♥: Texas through 3♣. (In other words it must be a jump.)
+

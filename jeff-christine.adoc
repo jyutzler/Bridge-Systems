@@ -39,7 +39,7 @@ include::NotrumpOpenings/1NT/Other/5-5+splinters.adoc[]
 
 include::NotrumpOpenings/1NT/Interference/x-xx-rescue.adoc[]
 
-include::NotrumpOpenings/1NT/Interference/lebensohl.adoc[]
+include::NotrumpOpenings/1NT/Interference/lebensohl-SO-x.adoc[]
 
 ### 2NT
 
