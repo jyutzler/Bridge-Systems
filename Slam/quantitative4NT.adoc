@@ -8,6 +8,6 @@ There are a number of ways to accept the invitation.
  * 5♦: 1 ace
  * 5♥: 2 aces
  * 5♠: 3 aces
- * 5NT: <<5nt-pick-a-slam>>
+ * 5NT: <<pick-a-slam>>
  * any 6-bid: undisclosed length in suit, suggesting a place to play (pass or correct)
 
