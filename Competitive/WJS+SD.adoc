@@ -1,0 +1,7 @@
+### New Suits
+In a competitive sequence, new suits by an unpassed hand are forcing.
+(To make a constructive, non-forcing bid, consider a Negative Double.)
+New suits by a passed hand are constructive but non-forcing.
+
+Jump shifts are weak, showing a similar hand to a preempt.
+

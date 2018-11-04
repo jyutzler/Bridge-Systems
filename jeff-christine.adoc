@@ -175,7 +175,11 @@ include::Preemptive/very-light.adoc[]
 
 ## Competitive Bidding
 
-include::Competitive/WJS.adoc[]
+include::Competitive/Negative/SAYC.adoc[]
+
+include::Competitive/Doubles/support-2.adoc[]
+
+include::Competitive/WJS+SD.adoc[]
 
 include::Competitive/Raise/WeakJump.adoc[]
 
@@ -184,10 +188,6 @@ include::Competitive/WithConventions/SAYC.adoc[]
 include::Competitive/VsConventions/UoU-LLHH.adoc[]
 
 include::Competitive/Takeout/SAYC.adoc[]
-
-include::Competitive/Negative/SAYC.adoc[]
-
-include::Competitive/Doubles/support-2.adoc[]
 
 include::Competitive/Doubles/maximal.adoc[]
 
