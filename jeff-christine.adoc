@@ -106,7 +106,7 @@ include::MinorOpenings/JumpShifts/WeakJS.adoc[]
 
 ## Two Over One
 
-include::TwoOverOne/2over1GF-SR.adoc[]
+include::TwoOverOne/2over1GF-MH.adoc[]
 
 ## Game Tries
 
