@@ -26,7 +26,7 @@ but in MP scoring three level bids are pretty lenient.
 * 2X(any): 
 ** redouble of double: lead-directing (shows top honor)
 ** double of overcall: penalty
-** 2NT: systems on
+** 2NT: systems off
 ** 3X: to play (preemptive), usually with a 3-card suit but honor-doubleton is permissible
 ** new suit: non-forcing, lead-directing
 ** 4X: to play (could be strong or preemptive)
