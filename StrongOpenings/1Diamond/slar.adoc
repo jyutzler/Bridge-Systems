@@ -2,20 +2,20 @@ A 1♦ opening shows balanced, semi-balanced, and single-suited hands with 18+ H
 In general responder acts as if opener is balanced. In most cases this allows opener to be declarer. Many forcing responses and rebids are dual-ranged. A jump or artificial bid the following round shows the higher range.
 
 ### 1♥ Response
-Shows a bust - 0 to a bad 4 HCP with no five-card suit (would pass a standard 2NT opening). 
+Shows a bust - 0 to a bad 4 HCP with no five-card minor (would pass a standard 2NT opening). 
 Opener attempts to set the contract:
 
 * pass/1♠/2♣/2♦: natural, unbalanced
 * 1NT: 18-21 HCP
-* 2♥/2♠/2NT/3♣/3♦: invitational
+** Systems on: Stayman and Jacoby Transfers apply
+* 2♥/2♠/2NT/3♣/3♦: natural, invitational
 
 ### 1♠ Response
 Shows a number of weak and intermediate hand types:
 
-* 5+ hearts 0-7 HCP
-* four-card major 4-7 HCP
-* balanced 4-7 HCP
-* balanced 10-11 HCP with no 4CM
+* 5+ hearts 4-7 HCP
+* balanced 4-7 HCP, may have 4-card major
+* balanced 13-15 HCP
 
 Opener's rebids:
 
@@ -37,11 +37,11 @@ Opener's rebids:
 * other suit bids: natural, unbalanced
    
 ### 1NT Response
-Shows most weak and intermediate hands with a long suit:
+Shows many weak and intermediate hands with a long suit:
 
 * 5+ clubs 0-7 HCP
 * 5+ diamonds 0-7 HCP
-* 5+ spades 0-7 HCP
+* 5+ spades 4-7 HCP
 
 Opener's rebids:
 
@@ -57,7 +57,7 @@ Opener's rebids:
 * other suit bids: natural, unbalanced (F)
 
 ### 2♣ Response
-Game forcing (8+ HCP), Stayman.
+Game forcing (8-11 HCP or 15+), Stayman.
 
 Openers rebids:
 
@@ -79,10 +79,7 @@ Openers responses:
 * other suit bids: natural, unbalanced
 
 ### 2♠ Response
-Game forcing, multi-range, balanced, no four-card major.
-
-* 8-9 HCP
-* 12+ HCP
+Game forcing (8-11 HCP or 15+), multi-range, balanced, no four-card major.
 
 Openers responses:
 
