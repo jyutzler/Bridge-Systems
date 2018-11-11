@@ -101,8 +101,6 @@ include::MinorOpenings/OneOverOne/OpenerMinimumRebid/RP.adoc[]
 
 ### Responder Rebids
 
-include::MinorOpenings/OneOverOne/ResponderRebid/limit-style.adoc[]
-
 include::MinorOpenings/OneOverOne/ResponderRebid/2-way-MF.adoc[]
 
 ### Jump Shifts
