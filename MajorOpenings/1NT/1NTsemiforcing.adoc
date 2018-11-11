@@ -5,7 +5,7 @@
  * A three-card limit raise
  * A bust hand with otherwise good trump support (too weak for a direct raise)
 
-It also denies denies four spades after a 1♥ opening.
+It also denies four spades after a 1♥ opening.
 
 Opener is expected to bid a lower ranking 4-card suit and may pass without one.
 

@@ -60,7 +60,7 @@ include::MajorOpenings/SAYC.adoc[]
 
 include::MajorOpenings/1Sover1H/Flannery.adoc[]
 
-include::MajorOpenings/1NT/1NTforcing.adoc[]
+include::MajorOpenings/1NT/1NTforcing+flannery.adoc[]
 
 ### Raises
 
