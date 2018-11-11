@@ -93,7 +93,7 @@ include::MinorOpenings/OneOverOne/SAYC.adoc[]
 
 ### NT Responses
 
-include::MinorOpenings/NTResponses/SAYC.adoc[]
+include::MinorOpenings/NTResponses/with-2-way-nmf.adoc[]
 
 ### Opener Rebids
 
