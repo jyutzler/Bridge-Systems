@@ -149,7 +149,7 @@ include::Slam/forcing3NT.adoc[]
 
 include::Defensive/Doubles/jeff-donna.adoc[]
 
-include::Defensive/Doubles/lebensohl-no-fd.adoc[]
+include::Defensive/Doubles/lebensohl.adoc[]
 
 include::Defensive/Doubles/responsive.adoc[]
 
