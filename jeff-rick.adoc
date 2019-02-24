@@ -66,11 +66,13 @@ include::MajorOpenings/1NT/1NTforcing.adoc[]
 
 The following assumes a 1♥ opening but the system over 1♠ is similar.
 
-include::MajorOpenings/Raises/Bergen+Bromad.adoc[]
+include::MajorOpenings/Raises/Bergen+double.adoc[]
 
 include::MajorOpenings/Raises/Jacoby.adoc[]
 
 include::MajorOpenings/Raises/Splinter-RP.adoc[]
+
+include::MajorOpenings/Raises/twowayreversedrury.adoc[]
 
 ### Jump Shifts
 
