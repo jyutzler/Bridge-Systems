@@ -6,6 +6,8 @@ To prevent the contract from getting too high, responder may bid the following:
 ** 2♣: 3 card support
 ** 2♦: 4+ card support
 
+These bids also apply after a double by the opponents.
+
 Opener clarifies strength with the rebid:   
 
 * 2 of the major: to play
