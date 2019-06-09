@@ -176,7 +176,7 @@ include::Competitive/Negative/SAYC.adoc[]
 
 include::Competitive/Doubles/support-3.adoc[]
 
-include::Competitive/WJS.adoc[]
+include::Competitive/WJS+SD.adoc[]
 
 include::Competitive/Raise/WeakJump.adoc[]
 
