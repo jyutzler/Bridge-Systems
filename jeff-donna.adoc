@@ -7,6 +7,7 @@
 :numbered:
 :sectanchors:
 :negative-double-max: 4♦
+:support-double-max: 2♥
 
 This is the bridge system used by Jeff Yutzler and Donna Hickling. 
 It is a 2 over 1 game force (no exceptions) with a number of commonly used conventions.
