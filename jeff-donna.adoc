@@ -160,6 +160,8 @@ include::Defensive/NTOvercall/balancingUNT-on.adoc[]
 
 include::Defensive/UnusualNT/RP.adoc[]
 
+include::Defensive/UnusualNT/MC.adoc[]
+
 include::Defensive/Michaels/RP.adoc[]
 
 include::Defensive/vsNT/meckwell.adoc[]
@@ -187,6 +189,8 @@ include::Competitive/VsConventions/Cue-support.adoc[]
 include::Competitive/Takeout/AM.adoc[]
 
 include::Competitive/Doubles/card-showing.adoc[]
+
+include::Competitive/Doubles/maximal.adoc[]
 
 include::Competitive/Doubles/penalty.adoc[]
 
