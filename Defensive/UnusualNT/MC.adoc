@@ -1,0 +1,9 @@
+#### Cappelletti Cue Bids
+If the opponents have bid two suits, a cue bid shows a 5-4 hand as follows:
+
+* lower suit: 5-card suit is the lower unbid suit
+* higher suit: 5-card suit is the higher unbid suit
+
+When this system is in use, a double shows a 4-4 hand 
+(or rarely one with significant extras).
+
