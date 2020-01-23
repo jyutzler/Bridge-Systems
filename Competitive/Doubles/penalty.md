@@ -2,7 +2,6 @@
 A double is unequivocally for penalty in the following cases:
   * After a game contract by the opponents
   * After a natural NT bid by any player
-  * After a pass
   * After two previous doubles by either partner
   * After partner has bid or doubled over an opposing preempt and preempter's partner has raised
 

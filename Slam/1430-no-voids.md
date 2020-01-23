@@ -17,13 +17,7 @@ After a 5♣ or 5♦ response, the Blackwood initiator may ask for QOEL by biddi
 	  * 5♠, 6♣, 6♦: QOEL, that king, and no lower kings
 	  * 5NT: QOEL, no kings
 
-#### With (Useful) Voids
-After 4NT, responder can show voids with at least one keycard:
-   * 5NT: even number of keycards (never zero)
-   * 6 of void suit: odd number of keycards
-   * 6 of trump suit: odd number of keycards, void is in higher suit
-
 #### 5NT
-5NT guarantees the partnership holds all five keycards and QOEL and is invitational to grand.
+5NT guarantees the partnership holds all five keycards plus QOEL and is invitational to grand.
 A 6-level bid shows the king in that suit.
 

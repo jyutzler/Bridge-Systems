@@ -1,6 +1,6 @@
 ## Preemptive Bids
-Opening major suit bids at the three level and higher are preemptive and 
-may be very weak particularly in first seat. 
+Opening suit bids at the three level and higher are preemptive and 
+may be very weak particularly in first or third seat. 
 In a major they typically show seven cards. 
 In a minor (particularly clubs) the rules are less strict especially in Matchpoints and/or non-vulnerable. 
    
