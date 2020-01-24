@@ -1,11 +1,22 @@
-A 1/1 bid shows 6+ dummy points and either a 5+ card suit or no lower 4-card suit.
-Bid 4-card suits up the line
-but with two 5+-card suits bid the highest first.
-
 #### 1♦
 A 1♦ response to 1♣ shows one of the following hand types:
 
  * Rebiddable diamonds
- * A game force with at least one 4-card major
- * A balanced 6-8 points and a desire for opener to declare 1NT.
+ * A game force with 4+ diamonds (does not deny a 4-card major)
+ * A balanced 6 HCP (responder will pass any subsequent non-forcing bid)
 
+Opener rebids 1NT with a balanced minimum. 
+With an unbalanced hand, opener makes the cheapest logical bid.
+
+#### 1♥ or 1♠
+This promises 4+ cards and 6+ dummy points and is forcing for one round.
+
+  * With four hearts and four spades or more hearts than spades, bid hearts first.
+  * With more spade than hearts or an equal number (5+), bid spades first.
+
+Opener must support a major with four-card support.
+Opener may support a major with three-cards support, 
+particularly with a side singleton or weak doubleton.
+Without support, opener bids 1NT with a balanced hand 
+or a stiff honor in responder's suit.
+If this is not possible either, opener must rebid a minor even with only five cards in the opening suit.
