@@ -8,6 +8,13 @@ A 1♦ response to 1♣ shows one of the following hand types:
 Opener rebids 1NT with a balanced minimum. 
 With an unbalanced hand, opener makes the cheapest logical bid.
 
+Responder's second round bid of 2 of a major is game-forcing and natural.
+
+The sequence 1♣-1♦;1♥-1♠ is an artificial one-round force, 
+suggesting ambivalence about responder declaring an NT contract.
+Responder's subsequent retreat to a minor 
+shows a stronger hand than doing so without the 1♠ bid.
+
 #### 1♥ or 1♠
 This promises 4+ cards and 6+ dummy points and is forcing for one round.
 
@@ -15,7 +22,7 @@ This promises 4+ cards and 6+ dummy points and is forcing for one round.
   * With more spade than hearts or an equal number (5+), bid spades first.
 
 Opener must support a major with four-card support.
-Opener may support a major with three-cards support, 
+Opener may support a major with three-card support,
 particularly with a side singleton or weak doubleton.
 Without support, opener bids 1NT with a balanced hand 
 or a stiff honor in responder's suit.
