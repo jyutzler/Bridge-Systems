@@ -10,13 +10,9 @@ With an unbalanced hand, opener makes the cheapest logical bid.
 
 Responder's second round bid of 2 of a major is game-forcing and natural.
 
-The sequence 1♣-1♦;1♥-1♠ is an artificial one-round force, 
-suggesting ambivalence about responder declaring an NT contract.
-Responder's subsequent retreat to a minor 
-shows a stronger hand than doing so without the 1♠ bid.
-
 #### 1♥ or 1♠
-This promises 4+ cards and 6+ dummy points and is forcing for one round.
+A major response to a minor opening promises 4+ cards and 6+ dummy points 
+and is forcing for one round.
 
   * With four hearts and four spades or more hearts than spades, bid hearts first.
   * With more spade than hearts or an equal number (5+), bid spades first.
@@ -27,3 +23,19 @@ particularly with a side singleton or weak doubleton.
 Without support, opener bids 1NT with a balanced hand 
 or a stiff honor in responder's suit.
 If this is not possible either, opener must rebid a minor even with only five cards in the opening suit.
+
+#### 1♣-1♦; 1♥-1♠
+The sequence is an artificial, one-round force 
+showing one of the following hand types (non-exhaustive?):
+
+  * 4 spades, 6 diamonds, non-game-force
+  * tolerance for either minor (for example, 3=2=5=3)
+  * NT interest, but ambivalence about declaring (i.e., no tenaces)
+
+Opener should respond in this priority:
+
+  * 2♠: 4 spades (4=4=0=5 or 4=4=1=4 distribution)
+  * 2♥: extreme distribution like 1=5=0=7
+  * 1NT: shortness in diamonds but stoppers elsewhere
+  * 2♦: 3+ diamonds
+  * 2♣: 6 clubs or a strong 5
