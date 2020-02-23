@@ -11,17 +11,17 @@ Opener rebids:
 After 3♦:
 
  * 3♥ or 3♠: four of the other major
- * 3NT: signoff
- * 4♣: 4 of both majors
- * 4♦ or 4♥: Texas Transfer - usually six cards and three of the other major
+ * 3NT: to play
+ * 4♣: Gerber
+ * 4♦: 4 of both majors
  * 4NT: quantitative
 
 After 3 of a major:
 
- * 3NT: signoff
- * 4♣: Gerber (key card if applicable)
+ * 3NT: to play
+ * 4♣/4♦: Splinter
  * 4♦: Mild slam try
- * 4 of that major: signoff
- * 4 of the other major: Strong slam try, requests cue bids
+ * 4 of that major: to play
+ * Other major: Strong slam try, requests cue bids
  * 4NT: quantitative
 

@@ -34,9 +34,11 @@ include::NotrumpOpenings/1NT/Basic/4-way-pre.adoc[]
 
 include::NotrumpOpenings/1NT/Stayman/jeff-donna.adoc[]
 
+include::NotrumpOpenings/1NT/Stayman/Puppet3C.adoc[]
+
 include::NotrumpOpenings/1NT/Transfers/Jacoby+Texas.adoc[]
 
-include::NotrumpOpenings/1NT/5-5Majors/five-fives.adoc[]
+include::NotrumpOpenings/1NT/5-5Majors/five-fives-puppet.adoc[]
 
 include::NotrumpOpenings/1NT/5-4Majors/smolen.adoc[]
 
