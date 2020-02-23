@@ -100,7 +100,7 @@ include::MinorOpenings/OneOverOne/OpenerMinimumRebid/RP.adoc[]
 
 ### Responder Rebids
 
-include::MinorOpenings/OneOverOne/ResponderRebid/2-way-MF.adoc[]
+include::MinorOpenings/OneOverOne/ResponderRebid/new-minor-forcing.adoc[]
 
 ## Two Over One
 
