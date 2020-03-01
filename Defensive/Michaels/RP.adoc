@@ -15,22 +15,22 @@ When non-vulnerable, the low-end range is much wider.
 #### Responses to a Minor Cuebid
 
 1. Major at lowest level: Preference (usually 3)
-1. 2NT: Invitational
-1. Opponent's suit: Game or slam try
+2. 2NT: Invitational
+3. Opponent's suit: Game or slam try
 
 #### Responses to a Major Cuebid
 
 1. Major at lowest level: Preference (usually 3)
 2. Jump in major: Weak if below game
-1. 2NT: asks for overcaller’s minor.
+4. 2NT: asks for overcaller’s minor.
  * If advancer then returns to the major, this is invitational.
  * If there is further interference, 4NT may also ask for the minor.
 
 #### Rare Responses to Either Cuebid
 
-2. Jump in major: Good support, but weak if below game
-1. Unbid minor (no further interference): Weak
-1. 3NT: To play
+1. Jump in major: Good support, but weak if below game
+2. Unbid minor (no further interference): Weak
+3. 3NT: To play
 
 #### Overcaller Rebids
 Overcaller will normally have a weak hand and will pass or make a minimum response. 

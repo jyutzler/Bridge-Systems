@@ -3,6 +3,6 @@ When signaling, defender must first determine what information is most useful.
 Signals are made in this priority:
  
    1. Attitude (low encourages)
-   1. Count (low: even)
-   1. Suit preference (high: higher suit)
+   2. Count (low: even)
+   3. Suit preference (high: higher suit)
 
