@@ -1,3 +1,0 @@
-== This is a dummy file. Each system gets its own file.
-
-include::printing.adoc[]

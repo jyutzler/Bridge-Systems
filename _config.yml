@@ -1,7 +1,0 @@
-asciidoc:
-  processor: asciidoctor
-  ext: adoc
-asciidoctor:
-  base_dir: :docdir
-  safe: unsafe
-  :!page-layout:
