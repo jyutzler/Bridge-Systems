@@ -5,5 +5,6 @@ font:
     merge: true
     NotoSansSymbols2: NotoSansSymbols2-Regular.ttf
   fallbacks:
-  - M+ 1p
+  - M+ 1p Fallback
+  - Noto Emoji
   - NotoSansSymbols2
