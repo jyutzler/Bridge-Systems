@@ -1,0 +1,9 @@
+extends: default-with-font-fallbacks
+
+font:
+  catalog:
+    merge: true
+    NotoSansSymbols2: NotoSansSymbols2-Regular.ttf
+  fallbacks:
+  - M+ 1p
+  - NotoSansSymbols2

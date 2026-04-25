@@ -7,6 +7,8 @@ require "pathname"
 
 REPO_ROOT = Pathname(__dir__).join("..").expand_path
 OUTPUT_DIR = REPO_ROOT.join("build", "site")
+PDF_THEME_PATH = REPO_ROOT.join("pdf-theme.yml")
+PDF_FONTS_DIR = REPO_ROOT.join("fonts")
 
 def publishable_documents(repo_root)
   Dir.children(repo_root)
@@ -50,7 +52,11 @@ def build_pdf(input_path, output_dir)
     safe: :unsafe,
     mkdirs: true,
     to_dir: output_dir.to_s,
-    backend: "pdf"
+    backend: "pdf",
+    attributes: {
+      "pdf-theme" => PDF_THEME_PATH.to_s,
+      "pdf-fontsdir" => "#{PDF_FONTS_DIR},GEM_FONTS_DIR"
+    }
   )
 end
 

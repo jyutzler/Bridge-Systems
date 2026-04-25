@@ -18,20 +18,3 @@ This manifest inventories the repository artifacts that support the current Brid
 | ---- | ------------ |
 | `README.md` | Repository overview and pointer to MVM artifacts |
 | `css/` | Legacy static styles retained in the repository but no longer used by the current publishing workflow |
-
-## MVM Artifacts
-
-The Minimum Viable Model for this project is stored in the companion `bridge-systems.wiki` repository.
-
-Current authoritative MVM artifacts:
-
-* `bridge-systems.wiki/Home.md`
-* `bridge-systems.wiki/CapabilitiesView.md`
-* `bridge-systems.wiki/OV-BSW-01-maintain-modular-system-notes.md`
-* `bridge-systems.wiki/OV-BSW-02-publish-system-notes.md`
-* `bridge-systems.wiki/OV-BSW-03-discover-access-and-print-system-notes.md`
-* `bridge-systems.wiki/discovery/DT-BSW-00-project-artifact-triage.md`
-
-## Notes
-
-There are no application services, databases, or runtime schemas in the current project scope. The repository's primary authority is its version-controlled AsciiDoc content, and the published site index is generated from the current root `.adoc` system files at build time.
